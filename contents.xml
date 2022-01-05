@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,11 +32,11 @@
             <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT>]]></title>
+            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT>]]></title>
             <link>javascript:moveViewPage(15);</link>
             <guid>javascript:moveViewPage(15);</guid>
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[LEE JUNHO]]></content:encoded>
+            <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/75a819a61c344c749e8ae6bf78083653.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
