@@ -11,10 +11,20 @@ waitUntil = "networkidle"
 
 [contents]
 title = "Beyond LIVE ─ 공연"
-url = "https://beyondlive.com/contents"
+url = "https://beyondlive.com/contents?lang=ko"
 entrySelector = "ul.list-grid li.list-grid__item"
 titleSelector = "strong.list-grid__title"
 linkSelector = "a.list-grid__link"
 contentSelector = "span.artist__name"
 imageSelector = "img.list-grid__img"
+waitUntil = "networkidle"
+
+[home]
+title = "Beyond LIVE"
+url = "https://beyondlive.com/"
+entrySelector = "div.top-banner__info"
+titleSelector = "a.top-banner__title"
+linkSelector = "a.top-banner__title"
+contentSelector = "span.top-banner__date.shrink"
+imageSelector = "div.top-banner__poster.shrink"
 waitUntil = "networkidle"
