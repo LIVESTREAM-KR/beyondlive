@@ -22,9 +22,15 @@ waitUntil = "networkidle"
 [home]
 title = "Beyond LIVE"
 url = "https://beyondlive.com/"
-entrySelector = "div.top-banner__info"
-titleSelector = "a.top-banner__title"
+entrySelector = "div.top-banner__slide-inner"
+titleSelector = "div.top-banner__info a.top-banner__title"
 linkSelector = "a.top-banner__title"
 contentSelector = "span.top-banner__date.shrink"
 imageSelector = "div.top-banner__poster.shrink"
 waitUntil = "networkidle"
+
+
+div[class='top-banner__slide swiper-slide swiper-slide-prev swiper-slide-duplicate-next']
+
+top-banner__slide swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev
+/html/body/div/main/section/div/div/div[@class='pickup-banner__slide swiper-slide swiper-slide-duplicate']
