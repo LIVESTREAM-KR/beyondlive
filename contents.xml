@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Beyond LIVE ─ 공연</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Jan 2022 17:20:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon)]]></title>
+            <link>javascript:moveViewPage(12);</link>
+            <guid>javascript:moveViewPage(12);</guid>
+            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon)]]></title>
+            <link>javascript:moveViewPage(6);</link>
+            <guid>javascript:moveViewPage(6);</guid>
+            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon)]]></title>
+            <link>javascript:moveViewPage(5);</link>
+            <guid>javascript:moveViewPage(5);</guid>
+            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[TAEMIN]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT>]]></title>
+            <link>javascript:moveViewPage(15);</link>
+            <guid>javascript:moveViewPage(15);</guid>
+            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[LEE JUNHO]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/75a819a61c344c749e8ae6bf78083653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] SHOWME - #1]]></title>
+            <link>javascript:moveViewPage(14);</link>
+            <guid>javascript:moveViewPage(14);</guid>
+            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[SHOWME]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f8c6c42eab7c4a4586607c0343690352.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
