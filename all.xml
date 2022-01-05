@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,6 +89,7 @@
             <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
             <content:encoded><![CDATA[07. Jan. 2022. 21:00 ~ 
 												22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/514f13a14d4f4b8e80e17d0b0aab1648.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> (Beyond LIVE)]]></title>
@@ -97,6 +98,7 @@
             <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
             <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
 												18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/44c34637d21343b1a54f6bc0b5a22b51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME - #1 (Beyond LIVE)]]></title>
@@ -105,6 +107,7 @@
             <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
             <content:encoded><![CDATA[07. Jan. 2022. 21:00 ~ 
 												22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/514f13a14d4f4b8e80e17d0b0aab1648.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> (Beyond LIVE)]]></title>
@@ -113,6 +116,7 @@
             <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
             <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
 												18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/44c34637d21343b1a54f6bc0b5a22b51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
