@@ -1,4 +1,4 @@
-[beyondlive_notice]
+[notice]
 title = "Beyond LIVE ─ 공지사항"
 url = "https://beyondlive.com/notice?lang=ko"
 entrySelector = "ul.notice-list li.notice-list__item"
@@ -7,4 +7,14 @@ linkSelector = "a.notice-list__link"
 dateSelector = "notice-list__date"
 dateFormat = "yyyy. MM. dd"
 contentSelector = "span.notice-list__date"
+waitUntil = "networkidle"
+
+[contents]
+title = "Beyond LIVE ─ 공연"
+url = "https://beyondlive.com/contents"
+entrySelector = "ul.list-grid li.list-grid__item"
+titleSelector = "strong.list-grid__title"
+linkSelector = "a.list-grid__link"
+contentSelector = "span.artist__name"
+imageSelector = "img.list-grid__img"
 waitUntil = "networkidle"
