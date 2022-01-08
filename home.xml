@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 20:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 21:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,33 +15,6 @@
             <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/44c34637d21343b1a54f6bc0b5a22b51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] SHOWME - #1]]></title>
-            <link>https://beyondlive.com/contents/19</link>
-            <guid>https://beyondlive.com/contents/19</guid>
-            <pubDate>Sat, 08 Jan 2022 06:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[09. Jan. 2022. 05:00 ~ 
-												06:10 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1c98275eca1f421eb97bfb4a9ac1b262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT>]]></title>
-            <link>https://beyondlive.com/contents/15</link>
-            <guid>https://beyondlive.com/contents/15</guid>
-            <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
-												18:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/44c34637d21343b1a54f6bc0b5a22b51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] SHOWME - #1]]></title>
-            <link>https://beyondlive.com/contents/19</link>
-            <guid>https://beyondlive.com/contents/19</guid>
-            <pubDate>Sat, 08 Jan 2022 06:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[09. Jan. 2022. 05:00 ~ 
-												06:10 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1c98275eca1f421eb97bfb4a9ac1b262.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
