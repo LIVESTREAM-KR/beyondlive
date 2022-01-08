@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 03:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 04:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,13 +106,22 @@
             <enclosure url="https://static.beyondlive.com/contents/f8c6c42eab7c4a4586607c0343690352.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SHOWME - #1 (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/14</link>
-            <guid>https://beyondlive.com/contents/14</guid>
+            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/15</link>
+            <guid>https://beyondlive.com/contents/15</guid>
             <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[07. Jan. 2022. 21:00 ~ 
-												22:10 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/514f13a14d4f4b8e80e17d0b0aab1648.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
+												18:40 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/44c34637d21343b1a54f6bc0b5a22b51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] SHOWME - #1 (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/18</link>
+            <guid>https://beyondlive.com/contents/18</guid>
+            <pubDate>Sat, 08 Jan 2022 04:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[08. Jan. 2022. 14:00 ~ 
+												15:10 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3b25b4138d1d4175a7b835aab7e94662.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> (Beyond LIVE)]]></title>
@@ -125,21 +134,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME - #1 (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/14</link>
-            <guid>https://beyondlive.com/contents/14</guid>
-            <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[07. Jan. 2022. 21:00 ~ 
-												22:10 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/514f13a14d4f4b8e80e17d0b0aab1648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/15</link>
-            <guid>https://beyondlive.com/contents/15</guid>
-            <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
-												18:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/44c34637d21343b1a54f6bc0b5a22b51.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/18</link>
+            <guid>https://beyondlive.com/contents/18</guid>
+            <pubDate>Sat, 08 Jan 2022 04:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[08. Jan. 2022. 14:00 ~ 
+												15:10 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3b25b4138d1d4175a7b835aab7e94662.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
