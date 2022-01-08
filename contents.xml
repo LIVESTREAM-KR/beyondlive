@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 05:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 06:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,11 +49,11 @@
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME - #1]]></title>
-            <link>javascript:moveViewPage(18);</link>
-            <guid>javascript:moveViewPage(18);</guid>
-            <pubDate>Fri, 07 Jan 2022 14:12:48 GMT</pubDate>
+            <link>javascript:moveViewPage(19);</link>
+            <guid>javascript:moveViewPage(19);</guid>
+            <pubDate>Sat, 08 Jan 2022 06:16:08 GMT</pubDate>
             <content:encoded><![CDATA[SHOWME]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9b34954cbe41473c8f7792b65e6bfb3c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.beyondlive.com/contents/c602538d373c4c979c5b08bbbf0eb64b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME - #1]]></title>
