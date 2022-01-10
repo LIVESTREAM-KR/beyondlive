@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 09:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 10:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사과공지] 1월 10일 발생한 티켓판매 장애 및 이후 대응에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/15</link>
+            <guid>https://beyondlive.com/notice/15</guid>
+            <pubDate>Mon, 10 Jan 2022 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[10. 1월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연 안내]Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/11</link>
