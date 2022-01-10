@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-01-10T07:13:52.325Z</updated>
+    <updated>2022-01-10T08:17:31.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[긴급공지] 티켓판매 일시 중단 안내 "Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT>"]]></title>
-        <id>https://beyondlive.com/notice/14</id>
-        <link href="https://beyondlive.com/notice/14"/>
-        <updated>2022-01-10T07:13:38.274Z</updated>
-        <content type="html"><![CDATA[10. 1월. 2022]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[공연 안내]Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT>]]></title>
         <id>https://beyondlive.com/notice/11</id>
