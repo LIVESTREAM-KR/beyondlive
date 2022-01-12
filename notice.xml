@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-01-12T06:17:02.774Z</updated>
+    <updated>2022-01-12T07:13:29.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내] 디바이스 동시접속 제한 변경에 대하여 안내 말씀드립니다.]]></title>
+        <id>https://beyondlive.com/notice/16</id>
+        <link href="https://beyondlive.com/notice/16"/>
+        <updated>2022-01-12T07:13:12.993Z</updated>
+        <content type="html"><![CDATA[12. 1월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사과공지] 1월 10일 발생한 티켓판매 장애 및 이후 대응에 대해서]]></title>
         <id>https://beyondlive.com/notice/15</id>
