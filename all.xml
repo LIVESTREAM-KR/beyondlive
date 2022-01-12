@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 10:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 11:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,11 +96,11 @@
             <enclosure url="https://static.beyondlive.com/contents/7aee13cbccf14580bd39064eba1b8114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공연)]]></title>
+            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(15);</link>
             <guid>javascript:moveViewPage(15);</guid>
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[이준호]]></content:encoded>
+            <content:encoded><![CDATA[LEE JUNHO]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/75a819a61c344c749e8ae6bf78083653.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
