@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 02:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 07 Jan 2022 13:22:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7aee13cbccf14580bd39064eba1b8114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~]]></title>
+            <link>javascript:moveViewPage(25);</link>
+            <guid>javascript:moveViewPage(25);</guid>
+            <pubDate>Thu, 13 Jan 2022 03:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[규현]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5c9555f4caab483b9b6ee2dd699369b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT>]]></title>
