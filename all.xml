@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 12:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 13:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,6 +113,14 @@
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(26);</link>
+            <guid>javascript:moveViewPage(26);</guid>
+            <pubDate>Fri, 14 Jan 2022 13:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[SHOWME]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3890986e496b418995c0815679fcd04f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(24);</link>
             <guid>javascript:moveViewPage(24);</guid>
             <pubDate>Tue, 11 Jan 2022 03:16:18 GMT</pubDate>
@@ -130,12 +138,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/24</link>
-            <guid>https://beyondlive.com/contents/24</guid>
-            <pubDate>Wed, 12 Jan 2022 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[14. Jan. 2022. 21:00 ~ 
-												22:10 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ffcbca1369ff48d6aaac35755a925c9b.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/26</link>
+            <guid>https://beyondlive.com/contents/26</guid>
+            <pubDate>Fri, 14 Jan 2022 13:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[15. Jan. 2022. 14:00 ~ 
+												15:10 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/32e3ba17e88643fb868e77eab1063be6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~ (Beyond LIVE)]]></title>
@@ -157,12 +165,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/24</link>
-            <guid>https://beyondlive.com/contents/24</guid>
-            <pubDate>Wed, 12 Jan 2022 07:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[14. Jan. 2022. 21:00 ~ 
-												22:10 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ffcbca1369ff48d6aaac35755a925c9b.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/26</link>
+            <guid>https://beyondlive.com/contents/26</guid>
+            <pubDate>Fri, 14 Jan 2022 13:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[15. Jan. 2022. 14:00 ~ 
+												15:10 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/32e3ba17e88643fb868e77eab1063be6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
