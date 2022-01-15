@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 21:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 22:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c366937c10cb4ea2ad7b9a8bca476abe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER]]></title>
-            <link>https://beyondlive.com/contents/27</link>
-            <guid>https://beyondlive.com/contents/27</guid>
-            <pubDate>Sat, 15 Jan 2022 06:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[16. Jan. 2022. 05:00 ~ 
-												06:04 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e06e594686b048b2ba0f22d0635bf1e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~]]></title>
@@ -44,13 +35,13 @@
             <enclosure url="https://static.beyondlive.com/contents/c366937c10cb4ea2ad7b9a8bca476abe.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER]]></title>
-            <link>https://beyondlive.com/contents/27</link>
-            <guid>https://beyondlive.com/contents/27</guid>
-            <pubDate>Sat, 15 Jan 2022 06:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[16. Jan. 2022. 05:00 ~ 
-												06:04 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e06e594686b048b2ba0f22d0635bf1e2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~]]></title>
+            <link>https://beyondlive.com/contents/25</link>
+            <guid>https://beyondlive.com/contents/25</guid>
+            <pubDate>Thu, 13 Jan 2022 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[06. Feb. 2022. 17:00 ~ 
+												18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
