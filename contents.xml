@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 06:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/75a819a61c344c749e8ae6bf78083653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER]]></title>
+            <link>javascript:moveViewPage(27);</link>
+            <guid>javascript:moveViewPage(27);</guid>
+            <pubDate>Sat, 15 Jan 2022 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[MINIMONSTER]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/83f1d11bda1e4a9cac786ca5393577f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER]]></title>
