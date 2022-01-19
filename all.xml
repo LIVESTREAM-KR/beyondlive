@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 01:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 02:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://static.beyondlive.com/contents/a52185ee72b8471abda1e86112c75f03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] SHOWME #003 : IMLAY (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(28);</link>
+            <guid>javascript:moveViewPage(28);</guid>
+            <pubDate>Wed, 19 Jan 2022 02:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[IMLAY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c2bea896da4948a1a948dd8104071125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(27);</link>
             <guid>javascript:moveViewPage(27);</guid>
@@ -145,6 +153,15 @@
             <enclosure url="https://static.beyondlive.com/contents/c366937c10cb4ea2ad7b9a8bca476abe.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] SHOWME #003 : IMLAY (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/28</link>
+            <guid>https://beyondlive.com/contents/28</guid>
+            <pubDate>Wed, 19 Jan 2022 02:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[21. Jan. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8f5fc87bb9554357910381cdb45e57f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~ (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/25</link>
             <guid>https://beyondlive.com/contents/25</guid>
@@ -163,13 +180,13 @@
             <enclosure url="https://static.beyondlive.com/contents/c366937c10cb4ea2ad7b9a8bca476abe.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~ (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/25</link>
-            <guid>https://beyondlive.com/contents/25</guid>
-            <pubDate>Thu, 13 Jan 2022 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[06. Feb. 2022. 17:00 ~ 
-												18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] SHOWME #003 : IMLAY (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/28</link>
+            <guid>https://beyondlive.com/contents/28</guid>
+            <pubDate>Wed, 19 Jan 2022 02:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[21. Jan. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8f5fc87bb9554357910381cdb45e57f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
