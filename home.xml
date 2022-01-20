@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 00:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 02:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c366937c10cb4ea2ad7b9a8bca476abe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
+            <link>https://beyondlive.com/contents/29</link>
+            <guid>https://beyondlive.com/contents/29</guid>
+            <pubDate>Thu, 20 Jan 2022 02:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[13. Feb. 2022. 17:00 ~ 
+												18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/47880ce7667e4d99918ca2b00ea93d2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] SHOWME #003 : IMLAY]]></title>
@@ -44,13 +53,13 @@
             <enclosure url="https://static.beyondlive.com/contents/c366937c10cb4ea2ad7b9a8bca476abe.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SHOWME #003 : IMLAY]]></title>
-            <link>https://beyondlive.com/contents/28</link>
-            <guid>https://beyondlive.com/contents/28</guid>
-            <pubDate>Wed, 19 Jan 2022 02:25:28 GMT</pubDate>
-            <content:encoded><![CDATA[21. Jan. 2022. 21:00 ~ 
-												22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8f5fc87bb9554357910381cdb45e57f1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
+            <link>https://beyondlive.com/contents/29</link>
+            <guid>https://beyondlive.com/contents/29</guid>
+            <pubDate>Thu, 20 Jan 2022 02:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[13. Feb. 2022. 17:00 ~ 
+												18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/47880ce7667e4d99918ca2b00ea93d2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

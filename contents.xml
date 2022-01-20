@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 00:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 02:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 07 Jan 2022 13:22:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7aee13cbccf14580bd39064eba1b8114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
+            <link>javascript:moveViewPage(29);</link>
+            <guid>javascript:moveViewPage(29);</guid>
+            <pubDate>Thu, 20 Jan 2022 02:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~]]></title>
