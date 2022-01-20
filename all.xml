@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
             <content:encoded><![CDATA[20. 1월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연 안내]DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격! (Beyond LIVE ─ 공지사항)]]></title>
+            <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/12</link>
             <guid>https://beyondlive.com/notice/12</guid>
             <pubDate>Fri, 07 Jan 2022 10:15:07 GMT</pubDate>

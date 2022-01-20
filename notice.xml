@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-01-20T04:15:56.407Z</updated>
+    <updated>2022-01-20T05:13:00.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[20. 1월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연 안내]DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격!]]></title>
+        <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격!]]></title>
         <id>https://beyondlive.com/notice/12</id>
         <link href="https://beyondlive.com/notice/12"/>
         <updated>2022-01-07T10:15:07.870Z</updated>
