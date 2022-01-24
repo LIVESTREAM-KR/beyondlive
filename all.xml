@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내]SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA Re-Streaming확정! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/20</link>
+            <guid>https://beyondlive.com/notice/20</guid>
+            <pubDate>Mon, 24 Jan 2022 03:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[24. 1월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연 안내]Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/17</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/7</guid>
             <pubDate>Wed, 05 Jan 2022 16:53:04 GMT</pubDate>
             <content:encoded><![CDATA[24. 12월. 2021]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연 안내] SMTOWN LIVE 2022: SMCU EXPRESS@KWANGYA (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/6</link>
-            <guid>https://beyondlive.com/notice/6</guid>
-            <pubDate>Wed, 05 Jan 2022 16:53:04 GMT</pubDate>
-            <content:encoded><![CDATA[23. 12월. 2021]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ 공연)]]></title>
@@ -182,13 +182,22 @@
             <enclosure url="https://static.beyondlive.com/contents/753f450e05ee4e679872c327c14bf1c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/15</link>
-            <guid>https://beyondlive.com/contents/15</guid>
-            <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
-												19:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c366937c10cb4ea2ad7b9a8bca476abe.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~ (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/25</link>
+            <guid>https://beyondlive.com/contents/25</guid>
+            <pubDate>Thu, 13 Jan 2022 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[06. Feb. 2022. 17:00 ~ 
+												18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA RE-STREAMING (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/32</link>
+            <guid>https://beyondlive.com/contents/32</guid>
+            <pubDate>Mon, 24 Jan 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[29. Jan. 2022. 15:00 ~ 
+												20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6af9ece2ea294383b183767ba4d07d9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' (Beyond LIVE)]]></title>
@@ -209,22 +218,13 @@
             <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/15</link>
-            <guid>https://beyondlive.com/contents/15</guid>
-            <pubDate>Wed, 05 Jan 2022 17:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[23. Jan. 2022. 17:00 ~ 
-												19:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c366937c10cb4ea2ad7b9a8bca476abe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/29</link>
-            <guid>https://beyondlive.com/contents/29</guid>
-            <pubDate>Thu, 20 Jan 2022 02:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[13. Feb. 2022. 17:00 ~ 
-												18:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/47880ce7667e4d99918ca2b00ea93d2c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA RE-STREAMING (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/32</link>
+            <guid>https://beyondlive.com/contents/32</guid>
+            <pubDate>Mon, 24 Jan 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[29. Jan. 2022. 15:00 ~ 
+												20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6af9ece2ea294383b183767ba4d07d9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
