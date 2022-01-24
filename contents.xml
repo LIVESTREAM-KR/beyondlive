@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 08:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 09:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 07 Jan 2022 13:22:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7aee13cbccf14580bd39064eba1b8114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> First Re-streaming]]></title>
+            <link>javascript:moveViewPage(16);</link>
+            <guid>javascript:moveViewPage(16);</guid>
+            <pubDate>Mon, 24 Jan 2022 09:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[이준호]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/77fa3fac00de4a94a11689f6d29bfb58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
