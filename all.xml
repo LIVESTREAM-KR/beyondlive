@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 00:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,6 +124,14 @@
             <pubDate>Thu, 13 Jan 2022 03:15:58 GMT</pubDate>
             <content:encoded><![CDATA[규현]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5c9555f4caab483b9b6ee2dd699369b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA RE-STREAMING (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(32);</link>
+            <guid>javascript:moveViewPage(32);</guid>
+            <pubDate>Mon, 24 Jan 2022 02:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[SMCU EXPRESS]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2b8ce9846b3b4535b0e0dd3bb866a288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공연)]]></title>
