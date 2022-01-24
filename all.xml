@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공지]Beyond LIVE - Stray Kids 2ND ＃LoveSTAY ＇SKZ’S CHOCOLATE FACTORY 티켓 오픈 연기 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/21</link>
+            <guid>https://beyondlive.com/notice/21</guid>
+            <pubDate>Mon, 24 Jan 2022 07:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[24. 1월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA Re-Streaming확정! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/20</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/10</guid>
             <pubDate>Wed, 05 Jan 2022 16:53:04 GMT</pubDate>
             <content:encoded><![CDATA[31. 12월. 2021]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내 사항] Beyond LIVE iOS 어플리케이션이 출시되었습니다. (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/7</link>
-            <guid>https://beyondlive.com/notice/7</guid>
-            <pubDate>Wed, 05 Jan 2022 16:53:04 GMT</pubDate>
-            <content:encoded><![CDATA[24. 12월. 2021]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ 공연)]]></title>
