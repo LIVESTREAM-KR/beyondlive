@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 09:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 10:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -207,6 +207,15 @@
             <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] SHOWME #004 : GINJO (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/35</link>
+            <guid>https://beyondlive.com/contents/35</guid>
+            <pubDate>Tue, 25 Jan 2022 10:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[28. Jan. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2a8db4a4991946ad9394888e54a90bad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[FREE] SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA Re-Streaming (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/32</link>
             <guid>https://beyondlive.com/contents/32</guid>
@@ -234,13 +243,13 @@
             <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA Re-Streaming (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/32</link>
-            <guid>https://beyondlive.com/contents/32</guid>
-            <pubDate>Mon, 24 Jan 2022 03:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[29. Jan. 2022. 15:00 ~ 
-												20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6af9ece2ea294383b183767ba4d07d9c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] SHOWME #004 : GINJO (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/35</link>
+            <guid>https://beyondlive.com/contents/35</guid>
+            <pubDate>Tue, 25 Jan 2022 10:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[28. Jan. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2a8db4a4991946ad9394888e54a90bad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
