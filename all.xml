@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 08:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 09:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,6 +140,14 @@
             <pubDate>Mon, 24 Jan 2022 02:01:37 GMT</pubDate>
             <content:encoded><![CDATA[SMCU EXPRESS]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2b8ce9846b3b4535b0e0dd3bb866a288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] SHOWME #004 : GINJO (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(35);</link>
+            <guid>javascript:moveViewPage(35);</guid>
+            <pubDate>Tue, 25 Jan 2022 09:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[GINJO]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d2dca5475188439a989a6d4841fac1b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공연)]]></title>
