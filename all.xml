@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 01:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,20 +36,6 @@
             <content:encoded><![CDATA[12. 1월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사과공지] 1월 10일 발생한 티켓판매 장애 및 이후 대응에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/15</link>
-            <guid>https://beyondlive.com/notice/15</guid>
-            <pubDate>Mon, 10 Jan 2022 10:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[10. 1월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연 안내]Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/11</link>
-            <guid>https://beyondlive.com/notice/11</guid>
-            <pubDate>Wed, 05 Jan 2022 16:53:04 GMT</pubDate>
-            <content:encoded><![CDATA[05. 1월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 두 번째 주자는 미니몬스터! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/19</link>
             <guid>https://beyondlive.com/notice/19</guid>
@@ -64,11 +50,25 @@
             <content:encoded><![CDATA[20. 1월. 2022]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[사과공지] 1월 10일 발생한 티켓판매 장애 및 이후 대응에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/15</link>
+            <guid>https://beyondlive.com/notice/15</guid>
+            <pubDate>Mon, 10 Jan 2022 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[10. 1월. 2022]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/12</link>
             <guid>https://beyondlive.com/notice/12</guid>
             <pubDate>Fri, 07 Jan 2022 10:15:07 GMT</pubDate>
             <content:encoded><![CDATA[07. 1월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연 안내]Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/11</link>
+            <guid>https://beyondlive.com/notice/11</guid>
+            <pubDate>Wed, 05 Jan 2022 16:53:04 GMT</pubDate>
+            <content:encoded><![CDATA[05. 1월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료] Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
