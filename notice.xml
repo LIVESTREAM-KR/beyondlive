@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-01-28T10:14:15.481Z</updated>
+    <updated>2022-01-28T11:12:32.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연 안내]DJ 긴조, ‘SHOWME’ 네 번째 공연 나선다!]]></title>
+        <id>https://beyondlive.com/notice/24</id>
+        <link href="https://beyondlive.com/notice/24"/>
+        <updated>2022-01-28T11:12:17.817Z</updated>
+        <content type="html"><![CDATA[28. 1월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
         <id>https://beyondlive.com/notice/22</id>
@@ -41,6 +48,13 @@
         <content type="html"><![CDATA[12. 1월. 2022]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[완료]DJ 겸 프로듀서 임레이, DJ 스트리밍 쇼 ‘SHOWME’ 21일 출격!]]></title>
+        <id>https://beyondlive.com/notice/23</id>
+        <link href="https://beyondlive.com/notice/23"/>
+        <updated>2022-01-28T11:12:17.828Z</updated>
+        <content type="html"><![CDATA[28. 1월. 2022]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 두 번째 주자는 미니몬스터!]]></title>
         <id>https://beyondlive.com/notice/19</id>
         <link href="https://beyondlive.com/notice/19"/>
@@ -60,19 +74,5 @@
         <link href="https://beyondlive.com/notice/15"/>
         <updated>2022-01-10T10:15:32.777Z</updated>
         <content type="html"><![CDATA[10. 1월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 첫 번째 주자 J.E.B 7일 출격!]]></title>
-        <id>https://beyondlive.com/notice/12</id>
-        <link href="https://beyondlive.com/notice/12"/>
-        <updated>2022-01-07T10:15:07.870Z</updated>
-        <content type="html"><![CDATA[07. 1월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연 안내]Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT>]]></title>
-        <id>https://beyondlive.com/notice/11</id>
-        <link href="https://beyondlive.com/notice/11"/>
-        <updated>2022-01-05T17:20:35.716Z</updated>
-        <content type="html"><![CDATA[05. 1월. 2022]]></content>
     </entry>
 </feed>
