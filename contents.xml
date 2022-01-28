@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 07:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 08:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://static.beyondlive.com/contents/8551a43e35744786a5068ccfb776fa0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> First Re-streaming]]></title>
+            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming]]></title>
             <link>javascript:moveViewPage(16);</link>
             <guid>javascript:moveViewPage(16);</guid>
             <pubDate>Mon, 24 Jan 2022 09:12:42 GMT</pubDate>
@@ -48,7 +48,7 @@
             <enclosure url="https://static.beyondlive.com/contents/77fa3fac00de4a94a11689f6d29bfb58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
             <link>javascript:moveViewPage(29);</link>
             <guid>javascript:moveViewPage(29);</guid>
             <pubDate>Thu, 20 Jan 2022 02:10:12 GMT</pubDate>
@@ -56,7 +56,7 @@
             <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Beyond LIVE] SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~]]></title>
+            <title><![CDATA[Beyond LIVE - SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~]]></title>
             <link>javascript:moveViewPage(25);</link>
             <guid>javascript:moveViewPage(25);</guid>
             <pubDate>Thu, 13 Jan 2022 03:15:58 GMT</pubDate>
@@ -72,7 +72,7 @@
             <enclosure url="https://static.beyondlive.com/contents/2b8ce9846b3b4535b0e0dd3bb866a288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SHOWME #004 : GINJO]]></title>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO]]></title>
             <link>javascript:moveViewPage(35);</link>
             <guid>javascript:moveViewPage(35);</guid>
             <pubDate>Tue, 25 Jan 2022 09:12:42 GMT</pubDate>
