@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 12:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 13:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,6 +140,14 @@
             <pubDate>Mon, 24 Jan 2022 02:01:37 GMT</pubDate>
             <content:encoded><![CDATA[SMCU EXPRESS]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2b8ce9846b3b4535b0e0dd3bb866a288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(36);</link>
+            <guid>javascript:moveViewPage(36);</guid>
+            <pubDate>Fri, 28 Jan 2022 13:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[GINJO]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/aa1e0468284b4e8ea0d3f0d675e316d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO (Beyond LIVE ─ 공연)]]></title>
