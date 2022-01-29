@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 11:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 12:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,12 +18,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO]]></title>
-            <link>https://beyondlive.com/contents/36</link>
-            <guid>https://beyondlive.com/contents/36</guid>
-            <pubDate>Sat, 29 Jan 2022 05:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[29. Jan. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/33170d37fa1348dca430872644cfde15.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/37</link>
+            <guid>https://beyondlive.com/contents/37</guid>
+            <pubDate>Sat, 29 Jan 2022 12:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[30. Jan. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2f78210de2c64b6bab80cd85d1463568.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"]]></title>
@@ -44,15 +44,6 @@
             <enclosure url="https://static.beyondlive.com/contents/47880ce7667e4d99918ca2b00ea93d2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/32</link>
-            <guid>https://beyondlive.com/contents/32</guid>
-            <pubDate>Mon, 24 Jan 2022 03:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[29. Jan. 2022. 15:00 ~ 
-												20:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6af9ece2ea294383b183767ba4d07d9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~]]></title>
             <link>https://beyondlive.com/contents/25</link>
             <guid>https://beyondlive.com/contents/25</guid>
@@ -63,12 +54,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO]]></title>
-            <link>https://beyondlive.com/contents/36</link>
-            <guid>https://beyondlive.com/contents/36</guid>
-            <pubDate>Sat, 29 Jan 2022 05:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[29. Jan. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/33170d37fa1348dca430872644cfde15.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/37</link>
+            <guid>https://beyondlive.com/contents/37</guid>
+            <pubDate>Sat, 29 Jan 2022 12:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[30. Jan. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2f78210de2c64b6bab80cd85d1463568.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
