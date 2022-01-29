@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 18:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 19:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,7 +22,7 @@
             <guid>https://beyondlive.com/contents/37</guid>
             <pubDate>Sat, 29 Jan 2022 12:18:34 GMT</pubDate>
             <content:encoded><![CDATA[30. Jan. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
+												06:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2f78210de2c64b6bab80cd85d1463568.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -58,7 +58,7 @@
             <guid>https://beyondlive.com/contents/37</guid>
             <pubDate>Sat, 29 Jan 2022 12:18:34 GMT</pubDate>
             <content:encoded><![CDATA[30. Jan. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
+												06:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2f78210de2c64b6bab80cd85d1463568.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
