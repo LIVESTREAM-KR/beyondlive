@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 02:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 03:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공연 안내]DJ 긴조, ‘SHOWME’ 네 번째 공연 나선다! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/24</link>
-            <guid>https://beyondlive.com/notice/24</guid>
-            <pubDate>Fri, 28 Jan 2022 11:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[28. 1월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/22</link>
@@ -48,6 +41,13 @@
             <guid>https://beyondlive.com/notice/16</guid>
             <pubDate>Wed, 12 Jan 2022 07:13:12 GMT</pubDate>
             <content:encoded><![CDATA[12. 1월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]DJ 긴조, ‘SHOWME’ 네 번째 공연 나선다! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/24</link>
+            <guid>https://beyondlive.com/notice/24</guid>
+            <pubDate>Fri, 28 Jan 2022 11:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[28. 1월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]DJ 겸 프로듀서 임레이, DJ 스트리밍 쇼 ‘SHOWME’ 21일 출격! (Beyond LIVE ─ 공지사항)]]></title>
@@ -215,15 +215,6 @@
             <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/37</link>
-            <guid>https://beyondlive.com/contents/37</guid>
-            <pubDate>Sat, 29 Jan 2022 12:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[30. Jan. 2022. 05:00 ~ 
-												06:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2f78210de2c64b6bab80cd85d1463568.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
@@ -251,13 +242,13 @@
             <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/37</link>
-            <guid>https://beyondlive.com/contents/37</guid>
-            <pubDate>Sat, 29 Jan 2022 12:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[30. Jan. 2022. 05:00 ~ 
-												06:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2f78210de2c64b6bab80cd85d1463568.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[19. Feb. 2022. 17:00 ~ 
+												18:40 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
