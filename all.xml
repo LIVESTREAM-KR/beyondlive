@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 12:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 13:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -135,6 +135,14 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(41);</link>
+            <guid>javascript:moveViewPage(41);</guid>
+            <pubDate>Fri, 04 Feb 2022 13:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Will Not Fear]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/51f200257bc14973a1f7db7e6a276b75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(40);</link>
             <guid>javascript:moveViewPage(40);</guid>
             <pubDate>Mon, 31 Jan 2022 01:53:23 GMT</pubDate>
@@ -224,12 +232,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/40</link>
-            <guid>https://beyondlive.com/contents/40</guid>
-            <pubDate>Mon, 31 Jan 2022 01:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[04. Feb. 2022. 21:00 ~ 
-												22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b2ed145580ba4361bf9e05c1203b7681.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/41</link>
+            <guid>https://beyondlive.com/contents/41</guid>
+            <pubDate>Fri, 04 Feb 2022 13:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[05. Feb. 2022. 14:00 ~ 
+												15:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/377b1db8945e494b9aa0d4dea66122ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
@@ -260,12 +268,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/40</link>
-            <guid>https://beyondlive.com/contents/40</guid>
-            <pubDate>Mon, 31 Jan 2022 01:53:31 GMT</pubDate>
-            <content:encoded><![CDATA[04. Feb. 2022. 21:00 ~ 
-												22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b2ed145580ba4361bf9e05c1203b7681.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/41</link>
+            <guid>https://beyondlive.com/contents/41</guid>
+            <pubDate>Fri, 04 Feb 2022 13:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[05. Feb. 2022. 14:00 ~ 
+												15:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/377b1db8945e494b9aa0d4dea66122ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

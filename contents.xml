@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 12:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 13:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 13 Jan 2022 03:15:58 GMT</pubDate>
             <content:encoded><![CDATA[규현]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5c9555f4caab483b9b6ee2dd699369b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious]]></title>
+            <link>javascript:moveViewPage(41);</link>
+            <guid>javascript:moveViewPage(41);</guid>
+            <pubDate>Fri, 04 Feb 2022 13:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Will Not Fear]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/51f200257bc14973a1f7db7e6a276b75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious]]></title>
