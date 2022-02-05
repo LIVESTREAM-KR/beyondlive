@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 20:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 21:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,15 +239,6 @@
             <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/42</link>
-            <guid>https://beyondlive.com/contents/42</guid>
-            <pubDate>Sat, 05 Feb 2022 06:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[06. Feb. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/76865fa9cfe44d52b29ae81295cfd533.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
@@ -275,13 +266,13 @@
             <enclosure url="https://static.beyondlive.com/contents/be9258402d734aa1b9ab3330253bc82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/42</link>
-            <guid>https://beyondlive.com/contents/42</guid>
-            <pubDate>Sat, 05 Feb 2022 06:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[06. Feb. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/76865fa9cfe44d52b29ae81295cfd533.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[19. Feb. 2022. 17:00 ~ 
+												18:40 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
