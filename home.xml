@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 05:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 06:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,12 +18,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious]]></title>
-            <link>https://beyondlive.com/contents/41</link>
-            <guid>https://beyondlive.com/contents/41</guid>
-            <pubDate>Fri, 04 Feb 2022 13:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[05. Feb. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/377b1db8945e494b9aa0d4dea66122ac.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/42</link>
+            <guid>https://beyondlive.com/contents/42</guid>
+            <pubDate>Sat, 05 Feb 2022 06:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[06. Feb. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/76865fa9cfe44d52b29ae81295cfd533.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"]]></title>
@@ -54,12 +54,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious]]></title>
-            <link>https://beyondlive.com/contents/41</link>
-            <guid>https://beyondlive.com/contents/41</guid>
-            <pubDate>Fri, 04 Feb 2022 13:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[05. Feb. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/377b1db8945e494b9aa0d4dea66122ac.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/42</link>
+            <guid>https://beyondlive.com/contents/42</guid>
+            <pubDate>Sat, 05 Feb 2022 06:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[06. Feb. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/76865fa9cfe44d52b29ae81295cfd533.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
