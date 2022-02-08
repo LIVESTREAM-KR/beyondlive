@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 08:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 09:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,6 +124,14 @@
             <pubDate>Thu, 20 Jan 2022 02:10:12 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006：ANTON (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(43);</link>
+            <guid>javascript:moveViewPage(43);</guid>
+            <pubDate>Tue, 08 Feb 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[ANTON]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/df8a929bd0124243bac6028d3b37c3af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~ (Beyond LIVE ─ 공연)]]></title>
