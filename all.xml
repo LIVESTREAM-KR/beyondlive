@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 02:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 03:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,7 +126,7 @@
             <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006：ANTON (Beyond LIVE ─ 공연)]]></title>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(43);</link>
             <guid>javascript:moveViewPage(43);</guid>
             <pubDate>Tue, 08 Feb 2022 09:13:56 GMT</pubDate>
@@ -247,7 +247,7 @@
             <enclosure url="https://static.beyondlive.com/contents/47880ce7667e4d99918ca2b00ea93d2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006：ANTON (Beyond LIVE)]]></title>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/43</link>
             <guid>https://beyondlive.com/contents/43</guid>
             <pubDate>Tue, 08 Feb 2022 10:13:48 GMT</pubDate>
@@ -274,7 +274,7 @@
             <enclosure url="https://static.beyondlive.com/contents/47880ce7667e4d99918ca2b00ea93d2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006：ANTON (Beyond LIVE)]]></title>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/43</link>
             <guid>https://beyondlive.com/contents/43</guid>
             <pubDate>Tue, 08 Feb 2022 10:13:48 GMT</pubDate>
