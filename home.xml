@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 12:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 13:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -18,12 +18,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin]]></title>
-            <link>https://beyondlive.com/contents/43</link>
-            <guid>https://beyondlive.com/contents/43</guid>
-            <pubDate>Tue, 08 Feb 2022 10:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[11. Feb. 2022. 21:00 ~ 
-												22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d633f63268c6444588fc17fdbfc4447b.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/44</link>
+            <guid>https://beyondlive.com/contents/44</guid>
+            <pubDate>Fri, 11 Feb 2022 13:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[12. Feb. 2022. 14:00 ~ 
+												15:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/52c7135067f549759d178660322f15b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"]]></title>
@@ -45,12 +45,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin]]></title>
-            <link>https://beyondlive.com/contents/43</link>
-            <guid>https://beyondlive.com/contents/43</guid>
-            <pubDate>Tue, 08 Feb 2022 10:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[11. Feb. 2022. 21:00 ~ 
-												22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d633f63268c6444588fc17fdbfc4447b.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/44</link>
+            <guid>https://beyondlive.com/contents/44</guid>
+            <pubDate>Fri, 11 Feb 2022 13:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[12. Feb. 2022. 14:00 ~ 
+												15:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/52c7135067f549759d178660322f15b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
