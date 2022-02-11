@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 03:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,7 +60,7 @@
             <link>javascript:moveViewPage(43);</link>
             <guid>javascript:moveViewPage(43);</guid>
             <pubDate>Tue, 08 Feb 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[ANTON]]></content:encoded>
+            <content:encoded><![CDATA[Anton Borin]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/df8a929bd0124243bac6028d3b37c3af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
