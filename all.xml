@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 06:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 07:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,7 +57,7 @@
             <content:encoded><![CDATA[24. 1월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내]SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA Re-Streaming 확정! (Beyond LIVE ─ 공지사항)]]></title>
+            <title><![CDATA[[완료]SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA Re-Streaming 확정! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/20</link>
             <guid>https://beyondlive.com/notice/20</guid>
             <pubDate>Mon, 24 Jan 2022 03:16:25 GMT</pubDate>
