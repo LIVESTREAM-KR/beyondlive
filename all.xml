@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 06:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 07:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,6 +127,14 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(45);</link>
+            <guid>javascript:moveViewPage(45);</guid>
+            <pubDate>Sat, 12 Feb 2022 07:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[ANTON]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7ef2c3e1322e494fb64a39e304be65e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(44);</link>
             <guid>javascript:moveViewPage(44);</guid>
             <pubDate>Fri, 11 Feb 2022 13:14:55 GMT</pubDate>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/83f1d11bda1e4a9cac786ca5393577f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(26);</link>
-            <guid>javascript:moveViewPage(26);</guid>
-            <pubDate>Fri, 14 Jan 2022 13:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[SHOWME]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3890986e496b418995c0815679fcd04f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/29</link>
             <guid>https://beyondlive.com/contents/29</guid>
@@ -248,12 +248,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/44</link>
-            <guid>https://beyondlive.com/contents/44</guid>
-            <pubDate>Fri, 11 Feb 2022 13:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[12. Feb. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/52c7135067f549759d178660322f15b9.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/45</link>
+            <guid>https://beyondlive.com/contents/45</guid>
+            <pubDate>Sat, 12 Feb 2022 07:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[13. Feb. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/01defa4359754fa98bf92e4b539d52bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
@@ -275,12 +275,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/44</link>
-            <guid>https://beyondlive.com/contents/44</guid>
-            <pubDate>Fri, 11 Feb 2022 13:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[12. Feb. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/52c7135067f549759d178660322f15b9.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/45</link>
+            <guid>https://beyondlive.com/contents/45</guid>
+            <pubDate>Sat, 12 Feb 2022 07:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[13. Feb. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/01defa4359754fa98bf92e4b539d52bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
