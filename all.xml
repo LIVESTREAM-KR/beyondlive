@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 22:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 23:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <enclosure url="https://static.beyondlive.com/contents/77fa3fac00de4a94a11689f6d29bfb58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(29);</link>
+            <guid>javascript:moveViewPage(29);</guid>
+            <pubDate>Sun, 13 Feb 2022 23:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(45);</link>
             <guid>javascript:moveViewPage(45);</guid>
@@ -228,14 +236,6 @@
             <pubDate>Wed, 19 Jan 2022 02:25:21 GMT</pubDate>
             <content:encoded><![CDATA[IMLAY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c2bea896da4948a1a948dd8104071125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] SHOWME #002 : MINIMONSTER (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(27);</link>
-            <guid>javascript:moveViewPage(27);</guid>
-            <pubDate>Sun, 13 Feb 2022 12:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[MINIMONSTER]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/83f1d11bda1e4a9cac786ca5393577f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
