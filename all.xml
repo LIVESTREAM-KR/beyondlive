@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 07:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 08:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[TAEMIN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' First RE-STREAMING (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(33);</link>
+            <guid>javascript:moveViewPage(33);</guid>
+            <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ 공연)]]></title>
@@ -230,20 +238,10 @@
             <enclosure url="https://static.beyondlive.com/contents/375499027ea8415694ba2e869e69ba37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SHOWME #003 : IMLAY (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(28);</link>
-            <guid>javascript:moveViewPage(28);</guid>
-            <pubDate>Wed, 19 Jan 2022 02:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[IMLAY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c2bea896da4948a1a948dd8104071125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[19. Feb. 2022. 17:00 ~ 
-												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
