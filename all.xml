@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <enclosure url="https://static.beyondlive.com/contents/77fa3fac00de4a94a11689f6d29bfb58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(46);</link>
+            <guid>javascript:moveViewPage(46);</guid>
+            <pubDate>Tue, 15 Feb 2022 09:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[DJ WOW]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/34f03e0075104cfbab6357221100c561.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(29);</link>
             <guid>javascript:moveViewPage(29);</guid>
@@ -230,12 +238,20 @@
             <enclosure url="https://static.beyondlive.com/contents/0257075400614bd89aad7d86e1a4c878.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] SHOWME #003 : IMLAY (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(30);</link>
-            <guid>javascript:moveViewPage(30);</guid>
-            <pubDate>Fri, 21 Jan 2022 14:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[IMLAY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/375499027ea8415694ba2e869e69ba37.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/46</link>
+            <guid>https://beyondlive.com/contents/46</guid>
+            <pubDate>Tue, 15 Feb 2022 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[18. Feb. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/31827be5c18f436e99e1b01ebccad76d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
@@ -243,6 +259,15 @@
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/46</link>
+            <guid>https://beyondlive.com/contents/46</guid>
+            <pubDate>Tue, 15 Feb 2022 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[18. Feb. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/31827be5c18f436e99e1b01ebccad76d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

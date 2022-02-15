@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,31 @@
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
+            <link>https://beyondlive.com/contents/46</link>
+            <guid>https://beyondlive.com/contents/46</guid>
+            <pubDate>Tue, 15 Feb 2022 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[18. Feb. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/31827be5c18f436e99e1b01ebccad76d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
+            <link>https://beyondlive.com/contents/46</link>
+            <guid>https://beyondlive.com/contents/46</guid>
+            <pubDate>Tue, 15 Feb 2022 09:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[18. Feb. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/31827be5c18f436e99e1b01ebccad76d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
