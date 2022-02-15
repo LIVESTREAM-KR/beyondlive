@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 02:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 03:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,7 +102,7 @@
             <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' First RE-STREAMING (Beyond LIVE ─ 공연)]]></title>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st RE-STREAMING (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(33);</link>
             <guid>javascript:moveViewPage(33);</guid>
             <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
