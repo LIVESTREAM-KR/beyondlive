@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 12:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 13:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 24 Jan 2022 09:12:42 GMT</pubDate>
             <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/77fa3fac00de4a94a11689f6d29bfb58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
+            <link>javascript:moveViewPage(47);</link>
+            <guid>javascript:moveViewPage(47);</guid>
+            <pubDate>Fri, 18 Feb 2022 13:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[DJ WOW]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/fc3f0d38f4054bebb1665cfe559ac141.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a52185ee72b8471abda1e86112c75f03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] SHOWME #003 : IMLAY]]></title>
-            <link>javascript:moveViewPage(31);</link>
-            <guid>javascript:moveViewPage(31);</guid>
-            <pubDate>Sun, 13 Feb 2022 00:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[IMLAY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0257075400614bd89aad7d86e1a4c878.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
