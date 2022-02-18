@@ -4,22 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내]DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/28</link>
+            <guid>https://beyondlive.com/notice/28</guid>
+            <pubDate>Fri, 18 Feb 2022 08:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[18. 2월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연 공지]ITZY The 1st Fan Meeting “있지 믿지, 날자!"이벤트 연기에 관하여 안내드립니다. (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/27</link>
             <guid>https://beyondlive.com/notice/27</guid>
             <pubDate>Mon, 14 Feb 2022 04:15:59 GMT</pubDate>
             <content:encoded><![CDATA[13. 2월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]DJ 스트리밍 쇼 ‘SHOWME’ 6번째 주자, 안톤 출격! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/26</link>
-            <guid>https://beyondlive.com/notice/26</guid>
-            <pubDate>Fri, 11 Feb 2022 06:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[11. 2월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” (Beyond LIVE ─ 공지사항)]]></title>
@@ -34,6 +34,13 @@
             <guid>https://beyondlive.com/notice/17</guid>
             <pubDate>Thu, 20 Jan 2022 02:10:03 GMT</pubDate>
             <content:encoded><![CDATA[20. 1월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 6번째 주자, 안톤 출격! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/26</link>
+            <guid>https://beyondlive.com/notice/26</guid>
+            <pubDate>Fri, 11 Feb 2022 06:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[11. 2월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’, 윌 낫 피어 공연 4일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/20</guid>
             <pubDate>Mon, 24 Jan 2022 03:16:25 GMT</pubDate>
             <content:encoded><![CDATA[24. 1월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 두 번째 주자는 미니몬스터! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/19</link>
-            <guid>https://beyondlive.com/notice/19</guid>
-            <pubDate>Thu, 20 Jan 2022 04:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[20. 1월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ 공연)]]></title>
