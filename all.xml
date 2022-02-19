@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 10:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 11:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,14 @@
             <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> 2nd Re-streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(17);</link>
+            <guid>javascript:moveViewPage(17);</guid>
+            <pubDate>Sat, 19 Feb 2022 11:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[이준호]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6675af3efbab46b7882ce8177dfc5e93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
@@ -230,19 +238,20 @@
             <enclosure url="https://static.beyondlive.com/contents/aa1e0468284b4e8ea0d3f0d675e316d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(35);</link>
-            <guid>javascript:moveViewPage(35);</guid>
-            <pubDate>Tue, 25 Jan 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[GINJO]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d2dca5475188439a989a6d4841fac1b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 2nd Re-streaming (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/17</link>
+            <guid>https://beyondlive.com/contents/17</guid>
+            <pubDate>Sat, 19 Feb 2022 11:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[20. Feb. 2022. 11:00 ~ 
+												13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/36edd519a8314a98afab85d684bb8a9f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE)]]></title>
@@ -254,15 +263,6 @@
             <enclosure url="https://static.beyondlive.com/contents/9f833c32d124465492a48021682bbc44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/16</link>
-            <guid>https://beyondlive.com/contents/16</guid>
-            <pubDate>Sat, 19 Feb 2022 08:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[19. Feb. 2022. 17:00 ~ 
-												19:50 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d72101452d0c413892f39fedc65e1a18.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
@@ -270,13 +270,13 @@
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/48</link>
-            <guid>https://beyondlive.com/contents/48</guid>
-            <pubDate>Sat, 19 Feb 2022 09:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[20. Feb. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9f833c32d124465492a48021682bbc44.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 2nd Re-streaming (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/17</link>
+            <guid>https://beyondlive.com/contents/17</guid>
+            <pubDate>Sat, 19 Feb 2022 11:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[20. Feb. 2022. 11:00 ~ 
+												13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/36edd519a8314a98afab85d684bb8a9f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

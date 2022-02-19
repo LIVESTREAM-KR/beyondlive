@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 10:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 11:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> 2nd Re-streaming]]></title>
+            <link>javascript:moveViewPage(17);</link>
+            <guid>javascript:moveViewPage(17);</guid>
+            <pubDate>Sat, 19 Feb 2022 11:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[이준호]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6675af3efbab46b7882ce8177dfc5e93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Jan 2022 13:15:41 GMT</pubDate>
             <content:encoded><![CDATA[GINJO]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/aa1e0468284b4e8ea0d3f0d675e316d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO]]></title>
-            <link>javascript:moveViewPage(35);</link>
-            <guid>javascript:moveViewPage(35);</guid>
-            <pubDate>Tue, 25 Jan 2022 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[GINJO]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d2dca5475188439a989a6d4841fac1b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
