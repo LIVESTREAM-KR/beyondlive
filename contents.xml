@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 08:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 09:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
+            <link>javascript:moveViewPage(48);</link>
+            <guid>javascript:moveViewPage(48);</guid>
+            <pubDate>Sat, 19 Feb 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[DJ WOW]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dbacc16ccd68483f935dd7df3ca14865.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jan 2022 09:12:42 GMT</pubDate>
             <content:encoded><![CDATA[GINJO]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d2dca5475188439a989a6d4841fac1b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT>]]></title>
-            <link>javascript:moveViewPage(15);</link>
-            <guid>javascript:moveViewPage(15);</guid>
-            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[이준호]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a52185ee72b8471abda1e86112c75f03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

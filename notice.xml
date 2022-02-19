@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-02-19T08:15:02.380Z</updated>
+    <updated>2022-02-19T09:13:53.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
+        <id>https://beyondlive.com/notice/29</id>
+        <link href="https://beyondlive.com/notice/29"/>
+        <updated>2022-02-19T09:13:41.205Z</updated>
+        <content type="html"><![CDATA[19. 2월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내]DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개!]]></title>
         <id>https://beyondlive.com/notice/28</id>
@@ -18,20 +25,6 @@
         <link href="https://beyondlive.com/notice/27"/>
         <updated>2022-02-14T04:15:59.577Z</updated>
         <content type="html"><![CDATA[13. 2월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
-        <id>https://beyondlive.com/notice/22</id>
-        <link href="https://beyondlive.com/notice/22"/>
-        <updated>2022-01-27T04:15:48.753Z</updated>
-        <content type="html"><![CDATA[27. 1월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연 안내]Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
-        <id>https://beyondlive.com/notice/17</id>
-        <link href="https://beyondlive.com/notice/17"/>
-        <updated>2022-01-20T02:10:03.942Z</updated>
-        <content type="html"><![CDATA[20. 1월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 6번째 주자, 안톤 출격!]]></title>
@@ -60,6 +53,13 @@
         <link href="https://beyondlive.com/notice/23"/>
         <updated>2022-01-28T11:12:17.828Z</updated>
         <content type="html"><![CDATA[28. 1월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
+        <id>https://beyondlive.com/notice/22</id>
+        <link href="https://beyondlive.com/notice/22"/>
+        <updated>2022-01-27T04:15:48.753Z</updated>
+        <content type="html"><![CDATA[27. 1월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공지]Beyond LIVE - Stray Kids 2ND ＃LoveSTAY ＇SKZ’S CHOCOLATE FACTORY 티켓 오픈 연기 공지]]></title>

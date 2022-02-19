@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 08:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 09:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/29</link>
+            <guid>https://beyondlive.com/notice/29</guid>
+            <pubDate>Sat, 19 Feb 2022 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[19. 2월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/28</link>
@@ -20,20 +27,6 @@
             <guid>https://beyondlive.com/notice/27</guid>
             <pubDate>Mon, 14 Feb 2022 04:15:59 GMT</pubDate>
             <content:encoded><![CDATA[13. 2월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/22</link>
-            <guid>https://beyondlive.com/notice/22</guid>
-            <pubDate>Thu, 27 Jan 2022 04:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[27. 1월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연 안내]Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/17</link>
-            <guid>https://beyondlive.com/notice/17</guid>
-            <pubDate>Thu, 20 Jan 2022 02:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[20. 1월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 6번째 주자, 안톤 출격! (Beyond LIVE ─ 공지사항)]]></title>
@@ -62,6 +55,13 @@
             <guid>https://beyondlive.com/notice/23</guid>
             <pubDate>Fri, 28 Jan 2022 11:12:17 GMT</pubDate>
             <content:encoded><![CDATA[28. 1월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/22</link>
+            <guid>https://beyondlive.com/notice/22</guid>
+            <pubDate>Thu, 27 Jan 2022 04:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[27. 1월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공지]Beyond LIVE - Stray Kids 2ND ＃LoveSTAY ＇SKZ’S CHOCOLATE FACTORY 티켓 오픈 연기 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -116,6 +116,14 @@
             <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(48);</link>
+            <guid>javascript:moveViewPage(48);</guid>
+            <pubDate>Sat, 19 Feb 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[DJ WOW]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dbacc16ccd68483f935dd7df3ca14865.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,44 +238,20 @@
             <enclosure url="https://static.beyondlive.com/contents/d2dca5475188439a989a6d4841fac1b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(15);</link>
-            <guid>javascript:moveViewPage(15);</guid>
-            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[이준호]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a52185ee72b8471abda1e86112c75f03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/16</link>
-            <guid>https://beyondlive.com/contents/16</guid>
-            <pubDate>Sat, 19 Feb 2022 08:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[19. Feb. 2022. 17:00 ~ 
-												19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d72101452d0c413892f39fedc65e1a18.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/47</link>
-            <guid>https://beyondlive.com/contents/47</guid>
-            <pubDate>Fri, 18 Feb 2022 13:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[19. Feb. 2022. 14:00 ~ 
-												15:02 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6e1030df3e834606acc634f3f0ed4f9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/20</link>
-            <guid>https://beyondlive.com/contents/20</guid>
-            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/48</link>
+            <guid>https://beyondlive.com/contents/48</guid>
+            <pubDate>Sat, 19 Feb 2022 09:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[20. Feb. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9f833c32d124465492a48021682bbc44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming (Beyond LIVE)]]></title>
@@ -277,6 +261,22 @@
             <content:encoded><![CDATA[19. Feb. 2022. 17:00 ~ 
 												19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d72101452d0c413892f39fedc65e1a18.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/48</link>
+            <guid>https://beyondlive.com/contents/48</guid>
+            <pubDate>Sat, 19 Feb 2022 09:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[20. Feb. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9f833c32d124465492a48021682bbc44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
