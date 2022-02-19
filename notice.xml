@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-02-19T21:12:19.367Z</updated>
+    <updated>2022-02-19T22:13:02.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[19. 2월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연안내]DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개!]]></title>
+        <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개!]]></title>
         <id>https://beyondlive.com/notice/28</id>
         <link href="https://beyondlive.com/notice/28"/>
         <updated>2022-02-18T08:15:17.432Z</updated>
