@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 07:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 08:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <content:encoded><![CDATA[24. 1월. 2022]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(20);</link>
+            <guid>javascript:moveViewPage(20);</guid>
+            <pubDate>Fri, 07 Jan 2022 13:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8551a43e35744786a5068ccfb776fa0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(12);</link>
             <guid>javascript:moveViewPage(12);</guid>
@@ -108,14 +116,6 @@
             <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(20);</link>
-            <guid>javascript:moveViewPage(20);</guid>
-            <pubDate>Fri, 07 Jan 2022 13:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8551a43e35744786a5068ccfb776fa0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -245,6 +245,15 @@
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/16</link>
+            <guid>https://beyondlive.com/contents/16</guid>
+            <pubDate>Sat, 19 Feb 2022 08:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[19. Feb. 2022. 17:00 ~ 
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d72101452d0c413892f39fedc65e1a18.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/47</link>
             <guid>https://beyondlive.com/contents/47</guid>
@@ -261,13 +270,13 @@
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/47</link>
-            <guid>https://beyondlive.com/contents/47</guid>
-            <pubDate>Fri, 18 Feb 2022 13:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[19. Feb. 2022. 14:00 ~ 
-												15:02 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6e1030df3e834606acc634f3f0ed4f9d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 1st Re-Streaming (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/16</link>
+            <guid>https://beyondlive.com/contents/16</guid>
+            <pubDate>Sat, 19 Feb 2022 08:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[19. Feb. 2022. 17:00 ~ 
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d72101452d0c413892f39fedc65e1a18.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
