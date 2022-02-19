@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 20:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 21:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,8 @@
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
+												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +22,7 @@
             <guid>https://beyondlive.com/contents/17</guid>
             <pubDate>Sat, 19 Feb 2022 11:12:04 GMT</pubDate>
             <content:encoded><![CDATA[20. Feb. 2022. 11:00 ~ 
-												13:00 (KST)]]></content:encoded>
+												13:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/36edd519a8314a98afab85d684bb8a9f.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -37,6 +39,8 @@
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
+												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -45,7 +49,7 @@
             <guid>https://beyondlive.com/contents/17</guid>
             <pubDate>Sat, 19 Feb 2022 11:12:04 GMT</pubDate>
             <content:encoded><![CDATA[20. Feb. 2022. 11:00 ~ 
-												13:00 (KST)]]></content:encoded>
+												13:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/36edd519a8314a98afab85d684bb8a9f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
