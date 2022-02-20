@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 04:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 05:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,33 +245,6 @@
             <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 2nd Re-streaming (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/17</link>
-            <guid>https://beyondlive.com/contents/17</guid>
-            <pubDate>Sat, 19 Feb 2022 11:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[20. Feb. 2022. 11:00 ~ 
-												13:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/36edd519a8314a98afab85d684bb8a9f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/20</link>
-            <guid>https://beyondlive.com/contents/20</guid>
-            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
-												18:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 LEE JUNHO FANMEETING <JUNHO THE MOMENT> 2nd Re-streaming (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/17</link>
-            <guid>https://beyondlive.com/contents/17</guid>
-            <pubDate>Sat, 19 Feb 2022 11:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[20. Feb. 2022. 11:00 ~ 
-												13:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/36edd519a8314a98afab85d684bb8a9f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
