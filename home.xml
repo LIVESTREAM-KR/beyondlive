@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 00:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 02:03:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <content:encoded><![CDATA[20. Feb. 2022. 11:00 ~ 
 												13:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/36edd519a8314a98afab85d684bb8a9f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
-            <link>https://beyondlive.com/contents/48</link>
-            <guid>https://beyondlive.com/contents/48</guid>
-            <pubDate>Sat, 19 Feb 2022 09:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[20. Feb. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9f833c32d124465492a48021682bbc44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"]]></title>
