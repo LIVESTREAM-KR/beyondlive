@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-02-21T05:12:47.017Z</updated>
+    <updated>2022-02-21T06:17:03.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내]Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue‘]]></title>
+        <id>https://beyondlive.com/notice/30</id>
+        <link href="https://beyondlive.com/notice/30"/>
+        <updated>2022-02-21T06:16:51.175Z</updated>
+        <content type="html"><![CDATA[21. 2월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내]]></title>
         <id>https://beyondlive.com/notice/29</id>
@@ -66,13 +73,6 @@
         <id>https://beyondlive.com/notice/21</id>
         <link href="https://beyondlive.com/notice/21"/>
         <updated>2022-01-24T07:17:04.109Z</updated>
-        <content type="html"><![CDATA[24. 1월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]SMTOWN LIVE 2022：SMCU EXPRESS@KWANGYA Re-Streaming 확정!]]></title>
-        <id>https://beyondlive.com/notice/20</id>
-        <link href="https://beyondlive.com/notice/20"/>
-        <updated>2022-01-24T03:16:25.103Z</updated>
         <content type="html"><![CDATA[24. 1월. 2022]]></content>
     </entry>
 </feed>
