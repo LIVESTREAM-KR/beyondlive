@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 01:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 02:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,7 +14,7 @@
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
             <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/df69e685cd44437fa1f8662046e47878.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
