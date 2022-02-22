@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 05:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 06:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[TAEMIN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’]]></title>
+            <link>javascript:moveViewPage(51);</link>
+            <guid>javascript:moveViewPage(51);</guid>
+            <pubDate>Tue, 22 Feb 2022 06:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[WONPIL]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 29 Jan 2022 12:18:27 GMT</pubDate>
             <content:encoded><![CDATA[GINJO]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/553f1fe6f9b947fd8e309c3a6abd21cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO]]></title>
-            <link>javascript:moveViewPage(36);</link>
-            <guid>javascript:moveViewPage(36);</guid>
-            <pubDate>Fri, 28 Jan 2022 13:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[GINJO]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/aa1e0468284b4e8ea0d3f0d675e316d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
