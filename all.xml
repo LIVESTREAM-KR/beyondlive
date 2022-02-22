@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 09:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 10:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(54);</link>
+            <guid>javascript:moveViewPage(54);</guid>
+            <pubDate>Tue, 22 Feb 2022 10:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Demicat]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b1b55999727f40d8b50e09113734a509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> 2nd Re-streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(17);</link>
             <guid>javascript:moveViewPage(17);</guid>
@@ -230,12 +238,22 @@
             <enclosure url="https://static.beyondlive.com/contents/f0563e1bd2634fda9f66bed4e551b44c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #004 : GINJO (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(37);</link>
-            <guid>javascript:moveViewPage(37);</guid>
-            <pubDate>Sat, 29 Jan 2022 12:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[GINJO]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/553f1fe6f9b947fd8e309c3a6abd21cf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
+												18:40 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/54</link>
+            <guid>https://beyondlive.com/contents/54</guid>
+            <pubDate>Tue, 22 Feb 2022 10:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[25. Feb. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e5dbc488e0814a4189f93bf9a1d8e1e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
@@ -245,6 +263,15 @@
             <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/54</link>
+            <guid>https://beyondlive.com/contents/54</guid>
+            <pubDate>Tue, 22 Feb 2022 10:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[25. Feb. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e5dbc488e0814a4189f93bf9a1d8e1e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
