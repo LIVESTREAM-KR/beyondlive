@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-02-25T09:13:48.372Z</updated>
+    <updated>2022-02-25T10:14:54.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[기능 추가 안내]Beyond LIVE신기능 "MY Beyond"추가에 대하여 안내 말씀 드립니다.]]></title>
+        <id>https://beyondlive.com/notice/32</id>
+        <link href="https://beyondlive.com/notice/32"/>
+        <updated>2022-02-25T10:14:41.827Z</updated>
+        <content type="html"><![CDATA[25. 2월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’]]></title>
         <id>https://beyondlive.com/notice/31</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/23"/>
         <updated>2022-01-28T11:12:17.828Z</updated>
         <content type="html"><![CDATA[28. 1월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!”]]></title>
-        <id>https://beyondlive.com/notice/22</id>
-        <link href="https://beyondlive.com/notice/22"/>
-        <updated>2022-01-27T04:15:48.753Z</updated>
-        <content type="html"><![CDATA[27. 1월. 2022]]></content>
     </entry>
 </feed>

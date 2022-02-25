@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 09:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기능 추가 안내]Beyond LIVE신기능 "MY Beyond"추가에 대하여 안내 말씀 드립니다. (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/32</link>
+            <guid>https://beyondlive.com/notice/32</guid>
+            <pubDate>Fri, 25 Feb 2022 10:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/31</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/23</guid>
             <pubDate>Fri, 28 Jan 2022 11:12:17 GMT</pubDate>
             <content:encoded><![CDATA[28. 1월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/22</link>
-            <guid>https://beyondlive.com/notice/22</guid>
-            <pubDate>Thu, 27 Jan 2022 04:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[27. 1월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ 공연)]]></title>
