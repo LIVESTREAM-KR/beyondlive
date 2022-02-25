@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-02-25T10:14:54.747Z</updated>
+    <updated>2022-02-25T11:11:13.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내]DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개!]]></title>
+        <id>https://beyondlive.com/notice/33</id>
+        <link href="https://beyondlive.com/notice/33"/>
+        <updated>2022-02-25T11:11:00.491Z</updated>
+        <content type="html"><![CDATA[25. 2월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기능 추가 안내]Beyond LIVE신기능 "MY Beyond"추가에 대하여 안내 말씀 드립니다.]]></title>
         <id>https://beyondlive.com/notice/32</id>
@@ -34,6 +41,13 @@
         <content type="html"><![CDATA[19. 2월. 2022]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[공연 안내]DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개!]]></title>
+        <id>https://beyondlive.com/notice/34</id>
+        <link href="https://beyondlive.com/notice/34"/>
+        <updated>2022-02-25T11:11:00.501Z</updated>
+        <content type="html"><![CDATA[25. 2월. 2022]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개!]]></title>
         <id>https://beyondlive.com/notice/28</id>
         <link href="https://beyondlive.com/notice/28"/>
@@ -60,19 +74,5 @@
         <link href="https://beyondlive.com/notice/25"/>
         <updated>2022-02-04T07:10:46.760Z</updated>
         <content type="html"><![CDATA[04. 2월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]DJ 긴조, ‘SHOWME’ 네 번째 공연 나선다!]]></title>
-        <id>https://beyondlive.com/notice/24</id>
-        <link href="https://beyondlive.com/notice/24"/>
-        <updated>2022-01-28T11:12:17.817Z</updated>
-        <content type="html"><![CDATA[28. 1월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]DJ 겸 프로듀서 임레이, DJ 스트리밍 쇼 ‘SHOWME’ 21일 출격!]]></title>
-        <id>https://beyondlive.com/notice/23</id>
-        <link href="https://beyondlive.com/notice/23"/>
-        <updated>2022-01-28T11:12:17.828Z</updated>
-        <content type="html"><![CDATA[28. 1월. 2022]]></content>
     </entry>
 </feed>
