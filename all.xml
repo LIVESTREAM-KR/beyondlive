@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 20:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 21:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,15 +247,6 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/56</link>
-            <guid>https://beyondlive.com/contents/56</guid>
-            <pubDate>Sat, 26 Feb 2022 06:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[27. Feb. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/add39e80e5154113b3f7a1a4f6c27542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/51</link>
             <guid>https://beyondlive.com/contents/51</guid>
@@ -274,13 +265,13 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/56</link>
-            <guid>https://beyondlive.com/contents/56</guid>
-            <pubDate>Sat, 26 Feb 2022 06:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[27. Feb. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/add39e80e5154113b3f7a1a4f6c27542.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/51</link>
+            <guid>https://beyondlive.com/contents/51</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
+												18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/4d07ba98b09d485aa452305fb8eaca8c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
