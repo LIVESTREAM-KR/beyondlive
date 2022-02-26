@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 05:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 06:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat]]></title>
+            <link>javascript:moveViewPage(56);</link>
+            <guid>javascript:moveViewPage(56);</guid>
+            <pubDate>Sat, 26 Feb 2022 06:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Demicat]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1b3e211d80d648acb909408214b3626e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 05 Feb 2022 06:12:22 GMT</pubDate>
             <content:encoded><![CDATA[DJ Will Not Fear]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/bad1879bbb9d4a07bd4655c7ad8f0fd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #005 : Will Not Fear w/ Team Auspicious]]></title>
-            <link>javascript:moveViewPage(41);</link>
-            <guid>javascript:moveViewPage(41);</guid>
-            <pubDate>Fri, 04 Feb 2022 13:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[DJ Will Not Fear]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/51f200257bc14973a1f7db7e6a276b75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
