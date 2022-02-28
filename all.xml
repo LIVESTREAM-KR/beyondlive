@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Beyond LIVE]2/28 시스템 점검에 따른 서비스 정지 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/35</link>
+            <guid>https://beyondlive.com/notice/35</guid>
+            <pubDate>Mon, 28 Feb 2022 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[28. 2월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/33</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/26</guid>
             <pubDate>Fri, 11 Feb 2022 06:16:13 GMT</pubDate>
             <content:encoded><![CDATA[11. 2월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’, 윌 낫 피어 공연 4일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/25</link>
-            <guid>https://beyondlive.com/notice/25</guid>
-            <pubDate>Fri, 04 Feb 2022 07:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[04. 2월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ 공연)]]></title>
