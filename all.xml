@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 04:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 05:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Beyond LIVE]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/35</link>
-            <guid>https://beyondlive.com/notice/35</guid>
-            <pubDate>Mon, 28 Feb 2022 03:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[28. 2월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연안내]DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/33</link>
@@ -48,6 +41,13 @@
             <guid>https://beyondlive.com/notice/29</guid>
             <pubDate>Sat, 19 Feb 2022 09:13:41 GMT</pubDate>
             <content:encoded><![CDATA[19. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/35</link>
+            <guid>https://beyondlive.com/notice/35</guid>
+            <pubDate>Mon, 28 Feb 2022 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[28. 2월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연 안내]DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
