@@ -4,7 +4,7 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 06:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,6 +17,15 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’]]></title>
+            <link>https://beyondlive.com/contents/49</link>
+            <guid>https://beyondlive.com/contents/49</guid>
+            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3f860593b7774fda88f8a21c41e503ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’]]></title>
             <link>https://beyondlive.com/contents/51</link>
             <guid>https://beyondlive.com/contents/51</guid>
@@ -35,13 +44,13 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’]]></title>
-            <link>https://beyondlive.com/contents/51</link>
-            <guid>https://beyondlive.com/contents/51</guid>
-            <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
-												18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4d07ba98b09d485aa452305fb8eaca8c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’]]></title>
+            <link>https://beyondlive.com/contents/49</link>
+            <guid>https://beyondlive.com/contents/49</guid>
+            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3f860593b7774fda88f8a21c41e503ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
