@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 09:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 10:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,6 +247,15 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/57</link>
+            <guid>https://beyondlive.com/contents/57</guid>
+            <pubDate>Tue, 01 Mar 2022 10:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[04. Mar. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e1dcd7e4fc2441f190aaf0abc2b3b096.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/49</link>
             <guid>https://beyondlive.com/contents/49</guid>
@@ -274,13 +283,13 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/49</link>
-            <guid>https://beyondlive.com/contents/49</guid>
-            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
-												19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3f860593b7774fda88f8a21c41e503ec.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/57</link>
+            <guid>https://beyondlive.com/contents/57</guid>
+            <pubDate>Tue, 01 Mar 2022 10:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[04. Mar. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e1dcd7e4fc2441f190aaf0abc2b3b096.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
