@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 08:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 09:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious]]></title>
+            <link>javascript:moveViewPage(57);</link>
+            <guid>javascript:moveViewPage(57);</guid>
+            <pubDate>Tue, 01 Mar 2022 09:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/88d318c999d34277b3a15b01153481ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Feb 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[Anton Borin]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/df8a929bd0124243bac6028d3b37c3af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - SUPER JUNIOR-KYUHYUN Special Event ~Lover's Concerto~]]></title>
-            <link>javascript:moveViewPage(25);</link>
-            <guid>javascript:moveViewPage(25);</guid>
-            <pubDate>Thu, 13 Jan 2022 03:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[규현]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5c9555f4caab483b9b6ee2dd699369b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
