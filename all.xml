@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 12:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 13:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -143,6 +143,14 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(58);</link>
+            <guid>javascript:moveViewPage(58);</guid>
+            <pubDate>Fri, 04 Mar 2022 13:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6b6d01ca26b44bb68010ee9468863405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(57);</link>
             <guid>javascript:moveViewPage(57);</guid>
             <pubDate>Tue, 01 Mar 2022 09:13:28 GMT</pubDate>
@@ -228,14 +236,6 @@
             <pubDate>Sun, 13 Feb 2022 00:49:28 GMT</pubDate>
             <content:encoded><![CDATA[ANTON]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7ef2c3e1322e494fb64a39e304be65e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(44);</link>
-            <guid>javascript:moveViewPage(44);</guid>
-            <pubDate>Fri, 11 Feb 2022 13:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[ANTON]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0d27d25363f74fa5b438ba871ebae0e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
