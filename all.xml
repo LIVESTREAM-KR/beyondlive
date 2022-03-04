@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 00:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 02:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 2nd Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(34);</link>
+            <guid>javascript:moveViewPage(34);</guid>
+            <pubDate>Fri, 04 Mar 2022 02:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5c94e93d7f9646c7a87a8736dadd5b47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(33);</link>
             <guid>javascript:moveViewPage(33);</guid>
@@ -228,14 +236,6 @@
             <pubDate>Fri, 11 Feb 2022 13:14:55 GMT</pubDate>
             <content:encoded><![CDATA[ANTON]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0d27d25363f74fa5b438ba871ebae0e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(43);</link>
-            <guid>javascript:moveViewPage(43);</guid>
-            <pubDate>Tue, 08 Feb 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[Anton Borin]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/df8a929bd0124243bac6028d3b37c3af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
