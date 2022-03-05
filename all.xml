@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 10:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 11:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -247,6 +247,15 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/33</link>
+            <guid>https://beyondlive.com/contents/33</guid>
+            <pubDate>Sat, 05 Mar 2022 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[05. Mar. 2022. 20:00 ~ 
+												23:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a7cfb37dcd164d2fa8da12ad8bf79a6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/58</link>
             <guid>https://beyondlive.com/contents/58</guid>
@@ -283,13 +292,13 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/58</link>
-            <guid>https://beyondlive.com/contents/58</guid>
-            <pubDate>Fri, 04 Mar 2022 15:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[05. Mar. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6a9aac4d47fe4d91b3389df761f9c9db.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/33</link>
+            <guid>https://beyondlive.com/contents/33</guid>
+            <pubDate>Sat, 05 Mar 2022 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[05. Mar. 2022. 20:00 ~ 
+												23:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a7cfb37dcd164d2fa8da12ad8bf79a6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
