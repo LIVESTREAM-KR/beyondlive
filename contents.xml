@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 14:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 15:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 04 Mar 2022 02:19:48 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5c94e93d7f9646c7a87a8736dadd5b47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious]]></title>
+            <link>javascript:moveViewPage(59);</link>
+            <guid>javascript:moveViewPage(59);</guid>
+            <pubDate>Sat, 05 Mar 2022 15:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/896be365c9814a8bbfecbc99e430dd2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 13 Feb 2022 23:12:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin]]></title>
-            <link>javascript:moveViewPage(45);</link>
-            <guid>javascript:moveViewPage(45);</guid>
-            <pubDate>Sun, 13 Feb 2022 00:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[ANTON]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7ef2c3e1322e494fb64a39e304be65e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

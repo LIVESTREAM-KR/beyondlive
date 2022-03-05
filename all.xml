@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 14:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 15:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <enclosure url="https://static.beyondlive.com/contents/5c94e93d7f9646c7a87a8736dadd5b47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(59);</link>
+            <guid>javascript:moveViewPage(59);</guid>
+            <pubDate>Sat, 05 Mar 2022 15:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/896be365c9814a8bbfecbc99e430dd2f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(33);</link>
             <guid>javascript:moveViewPage(33);</guid>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #006 : Anton Borin (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(45);</link>
-            <guid>javascript:moveViewPage(45);</guid>
-            <pubDate>Sun, 13 Feb 2022 00:49:28 GMT</pubDate>
-            <content:encoded><![CDATA[ANTON]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7ef2c3e1322e494fb64a39e304be65e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
@@ -247,22 +247,22 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/33</link>
-            <guid>https://beyondlive.com/contents/33</guid>
-            <pubDate>Sat, 05 Mar 2022 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[05. Mar. 2022. 20:00 ~ 
-												23:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a7cfb37dcd164d2fa8da12ad8bf79a6a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/59</link>
+            <guid>https://beyondlive.com/contents/59</guid>
+            <pubDate>Sat, 05 Mar 2022 15:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06. Mar. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/be71352ea5b54c918e962fdd40dc5fc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/58</link>
-            <guid>https://beyondlive.com/contents/58</guid>
-            <pubDate>Fri, 04 Mar 2022 15:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[05. Mar. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6a9aac4d47fe4d91b3389df761f9c9db.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 2nd Re-Streaming (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/34</link>
+            <guid>https://beyondlive.com/contents/34</guid>
+            <pubDate>Sat, 05 Mar 2022 15:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06. Mar. 2022. 11:00 ~ 
+												14:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0edd31f4605d448c8c848aea2b1dbd62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE)]]></title>
@@ -292,13 +292,13 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/33</link>
-            <guid>https://beyondlive.com/contents/33</guid>
-            <pubDate>Sat, 05 Mar 2022 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[05. Mar. 2022. 20:00 ~ 
-												23:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a7cfb37dcd164d2fa8da12ad8bf79a6a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/59</link>
+            <guid>https://beyondlive.com/contents/59</guid>
+            <pubDate>Sat, 05 Mar 2022 15:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[06. Mar. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/be71352ea5b54c918e962fdd40dc5fc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
