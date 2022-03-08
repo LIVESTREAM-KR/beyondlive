@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 08:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(60);</link>
+            <guid>javascript:moveViewPage(60);</guid>
+            <pubDate>Tue, 08 Mar 2022 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 2nd Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(34);</link>
             <guid>javascript:moveViewPage(34);</guid>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/34f03e0075104cfbab6357221100c561.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(29);</link>
-            <guid>javascript:moveViewPage(29);</guid>
-            <pubDate>Sun, 13 Feb 2022 23:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE)]]></title>
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
@@ -245,6 +245,15 @@
             <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/60</link>
+            <guid>https://beyondlive.com/contents/60</guid>
+            <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dc645f4366af4ce0a014832a7187ecc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE)]]></title>
@@ -274,13 +283,13 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE)]]></title>
-            <link>https://beyondlive.com/contents/49</link>
-            <guid>https://beyondlive.com/contents/49</guid>
-            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
-												19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3f860593b7774fda88f8a21c41e503ec.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE)]]></title>
+            <link>https://beyondlive.com/contents/60</link>
+            <guid>https://beyondlive.com/contents/60</guid>
+            <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dc645f4366af4ce0a014832a7187ecc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

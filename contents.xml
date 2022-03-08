@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 08:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 22 Feb 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[WONPIL]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista]]></title>
+            <link>javascript:moveViewPage(60);</link>
+            <guid>javascript:moveViewPage(60);</guid>
+            <pubDate>Tue, 08 Mar 2022 09:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 2nd Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 15 Feb 2022 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[DJ WOW]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/34f03e0075104cfbab6357221100c561.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY']]></title>
-            <link>javascript:moveViewPage(29);</link>
-            <guid>javascript:moveViewPage(29);</guid>
-            <pubDate>Sun, 13 Feb 2022 23:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/929a529d9d5a4f43b1e6144292ba3848.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
