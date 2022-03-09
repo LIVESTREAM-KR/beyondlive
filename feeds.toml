@@ -22,7 +22,7 @@ waitUntil = "networkidle"
 [home]
 title = "Beyond LIVE"
 url = "https://beyondlive.com/"
-entrySelector = "div.top-banner__slide-inner:not(.top-banner__slide swiper-slide swiper-slide-duplicate)"
+entrySelector = "div.top-banner__slide-inner:not(.top-banner__slide.swiper-slide.swiper-slide-duplicate)"
 titleSelector = "a.top-banner__title"
 linkSelector = "a.top-banner__title"
 contentSelector = "span.top-banner__date.shrink"
