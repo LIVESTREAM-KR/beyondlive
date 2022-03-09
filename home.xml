@@ -4,18 +4,9 @@
         <title>Beyond LIVE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 16:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 16:51:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"]]></title>
-            <link>https://beyondlive.com/contents/20</link>
-            <guid>https://beyondlive.com/contents/20</guid>
-            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
-												18:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista]]></title>
             <link>https://beyondlive.com/contents/60</link>
@@ -51,15 +42,6 @@
             <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista]]></title>
-            <link>https://beyondlive.com/contents/60</link>
-            <guid>https://beyondlive.com/contents/60</guid>
-            <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
-												22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/dc645f4366af4ce0a014832a7187ecc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
