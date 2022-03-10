@@ -12,6 +12,16 @@ waitUntil = "networkidle"
 [contents]
 title = "Beyond LIVE ─ 공연"
 url = "https://beyondlive.com/contents?lang=ko"
+entrySelector = "//html/body/div/main/section/div/ul/li/a"
+titleSelector = "//concat(div[2]/strong[1]/text(), " | ", div[2]/p[1]/text())"
+linkSelector = "//concat("https://beyondlive.com/contents/", translate(./@href, "javascript:moveViewPage();", ""))"
+contentSelector = "span.artist__name"
+imageSelector = "//div[1]/img[1]/@src"
+waitUntil = "networkidle"
+
+[contents_legacy]
+title = "Beyond LIVE ─ 공연"
+url = "https://beyondlive.com/contents?lang=ko"
 entrySelector = "ul.list-grid li.list-grid__item"
 titleSelector = "strong.list-grid__title"
 linkSelector = "a.list-grid__link"
