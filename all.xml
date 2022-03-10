@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 09:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 09:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,7 +242,7 @@
             <link>https://beyondlive.com/contents/60</link>
             <guid>https://beyondlive.com/contents/60</guid>
             <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
+            <content:encoded><![CDATA[11. 3월. 2022. 21:00 ~ 
 												22:05 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/dc645f4366af4ce0a014832a7187ecc7.jpg" length="0" type="image/jpg"/>
         </item>
@@ -251,7 +251,7 @@
             <link>https://beyondlive.com/contents/49</link>
             <guid>https://beyondlive.com/contents/49</guid>
             <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
+            <content:encoded><![CDATA[20. 3월. 2022. 17:00 ~ 
 												19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3f860593b7774fda88f8a21c41e503ec.jpg" length="0" type="image/jpg"/>
         </item>
@@ -260,7 +260,7 @@
             <link>https://beyondlive.com/contents/51</link>
             <guid>https://beyondlive.com/contents/51</guid>
             <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
+            <content:encoded><![CDATA[13. 3월. 2022. 16:00 ~ 
 												18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/4d07ba98b09d485aa452305fb8eaca8c.jpg" length="0" type="image/jpg"/>
         </item>
@@ -269,7 +269,7 @@
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
+            <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
@@ -278,7 +278,7 @@
             <link>https://beyondlive.com/contents/60</link>
             <guid>https://beyondlive.com/contents/60</guid>
             <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
+            <content:encoded><![CDATA[11. 3월. 2022. 21:00 ~ 
 											22:05 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
         </item>
@@ -287,7 +287,7 @@
             <link>https://beyondlive.com/contents/51</link>
             <guid>https://beyondlive.com/contents/51</guid>
             <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
+            <content:encoded><![CDATA[13. 3월. 2022. 16:00 ~ 
 											18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
@@ -317,7 +317,7 @@
             <link>https://beyondlive.com/contents/49</link>
             <guid>https://beyondlive.com/contents/49</guid>
             <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
+            <content:encoded><![CDATA[20. 3월. 2022. 17:00 ~ 
 											19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
         </item>
@@ -326,121 +326,7 @@
             <link>https://beyondlive.com/contents/20</link>
             <guid>https://beyondlive.com/contents/20</guid>
             <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
-											18:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/60</link>
-            <guid>https://beyondlive.com/contents/60</guid>
-            <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
-											22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/51</link>
-            <guid>https://beyondlive.com/contents/51</guid>
-            <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
-											18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/12</link>
-            <guid>https://beyondlive.com/contents/12</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/6</link>
-            <guid>https://beyondlive.com/contents/6</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/5</link>
-            <guid>https://beyondlive.com/contents/5</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/49</link>
-            <guid>https://beyondlive.com/contents/49</guid>
-            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
-											19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/20</link>
-            <guid>https://beyondlive.com/contents/20</guid>
-            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
-											18:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/60</link>
-            <guid>https://beyondlive.com/contents/60</guid>
-            <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
-											22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/51</link>
-            <guid>https://beyondlive.com/contents/51</guid>
-            <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
-											18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/12</link>
-            <guid>https://beyondlive.com/contents/12</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/6</link>
-            <guid>https://beyondlive.com/contents/6</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/5</link>
-            <guid>https://beyondlive.com/contents/5</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/49</link>
-            <guid>https://beyondlive.com/contents/49</guid>
-            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
-											19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/20</link>
-            <guid>https://beyondlive.com/contents/20</guid>
-            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
+            <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 											18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
         </item>
