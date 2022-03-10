@@ -21,7 +21,7 @@ waitUntil = "networkidle"
 
 [top]
 title = "Beyond LIVE ─ TOP"
-url = "https://beyondlive.com/"
+url = "https://beyondlive.com/?lang=ko"
 entrySelector = "div.top-banner__slide-inner:not(.top-banner__slide.swiper-slide.swiper-slide-duplicate *)"
 titleSelector = "a.top-banner__title"
 linkSelector = "a.top-banner__title"
@@ -31,8 +31,8 @@ waitUntil = "networkidle"
 
 [next]
 title = "Beyond LIVE ─ Beyond NEXT"
-url = "https://beyondlive.com/"
-entrySelector = "div.pickup-banner.swiper-container.swiper-container-initialized.swiper-container-horizontal div.pickup-banner__inner.swiper-wrapper div.pickup-banner__slide:not(.pickup-banner__slide.swiper-slide.swiper-slide-duplicate *)"
+url = "https://beyondlive.com/?lang=ko"
+entrySelector = "div.pickup-banner__inner.swiper-wrapper div.pickup-banner__slide:not(.pickup-banner__slide.swiper-slide.swiper-slide-duplicate)"
 titleSelector = "em.pickup-banner__title"
 linkSelector = "a.pickup-banner__link"
 contentSelector = "span.pickup-banner__date"
