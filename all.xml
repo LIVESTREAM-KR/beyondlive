@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 09:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 09:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -274,829 +274,175 @@
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" alt="">
-									
-								</span>
-									
-									<em class="pickup-banner__count" data-time="2022.03.11.21.00" data-now="2022.03.10.18.25.29">00 : 00 : 00</em>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/a3de99dbe63845b5ae7391cfc6d8b0bb.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">DJ Mar Vista</em>
-									</div>
-									<em class="pickup-banner__title">[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista</em>
-									<span class="pickup-banner__date">
-										
-											11. Mar. 2022. 21:00 ~ 
-											22:05 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/60" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/60</link>
+            <guid>https://beyondlive.com/contents/60</guid>
+            <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
+											22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" alt="">
-									
-								</span>
-									
-									<em class="pickup-banner__count" data-time="2022.03.13.16.00" data-now="2022.03.10.18.25.29">00 : 00 : 00</em>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/719d559cd7be440db228454a05c7c928.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">WONPIL</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’</em>
-									<span class="pickup-banner__date">
-										
-											13. Mar. 2022. 16:00 ~ 
-											18:00 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/51" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/51</link>
+            <guid>https://beyondlive.com/contents/51</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
+											18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/0ef9ffa0335a40839475477bf41073be.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">SHINee</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - SHINee WORLD (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/12" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/12</link>
+            <guid>https://beyondlive.com/contents/12</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/c28d914bf1a7480ebe87e02d3eeca4e1.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">DAY6</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - Day6 (Even of Day) (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/6" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/6</link>
+            <guid>https://beyondlive.com/contents/6</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/e569dec9e5764ea1af32be3d030561d9.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">TAEMIN</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - N.G.D.A (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/5" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/5</link>
+            <guid>https://beyondlive.com/contents/5</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/dd81325ab46b43f7b28db2c1eb88947a.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">Red Velvet</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’</em>
-									<span class="pickup-banner__date">
-										
-											20. Mar. 2022. 17:00 ~ 
-											19:00 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/49" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/49</link>
+            <guid>https://beyondlive.com/contents/49</guid>
+            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
+											19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/51f4399e739d4c42ab528b079b4252a2.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">ITZY</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"</em>
-									<span class="pickup-banner__date">
-										
-											09. Apr. 2022. 17:00 ~ 
-											18:40 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/20" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
+											18:40 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" alt="">
-									
-								</span>
-									
-									<em class="pickup-banner__count" data-time="2022.03.11.21.00" data-now="2022.03.10.18.25.29">00 : 00 : 00</em>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/a3de99dbe63845b5ae7391cfc6d8b0bb.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">DJ Mar Vista</em>
-									</div>
-									<em class="pickup-banner__title">[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista</em>
-									<span class="pickup-banner__date">
-										
-											11. Mar. 2022. 21:00 ~ 
-											22:05 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/60" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/60</link>
+            <guid>https://beyondlive.com/contents/60</guid>
+            <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
+											22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" alt="">
-									
-								</span>
-									
-									<em class="pickup-banner__count" data-time="2022.03.13.16.00" data-now="2022.03.10.18.25.29">00 : 00 : 00</em>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/719d559cd7be440db228454a05c7c928.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">WONPIL</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’</em>
-									<span class="pickup-banner__date">
-										
-											13. Mar. 2022. 16:00 ~ 
-											18:00 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/51" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/51</link>
+            <guid>https://beyondlive.com/contents/51</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
+											18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/0ef9ffa0335a40839475477bf41073be.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">SHINee</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - SHINee WORLD (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/12" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/12</link>
+            <guid>https://beyondlive.com/contents/12</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/c28d914bf1a7480ebe87e02d3eeca4e1.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">DAY6</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - Day6 (Even of Day) (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/6" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/6</link>
+            <guid>https://beyondlive.com/contents/6</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/e569dec9e5764ea1af32be3d030561d9.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">TAEMIN</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - N.G.D.A (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/5" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/5</link>
+            <guid>https://beyondlive.com/contents/5</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/dd81325ab46b43f7b28db2c1eb88947a.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">Red Velvet</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’</em>
-									<span class="pickup-banner__date">
-										
-											20. Mar. 2022. 17:00 ~ 
-											19:00 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/49" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/49</link>
+            <guid>https://beyondlive.com/contents/49</guid>
+            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
+											19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/51f4399e739d4c42ab528b079b4252a2.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">ITZY</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"</em>
-									<span class="pickup-banner__date">
-										
-											09. Apr. 2022. 17:00 ~ 
-											18:40 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/20" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
+											18:40 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" alt="">
-									
-								</span>
-									
-									<em class="pickup-banner__count" data-time="2022.03.11.21.00" data-now="2022.03.10.18.25.29">00 : 00 : 00</em>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/a3de99dbe63845b5ae7391cfc6d8b0bb.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">DJ Mar Vista</em>
-									</div>
-									<em class="pickup-banner__title">[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista</em>
-									<span class="pickup-banner__date">
-										
-											11. Mar. 2022. 21:00 ~ 
-											22:05 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/60" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/60</link>
+            <guid>https://beyondlive.com/contents/60</guid>
+            <pubDate>Tue, 08 Mar 2022 09:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[11. Mar. 2022. 21:00 ~ 
+											22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" alt="">
-									
-								</span>
-									
-									<em class="pickup-banner__count" data-time="2022.03.13.16.00" data-now="2022.03.10.18.25.29">00 : 00 : 00</em>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/719d559cd7be440db228454a05c7c928.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">WONPIL</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’</em>
-									<span class="pickup-banner__date">
-										
-											13. Mar. 2022. 16:00 ~ 
-											18:00 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/51" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/51</link>
+            <guid>https://beyondlive.com/contents/51</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[13. Mar. 2022. 16:00 ~ 
+											18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/0ef9ffa0335a40839475477bf41073be.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">SHINee</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - SHINee WORLD (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/12" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/12</link>
+            <guid>https://beyondlive.com/contents/12</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/c28d914bf1a7480ebe87e02d3eeca4e1.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">DAY6</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - Day6 (Even of Day) (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/6" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/6</link>
+            <guid>https://beyondlive.com/contents/6</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/e569dec9e5764ea1af32be3d030561d9.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">TAEMIN</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE VOD - N.G.D.A (Coming soon)</em>
-									<span class="pickup-banner__date">
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/5" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/5</link>
+            <guid>https://beyondlive.com/contents/5</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/dd81325ab46b43f7b28db2c1eb88947a.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">Red Velvet</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’</em>
-									<span class="pickup-banner__date">
-										
-											20. Mar. 2022. 17:00 ~ 
-											19:00 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/49" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/49</link>
+            <guid>https://beyondlive.com/contents/49</guid>
+            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[20. Mar. 2022. 17:00 ~ 
+											19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[undefined (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/beyondlive/all.xml</guid>
-            <pubDate>Thu, 10 Mar 2022 09:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="pickup-banner__img">
-									<img src="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" alt="">
-									
-								</span>
-									
-								<div class="pickup-banner__info pickup-banner__info--online">
-									<div class="pickup-banner__artist">
-										<span class="pickup-banner__logo">
-											<img src="https://static.beyondlive.com/contents/51f4399e739d4c42ab528b079b4252a2.jpg" alt="">
-										</span>
-										<em class="pickup-banner__name">ITZY</em>
-									</div>
-									<em class="pickup-banner__title">Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!"</em>
-									<span class="pickup-banner__date">
-										
-											09. Apr. 2022. 17:00 ~ 
-											18:40 (KST)
-										
-									</span>
-									<span class="pickup-banner__more">
-										
-											View detail
-											
-											
-									</span>
-								</div>
-								<a href="/contents/20" class="pickup-banner__link">
-									<span class="blind">
-										
-											View detail
-											
-										
-									</span>
-								</a>]]></content:encoded>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/20</link>
+            <guid>https://beyondlive.com/contents/20</guid>
+            <pubDate>Thu, 27 Jan 2022 03:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[09. Apr. 2022. 17:00 ~ 
+											18:40 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
