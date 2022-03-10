@@ -20,7 +20,7 @@ imageSelector = "img.list-grid__img"
 waitUntil = "networkidle"
 
 [home]
-title = "Beyond LIVE"
+title = "Beyond LIVE ─ TOP"
 url = "https://beyondlive.com/"
 entrySelector = "div.top-banner__slide-inner:not(.top-banner__slide.swiper-slide.swiper-slide-duplicate *)"
 titleSelector = "a.top-banner__title"
