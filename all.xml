@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 05:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 06:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,6 +127,14 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(62);</link>
+            <guid>javascript:moveViewPage(62);</guid>
+            <pubDate>Sat, 12 Mar 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f2ed236d9d394134b208ea8baa673bb7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(61);</link>
             <guid>javascript:moveViewPage(61);</guid>
             <pubDate>Fri, 11 Mar 2022 13:19:10 GMT</pubDate>
@@ -230,21 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/77fa3fac00de4a94a11689f6d29bfb58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(47);</link>
-            <guid>javascript:moveViewPage(47);</guid>
-            <pubDate>Fri, 18 Feb 2022 13:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[DJ WOW]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/fc3f0d38f4054bebb1665cfe559ac141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/61</link>
-            <guid>https://beyondlive.com/contents/61</guid>
-            <pubDate>Fri, 11 Mar 2022 13:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[12. 3월. 2022. 14:00 ~ 
-												15:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/caa75ac1098f4dc799adcc6fdffd48b1.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/62</link>
+            <guid>https://beyondlive.com/contents/62</guid>
+            <pubDate>Sat, 12 Mar 2022 06:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[13. 3월. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b2b902447cea4f2b9f62b3e8a7cdfe4b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ TOP)]]></title>
@@ -272,6 +272,15 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/62</link>
+            <guid>https://beyondlive.com/contents/62</guid>
+            <pubDate>Sat, 12 Mar 2022 06:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[13. 3월. 2022. 05:00 ~ 
+											06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f2ed236d9d394134b208ea8baa673bb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>

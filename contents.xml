@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 05:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 06:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 22 Feb 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[WONPIL]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista]]></title>
+            <link>javascript:moveViewPage(62);</link>
+            <guid>javascript:moveViewPage(62);</guid>
+            <pubDate>Sat, 12 Mar 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f2ed236d9d394134b208ea8baa673bb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jan 2022 09:12:42 GMT</pubDate>
             <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/77fa3fac00de4a94a11689f6d29bfb58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
-            <link>javascript:moveViewPage(47);</link>
-            <guid>javascript:moveViewPage(47);</guid>
-            <pubDate>Fri, 18 Feb 2022 13:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[DJ WOW]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/fc3f0d38f4054bebb1665cfe559ac141.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
