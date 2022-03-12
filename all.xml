@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 06:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 07:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,7 +261,7 @@
             <guid>https://beyondlive.com/contents/51</guid>
             <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
             <content:encoded><![CDATA[13. 3월. 2022. 16:00 ~ 
-												18:30 (KST)]]></content:encoded>
+												18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/4d07ba98b09d485aa452305fb8eaca8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -277,7 +277,7 @@
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/62</link>
             <guid>https://beyondlive.com/contents/62</guid>
-            <pubDate>Sat, 12 Mar 2022 06:17:08 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2022 06:17:02 GMT</pubDate>
             <content:encoded><![CDATA[13. 3월. 2022. 05:00 ~ 
 											06:05 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f2ed236d9d394134b208ea8baa673bb7.jpg" length="0" type="image/jpg"/>
@@ -288,7 +288,7 @@
             <guid>https://beyondlive.com/contents/51</guid>
             <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
             <content:encoded><![CDATA[13. 3월. 2022. 16:00 ~ 
-											18:30 (KST)]]></content:encoded>
+											18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
