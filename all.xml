@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 10:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 11:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,20 +13,6 @@
             <guid>https://beyondlive.com/notice/32</guid>
             <pubDate>Fri, 25 Feb 2022 10:14:41 GMT</pubDate>
             <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/31</link>
-            <guid>https://beyondlive.com/notice/31</guid>
-            <pubDate>Tue, 22 Feb 2022 06:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[22. 2월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue‘ (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/30</link>
-            <guid>https://beyondlive.com/notice/30</guid>
-            <pubDate>Mon, 21 Feb 2022 06:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[21. 2월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -69,6 +55,20 @@
             <guid>https://beyondlive.com/notice/33</guid>
             <pubDate>Fri, 25 Feb 2022 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/31</link>
+            <guid>https://beyondlive.com/notice/31</guid>
+            <pubDate>Tue, 22 Feb 2022 06:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[22. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내]Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue‘ (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/30</link>
+            <guid>https://beyondlive.com/notice/30</guid>
+            <pubDate>Mon, 21 Feb 2022 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[21. 2월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’, DJ 와우 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
