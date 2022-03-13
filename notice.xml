@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-03-13T06:19:48.994Z</updated>
+    <updated>2022-03-13T07:13:31.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[공연 안내]DJ 스트리밍 쇼 ‘SHOWME’ 10번째 주자, 마비스타 출격!]]></title>
-        <id>https://beyondlive.com/notice/37</id>
-        <link href="https://beyondlive.com/notice/37"/>
-        <updated>2022-03-11T12:23:01.922Z</updated>
-        <content type="html"><![CDATA[11. 3월. 2022]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[기능 추가 안내]Beyond LIVE신기능 "MY Beyond"추가에 대하여 안내 말씀 드립니다.]]></title>
         <id>https://beyondlive.com/notice/32</id>
@@ -39,6 +32,13 @@
         <link href="https://beyondlive.com/notice/29"/>
         <updated>2022-02-19T09:13:41.205Z</updated>
         <content type="html"><![CDATA[19. 2월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 10번째 주자, 마비스타 출격!]]></title>
+        <id>https://beyondlive.com/notice/37</id>
+        <link href="https://beyondlive.com/notice/37"/>
+        <updated>2022-03-11T12:23:01.922Z</updated>
+        <content type="html"><![CDATA[11. 3월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[완료]‘SHOWME’ 9번째 공연, DJ 코커(co.kr) 공연 4일 오후 9시 공개!]]></title>

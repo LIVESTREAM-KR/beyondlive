@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 06:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 07:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공연 안내]DJ 스트리밍 쇼 ‘SHOWME’ 10번째 주자, 마비스타 출격! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/37</link>
-            <guid>https://beyondlive.com/notice/37</guid>
-            <pubDate>Fri, 11 Mar 2022 12:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[11. 3월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[기능 추가 안내]Beyond LIVE신기능 "MY Beyond"추가에 대하여 안내 말씀 드립니다. (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/32</link>
@@ -41,6 +34,13 @@
             <guid>https://beyondlive.com/notice/29</guid>
             <pubDate>Sat, 19 Feb 2022 09:13:41 GMT</pubDate>
             <content:encoded><![CDATA[19. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 10번째 주자, 마비스타 출격! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/37</link>
+            <guid>https://beyondlive.com/notice/37</guid>
+            <pubDate>Fri, 11 Mar 2022 12:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[11. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]‘SHOWME’ 9번째 공연, DJ 코커(co.kr) 공연 4일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
@@ -238,15 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/77fa3fac00de4a94a11689f6d29bfb58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/62</link>
-            <guid>https://beyondlive.com/contents/62</guid>
-            <pubDate>Sat, 12 Mar 2022 06:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[13. 3월. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b2b902447cea4f2b9f62b3e8a7cdfe4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/49</link>
             <guid>https://beyondlive.com/contents/49</guid>
@@ -272,15 +263,6 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/51</link>
-            <guid>https://beyondlive.com/contents/51</guid>
-            <pubDate>Fri, 25 Feb 2022 02:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[13. 3월. 2022. 16:00 ~ 
-											18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
