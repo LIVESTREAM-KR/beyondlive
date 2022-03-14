@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-03-14T02:12:26.713Z</updated>
+    <updated>2022-03-14T03:16:10.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://beyondlive.com/notice/40</id>
         <link href="https://beyondlive.com/notice/40"/>
         <updated>2022-03-13T12:20:58.344Z</updated>
+        <content type="html"><![CDATA[13. 3월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연 공지]  Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
+        <id>https://beyondlive.com/notice/39</id>
+        <link href="https://beyondlive.com/notice/39"/>
+        <updated>2022-03-14T03:15:51.010Z</updated>
         <content type="html"><![CDATA[13. 3월. 2022]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/31"/>
         <updated>2022-02-22T06:15:58.616Z</updated>
         <content type="html"><![CDATA[22. 2월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내]Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue‘]]></title>
-        <id>https://beyondlive.com/notice/30</id>
-        <link href="https://beyondlive.com/notice/30"/>
-        <updated>2022-02-21T06:16:51.175Z</updated>
-        <content type="html"><![CDATA[21. 2월. 2022]]></content>
     </entry>
 </feed>
