@@ -4,30 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 06:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon)]]></title>
-            <link>https://beyondlive.com/contents/12</link>
-            <guid>https://beyondlive.com/contents/12</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon)]]></title>
-            <link>https://beyondlive.com/contents/6</link>
-            <guid>https://beyondlive.com/contents/6</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon)]]></title>
-            <link>https://beyondlive.com/contents/5</link>
-            <guid>https://beyondlive.com/contents/5</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’]]></title>
             <link>https://beyondlive.com/contents/49</link>
@@ -52,6 +31,27 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 											18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon)]]></title>
+            <link>https://beyondlive.com/contents/12</link>
+            <guid>https://beyondlive.com/contents/12</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon)]]></title>
+            <link>https://beyondlive.com/contents/6</link>
+            <guid>https://beyondlive.com/contents/6</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon)]]></title>
+            <link>https://beyondlive.com/contents/5</link>
+            <guid>https://beyondlive.com/contents/5</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
