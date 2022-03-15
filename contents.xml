@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 28 Feb 2022 06:16:56 GMT</pubDate>
             <content:encoded><![CDATA[Red Velvet]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #011 : DJ TEZZ w/ Team Auspicious]]></title>
+            <link>javascript:moveViewPage(66);</link>
+            <guid>javascript:moveViewPage(66);</guid>
+            <pubDate>Tue, 15 Mar 2022 09:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[DJ TEZZ]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7ee16719c60d4947ad1028f1fd8a5788.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 11:11:57 GMT</pubDate>
             <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6675af3efbab46b7882ce8177dfc5e93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #007 : DJ WOW w/ Team Auspicious]]></title>
-            <link>javascript:moveViewPage(48);</link>
-            <guid>javascript:moveViewPage(48);</guid>
-            <pubDate>Sat, 19 Feb 2022 09:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[DJ WOW]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/dbacc16ccd68483f935dd7df3ca14865.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
