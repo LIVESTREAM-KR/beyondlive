@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 08:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 09:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연 공지]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/43</link>
+            <guid>https://beyondlive.com/notice/43</guid>
+            <pubDate>Fri, 18 Mar 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]  Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/42</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/36</guid>
             <pubDate>Fri, 04 Mar 2022 09:13:29 GMT</pubDate>
             <content:encoded><![CDATA[04. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/35</link>
-            <guid>https://beyondlive.com/notice/35</guid>
-            <pubDate>Mon, 28 Feb 2022 03:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[28. 2월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
@@ -302,7 +302,7 @@
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/71</link>
             <guid>https://beyondlive.com/contents/71</guid>
-            <pubDate>Fri, 18 Mar 2022 08:16:42 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 08:16:36 GMT</pubDate>
             <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
 											19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8bfea421e5e445149e82174c8cdd9a9b.jpg" length="0" type="image/jpg"/>
