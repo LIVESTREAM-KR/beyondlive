@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 06:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Beyond LIVE : NCT DREAM - DREAM STAGE <GLITCH MODE> 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/41</link>
+            <guid>https://beyondlive.com/notice/41</guid>
+            <pubDate>Fri, 18 Mar 2022 06:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/40</link>
@@ -67,13 +74,6 @@
             <title><![CDATA[[완료] DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/34</link>
             <guid>https://beyondlive.com/notice/34</guid>
-            <pubDate>Fri, 25 Feb 2022 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/33</link>
-            <guid>https://beyondlive.com/notice/33</guid>
             <pubDate>Fri, 25 Feb 2022 11:11:00 GMT</pubDate>
             <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
         </item>
