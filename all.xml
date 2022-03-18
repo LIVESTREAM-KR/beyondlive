@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 07:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내]  Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/42</link>
+            <guid>https://beyondlive.com/notice/42</guid>
+            <pubDate>Fri, 18 Mar 2022 08:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE : NCT DREAM - DREAM STAGE <GLITCH MODE> 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/41</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[28. 2월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[완료] DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/34</link>
-            <guid>https://beyondlive.com/notice/34</guid>
-            <pubDate>Fri, 25 Feb 2022 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(5);</link>
             <guid>javascript:moveViewPage(5);</guid>
@@ -108,6 +108,14 @@
             <pubDate>Fri, 07 Jan 2022 13:22:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(71);</link>
+            <guid>javascript:moveViewPage(71);</guid>
+            <pubDate>Fri, 18 Mar 2022 08:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8bfea421e5e445149e82174c8cdd9a9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/b1b55999727f40d8b50e09113734a509.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 이준호 FANMEETING <JUNHO THE MOMENT> 2nd Re-streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(17);</link>
-            <guid>javascript:moveViewPage(17);</guid>
-            <pubDate>Sat, 19 Feb 2022 11:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[이준호]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6675af3efbab46b7882ce8177dfc5e93.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/71</link>
+            <guid>https://beyondlive.com/contents/71</guid>
+            <pubDate>Fri, 18 Mar 2022 08:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b27bc120c8a34de3953198a216b61cb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #011 : DJ TEZZ w/ Team Auspicious (Beyond LIVE ─ TOP)]]></title>
@@ -288,6 +297,15 @@
             <content:encoded><![CDATA[27. 3월. 2022. 16:00 ~ 
 											18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b194571a4fa5485484457d027f55af02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/71</link>
+            <guid>https://beyondlive.com/contents/71</guid>
+            <pubDate>Fri, 18 Mar 2022 08:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
+											19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8bfea421e5e445149e82174c8cdd9a9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>

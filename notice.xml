@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-03-18T07:13:54.737Z</updated>
+    <updated>2022-03-18T08:16:43.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내]  Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY]]]></title>
+        <id>https://beyondlive.com/notice/42</id>
+        <link href="https://beyondlive.com/notice/42"/>
+        <updated>2022-03-18T08:16:24.947Z</updated>
+        <content type="html"><![CDATA[18. 3월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] Beyond LIVE : NCT DREAM - DREAM STAGE <GLITCH MODE> 티켓오픈공지]]></title>
         <id>https://beyondlive.com/notice/41</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/35"/>
         <updated>2022-02-28T03:14:36.985Z</updated>
         <content type="html"><![CDATA[28. 2월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료] DJ 스트리밍 쇼 ‘SHOWME’, 데미캣 공연 25일 오후 9시 공개!]]></title>
-        <id>https://beyondlive.com/notice/34</id>
-        <link href="https://beyondlive.com/notice/34"/>
-        <updated>2022-02-25T11:11:00.501Z</updated>
-        <content type="html"><![CDATA[25. 2월. 2022]]></content>
     </entry>
 </feed>

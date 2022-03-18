@@ -4,9 +4,18 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 07:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY]]]></title>
+            <link>https://beyondlive.com/contents/71</link>
+            <guid>https://beyondlive.com/contents/71</guid>
+            <pubDate>Fri, 18 Mar 2022 08:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b27bc120c8a34de3953198a216b61cb1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #011 : DJ TEZZ w/ Team Auspicious]]></title>
             <link>https://beyondlive.com/contents/66</link>
