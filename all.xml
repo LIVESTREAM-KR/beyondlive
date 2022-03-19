@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 20:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 21:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -236,15 +236,6 @@
             <pubDate>Sat, 26 Feb 2022 06:16:09 GMT</pubDate>
             <content:encoded><![CDATA[DJ Demicat]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1b3e211d80d648acb909408214b3626e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #011 : DJ TEZZ w/ Team Auspicious (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/68</link>
-            <guid>https://beyondlive.com/contents/68</guid>
-            <pubDate>Sat, 19 Mar 2022 05:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[20. 3월. 2022. 05:00 ~ 
-												05:55 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0e6a23dc415c4768b0585ee36969617d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ TOP)]]></title>
