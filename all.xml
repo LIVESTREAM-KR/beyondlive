@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 07:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 08:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,13 +263,6 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/49</link>
-            <guid>https://beyondlive.com/contents/49</guid>
-            <pubDate>Mon, 28 Feb 2022 06:17:03 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
