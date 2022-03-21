@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,6 +108,14 @@
             <pubDate>Fri, 07 Jan 2022 13:22:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(69);</link>
+            <guid>javascript:moveViewPage(69);</guid>
+            <pubDate>Mon, 21 Mar 2022 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5a48c2e8cf804cc2864a0e591e5c5d95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/88d318c999d34277b3a15b01153481ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #008 : DJ Demicat (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(56);</link>
-            <guid>javascript:moveViewPage(56);</guid>
-            <pubDate>Sat, 26 Feb 2022 06:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[DJ Demicat]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1b3e211d80d648acb909408214b3626e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/69</link>
+            <guid>https://beyondlive.com/contents/69</guid>
+            <pubDate>Mon, 21 Mar 2022 03:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[05. 4월. 2022. 21:00 ~ 
+												21:50 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/13f1db269eae44d7bac10e9b5f9c920b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ TOP)]]></title>
@@ -281,6 +290,15 @@
             <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
 											19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8bfea421e5e445149e82174c8cdd9a9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/69</link>
+            <guid>https://beyondlive.com/contents/69</guid>
+            <pubDate>Mon, 21 Mar 2022 03:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[05. 4월. 2022. 21:00 ~ 
+											21:50 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5a48c2e8cf804cc2864a0e591e5c5d95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>
