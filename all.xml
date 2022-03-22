@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 06:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Beyond LIVE : 2022 Debut Anniversary Fan Event : EXO 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/44</link>
+            <guid>https://beyondlive.com/notice/44</guid>
+            <pubDate>Tue, 22 Mar 2022 06:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[22. 3월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]  Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/42</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/37</guid>
             <pubDate>Fri, 11 Mar 2022 12:23:01 GMT</pubDate>
             <content:encoded><![CDATA[11. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]‘SHOWME’ 9번째 공연, DJ 코커(co.kr) 공연 4일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/36</link>
-            <guid>https://beyondlive.com/notice/36</guid>
-            <pubDate>Fri, 04 Mar 2022 09:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[04. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
