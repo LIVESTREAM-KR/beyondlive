@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 00:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공연 공지]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/43</link>
-            <guid>https://beyondlive.com/notice/43</guid>
-            <pubDate>Fri, 18 Mar 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연안내]  Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/42</link>
@@ -62,6 +55,13 @@
             <guid>https://beyondlive.com/notice/29</guid>
             <pubDate>Sat, 19 Feb 2022 09:13:41 GMT</pubDate>
             <content:encoded><![CDATA[19. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/43</link>
+            <guid>https://beyondlive.com/notice/43</guid>
+            <pubDate>Fri, 18 Mar 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 10번째 주자, 마비스타 출격! (Beyond LIVE ─ 공지사항)]]></title>

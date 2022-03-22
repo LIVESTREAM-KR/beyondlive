@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-03-22T00:57:06.894Z</updated>
+    <updated>2022-03-22T02:27:03.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[공연 공지]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개!]]></title>
-        <id>https://beyondlive.com/notice/43</id>
-        <link href="https://beyondlive.com/notice/43"/>
-        <updated>2022-03-18T09:13:56.060Z</updated>
-        <content type="html"><![CDATA[18. 3월. 2022]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내]  Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY]]]></title>
         <id>https://beyondlive.com/notice/42</id>
@@ -60,6 +53,13 @@
         <link href="https://beyondlive.com/notice/29"/>
         <updated>2022-02-19T09:13:41.205Z</updated>
         <content type="html"><![CDATA[19. 2월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개!]]></title>
+        <id>https://beyondlive.com/notice/43</id>
+        <link href="https://beyondlive.com/notice/43"/>
+        <updated>2022-03-18T09:13:56.060Z</updated>
+        <content type="html"><![CDATA[18. 3월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 ‘SHOWME’ 10번째 주자, 마비스타 출격!]]></title>
