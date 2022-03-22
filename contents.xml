@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 14 Mar 2022 06:17:24 GMT</pubDate>
             <content:encoded><![CDATA[WONPIL]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b194571a4fa5485484457d027f55af02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT]]></title>
+            <link>javascript:moveViewPage(74);</link>
+            <guid>javascript:moveViewPage(74);</guid>
+            <pubDate>Tue, 22 Mar 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[DJ BRLLNT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c4ac0068ac41483ebb71e73fbbb210da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 04 Mar 2022 13:18:41 GMT</pubDate>
             <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6b6d01ca26b44bb68010ee9468863405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious]]></title>
-            <link>javascript:moveViewPage(57);</link>
-            <guid>javascript:moveViewPage(57);</guid>
-            <pubDate>Tue, 01 Mar 2022 09:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/88d318c999d34277b3a15b01153481ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

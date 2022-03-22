@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <enclosure url="https://static.beyondlive.com/contents/b194571a4fa5485484457d027f55af02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(74);</link>
+            <guid>javascript:moveViewPage(74);</guid>
+            <pubDate>Tue, 22 Mar 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[DJ BRLLNT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c4ac0068ac41483ebb71e73fbbb210da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(49);</link>
             <guid>javascript:moveViewPage(49);</guid>
@@ -230,12 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/6b6d01ca26b44bb68010ee9468863405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(57);</link>
-            <guid>javascript:moveViewPage(57);</guid>
-            <pubDate>Tue, 01 Mar 2022 09:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/88d318c999d34277b3a15b01153481ba.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/74</link>
+            <guid>https://beyondlive.com/contents/74</guid>
+            <pubDate>Tue, 22 Mar 2022 09:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[25. 3월. 2022. 21:00 ~ 
+												22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/622d40887dcd4eac8baff1287a74b892.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> (Beyond LIVE ─ TOP)]]></title>
@@ -272,6 +281,15 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/74</link>
+            <guid>https://beyondlive.com/contents/74</guid>
+            <pubDate>Tue, 22 Mar 2022 09:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[25. 3월. 2022. 21:00 ~ 
+											22:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c4ac0068ac41483ebb71e73fbbb210da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
