@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(73);</link>
+            <guid>javascript:moveViewPage(73);</guid>
+            <pubDate>Thu, 24 Mar 2022 03:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[EXO]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/38a67f83850f4442af3b318f9b5c1e30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(58);</link>
-            <guid>javascript:moveViewPage(58);</guid>
-            <pubDate>Fri, 04 Mar 2022 13:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6b6d01ca26b44bb68010ee9468863405.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/73</link>
+            <guid>https://beyondlive.com/contents/73</guid>
+            <pubDate>Thu, 24 Mar 2022 03:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[09. 4월. 2022. 19:00 ~ 
+												20:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e1a62b86312c4ca59abbb7e89ccd3af9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ TOP)]]></title>
@@ -326,6 +335,15 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 											18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/73</link>
+            <guid>https://beyondlive.com/contents/73</guid>
+            <pubDate>Thu, 24 Mar 2022 03:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[09. 4월. 2022. 19:00 ~ 
+											20:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/38a67f83850f4442af3b318f9b5c1e30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
