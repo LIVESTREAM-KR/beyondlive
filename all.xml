@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 00:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,15 @@
             <enclosure url="https://static.beyondlive.com/contents/6b6d01ca26b44bb68010ee9468863405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/71</link>
+            <guid>https://beyondlive.com/contents/71</guid>
+            <pubDate>Fri, 18 Mar 2022 08:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b24036ee02a44037a874167299b9f662.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/74</link>
             <guid>https://beyondlive.com/contents/74</guid>
@@ -254,15 +263,6 @@
             <content:encoded><![CDATA[05. 4월. 2022. 21:00 ~ 
 												21:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/13f1db269eae44d7bac10e9b5f9c920b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/71</link>
-            <guid>https://beyondlive.com/contents/71</guid>
-            <pubDate>Fri, 18 Mar 2022 08:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
-												19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b27bc120c8a34de3953198a216b61cb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ TOP)]]></title>
