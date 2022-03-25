@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 12:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 13:47:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -143,6 +143,14 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(75);</link>
+            <guid>javascript:moveViewPage(75);</guid>
+            <pubDate>Fri, 25 Mar 2022 13:46:50 GMT</pubDate>
+            <content:encoded><![CDATA[DJ BRLLNT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f43ace9078444856b1fc9deb99421e37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(74);</link>
             <guid>javascript:moveViewPage(74);</guid>
             <pubDate>Tue, 22 Mar 2022 09:13:56 GMT</pubDate>
@@ -230,12 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/896be365c9814a8bbfecbc99e430dd2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(33);</link>
-            <guid>javascript:moveViewPage(33);</guid>
-            <pubDate>Mon, 14 Feb 2022 08:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c2b38a895e964a5fa8e343a257cfcb00.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/75</link>
+            <guid>https://beyondlive.com/contents/75</guid>
+            <pubDate>Fri, 25 Mar 2022 13:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[26. 3월. 2022. 13:00 ~ 
+												14:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f73c87a08ea14ce881fe008a7d510fe7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ TOP)]]></title>
@@ -254,15 +263,6 @@
             <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
 												19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b24036ee02a44037a874167299b9f662.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/74</link>
-            <guid>https://beyondlive.com/contents/74</guid>
-            <pubDate>Tue, 22 Mar 2022 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[25. 3월. 2022. 21:00 ~ 
-												22:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/622d40887dcd4eac8baff1287a74b892.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> (Beyond LIVE ─ TOP)]]></title>
@@ -290,6 +290,15 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/75</link>
+            <guid>https://beyondlive.com/contents/75</guid>
+            <pubDate>Fri, 25 Mar 2022 13:47:08 GMT</pubDate>
+            <content:encoded><![CDATA[26. 3월. 2022. 13:00 ~ 
+											14:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f43ace9078444856b1fc9deb99421e37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ Beyond NEXT)]]></title>
