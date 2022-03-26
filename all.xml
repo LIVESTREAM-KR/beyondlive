@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 20:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 21:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공연안내]DJ 스트리밍 쇼 'SHOWME' 첫 시즌 대미 장식! 마지막 주자 DJ BRLLNT 오늘 출격! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/45</link>
-            <guid>https://beyondlive.com/notice/45</guid>
-            <pubDate>Fri, 25 Mar 2022 07:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[25. 3월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE : 2022 Debut Anniversary Fan Event : EXO 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/44</link>
@@ -69,6 +62,13 @@
             <guid>https://beyondlive.com/notice/29</guid>
             <pubDate>Sat, 19 Feb 2022 09:13:41 GMT</pubDate>
             <content:encoded><![CDATA[19. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]DJ 스트리밍 쇼 'SHOWME' 첫 시즌 대미 장식! 마지막 주자 DJ BRLLNT 오늘 출격! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/45</link>
+            <guid>https://beyondlive.com/notice/45</guid>
+            <pubDate>Fri, 25 Mar 2022 07:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[25. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
@@ -236,15 +236,6 @@
             <pubDate>Fri, 04 Mar 2022 02:19:48 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5c94e93d7f9646c7a87a8736dadd5b47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/76</link>
-            <guid>https://beyondlive.com/contents/76</guid>
-            <pubDate>Sat, 26 Mar 2022 05:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[27. 3월. 2022. 05:00 ~ 
-												06:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3cbd296dff0748ed8db03c2f52bc5d2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ TOP)]]></title>
