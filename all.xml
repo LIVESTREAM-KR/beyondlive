@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 05:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 06:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -239,12 +239,12 @@
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/75</link>
-            <guid>https://beyondlive.com/contents/75</guid>
-            <pubDate>Fri, 25 Mar 2022 13:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[26. 3월. 2022. 13:00 ~ 
-												14:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f73c87a08ea14ce881fe008a7d510fe7.jpg" length="0" type="image/jpg"/>
+            <link>https://beyondlive.com/contents/76</link>
+            <guid>https://beyondlive.com/contents/76</guid>
+            <pubDate>Sat, 26 Mar 2022 05:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[27. 3월. 2022. 05:00 ~ 
+												06:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3cbd296dff0748ed8db03c2f52bc5d2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ TOP)]]></title>
