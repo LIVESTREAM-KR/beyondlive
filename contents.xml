@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 11:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 12:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Fri, 18 Mar 2022 08:16:30 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8bfea421e5e445149e82174c8cdd9a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’]]></title>
-            <link>javascript:moveViewPage(63);</link>
-            <guid>javascript:moveViewPage(63);</guid>
-            <pubDate>Mon, 14 Mar 2022 06:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[WONPIL]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b194571a4fa5485484457d027f55af02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 04 Mar 2022 02:19:48 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5c94e93d7f9646c7a87a8736dadd5b47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE] Beyond LIVE -SHOWME #009 : DJ co.kr  w/ Team Auspicious]]></title>
+            <link>javascript:moveViewPage(59);</link>
+            <guid>javascript:moveViewPage(59);</guid>
+            <pubDate>Mon, 28 Mar 2022 12:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[DJ co.kr]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/896be365c9814a8bbfecbc99e430dd2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
