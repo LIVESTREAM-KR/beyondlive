@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] 이벤트 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/46</link>
+            <guid>https://beyondlive.com/notice/46</guid>
+            <pubDate>Tue, 29 Mar 2022 06:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[28. 3월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE : 2022 Debut Anniversary Fan Event : EXO 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/44</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/45</guid>
             <pubDate>Fri, 25 Mar 2022 07:13:49 GMT</pubDate>
             <content:encoded><![CDATA[25. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/43</link>
-            <guid>https://beyondlive.com/notice/43</guid>
-            <pubDate>Fri, 18 Mar 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
