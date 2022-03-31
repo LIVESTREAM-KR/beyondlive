@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 12:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 13:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 18 Mar 2022 08:16:30 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8bfea421e5e445149e82174c8cdd9a9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 2nd Re-streaming]]></title>
+            <link>javascript:moveViewPage(53);</link>
+            <guid>javascript:moveViewPage(53);</guid>
+            <pubDate>Thu, 31 Mar 2022 13:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[WONPIL]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9d5c9dc2358b4cf291a80cd60b69dbbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 2nd Re-Streaming]]></title>
-            <link>javascript:moveViewPage(34);</link>
-            <guid>javascript:moveViewPage(34);</guid>
-            <pubDate>Fri, 04 Mar 2022 02:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5c94e93d7f9646c7a87a8736dadd5b47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

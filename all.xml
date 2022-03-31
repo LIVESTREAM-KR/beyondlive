@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 12:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 13:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,14 @@
             <enclosure url="https://static.beyondlive.com/contents/8bfea421e5e445149e82174c8cdd9a9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 2nd Re-streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(53);</link>
+            <guid>javascript:moveViewPage(53);</guid>
+            <pubDate>Thu, 31 Mar 2022 13:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[WONPIL]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9d5c9dc2358b4cf291a80cd60b69dbbf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(52);</link>
             <guid>javascript:moveViewPage(52);</guid>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' 2nd Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(34);</link>
-            <guid>javascript:moveViewPage(34);</guid>
-            <pubDate>Fri, 04 Mar 2022 02:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5c94e93d7f9646c7a87a8736dadd5b47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/73</link>
             <guid>https://beyondlive.com/contents/73</guid>
@@ -281,6 +281,15 @@
             <content:encoded><![CDATA[02. 4월. 2022. 20:00 ~ 
 											22:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1d0376245e554b6f82e1c6ab5545c658.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 2nd Re-streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/53</link>
+            <guid>https://beyondlive.com/contents/53</guid>
+            <pubDate>Thu, 31 Mar 2022 13:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[03. 4월. 2022. 11:00 ~ 
+											13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9d5c9dc2358b4cf291a80cd60b69dbbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ Beyond NEXT)]]></title>
