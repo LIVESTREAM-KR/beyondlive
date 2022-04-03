@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 09:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 10:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(72);</link>
+            <guid>javascript:moveViewPage(72);</guid>
+            <pubDate>Sun, 03 Apr 2022 10:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5217e3ca12954f29b9557239df995c9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/a307abfea0f94e5bae8b7ed8ae6a9aff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(60);</link>
-            <guid>javascript:moveViewPage(60);</guid>
-            <pubDate>Tue, 08 Mar 2022 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1d4f52a90f224c729857c5a25a156e19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/73</link>
             <guid>https://beyondlive.com/contents/73</guid>
@@ -252,7 +252,7 @@
             <guid>https://beyondlive.com/contents/71</guid>
             <pubDate>Fri, 18 Mar 2022 08:16:36 GMT</pubDate>
             <content:encoded><![CDATA[03. 4월. 2022. 17:00 ~ 
-												19:00 (KST)]]></content:encoded>
+												19:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b24036ee02a44037a874167299b9f662.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -299,6 +299,15 @@
             <content:encoded><![CDATA[09. 4월. 2022. 19:00 ~ 
 											20:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/38a67f83850f4442af3b318f9b5c1e30.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/72</link>
+            <guid>https://beyondlive.com/contents/72</guid>
+            <pubDate>Sun, 03 Apr 2022 10:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[17. 4월. 2022. 11:00 ~ 
+											13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5217e3ca12954f29b9557239df995c9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
