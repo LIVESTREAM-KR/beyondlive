@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 13:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 14:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,39 +15,11 @@
             <content:encoded><![CDATA[31. 3월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[EVENT] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] 이벤트 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/46</link>
-            <guid>https://beyondlive.com/notice/46</guid>
-            <pubDate>Tue, 29 Mar 2022 06:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[28. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] Beyond LIVE : 2022 Debut Anniversary Fan Event : EXO 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/44</link>
             <guid>https://beyondlive.com/notice/44</guid>
             <pubDate>Tue, 22 Mar 2022 06:16:58 GMT</pubDate>
             <content:encoded><![CDATA[22. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]  Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/42</link>
-            <guid>https://beyondlive.com/notice/42</guid>
-            <pubDate>Fri, 18 Mar 2022 08:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] Beyond LIVE : NCT DREAM - DREAM STAGE <GLITCH MODE> 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/41</link>
-            <guid>https://beyondlive.com/notice/41</guid>
-            <pubDate>Fri, 18 Mar 2022 06:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/40</link>
-            <guid>https://beyondlive.com/notice/40</guid>
-            <pubDate>Sun, 13 Mar 2022 12:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[13. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연 공지]  Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -76,6 +48,34 @@
             <guid>https://beyondlive.com/notice/29</guid>
             <pubDate>Tue, 05 Apr 2022 13:24:22 GMT</pubDate>
             <content:encoded><![CDATA[19. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]자체 최단 210만장 돌파한 NCT DREAM, 온라인 공연 ‘DREAM STAGE’ 5일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/48</link>
+            <guid>https://beyondlive.com/notice/48</guid>
+            <pubDate>Tue, 05 Apr 2022 14:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[05. 4월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] 이벤트 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/46</link>
+            <guid>https://beyondlive.com/notice/46</guid>
+            <pubDate>Tue, 29 Mar 2022 06:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[28. 3월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]DJ 스트리밍 쇼 'SHOWME' 첫 시즌 대미 장식! 마지막 주자 DJ BRLLNT 오늘 출격! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/45</link>
+            <guid>https://beyondlive.com/notice/45</guid>
+            <pubDate>Tue, 05 Apr 2022 14:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[25. 3월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/43</link>
+            <guid>https://beyondlive.com/notice/43</guid>
+            <pubDate>Tue, 05 Apr 2022 14:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[18. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
@@ -266,7 +266,7 @@
             <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/70</link>
             <guid>https://beyondlive.com/contents/70</guid>
-            <pubDate>Tue, 05 Apr 2022 13:24:43 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 13:24:35 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/354914a80be8408ea16afa78961ffeac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
