@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 03:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 04:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연 안내]자체 최단 210만장 돌파한 NCT DREAM, 온라인 공연 ‘DREAM STAGE’ 5일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/48</link>
+            <guid>https://beyondlive.com/notice/48</guid>
+            <pubDate>Tue, 05 Apr 2022 04:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[05. 4월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연 안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/47</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/32</guid>
             <pubDate>Fri, 25 Feb 2022 10:14:41 GMT</pubDate>
             <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/29</link>
-            <guid>https://beyondlive.com/notice/29</guid>
-            <pubDate>Sat, 19 Feb 2022 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[19. 2월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
