@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 12:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 13:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공연 안내]자체 최단 210만장 돌파한 NCT DREAM, 온라인 공연 ‘DREAM STAGE’ 5일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/48</link>
-            <guid>https://beyondlive.com/notice/48</guid>
-            <pubDate>Tue, 05 Apr 2022 04:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[05. 4월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연 안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/47</link>
@@ -78,6 +71,13 @@
             <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[공연안내]Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!” 연기 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/29</link>
+            <guid>https://beyondlive.com/notice/29</guid>
+            <pubDate>Tue, 05 Apr 2022 13:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[19. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(5);</link>
             <guid>javascript:moveViewPage(5);</guid>
@@ -124,6 +124,14 @@
             <pubDate>Fri, 07 Jan 2022 13:22:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(70);</link>
+            <guid>javascript:moveViewPage(70);</guid>
+            <pubDate>Tue, 05 Apr 2022 13:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/354914a80be8408ea16afa78961ffeac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> (Beyond LIVE ─ 공연)]]></title>
@@ -230,21 +238,11 @@
             <enclosure url="https://static.beyondlive.com/contents/f2ed236d9d394134b208ea8baa673bb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(61);</link>
-            <guid>javascript:moveViewPage(61);</guid>
-            <pubDate>Fri, 11 Mar 2022 13:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a307abfea0f94e5bae8b7ed8ae6a9aff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/69</link>
-            <guid>https://beyondlive.com/contents/69</guid>
-            <pubDate>Mon, 21 Mar 2022 03:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[05. 4월. 2022. 21:00 ~ 
-												21:40 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/13f1db269eae44d7bac10e9b5f9c920b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/70</link>
+            <guid>https://beyondlive.com/contents/70</guid>
+            <pubDate>Tue, 05 Apr 2022 13:24:35 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/748a4b5d09f44768b308227d5d993201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ TOP)]]></title>
@@ -263,6 +261,13 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~ 
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/70</link>
+            <guid>https://beyondlive.com/contents/70</guid>
+            <pubDate>Tue, 05 Apr 2022 13:24:43 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/354914a80be8408ea16afa78961ffeac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>
