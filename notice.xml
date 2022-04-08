@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-04-08T07:14:59.750Z</updated>
+    <updated>2022-04-08T08:17:27.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘데뷔 10주년’ 엑소, K팝 이끈 눈부신 활약! 기록이 말해주는 ‘K팝 킹’!]]></title>
+        <id>https://beyondlive.com/notice/49</id>
+        <link href="https://beyondlive.com/notice/49"/>
+        <updated>2022-04-08T08:17:04.085Z</updated>
+        <content type="html"><![CDATA[08. 4월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연 안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내]]></title>
         <id>https://beyondlive.com/notice/47</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/45"/>
         <updated>2022-04-05T14:13:49.776Z</updated>
         <content type="html"><![CDATA[25. 3월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]'SHOWME' 11번째 주자, DJ TEZZ 공연 18일 오후 9시 공개!]]></title>
-        <id>https://beyondlive.com/notice/43</id>
-        <link href="https://beyondlive.com/notice/43"/>
-        <updated>2022-04-05T14:13:49.777Z</updated>
-        <content type="html"><![CDATA[18. 3월. 2022]]></content>
     </entry>
 </feed>
