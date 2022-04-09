@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 00:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 02:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,15 +263,6 @@
             <content:encoded><![CDATA[09. 4월. 2022. 17:00 ~
 												18:40 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/66f835d8ac394d21887e2e96972b5e6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/70</link>
-            <guid>https://beyondlive.com/contents/70</guid>
-            <pubDate>Tue, 05 Apr 2022 13:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[09. 4월. 2022. 11:00 ~
-											11:33 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/354914a80be8408ea16afa78961ffeac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ Beyond NEXT)]]></title>
