@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 04:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -236,15 +236,6 @@
             <pubDate>Sat, 12 Mar 2022 06:16:55 GMT</pubDate>
             <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f2ed236d9d394134b208ea8baa673bb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/70</link>
-            <guid>https://beyondlive.com/contents/70</guid>
-            <pubDate>Tue, 05 Apr 2022 13:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[09. 4월. 2022. 11:00 ~
-												11:33 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/748a4b5d09f44768b308227d5d993201.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ TOP)]]></title>
