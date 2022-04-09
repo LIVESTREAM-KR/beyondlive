@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 14:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 15:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,9 +12,14 @@
             <link>https://beyondlive.com/contents/72</link>
             <guid>https://beyondlive.com/contents/72</guid>
             <pubDate>Sun, 03 Apr 2022 10:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[17. 4월. 2022. 11:00 ~
-											13:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5217e3ca12954f29b9557239df995c9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/64</link>
+            <guid>https://beyondlive.com/contents/64</guid>
+            <pubDate>Sat, 09 Apr 2022 15:14:36 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/2c497485e9bb4feab72a4b56374a782d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon)]]></title>

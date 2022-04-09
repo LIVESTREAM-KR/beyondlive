@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 14:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 15:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming]]></title>
+            <link>javascript:moveViewPage(64);</link>
+            <guid>javascript:moveViewPage(64);</guid>
+            <pubDate>Sat, 09 Apr 2022 15:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[WONPIL]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2c497485e9bb4feab72a4b56374a782d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[WONPIL]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #010 : DJ Mar Vista]]></title>
-            <link>javascript:moveViewPage(62);</link>
-            <guid>javascript:moveViewPage(62);</guid>
-            <pubDate>Sat, 12 Mar 2022 06:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[DJ Mar Vista]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f2ed236d9d394134b208ea8baa673bb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
