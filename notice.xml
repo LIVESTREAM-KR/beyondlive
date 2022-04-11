@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-04-11T02:52:46.353Z</updated>
+    <updated>2022-04-11T03:41:15.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내]Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in SEOUL 티켓오픈공지]]></title>
+        <id>https://beyondlive.com/notice/50</id>
+        <link href="https://beyondlive.com/notice/50"/>
+        <updated>2022-04-11T03:40:57.292Z</updated>
+        <content type="html"><![CDATA[09. 4월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연 안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내]]></title>
         <id>https://beyondlive.com/notice/47</id>
         <link href="https://beyondlive.com/notice/47"/>
         <updated>2022-03-31T10:16:18.633Z</updated>
         <content type="html"><![CDATA[31. 3월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료] Beyond LIVE : 2022 Debut Anniversary Fan Event : EXO 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/44</id>
-        <link href="https://beyondlive.com/notice/44"/>
-        <updated>2022-03-22T06:16:58.363Z</updated>
-        <content type="html"><![CDATA[22. 3월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연 공지]  Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>

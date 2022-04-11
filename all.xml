@@ -4,22 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 02:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내]Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in SEOUL 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/50</link>
+            <guid>https://beyondlive.com/notice/50</guid>
+            <pubDate>Mon, 11 Apr 2022 03:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[09. 4월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연 안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/47</link>
             <guid>https://beyondlive.com/notice/47</guid>
             <pubDate>Thu, 31 Mar 2022 10:16:18 GMT</pubDate>
             <content:encoded><![CDATA[31. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료] Beyond LIVE : 2022 Debut Anniversary Fan Event : EXO 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/44</link>
-            <guid>https://beyondlive.com/notice/44</guid>
-            <pubDate>Tue, 22 Mar 2022 06:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[22. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연 공지]  Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내 (Beyond LIVE ─ 공지사항)]]></title>
