@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 02:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 03:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/388d69ff34d64cea9c412e92ab6debd1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(78);</link>
+            <guid>javascript:moveViewPage(78);</guid>
+            <pubDate>Tue, 12 Apr 2022 03:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ebd7a114837c4343b34a6220f023d63e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/7ee16719c60d4947ad1028f1fd8a5788.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(51);</link>
-            <guid>javascript:moveViewPage(51);</guid>
-            <pubDate>Tue, 22 Feb 2022 06:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[WONPIL]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9a1433c64d3d406ea73355befd6c2d3a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/78</link>
+            <guid>https://beyondlive.com/contents/78</guid>
+            <pubDate>Tue, 12 Apr 2022 03:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
+												19:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0f35fda79f6e4bb68f84b6542aa63f2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -264,6 +273,15 @@
             <guid>https://beyondlive.com/contents/64</guid>
             <pubDate>Sat, 09 Apr 2022 15:14:30 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/2c497485e9bb4feab72a4b56374a782d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/78</link>
+            <guid>https://beyondlive.com/contents/78</guid>
+            <pubDate>Tue, 12 Apr 2022 03:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
+											19:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ebd7a114837c4343b34a6220f023d63e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 02:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 03:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,15 @@
             <guid>https://beyondlive.com/contents/64</guid>
             <pubDate>Sat, 09 Apr 2022 15:14:36 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/2c497485e9bb4feab72a4b56374a782d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/78</link>
+            <guid>https://beyondlive.com/contents/78</guid>
+            <pubDate>Tue, 12 Apr 2022 03:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
+											19:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ebd7a114837c4343b34a6220f023d63e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon)]]></title>

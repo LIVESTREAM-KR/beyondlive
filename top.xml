@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 02:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 03:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/78</link>
+            <guid>https://beyondlive.com/contents/78</guid>
+            <pubDate>Tue, 12 Apr 2022 03:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
+												19:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0f35fda79f6e4bb68f84b6542aa63f2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/72</link>
