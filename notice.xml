@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-04-15T05:19:47.582Z</updated>
+    <updated>2022-04-15T06:18:12.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 티켓오픈공지]]></title>
+        <id>https://beyondlive.com/notice/51</id>
+        <link href="https://beyondlive.com/notice/51"/>
+        <updated>2022-04-15T06:17:52.990Z</updated>
+        <content type="html"><![CDATA[14. 4월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내]Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in SEOUL 티켓오픈공지]]></title>
         <id>https://beyondlive.com/notice/50</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/45"/>
         <updated>2022-04-05T14:13:49.776Z</updated>
         <content type="html"><![CDATA[25. 3월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료] Beyond LIVE : 2022 Debut Anniversary Fan Event : EXO 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/44</id>
-        <link href="https://beyondlive.com/notice/44"/>
-        <updated>2022-04-11T08:17:44.144Z</updated>
-        <content type="html"><![CDATA[22. 3월. 2022]]></content>
     </entry>
 </feed>
