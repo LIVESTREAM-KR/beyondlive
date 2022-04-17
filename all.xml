@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 05:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 06:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,14 @@
             <pubDate>Sun, 17 Apr 2022 03:28:49 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3ebfbc92a0b1423e8c137ab68a631154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(77);</link>
+            <guid>javascript:moveViewPage(77);</guid>
+            <pubDate>Sun, 17 Apr 2022 06:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[WONPIL]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3f92dae18d0441a6b73554eb3b3d1e71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/93c5df440b2d431b9e769a7f378a6259.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #011 : DJ TEZZ w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(67);</link>
-            <guid>javascript:moveViewPage(67);</guid>
-            <pubDate>Fri, 18 Mar 2022 13:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[DJ TEZZ]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9610ba0870f3497eae27929b1aefa8fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/78</link>
             <guid>https://beyondlive.com/contents/78</guid>
@@ -272,6 +272,15 @@
             <content:encoded><![CDATA[17. 4월. 2022. 20:00 ~
 											22:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2c497485e9bb4feab72a4b56374a782d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/77</link>
+            <guid>https://beyondlive.com/contents/77</guid>
+            <pubDate>Sun, 17 Apr 2022 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[24. 4월. 2022. 20:00 ~
+											22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3f92dae18d0441a6b73554eb3b3d1e71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

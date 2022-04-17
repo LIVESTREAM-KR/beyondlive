@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 05:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 06:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,15 @@
             <content:encoded><![CDATA[17. 4월. 2022. 20:00 ~
 											22:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2c497485e9bb4feab72a4b56374a782d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming]]></title>
+            <link>https://beyondlive.com/contents/77</link>
+            <guid>https://beyondlive.com/contents/77</guid>
+            <pubDate>Sun, 17 Apr 2022 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[24. 4월. 2022. 20:00 ~
+											22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3f92dae18d0441a6b73554eb3b3d1e71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming]]></title>
