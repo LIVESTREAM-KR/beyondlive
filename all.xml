@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 04:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 05:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,7 +252,7 @@
             <guid>https://beyondlive.com/contents/72</guid>
             <pubDate>Sun, 03 Apr 2022 10:15:33 GMT</pubDate>
             <content:encoded><![CDATA[17. 4월. 2022. 11:00 ~
-												14:25 (KST)]]></content:encoded>
+												14:15 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b992331767de453f984e85eb1ad260ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
