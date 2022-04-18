@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 01:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -108,6 +108,14 @@
             <pubDate>Tue, 12 Apr 2022 03:32:24 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ebd7a114837c4343b34a6220f023d63e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(81);</link>
+            <guid>javascript:moveViewPage(81);</guid>
+            <pubDate>Mon, 18 Apr 2022 03:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[2PM (JUN. K &amp; 우영)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2403216112dc4dd2b7aaee545745ca2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #011 : DJ TEZZ w/ Team Auspicious (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(68);</link>
-            <guid>javascript:moveViewPage(68);</guid>
-            <pubDate>Sat, 19 Mar 2022 05:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[DJ TEZZ]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/93c5df440b2d431b9e769a7f378a6259.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/81</link>
+            <guid>https://beyondlive.com/contents/81</guid>
+            <pubDate>Mon, 18 Apr 2022 03:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[01. 5월. 2022. 16:00 ~
+												18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5c73973f32284278a95a1b12294d60ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL (Beyond LIVE ─ TOP)]]></title>
@@ -245,15 +254,6 @@
             <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
 												19:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0f35fda79f6e4bb68f84b6542aa63f2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/72</link>
-            <guid>https://beyondlive.com/contents/72</guid>
-            <pubDate>Sun, 03 Apr 2022 10:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[17. 4월. 2022. 11:00 ~
-												14:15 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b992331767de453f984e85eb1ad260ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -281,6 +281,15 @@
             <content:encoded><![CDATA[30. 4월. 2022. 20:00 ~
 											22:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3ebfbc92a0b1423e8c137ab68a631154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/81</link>
+            <guid>https://beyondlive.com/contents/81</guid>
+            <pubDate>Mon, 18 Apr 2022 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[01. 5월. 2022. 16:00 ~
+											18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2403216112dc4dd2b7aaee545745ca2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL (Beyond LIVE ─ Beyond NEXT)]]></title>

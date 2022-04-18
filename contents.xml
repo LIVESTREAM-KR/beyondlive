@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 01:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 12 Apr 2022 03:32:24 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ebd7a114837c4343b34a6220f023d63e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430>]]></title>
+            <link>javascript:moveViewPage(81);</link>
+            <guid>javascript:moveViewPage(81);</guid>
+            <pubDate>Mon, 18 Apr 2022 03:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[2PM (JUN. K &amp; 우영)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2403216112dc4dd2b7aaee545745ca2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Feb 2022 06:16:56 GMT</pubDate>
             <content:encoded><![CDATA[Red Velvet]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #011 : DJ TEZZ w/ Team Auspicious]]></title>
-            <link>javascript:moveViewPage(68);</link>
-            <guid>javascript:moveViewPage(68);</guid>
-            <pubDate>Sat, 19 Mar 2022 05:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[DJ TEZZ]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/93c5df440b2d431b9e769a7f378a6259.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
