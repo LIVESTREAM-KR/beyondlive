@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 10:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,20 +78,20 @@
             <content:encoded><![CDATA[25. 3월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(5);</link>
-            <guid>javascript:moveViewPage(5);</guid>
-            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[TAEMIN]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(12);</link>
             <guid>javascript:moveViewPage(12);</guid>
             <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
             <content:encoded><![CDATA[SHINee]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE VOD - N.G.D.A (Coming soon) (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(5);</link>
+            <guid>javascript:moveViewPage(5);</guid>
+            <pubDate>Wed, 05 Jan 2022 17:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[TAEMIN]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon) (Beyond LIVE ─ 공연)]]></title>
@@ -124,6 +124,14 @@
             <pubDate>Sun, 17 Apr 2022 03:28:49 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3ebfbc92a0b1423e8c137ab68a631154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 2nd Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(65);</link>
+            <guid>javascript:moveViewPage(65);</guid>
+            <pubDate>Mon, 18 Apr 2022 10:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[WONPIL]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/55a003ab7ac84081bf50af81bcab789d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,13 @@
             <enclosure url="https://static.beyondlive.com/contents/c4ac0068ac41483ebb71e73fbbb210da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(49);</link>
-            <guid>javascript:moveViewPage(49);</guid>
-            <pubDate>Mon, 28 Feb 2022 06:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ef9664179c9c409eb08275ae88a58189.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/77</link>
+            <guid>https://beyondlive.com/contents/77</guid>
+            <pubDate>Sun, 17 Apr 2022 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[24. 4월. 2022. 20:00 ~
+												22:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7b157768baac4002b8a9b60452d336c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> (Beyond LIVE ─ TOP)]]></title>
@@ -256,22 +265,22 @@
             <enclosure url="https://static.beyondlive.com/contents/0f35fda79f6e4bb68f84b6542aa63f2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/64</link>
-            <guid>https://beyondlive.com/contents/64</guid>
-            <pubDate>Sat, 09 Apr 2022 15:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[17. 4월. 2022. 20:00 ~
-												23:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2914a185f88242d08604c66783170de1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/77</link>
             <guid>https://beyondlive.com/contents/77</guid>
             <pubDate>Sun, 17 Apr 2022 06:17:30 GMT</pubDate>
             <content:encoded><![CDATA[24. 4월. 2022. 20:00 ~
-											22:00 (KST)]]></content:encoded>
+											22:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3f92dae18d0441a6b73554eb3b3d1e71.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 2nd Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/65</link>
+            <guid>https://beyondlive.com/contents/65</guid>
+            <pubDate>Mon, 18 Apr 2022 10:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[28. 4월. 2022. 20:00 ~
+											23:05 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/55a003ab7ac84081bf50af81bcab789d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -301,13 +310,6 @@
             <enclosure url="https://static.beyondlive.com/contents/ebd7a114837c4343b34a6220f023d63e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/12</link>
-            <guid>https://beyondlive.com/contents/12</guid>
-            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/6</link>
             <guid>https://beyondlive.com/contents/6</guid>
@@ -320,6 +322,13 @@
             <guid>https://beyondlive.com/contents/5</guid>
             <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/61ae8ba97688499496851df846ea4190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/12</link>
+            <guid>https://beyondlive.com/contents/12</guid>
+            <pubDate>Thu, 10 Mar 2022 09:27:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/1956d2d0d30448c78928043898e4d76d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
