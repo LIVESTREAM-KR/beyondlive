@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 06:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이벤트 안내] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] PROMOTION EVENT 50인 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/52</link>
+            <guid>https://beyondlive.com/notice/52</guid>
+            <pubDate>Tue, 19 Apr 2022 06:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[18. 4월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/51</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/46</guid>
             <pubDate>Tue, 29 Mar 2022 06:18:06 GMT</pubDate>
             <content:encoded><![CDATA[28. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]DJ 스트리밍 쇼 'SHOWME' 첫 시즌 대미 장식! 마지막 주자 DJ BRLLNT 오늘 출격! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/45</link>
-            <guid>https://beyondlive.com/notice/45</guid>
-            <pubDate>Tue, 05 Apr 2022 14:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[25. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ 공연)]]></title>
