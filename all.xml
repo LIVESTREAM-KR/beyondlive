@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 10:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 11:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,15 +263,6 @@
             <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
 												19:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0f35fda79f6e4bb68f84b6542aa63f2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/77</link>
-            <guid>https://beyondlive.com/contents/77</guid>
-            <pubDate>Sat, 23 Apr 2022 11:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[24. 4월. 2022. 20:00 ~
-											22:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3f92dae18d0441a6b73554eb3b3d1e71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 2nd Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
