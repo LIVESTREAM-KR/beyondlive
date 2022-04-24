@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,14 @@
             <pubDate>Sat, 23 Apr 2022 11:12:16 GMT</pubDate>
             <content:encoded><![CDATA[2PM (JUN. K &amp; 우영)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2403216112dc4dd2b7aaee545745ca2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 2nd Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(39);</link>
+            <guid>javascript:moveViewPage(39);</guid>
+            <pubDate>Sun, 24 Apr 2022 04:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1ded088ac0314939afa42f6ae3887d6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/f43ace9078444856b1fc9deb99421e37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE] Beyond LIVE - SHOWME #012 : DJ BRLLNT (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(74);</link>
-            <guid>javascript:moveViewPage(74);</guid>
-            <pubDate>Sat, 23 Apr 2022 11:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[DJ BRLLNT]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c4ac0068ac41483ebb71e73fbbb210da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/77</link>
             <guid>https://beyondlive.com/contents/77</guid>
@@ -290,6 +290,15 @@
             <content:encoded><![CDATA[30. 4월. 2022. 20:00 ~
 											22:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3ebfbc92a0b1423e8c137ab68a631154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 2nd Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/39</link>
+            <guid>https://beyondlive.com/contents/39</guid>
+            <pubDate>Sun, 24 Apr 2022 04:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[01. 5월. 2022. 11:00 ~
+											13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1ded088ac0314939afa42f6ae3887d6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> (Beyond LIVE ─ Beyond NEXT)]]></title>

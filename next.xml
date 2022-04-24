@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 04:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,6 +33,15 @@
             <content:encoded><![CDATA[30. 4월. 2022. 20:00 ~
 											22:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3ebfbc92a0b1423e8c137ab68a631154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 2nd Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/39</link>
+            <guid>https://beyondlive.com/contents/39</guid>
+            <pubDate>Sun, 24 Apr 2022 04:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[01. 5월. 2022. 11:00 ~
+											13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1ded088ac0314939afa42f6ae3887d6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430>]]></title>
