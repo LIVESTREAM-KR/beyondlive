@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-04-25T04:22:09.117Z</updated>
+    <updated>2022-04-25T05:15:08.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내]연휴 기간 1:1문의 휴무안내]]></title>
+        <id>https://beyondlive.com/notice/53</id>
+        <link href="https://beyondlive.com/notice/53"/>
+        <updated>2022-04-25T05:14:49.031Z</updated>
+        <content type="html"><![CDATA[25. 4월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이벤트 안내] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] PROMOTION EVENT 50인 당첨자 발표]]></title>
         <id>https://beyondlive.com/notice/52</id>
@@ -27,25 +34,11 @@
         <content type="html"><![CDATA[09. 4월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연 안내]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내]]></title>
-        <id>https://beyondlive.com/notice/47</id>
-        <link href="https://beyondlive.com/notice/47"/>
-        <updated>2022-03-31T10:16:18.633Z</updated>
-        <content type="html"><![CDATA[31. 3월. 2022]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[공연 공지]  Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
         <id>https://beyondlive.com/notice/39</id>
         <link href="https://beyondlive.com/notice/39"/>
         <updated>2022-03-14T03:15:51.010Z</updated>
         <content type="html"><![CDATA[13. 3월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 티켓오픈공지]]></title>
-        <id>https://beyondlive.com/notice/38</id>
-        <link href="https://beyondlive.com/notice/38"/>
-        <updated>2022-03-14T06:17:18.468Z</updated>
-        <content type="html"><![CDATA[12. 3월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[기능 추가 안내]Beyond LIVE신기능 "MY Beyond"추가에 대하여 안내 말씀 드립니다.]]></title>
@@ -67,6 +60,13 @@
         <link href="https://beyondlive.com/notice/48"/>
         <updated>2022-04-05T14:13:49.774Z</updated>
         <content type="html"><![CDATA[05. 4월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내]]></title>
+        <id>https://beyondlive.com/notice/47</id>
+        <link href="https://beyondlive.com/notice/47"/>
+        <updated>2022-03-31T10:16:18.633Z</updated>
+        <content type="html"><![CDATA[31. 3월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[완료] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] 이벤트 안내]]></title>
