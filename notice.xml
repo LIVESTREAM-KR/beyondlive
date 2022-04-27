@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-04-27T01:17:11.748Z</updated>
+    <updated>2022-04-27T03:40:40.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[안내]연휴 기간 1:1문의 휴무안내]]></title>
-        <id>https://beyondlive.com/notice/53</id>
-        <link href="https://beyondlive.com/notice/53"/>
-        <updated>2022-04-25T05:14:49.031Z</updated>
-        <content type="html"><![CDATA[25. 4월. 2022]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[이벤트 안내] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] PROMOTION EVENT 50인 당첨자 발표]]></title>
         <id>https://beyondlive.com/notice/52</id>
@@ -74,5 +67,12 @@
         <link href="https://beyondlive.com/notice/46"/>
         <updated>2022-03-29T06:18:06.036Z</updated>
         <content type="html"><![CDATA[28. 3월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 'SHOWME' 첫 시즌 대미 장식! 마지막 주자 DJ BRLLNT 오늘 출격!]]></title>
+        <id>https://beyondlive.com/notice/45</id>
+        <link href="https://beyondlive.com/notice/45"/>
+        <updated>2022-04-27T03:40:22.048Z</updated>
+        <content type="html"><![CDATA[25. 3월. 2022]]></content>
     </entry>
 </feed>
