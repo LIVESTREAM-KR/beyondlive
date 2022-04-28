@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 10:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 11:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,15 +263,6 @@
             <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
 												19:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0f35fda79f6e4bb68f84b6542aa63f2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 2nd Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/65</link>
-            <guid>https://beyondlive.com/contents/65</guid>
-            <pubDate>Sat, 23 Apr 2022 11:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[28. 4월. 2022. 20:00 ~
-											23:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/55a003ab7ac84081bf50af81bcab789d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
