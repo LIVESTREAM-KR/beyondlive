@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 14:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[이벤트 안내] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] PROMOTION EVENT 50인 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/52</link>
-            <guid>https://beyondlive.com/notice/52</guid>
-            <pubDate>Sat, 23 Apr 2022 11:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[18. 4월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/51</link>
@@ -41,6 +34,13 @@
             <guid>https://beyondlive.com/notice/32</guid>
             <pubDate>Sat, 23 Apr 2022 11:12:10 GMT</pubDate>
             <content:encoded><![CDATA[25. 2월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] PROMOTION EVENT 50인 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/52</link>
+            <guid>https://beyondlive.com/notice/52</guid>
+            <pubDate>Sat, 23 Apr 2022 11:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[18. 4월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘데뷔 10주년’ 엑소, K팝 이끈 눈부신 활약! 기록이 말해주는 ‘K팝 킹’! (Beyond LIVE ─ 공지사항)]]></title>
