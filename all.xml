@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 01:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 03:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -243,7 +243,7 @@
             <guid>https://beyondlive.com/contents/39</guid>
             <pubDate>Sun, 24 Apr 2022 04:17:57 GMT</pubDate>
             <content:encoded><![CDATA[01. 5월. 2022. 11:00 ~
-												13:00 (KST)]]></content:encoded>
+												14:05 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2173e1e2d75b4b05bf5e4aed23d6fc2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -263,15 +263,6 @@
             <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
 												19:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0f35fda79f6e4bb68f84b6542aa63f2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 2nd Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/39</link>
-            <guid>https://beyondlive.com/contents/39</guid>
-            <pubDate>Sun, 24 Apr 2022 04:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[01. 5월. 2022. 11:00 ~
-											13:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1ded088ac0314939afa42f6ae3887d6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> (Beyond LIVE ─ Beyond NEXT)]]></title>
