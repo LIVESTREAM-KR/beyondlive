@@ -4,24 +4,26 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 07:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 08:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL 1st Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/79</link>
+            <guid>https://beyondlive.com/contents/79</guid>
+            <pubDate>Fri, 06 May 2022 08:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[28. 5월. 2022. 20:00 ~
+												22:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b18c96325db145878f967beb51d90339.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 1st Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/82</link>
             <guid>https://beyondlive.com/contents/82</guid>
             <pubDate>Sun, 01 May 2022 11:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[21. 5월. 2022. 20:00 ~
+												22:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8b54254b4da14f358c5d022a8b288934.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/78</link>
-            <guid>https://beyondlive.com/contents/78</guid>
-            <pubDate>Tue, 12 Apr 2022 03:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[01. 5월. 2022. 17:00 ~
-												21:15 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0f35fda79f6e4bb68f84b6542aa63f2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
