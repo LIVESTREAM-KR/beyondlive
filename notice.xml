@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-05-06T04:19:01.625Z</updated>
+    <updated>2022-05-06T05:15:38.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 WJSN CONCERT [WONDERLAND]]]></title>
+        <id>https://beyondlive.com/notice/54</id>
+        <link href="https://beyondlive.com/notice/54"/>
+        <updated>2022-05-06T05:15:15.389Z</updated>
+        <content type="html"><![CDATA[05. 5월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 티켓오픈공지]]></title>
         <id>https://beyondlive.com/notice/51</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/46"/>
         <updated>2022-03-29T06:18:06.036Z</updated>
         <content type="html"><![CDATA[28. 3월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]DJ 스트리밍 쇼 'SHOWME' 첫 시즌 대미 장식! 마지막 주자 DJ BRLLNT 오늘 출격!]]></title>
-        <id>https://beyondlive.com/notice/45</id>
-        <link href="https://beyondlive.com/notice/45"/>
-        <updated>2022-04-27T03:40:22.048Z</updated>
-        <content type="html"><![CDATA[25. 3월. 2022]]></content>
     </entry>
 </feed>
