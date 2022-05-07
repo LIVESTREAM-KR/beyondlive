@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-05-07T01:03:16.843Z</updated>
+    <updated>2022-05-07T02:58:48.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
-        <title type="html"><![CDATA[2022 WJSN CONCERT [WONDERLAND]]]></title>
+        <title type="html"><![CDATA[[공연안내] Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] 티켓오픈공지]]></title>
         <id>https://beyondlive.com/notice/54</id>
         <link href="https://beyondlive.com/notice/54"/>
         <updated>2022-05-06T05:15:15.389Z</updated>
