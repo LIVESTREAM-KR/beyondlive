@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-05-09T05:19:00.573Z</updated>
+    <updated>2022-05-09T06:19:38.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -11,20 +11,6 @@
         <link href="https://beyondlive.com/notice/54"/>
         <updated>2022-05-06T05:15:15.389Z</updated>
         <content type="html"><![CDATA[05. 5월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 티켓오픈공지]]></title>
-        <id>https://beyondlive.com/notice/51</id>
-        <link href="https://beyondlive.com/notice/51"/>
-        <updated>2022-04-15T06:17:52.990Z</updated>
-        <content type="html"><![CDATA[14. 4월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내]Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in SEOUL 티켓오픈공지]]></title>
-        <id>https://beyondlive.com/notice/50</id>
-        <link href="https://beyondlive.com/notice/50"/>
-        <updated>2022-04-11T03:40:57.292Z</updated>
-        <content type="html"><![CDATA[09. 4월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연 공지]  Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
@@ -46,6 +32,20 @@
         <link href="https://beyondlive.com/notice/52"/>
         <updated>2022-04-19T06:18:56.346Z</updated>
         <content type="html"><![CDATA[18. 4월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료] Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 티켓오픈공지]]></title>
+        <id>https://beyondlive.com/notice/51</id>
+        <link href="https://beyondlive.com/notice/51"/>
+        <updated>2022-04-15T06:17:52.990Z</updated>
+        <content type="html"><![CDATA[14. 4월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료]Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in SEOUL 티켓오픈공지]]></title>
+        <id>https://beyondlive.com/notice/50</id>
+        <link href="https://beyondlive.com/notice/50"/>
+        <updated>2022-04-11T03:40:57.292Z</updated>
+        <content type="html"><![CDATA[09. 4월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘데뷔 10주년’ 엑소, K팝 이끈 눈부신 활약! 기록이 말해주는 ‘K팝 킹’!]]></title>
