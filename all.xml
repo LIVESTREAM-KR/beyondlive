@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 05:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 06:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내]Beyond LIVE – NCT 127 2ND TOUR ‘NEO CITY : JAPAN – THE LINK’   온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/55</link>
+            <guid>https://beyondlive.com/notice/55</guid>
+            <pubDate>Thu, 12 May 2022 06:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[12. 5월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/54</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/47</guid>
             <pubDate>Sat, 23 Apr 2022 11:12:10 GMT</pubDate>
             <content:encoded><![CDATA[31. 3월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] 이벤트 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/46</link>
-            <guid>https://beyondlive.com/notice/46</guid>
-            <pubDate>Sat, 23 Apr 2022 11:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[28. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - SHINee WORLD (Coming soon) (Beyond LIVE ─ 공연)]]></title>
