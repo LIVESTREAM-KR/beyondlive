@@ -4,26 +4,17 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 16:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 1st Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/82</link>
-            <guid>https://beyondlive.com/contents/82</guid>
-            <pubDate>Sun, 01 May 2022 11:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[21. 5월. 2022. 20:00 ~
-											22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/919e532f4e4243829c11235a63727e2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430> 2nd Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/83</link>
-            <guid>https://beyondlive.com/contents/83</guid>
-            <pubDate>Sun, 01 May 2022 11:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[22. 5월. 2022. 11:00 ~
-											13:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/accbcbe820fa43f0b69a4f5d0668664b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : JAPAN – THE LINK']]></title>
+            <link>https://beyondlive.com/contents/86</link>
+            <guid>https://beyondlive.com/contents/86</guid>
+            <pubDate>Sun, 22 May 2022 16:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[28. 5월. 2022. 18:00 ~
+											21:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c03103e13ca441a8bac565bb9f6c4490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL 1st Re-Streaming]]></title>
@@ -42,6 +33,15 @@
             <content:encoded><![CDATA[29. 5월. 2022. 11:00 ~
 											13:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/24534107a07144e39323fb8a19c48dd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND]]]></title>
+            <link>https://beyondlive.com/contents/84</link>
+            <guid>https://beyondlive.com/contents/84</guid>
+            <pubDate>Sun, 22 May 2022 16:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[12. 6월. 2022. 17:00 ~
+											19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/50a18e582556467a96005413f399026d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE VOD - Day6 (Even of Day) (Coming soon)]]></title>
