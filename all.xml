@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 08:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,15 +263,6 @@
             <content:encoded><![CDATA[28. 5월. 2022. 20:00 ~
 												00:05 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b18c96325db145878f967beb51d90339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : JAPAN – THE LINK' (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/86</link>
-            <guid>https://beyondlive.com/contents/86</guid>
-            <pubDate>Sun, 22 May 2022 16:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[28. 5월. 2022. 18:00 ~
-											21:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c03103e13ca441a8bac565bb9f6c4490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL 1st Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
