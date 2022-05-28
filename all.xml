@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 14:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 15:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,15 @@
             <enclosure url="https://static.beyondlive.com/contents/354914a80be8408ea16afa78961ffeac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL 2nd Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/80</link>
+            <guid>https://beyondlive.com/contents/80</guid>
+            <pubDate>Sun, 01 May 2022 11:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[29. 5월. 2022. 11:00 ~
+												14:55 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f671ab9312bc41a584b6a8375e034dec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/84</link>
             <guid>https://beyondlive.com/contents/84</guid>
@@ -247,21 +256,12 @@
             <enclosure url="https://static.beyondlive.com/contents/4dc21e9ab2054b72b2eb4a02aa114df2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL 1st Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/79</link>
-            <guid>https://beyondlive.com/contents/79</guid>
-            <pubDate>Sun, 01 May 2022 11:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[28. 5월. 2022. 20:00 ~
-												00:05 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b18c96325db145878f967beb51d90339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL 2nd Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/80</link>
             <guid>https://beyondlive.com/contents/80</guid>
             <pubDate>Sun, 01 May 2022 11:13:34 GMT</pubDate>
             <content:encoded><![CDATA[29. 5월. 2022. 11:00 ~
-											15:05 (KST)]]></content:encoded>
+											14:55 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/24534107a07144e39323fb8a19c48dd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
