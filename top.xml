@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://beyondlive.com/?lang=ko</id>
-    <title>Beyond LIVE ─ TOP</title>
-    <updated>2022-05-30T05:24:24.592Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://beyondlive.com/resources/favicon_32x32.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Beyond LIVE ─ TOP</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 May 2022 06:22:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond VOD - 2PM ONLINE FANMEETING <Dear. HOTTEST>]]></title>
+            <link>https://beyondlive.com/contents/vod/99</link>
+            <guid>https://beyondlive.com/contents/vod/99</guid>
+            <pubDate>Mon, 30 May 2022 06:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/861043c47d7748db8ed671e4cf71a8bf.jpg);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/contents/212ff2f4b9ac453b8358a218fa1fd833.png" alt="">
+											</span>
+											<em class="top-banner__name">2PM</em>
+										</div>
+										<a href="/contents/vod/99" class="top-banner__title">Beyond VOD - 2PM ONLINE FANMEETING &lt;Dear. HOTTEST&gt;</a>
+										<a href="/contents/vod/99" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/861043c47d7748db8ed671e4cf71a8bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond VOD - DAY6 (Even of Day) : Right Through Me]]></title>
+            <link>https://beyondlive.com/contents/vod/98</link>
+            <guid>https://beyondlive.com/contents/vod/98</guid>
+            <pubDate>Mon, 30 May 2022 06:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/462fc386777c44d0b7d66870226d44f3.jpg);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/contents/5bc011eb2b22419983abcc337d0a88d5.jpg" alt="">
+											</span>
+											<em class="top-banner__name">DAY6 (Even of Day)</em>
+										</div>
+										<a href="/contents/vod/98" class="top-banner__title">Beyond VOD - DAY6 (Even of Day) : Right Through Me</a>
+										<a href="/contents/vod/98" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/462fc386777c44d0b7d66870226d44f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND]]]></title>
+            <link>https://beyondlive.com/contents/84</link>
+            <guid>https://beyondlive.com/contents/84</guid>
+            <pubDate>Mon, 30 May 2022 06:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[12. 6월. 2022. 17:00 ~
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/4dc21e9ab2054b72b2eb4a02aa114df2.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

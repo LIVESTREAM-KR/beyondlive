@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://beyondlive.com/?lang=ko</id>
-    <title>Beyond LIVE ─ Beyond NEXT</title>
-    <updated>2022-05-30T05:24:24.579Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://beyondlive.com/resources/favicon_32x32.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Beyond LIVE ─ Beyond NEXT</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 30 May 2022 06:22:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond VOD - SUPER JUNIOR-K.R.Y. : 푸르게 빛나는 우리의 계절(The moment with us)]]></title>
+            <link>https://beyondlive.com/contents/vod/94</link>
+            <guid>https://beyondlive.com/contents/vod/94</guid>
+            <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/8e441fe799b841f486eeb6cafeccc131.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond VOD - 2020 TVXQ! ONLINE FANMEETING '동(冬),방(房),신기 with Cassiopeia]]></title>
+            <link>https://beyondlive.com/contents/vod/95</link>
+            <guid>https://beyondlive.com/contents/vod/95</guid>
+            <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/0d6db174e26a479db0112e2ff00dbecb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond VOD - NCT : RESONANCE 'Global Wave’]]></title>
+            <link>https://beyondlive.com/contents/vod/96</link>
+            <guid>https://beyondlive.com/contents/vod/96</guid>
+            <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/e811281a0716418f899bf3690335f4a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond VOD - BAEKHYUN : LIGHT]]></title>
+            <link>https://beyondlive.com/contents/vod/97</link>
+            <guid>https://beyondlive.com/contents/vod/97</guid>
+            <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/8b9116aa00cf4392af121ff78caec8e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond VOD - DAY6 (Even of Day) : Right Through Me]]></title>
+            <link>https://beyondlive.com/contents/vod/98</link>
+            <guid>https://beyondlive.com/contents/vod/98</guid>
+            <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/0f4c6e9ed7104120b27f9db05960524e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond VOD - 2PM ONLINE FANMEETING <Dear. HOTTEST>]]></title>
+            <link>https://beyondlive.com/contents/vod/99</link>
+            <guid>https://beyondlive.com/contents/vod/99</guid>
+            <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/ca396308c4e740bfa9bb352514e6ad37.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND]]]></title>
+            <link>https://beyondlive.com/contents/84</link>
+            <guid>https://beyondlive.com/contents/84</guid>
+            <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[12. 6월. 2022. 17:00 ~
+												19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/50a18e582556467a96005413f399026d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
