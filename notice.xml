@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-05-31T06:20:15.347Z</updated>
+    <updated>2022-05-31T07:15:11.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[27. 5월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[점검]Beyond LIVE서비스 점검 안내]]></title>
+        <title type="html"><![CDATA[[완료]Beyond LIVE서비스 점검 안내]]></title>
         <id>https://beyondlive.com/notice/56</id>
         <link href="https://beyondlive.com/notice/56"/>
         <updated>2022-05-30T06:22:39.012Z</updated>
