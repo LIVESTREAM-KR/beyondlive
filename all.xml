@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,20 +13,6 @@
             <guid>https://beyondlive.com/notice/57</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[27. 5월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/56</link>
-            <guid>https://beyondlive.com/notice/56</guid>
-            <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[27. 5월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]Beyond LIVE – NCT 127 2ND TOUR ‘NEO CITY : JAPAN – THE LINK’   온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/55</link>
-            <guid>https://beyondlive.com/notice/55</guid>
-            <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[12. 5월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -41,6 +27,20 @@
             <guid>https://beyondlive.com/notice/39</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[13. 3월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/56</link>
+            <guid>https://beyondlive.com/notice/56</guid>
+            <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[27. 5월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]Beyond LIVE – NCT 127 2ND TOUR ‘NEO CITY : JAPAN – THE LINK’   온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/55</link>
+            <guid>https://beyondlive.com/notice/55</guid>
+            <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[12. 5월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] PROMOTION EVENT 50인 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
