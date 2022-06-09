@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -55,7 +55,7 @@
             <guid>https://beyondlive.com/contents/84</guid>
             <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
             <content:encoded><![CDATA[12. 6월. 2022. 17:00 ~
-												19:00 (KST)]]></content:encoded>
+												20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/50a18e582556467a96005413f399026d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
