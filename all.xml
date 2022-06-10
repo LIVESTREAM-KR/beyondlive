@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 01:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 03:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,6 @@
             <guid>https://beyondlive.com/notice/54</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[05. 5월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연 공지]  Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/39</link>
-            <guid>https://beyondlive.com/notice/39</guid>
-            <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[13. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/48</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[05. 4월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/47</link>
+            <guid>https://beyondlive.com/notice/47</guid>
+            <pubDate>Fri, 10 Jun 2022 03:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[31. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] (Beyond LIVE ─ 공연)]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-06-10T01:13:14.852Z</updated>
+    <updated>2022-06-10T03:18:51.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://beyondlive.com/notice/54"/>
         <updated>2022-05-30T06:22:39.015Z</updated>
         <content type="html"><![CDATA[05. 5월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연 공지]  Beyond LIVE - Red Velvet SPECIAL LIVE ‘2022 The ReVe Festival : Prologue’ 잠정연기 안내]]></title>
-        <id>https://beyondlive.com/notice/39</id>
-        <link href="https://beyondlive.com/notice/39"/>
-        <updated>2022-05-30T06:22:39.015Z</updated>
-        <content type="html"><![CDATA[13. 3월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[완료]Beyond LIVE서비스 점검 안내]]></title>
@@ -74,5 +67,12 @@
         <link href="https://beyondlive.com/notice/48"/>
         <updated>2022-05-30T06:22:39.021Z</updated>
         <content type="html"><![CDATA[05. 4월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내]]></title>
+        <id>https://beyondlive.com/notice/47</id>
+        <link href="https://beyondlive.com/notice/47"/>
+        <updated>2022-06-10T03:18:32.441Z</updated>
+        <content type="html"><![CDATA[31. 3월. 2022]]></content>
     </entry>
 </feed>
