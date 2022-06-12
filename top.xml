@@ -4,9 +4,16 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 11:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 12:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/85</link>
+            <guid>https://beyondlive.com/contents/85</guid>
+            <pubDate>Sun, 12 Jun 2022 12:22:53 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/0ec0f6af467f4163a51b4574e1df05f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond VOD - 2PM ONLINE FANMEETING <Dear. HOTTEST>]]></title>
             <link>https://beyondlive.com/contents/vod/99</link>
@@ -46,15 +53,6 @@
 										</a>
 									</div>]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/462fc386777c44d0b7d66870226d44f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND]]]></title>
-            <link>https://beyondlive.com/contents/84</link>
-            <guid>https://beyondlive.com/contents/84</guid>
-            <pubDate>Mon, 30 May 2022 06:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[12. 6월. 2022. 17:00 ~
-												20:20 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4dc21e9ab2054b72b2eb4a02aa114df2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
