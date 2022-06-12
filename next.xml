@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 09:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 10:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,13 @@
             <guid>https://beyondlive.com/contents/vod/99</guid>
             <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/ca396308c4e740bfa9bb352514e6ad37.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/85</link>
+            <guid>https://beyondlive.com/contents/85</guid>
+            <pubDate>Sun, 12 Jun 2022 10:14:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/eba12f31f1b64b87abe98f9204df604b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 09:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 10:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] Re-Streaming]]></title>
+            <link>javascript:moveViewPage(85);</link>
+            <guid>javascript:moveViewPage(85);</guid>
+            <pubDate>Sun, 12 Jun 2022 10:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/eba12f31f1b64b87abe98f9204df604b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND]]]></title>
             <link>javascript:moveViewPage(84);</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8bfea421e5e445149e82174c8cdd9a9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 2nd Re-streaming]]></title>
-            <link>javascript:moveViewPage(53);</link>
-            <guid>javascript:moveViewPage(53);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[WONPIL]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9d5c9dc2358b4cf291a80cd60b69dbbf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
