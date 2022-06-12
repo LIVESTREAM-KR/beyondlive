@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 07:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 08:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,15 +48,6 @@
             <guid>https://beyondlive.com/contents/vod/99</guid>
             <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/ca396308c4e740bfa9bb352514e6ad37.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND]]]></title>
-            <link>https://beyondlive.com/contents/84</link>
-            <guid>https://beyondlive.com/contents/84</guid>
-            <pubDate>Mon, 30 May 2022 06:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[12. 6월. 2022. 17:00 ~
-												20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/50a18e582556467a96005413f399026d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
