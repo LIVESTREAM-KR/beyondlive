@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-06-17T05:16:42.808Z</updated>
+    <updated>2022-06-17T06:18:27.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD]]></title>
+        <id>https://beyondlive.com/notice/58</id>
+        <link href="https://beyondlive.com/notice/58"/>
+        <updated>2022-06-17T06:18:09.079Z</updated>
+        <content type="html"><![CDATA[16. 6월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Beyond VOD SERVICE OPEN!]]]></title>
         <id>https://beyondlive.com/notice/57</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/48"/>
         <updated>2022-05-30T06:22:39.021Z</updated>
         <content type="html"><![CDATA[05. 4월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내]]></title>
-        <id>https://beyondlive.com/notice/47</id>
-        <link href="https://beyondlive.com/notice/47"/>
-        <updated>2022-06-10T03:18:32.441Z</updated>
-        <content type="html"><![CDATA[31. 3월. 2022]]></content>
     </entry>
 </feed>

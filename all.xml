@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/58</link>
+            <guid>https://beyondlive.com/notice/58</guid>
+            <pubDate>Fri, 17 Jun 2022 06:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[16. 6월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[Beyond VOD SERVICE OPEN!] (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/57</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/48</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[05. 4월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 추가 리스트리밍 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/47</link>
-            <guid>https://beyondlive.com/notice/47</guid>
-            <pubDate>Fri, 10 Jun 2022 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[31. 3월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] Re-Streaming (Beyond LIVE ─ 공연)]]></title>
