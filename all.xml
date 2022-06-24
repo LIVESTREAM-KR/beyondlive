@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] 2022.06.24 Beyond LIVE Facebook 로그인 장애 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/61</link>
+            <guid>https://beyondlive.com/notice/61</guid>
+            <pubDate>Fri, 24 Jun 2022 09:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[정정：공연안내] Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD (6월 21일 정정) (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/58</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/49</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[08. 4월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]자체 최단 210만장 돌파한 NCT DREAM, 온라인 공연 ‘DREAM STAGE’ 5일 오후 9시 공개! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/48</link>
-            <guid>https://beyondlive.com/notice/48</guid>
-            <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[05. 4월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD (Beyond LIVE ─ 공연)]]></title>
