@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 03:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 04:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://beyondlive.com/notice/61</link>
             <guid>https://beyondlive.com/notice/61</guid>
             <pubDate>Fri, 24 Jun 2022 09:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] 2022.06.24Beyond LIVE 앱 최신 버전 업데이트 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/59</link>
+            <guid>https://beyondlive.com/notice/59</guid>
+            <pubDate>Sat, 25 Jun 2022 04:24:34 GMT</pubDate>
             <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
         </item>
         <item>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/50</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[09. 4월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘데뷔 10주년’ 엑소, K팝 이끈 눈부신 활약! 기록이 말해주는 ‘K팝 킹’! (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/49</link>
-            <guid>https://beyondlive.com/notice/49</guid>
-            <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[08. 4월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD (Beyond LIVE ─ 공연)]]></title>
