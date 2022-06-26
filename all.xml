@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 05:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 06:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -245,15 +245,6 @@
             <content:encoded><![CDATA[17. 7월. 2022. 16:00 ~
 												18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ddece353771e452cb2d81b140854cf27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/85</link>
-            <guid>https://beyondlive.com/contents/85</guid>
-            <pubDate>Sun, 12 Jun 2022 10:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[26. 6월. 2022. 11:00 ~
-												14:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0ec0f6af467f4163a51b4574e1df05f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond VOD - 2PM ONLINE FANMEETING <Dear. HOTTEST> (Beyond LIVE ─ TOP)]]></title>
