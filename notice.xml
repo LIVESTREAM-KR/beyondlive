@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-07-06T01:25:04.985Z</updated>
+    <updated>2022-07-06T03:47:08.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
-        <title type="html"><![CDATA[[대응 완료]2022.06.24 Beyond LIVE Facebook 로그인 장애 안내]]></title>
-        <id>https://beyondlive.com/notice/61</id>
-        <link href="https://beyondlive.com/notice/61"/>
-        <updated>2022-06-24T09:14:11.653Z</updated>
-        <content type="html"><![CDATA[24. 6월. 2022]]></content>
+        <title type="html"><![CDATA[[공연안내] Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/63</id>
+        <link href="https://beyondlive.com/notice/63"/>
+        <updated>2022-07-06T03:46:49.679Z</updated>
+        <content type="html"><![CDATA[05. 7월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[안내] 2022.06.24Beyond LIVE 앱 최신 버전 업데이트 안내]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[27. 5월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] 티켓오픈공지]]></title>
-        <id>https://beyondlive.com/notice/54</id>
-        <link href="https://beyondlive.com/notice/54"/>
-        <updated>2022-05-30T06:22:39.015Z</updated>
-        <content type="html"><![CDATA[05. 5월. 2022]]></content>
+        <title type="html"><![CDATA[[대응 완료]2022.06.24 Beyond LIVE Facebook 로그인 장애 안내]]></title>
+        <id>https://beyondlive.com/notice/61</id>
+        <link href="https://beyondlive.com/notice/61"/>
+        <updated>2022-06-24T09:14:11.653Z</updated>
+        <content type="html"><![CDATA[24. 6월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[완료]Beyond LIVE서비스 점검 안내]]></title>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[12. 5월. 2022]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[완료] Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] 티켓오픈공지]]></title>
+        <id>https://beyondlive.com/notice/54</id>
+        <link href="https://beyondlive.com/notice/54"/>
+        <updated>2022-05-30T06:22:39.015Z</updated>
+        <content type="html"><![CDATA[05. 5월. 2022]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[완료] CRAVITY THE 1ST CONCERT [CENTER OF GRAVITY] PROMOTION EVENT 50인 당첨자 발표]]></title>
         <id>https://beyondlive.com/notice/52</id>
         <link href="https://beyondlive.com/notice/52"/>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/51"/>
         <updated>2022-05-30T06:22:39.018Z</updated>
         <content type="html"><![CDATA[14. 4월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in SEOUL 티켓오픈공지]]></title>
-        <id>https://beyondlive.com/notice/50</id>
-        <link href="https://beyondlive.com/notice/50"/>
-        <updated>2022-05-30T06:22:39.019Z</updated>
-        <content type="html"><![CDATA[09. 4월. 2022]]></content>
     </entry>
 </feed>
