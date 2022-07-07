@@ -4,9 +4,25 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～”]]></title>
+            <link>javascript:moveViewPage(136);</link>
+            <guid>javascript:moveViewPage(136);</guid>
+            <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[HKT48]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/44fc343dcd5d4d378b3be060eb267c1a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～”]]></title>
+            <link>javascript:moveViewPage(134);</link>
+            <guid>javascript:moveViewPage(134);</guid>
+            <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[HKT48]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b78c137ffeda461082dbf38e42b04066.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD]]></title>
             <link>javascript:moveViewPage(100);</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE> Re-Streaming]]></title>
-            <link>javascript:moveViewPage(70);</link>
-            <guid>javascript:moveViewPage(70);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/354914a80be8408ea16afa78961ffeac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM - DREAM STAGE <GLITCH MODE>]]></title>
-            <link>javascript:moveViewPage(69);</link>
-            <guid>javascript:moveViewPage(69);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5a48c2e8cf804cc2864a0e591e5c5d95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
