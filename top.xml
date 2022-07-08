@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 01:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 03:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 7월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1d39a71e42e44c769c86cf9e85d8694e.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN]]></title>
+            <link>https://beyondlive.com/contents/133</link>
+            <guid>https://beyondlive.com/contents/133</guid>
+            <pubDate>Fri, 08 Jul 2022 03:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[27. 7월. 2022. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/020278e9e7ef4045934182faef985108.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD]]></title>

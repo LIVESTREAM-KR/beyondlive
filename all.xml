@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 01:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 03:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/54</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[05. 5월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(133);</link>
+            <guid>javascript:moveViewPage(133);</guid>
+            <pubDate>Fri, 08 Jul 2022 03:39:22 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a3b7e6952c2f4a539c3471c3437007be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/38a67f83850f4442af3b318f9b5c1e30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(20);</link>
-            <guid>javascript:moveViewPage(20);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e468a99995704e7f810aff8c9024f70d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/134</link>
             <guid>https://beyondlive.com/contents/134</guid>
@@ -252,6 +252,14 @@
             <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 7월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1d39a71e42e44c769c86cf9e85d8694e.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/133</link>
+            <guid>https://beyondlive.com/contents/133</guid>
+            <pubDate>Fri, 08 Jul 2022 03:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[27. 7월. 2022. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/020278e9e7ef4045934182faef985108.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD (Beyond LIVE ─ TOP)]]></title>
@@ -366,6 +374,14 @@
             <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 7월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/44fc343dcd5d4d378b3be060eb267c1a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/133</link>
+            <guid>https://beyondlive.com/contents/133</guid>
+            <pubDate>Fri, 08 Jul 2022 03:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[27. 7월. 2022. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a3b7e6952c2f4a539c3471c3437007be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
