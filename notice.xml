@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-07-08T05:21:37.951Z</updated>
+    <updated>2022-07-08T06:19:37.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비욘드라이브 상품 서비스 방식 변경 안내]]></title>
+        <id>https://beyondlive.com/notice/66</id>
+        <link href="https://beyondlive.com/notice/66"/>
+        <updated>2022-07-08T06:18:59.830Z</updated>
+        <content type="html"><![CDATA[07. 7월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK aespa”  온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/65</id>
+        <link href="https://beyondlive.com/notice/65"/>
+        <updated>2022-07-08T06:18:59.834Z</updated>
+        <content type="html"><![CDATA[07. 7월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] Beyond LIVE - 「HKT48 LIVE TOUR 2022 ～Under the Spotlight～」온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/64</id>
@@ -60,19 +74,5 @@
         <link href="https://beyondlive.com/notice/56"/>
         <updated>2022-05-30T06:22:39.012Z</updated>
         <content type="html"><![CDATA[27. 5월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]Beyond LIVE – NCT 127 2ND TOUR ‘NEO CITY : JAPAN – THE LINK’   온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/55</id>
-        <link href="https://beyondlive.com/notice/55"/>
-        <updated>2022-05-30T06:22:39.015Z</updated>
-        <content type="html"><![CDATA[12. 5월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료] Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND] 티켓오픈공지]]></title>
-        <id>https://beyondlive.com/notice/54</id>
-        <link href="https://beyondlive.com/notice/54"/>
-        <updated>2022-05-30T06:22:39.015Z</updated>
-        <content type="html"><![CDATA[05. 5월. 2022]]></content>
     </entry>
 </feed>
