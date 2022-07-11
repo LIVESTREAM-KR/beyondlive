@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 01:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 03:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/56</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[27. 5월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(131);</link>
+            <guid>javascript:moveViewPage(131);</guid>
+            <pubDate>Mon, 11 Jul 2022 03:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/288876d2ecc64449836a34423b4fdca2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/5217e3ca12954f29b9557239df995c9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - 2022 Debut Anniversary Fan Event : EXO (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(73);</link>
-            <guid>javascript:moveViewPage(73);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[EXO]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/38a67f83850f4442af3b318f9b5c1e30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/134</link>
             <guid>https://beyondlive.com/contents/134</guid>
@@ -260,6 +260,14 @@
             <pubDate>Fri, 08 Jul 2022 03:39:29 GMT</pubDate>
             <content:encoded><![CDATA[27. 7월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/020278e9e7ef4045934182faef985108.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/131</link>
+            <guid>https://beyondlive.com/contents/131</guid>
+            <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6cbe3f1ff5b44bee98c2a7a819f6d281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD (Beyond LIVE ─ TOP)]]></title>
@@ -300,6 +308,14 @@
             <pubDate>Fri, 08 Jul 2022 03:39:29 GMT</pubDate>
             <content:encoded><![CDATA[27. 7월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a3b7e6952c2f4a539c3471c3437007be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/131</link>
+            <guid>https://beyondlive.com/contents/131</guid>
+            <pubDate>Mon, 11 Jul 2022 03:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/288876d2ecc64449836a34423b4fdca2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

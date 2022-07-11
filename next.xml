@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 01:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 03:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 08 Jul 2022 03:39:35 GMT</pubDate>
             <content:encoded><![CDATA[27. 7월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a3b7e6952c2f4a539c3471c3437007be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’]]></title>
+            <link>https://beyondlive.com/contents/131</link>
+            <guid>https://beyondlive.com/contents/131</guid>
+            <pubDate>Mon, 11 Jul 2022 03:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/288876d2ecc64449836a34423b4fdca2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
