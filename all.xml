@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 03:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 05:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] iOS 1.5.0에서 발생한 문제 및 업데이트 지양 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/67</link>
+            <guid>https://beyondlive.com/notice/67</guid>
+            <pubDate>Tue, 12 Jul 2022 05:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[12. 7월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[비욘드라이브 상품 서비스 방식 변경 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/66</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/61</guid>
             <pubDate>Fri, 24 Jun 2022 09:14:11 GMT</pubDate>
             <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/56</link>
-            <guid>https://beyondlive.com/notice/56</guid>
-            <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[27. 5월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ 공연)]]></title>
@@ -321,7 +321,7 @@
             <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK aespa” (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/138</link>
             <guid>https://beyondlive.com/contents/138</guid>
-            <pubDate>Tue, 12 Jul 2022 03:58:42 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2022 03:58:35 GMT</pubDate>
             <content:encoded><![CDATA[30. 7월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cc7831d187924065bb70984ba6f4614f.jpg" length="0" type="image/jpg"/>
         </item>

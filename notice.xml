@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-07-12T03:58:42.895Z</updated>
+    <updated>2022-07-12T05:02:06.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내] iOS 1.5.0에서 발생한 문제 및 업데이트 지양]]></title>
+        <id>https://beyondlive.com/notice/67</id>
+        <link href="https://beyondlive.com/notice/67"/>
+        <updated>2022-07-12T05:01:45.408Z</updated>
+        <content type="html"><![CDATA[12. 7월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비욘드라이브 상품 서비스 방식 변경 안내]]></title>
         <id>https://beyondlive.com/notice/66</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/61"/>
         <updated>2022-06-24T09:14:11.653Z</updated>
         <content type="html"><![CDATA[24. 6월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]Beyond LIVE서비스 점검 안내]]></title>
-        <id>https://beyondlive.com/notice/56</id>
-        <link href="https://beyondlive.com/notice/56"/>
-        <updated>2022-05-30T06:22:39.012Z</updated>
-        <content type="html"><![CDATA[27. 5월. 2022]]></content>
     </entry>
 </feed>
