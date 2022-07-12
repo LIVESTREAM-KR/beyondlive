@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 06:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 07:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://static.beyondlive.com/contents/288876d2ecc64449836a34423b4fdca2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK aespa”]]></title>
+            <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa”]]></title>
             <link>javascript:moveViewPage(138);</link>
             <guid>javascript:moveViewPage(138);</guid>
             <pubDate>Tue, 12 Jul 2022 03:58:27 GMT</pubDate>

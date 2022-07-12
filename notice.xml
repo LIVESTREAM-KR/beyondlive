@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-07-12T06:19:04.920Z</updated>
+    <updated>2022-07-12T07:14:20.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
-        <title type="html"><![CDATA[[안내] iOS 1.5.0에서 발생한 문제 및 업데이트 지양]]></title>
+        <title type="html"><![CDATA[[안내] iOS 앱 다운로드 및 업데이트 일시 중지 안내]]></title>
         <id>https://beyondlive.com/notice/67</id>
         <link href="https://beyondlive.com/notice/67"/>
         <updated>2022-07-12T05:01:45.408Z</updated>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[07. 7월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK aespa”  온라인 티켓 오픈 공지]]></title>
+        <title type="html"><![CDATA[[공연안내] Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa”  온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/65</id>
         <link href="https://beyondlive.com/notice/65"/>
         <updated>2022-07-08T06:18:59.834Z</updated>
