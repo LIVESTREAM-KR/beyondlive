@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 10:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 11:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>javascript:moveViewPage(136);</guid>
             <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/44fc343dcd5d4d378b3be060eb267c1a.png" length="0" type="image/png"/>
+            <enclosure url="https://static.beyondlive.com/contents/cc03613302e94b26be92d9effe4fc628.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～”]]></title>
@@ -45,7 +45,7 @@
             <guid>javascript:moveViewPage(134);</guid>
             <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b78c137ffeda461082dbf38e42b04066.png" length="0" type="image/png"/>
+            <enclosure url="https://static.beyondlive.com/contents/919904daa1e44d768d2e334557964f27.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD]]></title>

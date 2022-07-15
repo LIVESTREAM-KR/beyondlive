@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 10:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 11:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -107,7 +107,7 @@
             <guid>javascript:moveViewPage(136);</guid>
             <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/44fc343dcd5d4d378b3be060eb267c1a.png" length="0" type="image/png"/>
+            <enclosure url="https://static.beyondlive.com/contents/cc03613302e94b26be92d9effe4fc628.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ 공연)]]></title>
@@ -115,7 +115,7 @@
             <guid>javascript:moveViewPage(134);</guid>
             <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b78c137ffeda461082dbf38e42b04066.png" length="0" type="image/png"/>
+            <enclosure url="https://static.beyondlive.com/contents/919904daa1e44d768d2e334557964f27.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD (Beyond LIVE ─ 공연)]]></title>
@@ -238,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/2c497485e9bb4feab72a4b56374a782d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/138</link>
-            <guid>https://beyondlive.com/contents/138</guid>
-            <pubDate>Tue, 12 Jul 2022 03:58:35 GMT</pubDate>
-            <content:encoded><![CDATA[30. 7월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/015e16e6f04e4ce8b80e74325d8d55d7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/136</link>
+            <guid>https://beyondlive.com/contents/136</guid>
+            <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[23. 7월. 2022. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/87467760eb80486f87d6faccb788d9e4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ TOP)]]></title>
@@ -251,15 +251,15 @@
             <guid>https://beyondlive.com/contents/134</guid>
             <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 7월. 2022. 14:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/776ac97eb6f44d77954e53c1e166fa5c.png" length="0" type="image/png"/>
+            <enclosure url="https://static.beyondlive.com/contents/6ba8ebdd8bda429ea9b1888ca7fca0f3.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/136</link>
-            <guid>https://beyondlive.com/contents/136</guid>
-            <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[23. 7월. 2022. 18:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1d39a71e42e44c769c86cf9e85d8694e.png" length="0" type="image/png"/>
+            <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa” (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/138</link>
+            <guid>https://beyondlive.com/contents/138</guid>
+            <pubDate>Tue, 12 Jul 2022 03:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[30. 7월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/015e16e6f04e4ce8b80e74325d8d55d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN (Beyond LIVE ─ TOP)]]></title>
@@ -299,7 +299,7 @@
             <guid>https://beyondlive.com/contents/134</guid>
             <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 7월. 2022. 14:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b78c137ffeda461082dbf38e42b04066.png" length="0" type="image/png"/>
+            <enclosure url="https://static.beyondlive.com/contents/919904daa1e44d768d2e334557964f27.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -307,7 +307,7 @@
             <guid>https://beyondlive.com/contents/136</guid>
             <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 7월. 2022. 18:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/44fc343dcd5d4d378b3be060eb267c1a.png" length="0" type="image/png"/>
+            <enclosure url="https://static.beyondlive.com/contents/cc03613302e94b26be92d9effe4fc628.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN (Beyond LIVE ─ Beyond NEXT)]]></title>
