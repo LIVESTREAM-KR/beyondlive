@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 13:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 14:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
             <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6cbe3f1ff5b44bee98c2a7a819f6d281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD]]></title>
-            <link>https://beyondlive.com/contents/100</link>
-            <guid>https://beyondlive.com/contents/100</guid>
-            <pubDate>Thu, 23 Jun 2022 03:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[17. 7월. 2022. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ddece353771e452cb2d81b140854cf27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
