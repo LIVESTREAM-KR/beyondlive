@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-07-19T05:07:20.921Z</updated>
+    <updated>2022-07-19T06:18:41.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내]비욘드라이브 VOD 출시 프로모션 종료 예정 안내]]></title>
+        <id>https://beyondlive.com/notice/69</id>
+        <link href="https://beyondlive.com/notice/69"/>
+        <updated>2022-07-19T06:18:21.116Z</updated>
+        <content type="html"><![CDATA[19. 7월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비욘드라이브 상품 서비스 방식 변경 안내]]></title>
         <id>https://beyondlive.com/notice/66</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/58"/>
         <updated>2022-06-17T06:18:09.079Z</updated>
         <content type="html"><![CDATA[16. 6월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Beyond VOD SERVICE OPEN!]]]></title>
-        <id>https://beyondlive.com/notice/57</id>
-        <link href="https://beyondlive.com/notice/57"/>
-        <updated>2022-05-30T06:22:39.010Z</updated>
-        <content type="html"><![CDATA[27. 5월. 2022]]></content>
     </entry>
 </feed>
