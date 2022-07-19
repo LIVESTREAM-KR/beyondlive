@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 01:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 03:56:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/67</link>
-            <guid>https://beyondlive.com/notice/67</guid>
-            <pubDate>Tue, 12 Jul 2022 05:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[12. 7월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[비욘드라이브 상품 서비스 방식 변경 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/66</link>
@@ -50,6 +43,20 @@
             <content:encoded><![CDATA[04. 7월. 2022]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/67</link>
+            <guid>https://beyondlive.com/notice/67</guid>
+            <pubDate>Tue, 12 Jul 2022 05:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[12. 7월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[대응 완료]2022.06.24 Beyond LIVE Facebook 로그인 장애 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/61</link>
+            <guid>https://beyondlive.com/notice/61</guid>
+            <pubDate>Fri, 24 Jun 2022 09:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[안내] 2022.06.24Beyond LIVE 앱 최신 버전 업데이트 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/59</link>
             <guid>https://beyondlive.com/notice/59</guid>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/57</guid>
             <pubDate>Mon, 30 May 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[27. 5월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대응 완료]2022.06.24 Beyond LIVE Facebook 로그인 장애 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/61</link>
-            <guid>https://beyondlive.com/notice/61</guid>
-            <pubDate>Fri, 24 Jun 2022 09:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ 공연)]]></title>

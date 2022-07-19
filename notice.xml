@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-07-19T01:25:10.475Z</updated>
+    <updated>2022-07-19T03:56:38.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내]]></title>
-        <id>https://beyondlive.com/notice/67</id>
-        <link href="https://beyondlive.com/notice/67"/>
-        <updated>2022-07-12T05:01:45.408Z</updated>
-        <content type="html"><![CDATA[12. 7월. 2022]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[비욘드라이브 상품 서비스 방식 변경 안내]]></title>
         <id>https://beyondlive.com/notice/66</id>
@@ -48,6 +41,20 @@
         <content type="html"><![CDATA[04. 7월. 2022]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내]]></title>
+        <id>https://beyondlive.com/notice/67</id>
+        <link href="https://beyondlive.com/notice/67"/>
+        <updated>2022-07-12T05:01:45.408Z</updated>
+        <content type="html"><![CDATA[12. 7월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대응 완료]2022.06.24 Beyond LIVE Facebook 로그인 장애 안내]]></title>
+        <id>https://beyondlive.com/notice/61</id>
+        <link href="https://beyondlive.com/notice/61"/>
+        <updated>2022-06-24T09:14:11.653Z</updated>
+        <content type="html"><![CDATA[24. 6월. 2022]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[안내] 2022.06.24Beyond LIVE 앱 최신 버전 업데이트 안내]]></title>
         <id>https://beyondlive.com/notice/59</id>
         <link href="https://beyondlive.com/notice/59"/>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/57"/>
         <updated>2022-05-30T06:22:39.010Z</updated>
         <content type="html"><![CDATA[27. 5월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대응 완료]2022.06.24 Beyond LIVE Facebook 로그인 장애 안내]]></title>
-        <id>https://beyondlive.com/notice/61</id>
-        <link href="https://beyondlive.com/notice/61"/>
-        <updated>2022-06-24T09:14:11.653Z</updated>
-        <content type="html"><![CDATA[24. 6월. 2022]]></content>
     </entry>
 </feed>
