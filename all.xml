@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 07:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -83,7 +83,7 @@
             <guid>javascript:moveViewPage(131);</guid>
             <pubDate>Mon, 11 Jul 2022 03:34:42 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/288876d2ecc64449836a34423b4fdca2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.beyondlive.com/contents/b4fd97f41e0e4fba8f209fede8e3bcce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa” (Beyond LIVE ─ 공연)]]></title>
@@ -275,7 +275,7 @@
             <guid>https://beyondlive.com/contents/131</guid>
             <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
             <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6cbe3f1ff5b44bee98c2a7a819f6d281.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.beyondlive.com/contents/8773ada463b2492d88e794bf7dfc6999.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -315,7 +315,7 @@
             <guid>https://beyondlive.com/contents/131</guid>
             <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
             <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/288876d2ecc64449836a34423b4fdca2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.beyondlive.com/contents/b4fd97f41e0e4fba8f209fede8e3bcce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
