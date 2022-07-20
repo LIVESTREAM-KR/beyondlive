@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 09:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’]]></title>
+            <link>https://beyondlive.com/contents/131</link>
+            <guid>https://beyondlive.com/contents/131</guid>
+            <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
+            <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8773ada463b2492d88e794bf7dfc6999.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～”]]></title>
             <link>https://beyondlive.com/contents/134</link>
@@ -38,14 +46,6 @@
             <pubDate>Fri, 08 Jul 2022 03:39:29 GMT</pubDate>
             <content:encoded><![CDATA[27. 7월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/020278e9e7ef4045934182faef985108.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’]]></title>
-            <link>https://beyondlive.com/contents/131</link>
-            <guid>https://beyondlive.com/contents/131</guid>
-            <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8773ada463b2492d88e794bf7dfc6999.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
