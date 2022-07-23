@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 07:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 08:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,14 +252,6 @@
             <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
             <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8773ada463b2492d88e794bf7dfc6999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/134</link>
-            <guid>https://beyondlive.com/contents/134</guid>
-            <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[23. 7월. 2022. 14:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6ba8ebdd8bda429ea9b1888ca7fca0f3.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa” (Beyond LIVE ─ TOP)]]></title>
