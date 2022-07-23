@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 11:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 12:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Mon, 11 Jul 2022 03:34:57 GMT</pubDate>
             <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b4fd97f41e0e4fba8f209fede8e3bcce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/135</link>
+            <guid>https://beyondlive.com/contents/135</guid>
+            <pubDate>Sat, 23 Jul 2022 12:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[06. 8월. 2022. 14:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/afe8a65e20014ce6846fe842f0c91b18.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/137</link>
+            <guid>https://beyondlive.com/contents/137</guid>
+            <pubDate>Sat, 23 Jul 2022 12:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[06. 8월. 2022. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9c1666c8f47247cc83d9a4f23e5c752c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

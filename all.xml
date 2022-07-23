@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 11:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 12:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://beyondlive.com/notice/58</guid>
             <pubDate>Fri, 17 Jun 2022 06:18:09 GMT</pubDate>
             <content:encoded><![CDATA[16. 6월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(137);</link>
+            <guid>javascript:moveViewPage(137);</guid>
+            <pubDate>Sat, 23 Jul 2022 12:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[HKT48]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9c1666c8f47247cc83d9a4f23e5c752c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(135);</link>
+            <guid>javascript:moveViewPage(135);</guid>
+            <pubDate>Sat, 23 Jul 2022 12:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[HKT48]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/afe8a65e20014ce6846fe842f0c91b18.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ 공연)]]></title>
@@ -222,30 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/55a003ab7ac84081bf50af81bcab789d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - WONPIL SOLO CONCERT ‘Pilmography’ 3rd Re-streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(77);</link>
-            <guid>javascript:moveViewPage(77);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[WONPIL]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3f92dae18d0441a6b73554eb3b3d1e71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - [추가] WONPIL SOLO CONCERT ‘Pilmography’ 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(64);</link>
-            <guid>javascript:moveViewPage(64);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[WONPIL]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2c497485e9bb4feab72a4b56374a782d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/136</link>
-            <guid>https://beyondlive.com/contents/136</guid>
-            <pubDate>Thu, 07 Jul 2022 07:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[23. 7월. 2022. 18:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/87467760eb80486f87d6faccb788d9e4.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/131</link>
             <guid>https://beyondlive.com/contents/131</guid>
@@ -292,6 +284,22 @@
             <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
             <content:encoded><![CDATA[31. 7월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b4fd97f41e0e4fba8f209fede8e3bcce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/135</link>
+            <guid>https://beyondlive.com/contents/135</guid>
+            <pubDate>Sat, 23 Jul 2022 12:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[06. 8월. 2022. 14:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/afe8a65e20014ce6846fe842f0c91b18.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/137</link>
+            <guid>https://beyondlive.com/contents/137</guid>
+            <pubDate>Sat, 23 Jul 2022 12:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[06. 8월. 2022. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9c1666c8f47247cc83d9a4f23e5c752c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
