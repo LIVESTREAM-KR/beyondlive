@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> 온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/70</link>
+            <guid>https://beyondlive.com/notice/70</guid>
+            <pubDate>Mon, 25 Jul 2022 08:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[19. 7월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내]비욘드라이브 VOD 출시 프로모션 종료 예정 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/69</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/59</guid>
             <pubDate>Sat, 25 Jun 2022 04:24:34 GMT</pubDate>
             <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[정정：공연안내] Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD (6월 21일 정정) (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/58</link>
-            <guid>https://beyondlive.com/notice/58</guid>
-            <pubDate>Fri, 17 Jun 2022 06:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[16. 6월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
