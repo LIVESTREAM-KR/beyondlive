@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 05:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 06:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉  티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/71</link>
+            <guid>https://beyondlive.com/notice/71</guid>
+            <pubDate>Wed, 27 Jul 2022 06:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[21. 7월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> 온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/70</link>
@@ -68,13 +75,6 @@
             <link>https://beyondlive.com/notice/61</link>
             <guid>https://beyondlive.com/notice/61</guid>
             <pubDate>Fri, 24 Jun 2022 09:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] 2022.06.24Beyond LIVE 앱 최신 버전 업데이트 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/59</link>
-            <guid>https://beyondlive.com/notice/59</guid>
-            <pubDate>Sat, 25 Jun 2022 04:24:34 GMT</pubDate>
             <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
         </item>
         <item>
