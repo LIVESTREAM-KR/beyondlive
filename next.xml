@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 01:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:47:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Tue, 26 Jul 2022 04:03:26 GMT</pubDate>
             <content:encoded><![CDATA[07. 8월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6e745d1031074ca08374b98262d0e9c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/140</link>
-            <guid>https://beyondlive.com/contents/140</guid>
-            <pubDate>Tue, 26 Jul 2022 04:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[04. 9월. 2022. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/df8faf74f3f341a2a0c81a84dd3514ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

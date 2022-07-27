@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 01:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:47:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> Re-Streaming]]></title>
-            <link>javascript:moveViewPage(140);</link>
-            <guid>javascript:moveViewPage(140);</guid>
-            <pubDate>Tue, 26 Jul 2022 04:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/df8faf74f3f341a2a0c81a84dd3514ac.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE>]]></title>
             <link>javascript:moveViewPage(139);</link>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1ded088ac0314939afa42f6ae3887d6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming]]></title>
+            <link>javascript:moveViewPage(38);</link>
+            <guid>javascript:moveViewPage(38);</guid>
+            <pubDate>Wed, 27 Jul 2022 03:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3ebfbc92a0b1423e8c137ab68a631154.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
