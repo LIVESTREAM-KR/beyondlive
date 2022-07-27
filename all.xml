@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 12:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 13:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 공연 취소 및 환불 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/73</link>
+            <guid>https://beyondlive.com/notice/73</guid>
+            <pubDate>Wed, 27 Jul 2022 13:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[27. 7월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉  티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/71</link>
@@ -50,6 +57,13 @@
             <content:encoded><![CDATA[06. 7월. 2022]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/67</link>
+            <guid>https://beyondlive.com/notice/67</guid>
+            <pubDate>Tue, 12 Jul 2022 05:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[12. 7월. 2022]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[공연안내] Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/63</link>
             <guid>https://beyondlive.com/notice/63</guid>
@@ -62,20 +76,6 @@
             <guid>https://beyondlive.com/notice/62</guid>
             <pubDate>Thu, 07 Jul 2022 06:19:56 GMT</pubDate>
             <content:encoded><![CDATA[04. 7월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/67</link>
-            <guid>https://beyondlive.com/notice/67</guid>
-            <pubDate>Tue, 12 Jul 2022 05:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[12. 7월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대응 완료]2022.06.24 Beyond LIVE Facebook 로그인 장애 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/61</link>
-            <guid>https://beyondlive.com/notice/61</guid>
-            <pubDate>Fri, 24 Jun 2022 09:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[24. 6월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> (Beyond LIVE ─ 공연)]]></title>
@@ -246,27 +246,12 @@
             <enclosure url="https://static.beyondlive.com/contents/60abffa5bdfc42b79ff6f7b42516680d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/131</link>
-            <guid>https://beyondlive.com/contents/131</guid>
-            <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/8773ada463b2492d88e794bf7dfc6999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/138</link>
             <guid>https://beyondlive.com/contents/138</guid>
             <pubDate>Tue, 12 Jul 2022 03:58:35 GMT</pubDate>
             <content:encoded><![CDATA[30. 7월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/015e16e6f04e4ce8b80e74325d8d55d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/133</link>
-            <guid>https://beyondlive.com/contents/133</guid>
-            <pubDate>Fri, 08 Jul 2022 03:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[27. 7월. 2022. 18:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/020278e9e7ef4045934182faef985108.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa” (Beyond LIVE ─ Beyond NEXT)]]></title>
