@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 23:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 01:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://static.beyondlive.com/contents/afe8a65e20014ce6846fe842f0c91b18.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’]]></title>
+            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’]]></title>
             <link>javascript:moveViewPage(131);</link>
             <guid>javascript:moveViewPage(131);</guid>
             <pubDate>Mon, 11 Jul 2022 03:34:42 GMT</pubDate>
