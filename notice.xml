@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-07-29T05:26:38.331Z</updated>
+    <updated>2022-07-29T06:19:31.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://beyondlive.com/notice/73"/>
         <updated>2022-07-27T13:42:03.735Z</updated>
         <content type="html"><![CDATA[27. 7월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMANCITY_SUWON]]></title>
+        <id>https://beyondlive.com/notice/72</id>
+        <link href="https://beyondlive.com/notice/72"/>
+        <updated>2022-07-29T06:19:09.596Z</updated>
+        <content type="html"><![CDATA[26. 7월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉  티켓오픈공지]]></title>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/63"/>
         <updated>2022-07-06T03:46:49.679Z</updated>
         <content type="html"><![CDATA[05. 7월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’  온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/62</id>
-        <link href="https://beyondlive.com/notice/62"/>
-        <updated>2022-07-07T06:19:56.204Z</updated>
-        <content type="html"><![CDATA[04. 7월. 2022]]></content>
     </entry>
 </feed>

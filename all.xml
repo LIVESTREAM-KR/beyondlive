@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://beyondlive.com/notice/73</guid>
             <pubDate>Wed, 27 Jul 2022 13:42:03 GMT</pubDate>
             <content:encoded><![CDATA[27. 7월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMANCITY_SUWON (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/72</link>
+            <guid>https://beyondlive.com/notice/72</guid>
+            <pubDate>Fri, 29 Jul 2022 06:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[26. 7월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉  티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/63</guid>
             <pubDate>Wed, 06 Jul 2022 03:46:49 GMT</pubDate>
             <content:encoded><![CDATA[05. 7월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] Beyond LIVE - NCT DREAM TOUR‘THE DREAM SHOW2 : In A DREAM’  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/62</link>
-            <guid>https://beyondlive.com/notice/62</guid>
-            <pubDate>Thu, 07 Jul 2022 06:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[04. 7월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 (Beyond LIVE ─ 공연)]]></title>
