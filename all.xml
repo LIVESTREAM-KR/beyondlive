@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 01:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 03:50:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/62</guid>
             <pubDate>Thu, 07 Jul 2022 06:19:56 GMT</pubDate>
             <content:encoded><![CDATA[04. 7월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(141);</link>
+            <guid>javascript:moveViewPage(141);</guid>
+            <pubDate>Fri, 29 Jul 2022 03:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[이준호]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0858357f66b241d4bb20dc35bb50dbae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/1ded088ac0314939afa42f6ae3887d6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(38);</link>
-            <guid>javascript:moveViewPage(38);</guid>
-            <pubDate>Wed, 27 Jul 2022 03:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3ebfbc92a0b1423e8c137ab68a631154.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/141</link>
+            <guid>https://beyondlive.com/contents/141</guid>
+            <pubDate>Fri, 29 Jul 2022 03:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[14. 8월. 2022. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2fe5c9b4b112407ea7eb6d0b6a34cf0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> (Beyond LIVE ─ TOP)]]></title>
@@ -291,6 +299,14 @@
             <pubDate>Tue, 26 Jul 2022 04:03:19 GMT</pubDate>
             <content:encoded><![CDATA[07. 8월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6e745d1031074ca08374b98262d0e9c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/141</link>
+            <guid>https://beyondlive.com/contents/141</guid>
+            <pubDate>Fri, 29 Jul 2022 03:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[14. 8월. 2022. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0858357f66b241d4bb20dc35bb50dbae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
