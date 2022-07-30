@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 11:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 12:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 26 Jul 2022 04:03:19 GMT</pubDate>
             <content:encoded><![CDATA[07. 8월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/60abffa5bdfc42b79ff6f7b42516680d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa”]]></title>
-            <link>https://beyondlive.com/contents/138</link>
-            <guid>https://beyondlive.com/contents/138</guid>
-            <pubDate>Tue, 12 Jul 2022 03:58:35 GMT</pubDate>
-            <content:encoded><![CDATA[30. 7월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/015e16e6f04e4ce8b80e74325d8d55d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
