@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 08:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 09:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,13 +252,6 @@
             <pubDate>Tue, 26 Jul 2022 04:03:19 GMT</pubDate>
             <content:encoded><![CDATA[07. 8월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/60abffa5bdfc42b79ff6f7b42516680d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/131</link>
-            <guid>https://beyondlive.com/contents/131</guid>
-            <pubDate>Mon, 11 Jul 2022 03:34:50 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/b4fd97f41e0e4fba8f209fede8e3bcce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
