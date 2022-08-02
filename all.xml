@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 01:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/63</guid>
             <pubDate>Wed, 06 Jul 2022 03:46:49 GMT</pubDate>
             <content:encoded><![CDATA[05. 7월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(143);</link>
+            <guid>javascript:moveViewPage(143);</guid>
+            <pubDate>Tue, 02 Aug 2022 04:02:40 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/983d13679fb64d00bce41f165174815b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/2403216112dc4dd2b7aaee545745ca2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - ITZY The 1st Fan Meeting “있지 믿지, 날자!" 2nd Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(39);</link>
-            <guid>javascript:moveViewPage(39);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1ded088ac0314939afa42f6ae3887d6a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/143</link>
+            <guid>https://beyondlive.com/contents/143</guid>
+            <pubDate>Tue, 02 Aug 2022 04:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[20. 8월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1f90a700af6843e292c0edf6f193a449.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 (Beyond LIVE ─ TOP)]]></title>
@@ -284,6 +292,14 @@
             <pubDate>Fri, 29 Jul 2022 03:50:07 GMT</pubDate>
             <content:encoded><![CDATA[14. 8월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0858357f66b241d4bb20dc35bb50dbae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/143</link>
+            <guid>https://beyondlive.com/contents/143</guid>
+            <pubDate>Tue, 02 Aug 2022 04:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[20. 8월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/983d13679fb64d00bce41f165174815b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
