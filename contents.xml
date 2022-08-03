@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sat, 23 Jul 2022 12:25:12 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/afe8a65e20014ce6846fe842f0c91b18.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party]]></title>
+            <link>javascript:moveViewPage(144);</link>
+            <guid>javascript:moveViewPage(144);</guid>
+            <pubDate>Wed, 03 Aug 2022 09:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[MAR VISTA / GINJO / IMLAY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b1f9dd80be334a1abf1177c427395ad5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ebd7a114837c4343b34a6220f023d63e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2PM JUN. K & 우영 2022 FAN-CON <115430>]]></title>
-            <link>javascript:moveViewPage(81);</link>
-            <guid>javascript:moveViewPage(81);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[2PM (JUN. K &amp; 우영)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2403216112dc4dd2b7aaee545745ca2c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
