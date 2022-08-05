@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-08-05T03:41:43.206Z</updated>
+    <updated>2022-08-05T04:42:44.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -48,20 +48,6 @@
         <content type="html"><![CDATA[19. 7월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비욘드라이브 상품 서비스 방식 변경 안내]]></title>
-        <id>https://beyondlive.com/notice/66</id>
-        <link href="https://beyondlive.com/notice/66"/>
-        <updated>2022-07-08T06:18:59.830Z</updated>
-        <content type="html"><![CDATA[07. 7월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa”  온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/65</id>
-        <link href="https://beyondlive.com/notice/65"/>
-        <updated>2022-07-08T06:18:59.834Z</updated>
-        <content type="html"><![CDATA[07. 7월. 2022]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내]]></title>
         <id>https://beyondlive.com/notice/67</id>
         <link href="https://beyondlive.com/notice/67"/>
@@ -69,7 +55,21 @@
         <content type="html"><![CDATA[12. 7월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE - 「HKT48 LIVE TOUR 2022 ～Under the Spotlight～」온라인 티켓 오픈 공지]]></title>
+        <title type="html"><![CDATA[비욘드라이브 상품 서비스 방식 변경 안내]]></title>
+        <id>https://beyondlive.com/notice/66</id>
+        <link href="https://beyondlive.com/notice/66"/>
+        <updated>2022-07-08T06:18:59.830Z</updated>
+        <content type="html"><![CDATA[07. 7월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료] Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa”  온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/65</id>
+        <link href="https://beyondlive.com/notice/65"/>
+        <updated>2022-07-08T06:18:59.834Z</updated>
+        <content type="html"><![CDATA[07. 7월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료] Beyond LIVE - 「HKT48 LIVE TOUR 2022 ～Under the Spotlight～」온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/64</id>
         <link href="https://beyondlive.com/notice/64"/>
         <updated>2022-07-07T07:13:58.240Z</updated>
