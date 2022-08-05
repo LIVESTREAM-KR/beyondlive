@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 15:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 16:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Tue, 26 Jul 2022 04:03:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6e745d1031074ca08374b98262d0e9c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(145);</link>
+            <guid>javascript:moveViewPage(145);</guid>
+            <pubDate>Fri, 05 Aug 2022 16:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[MAR VISTA / GINJO / IMLAY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cba95ef10d9a42abb7bfc2830b9142c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,20 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/919e532f4e4243829c11235a63727e2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(78);</link>
-            <guid>javascript:moveViewPage(78);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ebd7a114837c4343b34a6220f023d63e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/144</link>
-            <guid>https://beyondlive.com/contents/144</guid>
-            <pubDate>Wed, 03 Aug 2022 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[05. 8월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/87113b3deb61460bb0a582bc94d28cdc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/145</link>
+            <guid>https://beyondlive.com/contents/145</guid>
+            <pubDate>Fri, 05 Aug 2022 16:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[06. 8월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a4099fc3d5cd43f49e3c29281b0c2f16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -300,6 +300,14 @@
             <pubDate>Sat, 23 Jul 2022 12:25:28 GMT</pubDate>
             <content:encoded><![CDATA[06. 8월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9c1666c8f47247cc83d9a4f23e5c752c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/145</link>
+            <guid>https://beyondlive.com/contents/145</guid>
+            <pubDate>Fri, 05 Aug 2022 16:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[06. 8월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cba95ef10d9a42abb7bfc2830b9142c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> (Beyond LIVE ─ Beyond NEXT)]]></title>

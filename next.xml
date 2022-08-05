@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 15:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 16:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 23 Jul 2022 12:25:28 GMT</pubDate>
             <content:encoded><![CDATA[06. 8월. 2022. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9c1666c8f47247cc83d9a4f23e5c752c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/145</link>
+            <guid>https://beyondlive.com/contents/145</guid>
+            <pubDate>Fri, 05 Aug 2022 16:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[06. 8월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cba95ef10d9a42abb7bfc2830b9142c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE>]]></title>
