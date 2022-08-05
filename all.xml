@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 03:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] DJ 스트리밍 쇼 "SHOWME Season 2”, PRE-SHOW (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/74</link>
+            <guid>https://beyondlive.com/notice/74</guid>
+            <pubDate>Fri, 05 Aug 2022 03:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[05. 8월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 공연 취소 및 환불 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/73</link>
@@ -57,13 +64,6 @@
             <content:encoded><![CDATA[07. 7월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] Beyond LIVE - 「HKT48 LIVE TOUR 2022 ～Under the Spotlight～」온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/64</link>
-            <guid>https://beyondlive.com/notice/64</guid>
-            <pubDate>Thu, 07 Jul 2022 07:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[06. 7월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/67</link>
             <guid>https://beyondlive.com/notice/67</guid>
@@ -71,11 +71,11 @@
             <content:encoded><![CDATA[12. 7월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/63</link>
-            <guid>https://beyondlive.com/notice/63</guid>
-            <pubDate>Wed, 06 Jul 2022 03:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[05. 7월. 2022]]></content:encoded>
+            <title><![CDATA[[공연안내] Beyond LIVE - 「HKT48 LIVE TOUR 2022 ～Under the Spotlight～」온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/64</link>
+            <guid>https://beyondlive.com/notice/64</guid>
+            <pubDate>Thu, 07 Jul 2022 07:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[06. 7월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON (Beyond LIVE ─ 공연)]]></title>

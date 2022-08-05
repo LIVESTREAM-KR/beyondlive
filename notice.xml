@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-08-05T01:23:39.942Z</updated>
+    <updated>2022-08-05T03:41:43.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] DJ 스트리밍 쇼 "SHOWME Season 2”, PRE-SHOW]]></title>
+        <id>https://beyondlive.com/notice/74</id>
+        <link href="https://beyondlive.com/notice/74"/>
+        <updated>2022-08-05T03:41:21.413Z</updated>
+        <content type="html"><![CDATA[05. 8월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 공연 취소 및 환불 안내]]></title>
         <id>https://beyondlive.com/notice/73</id>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[07. 7월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE - 「HKT48 LIVE TOUR 2022 ～Under the Spotlight～」온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/64</id>
-        <link href="https://beyondlive.com/notice/64"/>
-        <updated>2022-07-07T07:13:58.240Z</updated>
-        <content type="html"><![CDATA[06. 7월. 2022]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내]]></title>
         <id>https://beyondlive.com/notice/67</id>
         <link href="https://beyondlive.com/notice/67"/>
@@ -69,10 +69,10 @@
         <content type="html"><![CDATA[12. 7월. 2022]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/63</id>
-        <link href="https://beyondlive.com/notice/63"/>
-        <updated>2022-07-06T03:46:49.679Z</updated>
-        <content type="html"><![CDATA[05. 7월. 2022]]></content>
+        <title type="html"><![CDATA[[공연안내] Beyond LIVE - 「HKT48 LIVE TOUR 2022 ～Under the Spotlight～」온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/64</id>
+        <link href="https://beyondlive.com/notice/64"/>
+        <updated>2022-07-07T07:13:58.240Z</updated>
+        <content type="html"><![CDATA[06. 7월. 2022]]></content>
     </entry>
 </feed>
