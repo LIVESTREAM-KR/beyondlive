@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 11:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 12:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,7 +297,7 @@
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/142</link>
             <guid>https://beyondlive.com/contents/142</guid>
-            <pubDate>Sun, 14 Aug 2022 11:12:45 GMT</pubDate>
+            <pubDate>Sun, 14 Aug 2022 11:12:39 GMT</pubDate>
             <content:encoded><![CDATA[17. 9월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7e574e3e83a9423eb7aa228b400139c4.jpg" length="0" type="image/jpg"/>
         </item>
