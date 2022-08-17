@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 09:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 10:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,7 +281,7 @@
             <title><![CDATA[Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/150</link>
             <guid>https://beyondlive.com/contents/150</guid>
-            <pubDate>Wed, 17 Aug 2022 09:16:19 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2022 09:16:12 GMT</pubDate>
             <content:encoded><![CDATA[19. 8월. 2022. 22:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/30e3b2e2c22c48699bf1af9b7585c8d2.jpg" length="0" type="image/jpg"/>
         </item>
