@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 08:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO]]></title>
+            <link>https://beyondlive.com/contents/150</link>
+            <guid>https://beyondlive.com/contents/150</guid>
+            <pubDate>Wed, 17 Aug 2022 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[19. 8월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d7eda3737ec5426c91b00b5ef7fcce89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/142</link>

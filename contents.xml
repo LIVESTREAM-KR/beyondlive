@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 08:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 02 Aug 2022 04:02:40 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/983d13679fb64d00bce41f165174815b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO]]></title>
+            <link>javascript:moveViewPage(150);</link>
+            <guid>javascript:moveViewPage(150);</guid>
+            <pubDate>Wed, 17 Aug 2022 09:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[IMLAY / SUNGYOO]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/30e3b2e2c22c48699bf1af9b7585c8d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/24534107a07144e39323fb8a19c48dd3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – Stray Kids 2nd World Tour “MANIAC” in SEOUL 1st Re-Streaming]]></title>
-            <link>javascript:moveViewPage(79);</link>
-            <guid>javascript:moveViewPage(79);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3416fef6b6bc41638a494d4e74d7d092.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
