@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-08-18T09:16:00.279Z</updated>
+    <updated>2022-08-18T10:18:12.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2022 Girls’ Generation Special Event – Long Lasting Love  온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/79</id>
+        <link href="https://beyondlive.com/notice/79"/>
+        <updated>2022-08-18T10:17:53.080Z</updated>
+        <content type="html"><![CDATA[18. 8월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] DJ 스트리밍 쇼 Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO]]></title>
         <id>https://beyondlive.com/notice/78</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/69"/>
         <updated>2022-07-19T06:18:21.116Z</updated>
         <content type="html"><![CDATA[19. 7월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내]]></title>
-        <id>https://beyondlive.com/notice/67</id>
-        <link href="https://beyondlive.com/notice/67"/>
-        <updated>2022-07-12T05:01:45.408Z</updated>
-        <content type="html"><![CDATA[12. 7월. 2022]]></content>
     </entry>
 </feed>

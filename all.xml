@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 09:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 10:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2022 Girls’ Generation Special Event – Long Lasting Love  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/79</link>
+            <guid>https://beyondlive.com/notice/79</guid>
+            <pubDate>Thu, 18 Aug 2022 10:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[18. 8월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] DJ 스트리밍 쇼 Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/78</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/69</guid>
             <pubDate>Tue, 19 Jul 2022 06:18:21 GMT</pubDate>
             <content:encoded><![CDATA[19. 7월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대응 완료]iOS 앱 다운로드 및 업데이트 일시 중지 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/67</link>
-            <guid>https://beyondlive.com/notice/67</guid>
-            <pubDate>Tue, 12 Jul 2022 05:01:45 GMT</pubDate>
-            <content:encoded><![CDATA[12. 7월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ 공연)]]></title>
