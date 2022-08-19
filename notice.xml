@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-08-19T05:25:09.668Z</updated>
+    <updated>2022-08-19T06:20:55.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’  온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/80</id>
+        <link href="https://beyondlive.com/notice/80"/>
+        <updated>2022-08-19T06:20:38.264Z</updated>
+        <content type="html"><![CDATA[19. 8월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 2022 Girls’ Generation Special Event – Long Lasting Love  온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/79</id>
@@ -66,13 +73,6 @@
         <id>https://beyondlive.com/notice/70</id>
         <link href="https://beyondlive.com/notice/70"/>
         <updated>2022-07-25T08:21:02.859Z</updated>
-        <content type="html"><![CDATA[19. 7월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내]비욘드라이브 VOD 출시 프로모션 종료 예정 안내]]></title>
-        <id>https://beyondlive.com/notice/69</id>
-        <link href="https://beyondlive.com/notice/69"/>
-        <updated>2022-07-19T06:18:21.116Z</updated>
         <content type="html"><![CDATA[19. 7월. 2022]]></content>
     </entry>
 </feed>
