@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 01:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 03:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 09 Aug 2022 03:42:01 GMT</pubDate>
             <content:encoded><![CDATA[28. 8월. 2022. 15:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0778d6abb3ef4366acb52bfb8ee3988b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love]]></title>
+            <link>https://beyondlive.com/contents/152</link>
+            <guid>https://beyondlive.com/contents/152</guid>
+            <pubDate>Fri, 19 Aug 2022 03:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[03. 9월. 2022. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> Re-Streaming]]></title>
