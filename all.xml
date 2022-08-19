@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 12:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 13:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,14 +284,6 @@
             <pubDate>Tue, 02 Aug 2022 04:02:47 GMT</pubDate>
             <content:encoded><![CDATA[20. 8월. 2022. 16:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1f90a700af6843e292c0edf6f193a449.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료]Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/150</link>
-            <guid>https://beyondlive.com/contents/150</guid>
-            <pubDate>Wed, 17 Aug 2022 09:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[19. 8월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/30e3b2e2c22c48699bf1af9b7585c8d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON (Beyond LIVE ─ Beyond NEXT)]]></title>
