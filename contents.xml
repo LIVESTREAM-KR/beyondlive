@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 14:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 15:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 09 Aug 2022 03:41:46 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0778d6abb3ef4366acb52bfb8ee3988b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료]Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO Re-Streaming]]></title>
+            <link>javascript:moveViewPage(151);</link>
+            <guid>javascript:moveViewPage(151);</guid>
+            <pubDate>Fri, 19 Aug 2022 15:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[IMLAY / SUNGYOO]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6e2c9a86bbd340dca360caee58a06d04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 12 Jun 2022 10:14:08 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/eba12f31f1b64b87abe98f9204df604b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - 2022 WJSN CONCERT [WONDERLAND]]]></title>
-            <link>javascript:moveViewPage(84);</link>
-            <guid>javascript:moveViewPage(84);</guid>
-            <pubDate>Mon, 30 May 2022 06:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/50a18e582556467a96005413f399026d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
