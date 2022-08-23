@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -305,7 +305,7 @@
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/147</link>
             <guid>https://beyondlive.com/contents/147</guid>
-            <pubDate>Tue, 23 Aug 2022 04:11:28 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 04:11:21 GMT</pubDate>
             <content:encoded><![CDATA[04. 9월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b55d25f27ef74df7851c186a020dce34.jpg" length="0" type="image/jpg"/>
         </item>
