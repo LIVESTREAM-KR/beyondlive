@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 07:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 08:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 09 Aug 2022 03:41:46 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0778d6abb3ef4366acb52bfb8ee3988b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT]]></title>
+            <link>javascript:moveViewPage(156);</link>
+            <guid>javascript:moveViewPage(156);</guid>
+            <pubDate>Wed, 24 Aug 2022 08:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[JOHNNY + MINIT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/158684a669a4405b99bcf3f450f3d7e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무료]Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/919904daa1e44d768d2e334557964f27.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – SUPER JUNIOR WORLD TOUR – SUPER SHOW 9 : ROAD]]></title>
-            <link>javascript:moveViewPage(100);</link>
-            <guid>javascript:moveViewPage(100);</guid>
-            <pubDate>Thu, 23 Jun 2022 03:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[SUPER JUNIOR]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/463d75fe47fc4bf29dab0a4061c1a592.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
