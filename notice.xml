@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-08-25T04:08:28.527Z</updated>
+    <updated>2022-08-25T05:52:05.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내]SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO DJ OPENING SHOW]]></title>
+        <id>https://beyondlive.com/notice/82</id>
+        <link href="https://beyondlive.com/notice/82"/>
+        <updated>2022-08-25T05:51:45.701Z</updated>
+        <content type="html"><![CDATA[25. 8월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #02 : JOHNNY / MINIT]]></title>
         <id>https://beyondlive.com/notice/81</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/72"/>
         <updated>2022-07-29T06:19:09.596Z</updated>
         <content type="html"><![CDATA[26. 7월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉  티켓오픈공지]]></title>
-        <id>https://beyondlive.com/notice/71</id>
-        <link href="https://beyondlive.com/notice/71"/>
-        <updated>2022-07-27T06:19:01.347Z</updated>
-        <content type="html"><![CDATA[21. 7월. 2022]]></content>
     </entry>
 </feed>

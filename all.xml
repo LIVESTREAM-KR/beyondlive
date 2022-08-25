@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 04:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 05:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내]SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO DJ OPENING SHOW (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/82</link>
+            <guid>https://beyondlive.com/notice/82</guid>
+            <pubDate>Thu, 25 Aug 2022 05:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[25. 8월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #02 : JOHNNY / MINIT (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/81</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/72</guid>
             <pubDate>Wed, 24 Aug 2022 09:14:26 GMT</pubDate>
             <content:encoded><![CDATA[26. 7월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉  티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/71</link>
-            <guid>https://beyondlive.com/notice/71</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[21. 7월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -337,7 +337,7 @@
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/154</link>
             <guid>https://beyondlive.com/contents/154</guid>
-            <pubDate>Thu, 25 Aug 2022 04:08:27 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2022 04:08:20 GMT</pubDate>
             <content:encoded><![CDATA[09. 9월. 2022. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
         </item>
