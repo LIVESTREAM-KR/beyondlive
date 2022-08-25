@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 01:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,14 @@
             <pubDate>Wed, 24 Aug 2022 09:14:33 GMT</pubDate>
             <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7e574e3e83a9423eb7aa228b400139c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(154);</link>
+            <guid>javascript:moveViewPage(154);</guid>
+            <pubDate>Thu, 25 Aug 2022 04:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/cc03613302e94b26be92d9effe4fc628.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(134);</link>
-            <guid>javascript:moveViewPage(134);</guid>
-            <pubDate>Wed, 24 Aug 2022 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/919904daa1e44d768d2e334557964f27.png" length="0" type="image/png"/>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/154</link>
+            <guid>https://beyondlive.com/contents/154</guid>
+            <pubDate>Thu, 25 Aug 2022 04:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[09. 9월. 2022. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3be58b36a47d49e0a414d74c0031bf36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT (Beyond LIVE ─ TOP)]]></title>
@@ -324,6 +332,14 @@
             <pubDate>Wed, 24 Aug 2022 09:14:42 GMT</pubDate>
             <content:encoded><![CDATA[04. 9월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b55d25f27ef74df7851c186a020dce34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/154</link>
+            <guid>https://beyondlive.com/contents/154</guid>
+            <pubDate>Thu, 25 Aug 2022 04:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[09. 9월. 2022. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

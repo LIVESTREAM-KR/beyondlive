@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 01:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 14 Aug 2022 11:12:32 GMT</pubDate>
             <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7e574e3e83a9423eb7aa228b400139c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’]]></title>
+            <link>javascript:moveViewPage(154);</link>
+            <guid>javascript:moveViewPage(154);</guid>
+            <pubDate>Thu, 25 Aug 2022 04:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cc03613302e94b26be92d9effe4fc628.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～”]]></title>
-            <link>javascript:moveViewPage(134);</link>
-            <guid>javascript:moveViewPage(134);</guid>
-            <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/919904daa1e44d768d2e334557964f27.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
