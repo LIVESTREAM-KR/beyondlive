@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 14:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 15:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,14 @@
             <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 1st Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(157);</link>
+            <guid>javascript:moveViewPage(157);</guid>
+            <pubDate>Sat, 27 Aug 2022 15:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[JOHNNY + MINIT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/beba47d4e17345628fdcbad87c83e586.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,11 @@
             <enclosure url="https://static.beyondlive.com/contents/a3b7e6952c2f4a539c3471c3437007be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(136);</link>
-            <guid>javascript:moveViewPage(136);</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cc03613302e94b26be92d9effe4fc628.png" length="0" type="image/png"/>
+            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 1st Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/157</link>
+            <guid>https://beyondlive.com/contents/157</guid>
+            <pubDate>Sat, 27 Aug 2022 15:15:12 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/65a217f8fda44f88a44a626735d98ba2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ TOP)]]></title>
@@ -244,14 +251,6 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[09. 9월. 2022. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3be58b36a47d49e0a414d74c0031bf36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/156</link>
-            <guid>https://beyondlive.com/contents/156</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[27. 8월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6968a9082f0c467f9b19deb071e61989.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL (Beyond LIVE ─ TOP)]]></title>
@@ -300,6 +299,13 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[28. 8월. 2022. 14:50 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0778d6abb3ef4366acb52bfb8ee3988b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 1st Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/157</link>
+            <guid>https://beyondlive.com/contents/157</guid>
+            <pubDate>Sat, 27 Aug 2022 15:15:20 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/beba47d4e17345628fdcbad87c83e586.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love (Beyond LIVE ─ Beyond NEXT)]]></title>

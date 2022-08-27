@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 14:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 15:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 19 Aug 2022 03:47:59 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 1st Re-Streaming]]></title>
+            <link>javascript:moveViewPage(157);</link>
+            <guid>javascript:moveViewPage(157);</guid>
+            <pubDate>Sat, 27 Aug 2022 15:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[JOHNNY + MINIT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/beba47d4e17345628fdcbad87c83e586.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Jul 2022 03:39:22 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a3b7e6952c2f4a539c3471c3437007be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～”]]></title>
-            <link>javascript:moveViewPage(136);</link>
-            <guid>javascript:moveViewPage(136);</guid>
-            <pubDate>Thu, 07 Jul 2022 07:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cc03613302e94b26be92d9effe4fc628.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
