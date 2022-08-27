@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 12:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 13:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -292,14 +292,6 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[28. 8월. 2022. 14:50 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c5295e6ea10e4b8e83989677ff17842d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/156</link>
-            <guid>https://beyondlive.com/contents/156</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[27. 8월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/158684a669a4405b99bcf3f450f3d7e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO (Beyond LIVE ─ Beyond NEXT)]]></title>
