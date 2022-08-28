@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 12:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 13:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 19 Aug 2022 03:47:59 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 2nd Re-Streaming]]></title>
+            <link>javascript:moveViewPage(158);</link>
+            <guid>javascript:moveViewPage(158);</guid>
+            <pubDate>Sun, 28 Aug 2022 13:28:48 GMT</pubDate>
+            <content:encoded><![CDATA[JOHNNY + MINIT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1c0d69e779a9419a8503d0f329e2a961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 1st Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Jul 2022 03:58:27 GMT</pubDate>
             <content:encoded><![CDATA[aespa]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cc7831d187924065bb70984ba6f4614f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - Stray Kids 2nd World Tour "MANIAC" in JAPAN]]></title>
-            <link>javascript:moveViewPage(133);</link>
-            <guid>javascript:moveViewPage(133);</guid>
-            <pubDate>Fri, 08 Jul 2022 03:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a3b7e6952c2f4a539c3471c3437007be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
