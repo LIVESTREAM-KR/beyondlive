@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 10:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 11:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,7 +242,7 @@
             <link>https://beyondlive.com/contents/157</link>
             <guid>https://beyondlive.com/contents/157</guid>
             <pubDate>Sat, 27 Aug 2022 15:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[28. 8월. 2022. 20:20 (KST)]]></content:encoded>
+            <content:encoded><![CDATA[28. 8월. 2022. 20:25 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/65a217f8fda44f88a44a626735d98ba2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -286,19 +286,11 @@
             <enclosure url="https://static.beyondlive.com/contents/6c4430fbabd14bda873b869111c6fbdc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/146</link>
-            <guid>https://beyondlive.com/contents/146</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[28. 8월. 2022. 14:50 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c5295e6ea10e4b8e83989677ff17842d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 1st Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/157</link>
             <guid>https://beyondlive.com/contents/157</guid>
             <pubDate>Sat, 27 Aug 2022 15:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[28. 8월. 2022. 20:20 (KST)]]></content:encoded>
+            <content:encoded><![CDATA[28. 8월. 2022. 20:25 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/beba47d4e17345628fdcbad87c83e586.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
