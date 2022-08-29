@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 12:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 13:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,14 +284,6 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[04. 9월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6c4430fbabd14bda873b869111c6fbdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 2nd Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/158</link>
-            <guid>https://beyondlive.com/contents/158</guid>
-            <pubDate>Sun, 28 Aug 2022 13:28:54 GMT</pubDate>
-            <content:encoded><![CDATA[29. 8월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1c0d69e779a9419a8503d0f329e2a961.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love (Beyond LIVE ─ Beyond NEXT)]]></title>
