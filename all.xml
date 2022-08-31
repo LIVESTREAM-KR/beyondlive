@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #03 : YANN / Vandal Rock (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/83</link>
+            <guid>https://beyondlive.com/notice/83</guid>
+            <pubDate>Wed, 31 Aug 2022 09:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[31. 8월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내]SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO DJ OPENING SHOW (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/82</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[05. 8월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMANCITY_SUWON (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/72</link>
-            <guid>https://beyondlive.com/notice/72</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[26. 7월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(142);</link>
             <guid>javascript:moveViewPage(142);</guid>
@@ -116,6 +116,14 @@
             <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #03 : YANN / Vandal Rock (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(159);</link>
+            <guid>javascript:moveViewPage(159);</guid>
+            <pubDate>Wed, 31 Aug 2022 09:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[YANN / VANDAL ROCK]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a2ff7e08ec4446e3b88892d19ac23f28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 2nd Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/b4fd97f41e0e4fba8f209fede8e3bcce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa” (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(138);</link>
-            <guid>javascript:moveViewPage(138);</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[aespa]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cc7831d187924065bb70984ba6f4614f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[무료] SHOWME S2 #03 : YANN / Vandal Rock (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/159</link>
+            <guid>https://beyondlive.com/contents/159</guid>
+            <pubDate>Wed, 31 Aug 2022 09:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[02. 9월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/25a2ac7d9c934e0ab7fa498ad61a83d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ TOP)]]></title>
@@ -276,6 +284,14 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[04. 9월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6c4430fbabd14bda873b869111c6fbdc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #03 : YANN / Vandal Rock (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/159</link>
+            <guid>https://beyondlive.com/contents/159</guid>
+            <pubDate>Wed, 31 Aug 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[02. 9월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a2ff7e08ec4446e3b88892d19ac23f28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love (Beyond LIVE ─ Beyond NEXT)]]></title>

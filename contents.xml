@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 19 Aug 2022 03:47:59 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #03 : YANN / Vandal Rock]]></title>
+            <link>javascript:moveViewPage(159);</link>
+            <guid>javascript:moveViewPage(159);</guid>
+            <pubDate>Wed, 31 Aug 2022 09:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[YANN / VANDAL ROCK]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a2ff7e08ec4446e3b88892d19ac23f28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 2nd Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Jul 2022 03:34:42 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b4fd97f41e0e4fba8f209fede8e3bcce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – 2022 aespa FAN MEETING “MY SYNK. aespa”]]></title>
-            <link>javascript:moveViewPage(138);</link>
-            <guid>javascript:moveViewPage(138);</guid>
-            <pubDate>Tue, 12 Jul 2022 03:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[aespa]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cc7831d187924065bb70984ba6f4614f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
