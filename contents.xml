@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 14:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 15:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 07 Aug 2022 10:14:58 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/df8faf74f3f341a2a0c81a84dd3514ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #03 : YANN / Vandal Rock Re-Streaming]]></title>
+            <link>javascript:moveViewPage(160);</link>
+            <guid>javascript:moveViewPage(160);</guid>
+            <pubDate>Fri, 02 Sep 2022 15:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[YANN / VANDAL ROCK]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a4cdf0a524e34f41bd3626b5d74191cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 Aug 2022 09:13:58 GMT</pubDate>
             <content:encoded><![CDATA[MAR VISTA / GINJO / IMLAY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b1f9dd80be334a1abf1177c427395ad5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’]]></title>
-            <link>javascript:moveViewPage(131);</link>
-            <guid>javascript:moveViewPage(131);</guid>
-            <pubDate>Mon, 11 Jul 2022 03:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b4fd97f41e0e4fba8f209fede8e3bcce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
