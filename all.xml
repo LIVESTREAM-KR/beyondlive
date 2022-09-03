@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 11:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 12:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,14 +260,6 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[04. 9월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/93063135c3304d1e99d4e2e65b0e437b.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/152</link>
-            <guid>https://beyondlive.com/contents/152</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[03. 9월. 2022. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7a4604bb1594411bad338b164732a32f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ TOP)]]></title>
