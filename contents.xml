@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 12:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 13:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming]]></title>
-            <link>javascript:moveViewPage(153);</link>
-            <guid>javascript:moveViewPage(153);</guid>
-            <pubDate>Sat, 03 Sep 2022 11:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming]]></title>
             <link>javascript:moveViewPage(142);</link>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 23 Jul 2022 12:25:12 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/afe8a65e20014ce6846fe842f0c91b18.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료]Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party]]></title>
+            <link>javascript:moveViewPage(144);</link>
+            <guid>javascript:moveViewPage(144);</guid>
+            <pubDate>Sat, 03 Sep 2022 13:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[MAR VISTA / GINJO / IMLAY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b1f9dd80be334a1abf1177c427395ad5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
