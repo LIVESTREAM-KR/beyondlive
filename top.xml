@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 11:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 12:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[09. 9월. 2022. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3be58b36a47d49e0a414d74c0031bf36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/147</link>
-            <guid>https://beyondlive.com/contents/147</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[04. 9월. 2022. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/93063135c3304d1e99d4e2e65b0e437b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming]]></title>
