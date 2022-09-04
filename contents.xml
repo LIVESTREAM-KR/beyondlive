@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 10:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 11:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming]]></title>
+            <link>javascript:moveViewPage(148);</link>
+            <guid>javascript:moveViewPage(148);</guid>
+            <pubDate>Sun, 04 Sep 2022 11:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/83d4e276cc0547f896dc651f8c152a01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming]]></title>
             <link>javascript:moveViewPage(153);</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Jul 2022 12:25:12 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9c1666c8f47247cc83d9a4f23e5c752c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[낮공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming]]></title>
-            <link>javascript:moveViewPage(135);</link>
-            <guid>javascript:moveViewPage(135);</guid>
-            <pubDate>Sat, 23 Jul 2022 12:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/afe8a65e20014ce6846fe842f0c91b18.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
