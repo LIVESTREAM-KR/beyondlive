@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 04:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:00:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/80</link>
+            <guid>https://beyondlive.com/notice/80</guid>
+            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[19. 8월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 공연 취소 및 환불 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/73</link>
+            <guid>https://beyondlive.com/notice/73</guid>
+            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[27. 7월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #03 : YANN / Vandal Rock (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/83</link>
@@ -29,18 +43,18 @@
             <content:encoded><![CDATA[24. 8월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/80</link>
-            <guid>https://beyondlive.com/notice/80</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[19. 8월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] 2022 Girls’ Generation Special Event – Long Lasting Love  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/79</link>
             <guid>https://beyondlive.com/notice/79</guid>
             <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
             <content:encoded><![CDATA[18. 8월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] DJ 스트리밍 쇼 Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/78</link>
+            <guid>https://beyondlive.com/notice/78</guid>
+            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[17. 8월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 2022 MONSTA X [NO LIMIT] TOUR in SEOUL 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -55,20 +69,6 @@
             <guid>https://beyondlive.com/notice/75</guid>
             <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
             <content:encoded><![CDATA[05. 8월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 공연 취소 및 환불 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/73</link>
-            <guid>https://beyondlive.com/notice/73</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[27. 7월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] DJ 스트리밍 쇼 Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/78</link>
-            <guid>https://beyondlive.com/notice/78</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[17. 8월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] DJ 스트리밍 쇼 "SHOWME Season 2”, PRE-SHOW (Beyond LIVE ─ 공지사항)]]></title>
@@ -244,6 +244,14 @@
             <pubDate>Sat, 03 Sep 2022 14:14:06 GMT</pubDate>
             <content:encoded><![CDATA[01. 10월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f5576b2e5a2541d88a9d520999ee1eaf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/148</link>
+            <guid>https://beyondlive.com/contents/148</guid>
+            <pubDate>Sun, 04 Sep 2022 11:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[02. 10월. 2022. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7a881545a03043e6936a011a8b71aa6c.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ TOP)]]></title>
