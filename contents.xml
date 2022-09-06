@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 08:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 09:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 25 Aug 2022 04:08:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료]  SHOWME DAY]]></title>
+            <link>javascript:moveViewPage(163);</link>
+            <guid>javascript:moveViewPage(163);</guid>
+            <pubDate>Tue, 06 Sep 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[J.E.B / MINIMONSTER / IMLAY / GINJO / Will Not Fear / Anton Borin / DJ WOW / Demicat / DJ co.kr / Mar Vista / DJ TEZZ / BRLLNT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6986b9f8ee914350bb39ab90ae99432b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Jul 2022 04:03:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6e745d1031074ca08374b98262d0e9c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료]Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party Re-Streaming]]></title>
-            <link>javascript:moveViewPage(145);</link>
-            <guid>javascript:moveViewPage(145);</guid>
-            <pubDate>Fri, 05 Aug 2022 16:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[MAR VISTA / GINJO / IMLAY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cba95ef10d9a42abb7bfc2830b9142c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

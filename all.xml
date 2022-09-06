@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 08:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 09:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME DAY (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/86</link>
+            <guid>https://beyondlive.com/notice/86</guid>
+            <pubDate>Tue, 06 Sep 2022 09:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[06. 9월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] NCT 127 4TH ALBUM"질주" COMEBACKSHOW- FASTER 온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/85</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[11. 8월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO  티켓오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/75</link>
-            <guid>https://beyondlive.com/notice/75</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[05. 8월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(148);</link>
             <guid>javascript:moveViewPage(148);</guid>
@@ -116,6 +116,14 @@
             <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료]  SHOWME DAY (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(163);</link>
+            <guid>javascript:moveViewPage(163);</guid>
+            <pubDate>Tue, 06 Sep 2022 09:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[J.E.B / MINIMONSTER / IMLAY / GINJO / Will Not Fear / Anton Borin / DJ WOW / Demicat / DJ co.kr / Mar Vista / DJ TEZZ / BRLLNT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6986b9f8ee914350bb39ab90ae99432b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/6e745d1031074ca08374b98262d0e9c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[무료]Beyond LIVE - SHOWME Season2 Pre-Show : Paradise City WONDERPOOL Party Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(145);</link>
-            <guid>javascript:moveViewPage(145);</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[MAR VISTA / GINJO / IMLAY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cba95ef10d9a42abb7bfc2830b9142c2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[무료]  SHOWME DAY (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/163</link>
+            <guid>https://beyondlive.com/contents/163</guid>
+            <pubDate>Tue, 06 Sep 2022 09:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[09. 9월. 2022. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/81aa1f35dad54f33885c64bd633b1173.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER (Beyond LIVE ─ TOP)]]></title>
@@ -276,6 +284,14 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[17. 9월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/07e6d6f4b8bd43f7b71b7833ece7ff79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료]  SHOWME DAY (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/163</link>
+            <guid>https://beyondlive.com/contents/163</guid>
+            <pubDate>Tue, 06 Sep 2022 09:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[09. 9월. 2022. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6986b9f8ee914350bb39ab90ae99432b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ Beyond NEXT)]]></title>
