@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 01:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 04:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
             <content:encoded><![CDATA[이준호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7e574e3e83a9423eb7aa228b400139c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(161);</link>
+            <guid>javascript:moveViewPage(161);</guid>
+            <pubDate>Tue, 06 Sep 2022 04:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cabcb0ec3de641afa06026e8072c5dcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/cba95ef10d9a42abb7bfc2830b9142c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[저녁공연] Beyond LIVE - ”HKT48 LIVE TOUR 2022 ～Under the Spotlight～” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(137);</link>
-            <guid>javascript:moveViewPage(137);</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9c1666c8f47247cc83d9a4f23e5c752c.png" length="0" type="image/png"/>
+            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/161</link>
+            <guid>https://beyondlive.com/contents/161</guid>
+            <pubDate>Tue, 06 Sep 2022 04:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[16. 9월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/fc8bd09d1e5d43d1bb44e2565432072a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -276,6 +284,14 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[09. 9월. 2022. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/161</link>
+            <guid>https://beyondlive.com/contents/161</guid>
+            <pubDate>Tue, 06 Sep 2022 04:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[16. 9월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cabcb0ec3de641afa06026e8072c5dcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
