@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 12:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 13:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,14 @@
             <pubDate>Sat, 03 Sep 2022 14:14:13 GMT</pubDate>
             <content:encoded><![CDATA[01. 10월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/155</link>
+            <guid>https://beyondlive.com/contents/155</guid>
+            <pubDate>Fri, 09 Sep 2022 13:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[01. 10월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/88d52a987be34822968a4242cf3587d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming]]></title>

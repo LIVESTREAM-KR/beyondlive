@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 12:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 13:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,14 @@
             <pubDate>Sun, 04 Sep 2022 11:12:14 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/83d4e276cc0547f896dc651f8c152a01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(155);</link>
+            <guid>javascript:moveViewPage(155);</guid>
+            <pubDate>Fri, 09 Sep 2022 13:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/88d52a987be34822968a4242cf3587d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/0858357f66b241d4bb20dc35bb50dbae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(139);</link>
-            <guid>javascript:moveViewPage(139);</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6e745d1031074ca08374b98262d0e9c5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/155</link>
+            <guid>https://beyondlive.com/contents/155</guid>
+            <pubDate>Fri, 09 Sep 2022 13:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[01. 10월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/51a16d49e10e49d4aa4ede67eefaf32b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond VOD - SHINee : SHINee WORLD (Beyond LIVE ─ TOP)]]></title>
@@ -290,14 +298,6 @@
             <enclosure url="https://static.beyondlive.com/contents/7a881545a03043e6936a011a8b71aa6c.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/154</link>
-            <guid>https://beyondlive.com/contents/154</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[09. 9월. 2022. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3be58b36a47d49e0a414d74c0031bf36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/142</link>
             <guid>https://beyondlive.com/contents/142</guid>
@@ -335,6 +335,14 @@
             <pubDate>Sat, 03 Sep 2022 14:14:06 GMT</pubDate>
             <content:encoded><![CDATA[01. 10월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/155</link>
+            <guid>https://beyondlive.com/contents/155</guid>
+            <pubDate>Fri, 09 Sep 2022 13:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[01. 10월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/88d52a987be34822968a4242cf3587d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
