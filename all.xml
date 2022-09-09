@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 05:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 06:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,26 @@
             <enclosure url="https://static.beyondlive.com/contents/6e745d1031074ca08374b98262d0e9c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Beyond VOD - SHINee : SHINee WORLD (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/vod/149</link>
+            <guid>https://beyondlive.com/contents/vod/149</guid>
+            <pubDate>Fri, 09 Sep 2022 06:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/935f7d05b7ae41748cb1c8a50269cefe.jpg);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/contents/036e1c1febc74951b27aef2b384a75c3.jpg" alt="">
+											</span>
+											<em class="top-banner__name">SHINee</em>
+										</div>
+										<a href="/contents/vod/149" class="top-banner__title">Beyond VOD - SHINee : SHINee WORLD</a>
+										<a href="/contents/vod/149" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/935f7d05b7ae41748cb1c8a50269cefe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[무료]  SHOWME DAY (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/163</link>
             <guid>https://beyondlive.com/contents/163</guid>
@@ -284,6 +304,13 @@
             <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[17. 9월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/07e6d6f4b8bd43f7b71b7833ece7ff79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond VOD - SHINee : SHINee WORLD (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/149</link>
+            <guid>https://beyondlive.com/contents/vod/149</guid>
+            <pubDate>Fri, 09 Sep 2022 06:34:09 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/999fd64bb3984bbfafc993b6e7516b88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ (Beyond LIVE ─ Beyond NEXT)]]></title>
