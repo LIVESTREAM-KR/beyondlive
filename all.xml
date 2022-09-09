@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 06:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 07:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -309,7 +309,7 @@
             <title><![CDATA[Beyond VOD - SHINee : SHINee WORLD (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/vod/149</link>
             <guid>https://beyondlive.com/contents/vod/149</guid>
-            <pubDate>Fri, 09 Sep 2022 06:34:09 GMT</pubDate>
+            <pubDate>Fri, 09 Sep 2022 06:34:02 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/999fd64bb3984bbfafc993b6e7516b88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
