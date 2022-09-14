@@ -4,9 +4,29 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 04:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 06:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EXO의 사다리 타고 세계여행 - 남해편]]></title>
+            <link>https://beyondlive.com/contents/vod/164</link>
+            <guid>https://beyondlive.com/contents/vod/164</guid>
+            <pubDate>Wed, 14 Sep 2022 06:04:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/75164af1e4e14729835516645cc899ff.png);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/contents/1e4560a855764ea68ec3e8aed906e27c.png" alt="">
+											</span>
+											<em class="top-banner__name">EXO</em>
+										</div>
+										<a href="/contents/vod/164" class="top-banner__title">EXO의 사다리 타고 세계여행 - 남해편</a>
+										<a href="/contents/vod/164" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/75164af1e4e14729835516645cc899ff.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[무료]  SHOWME S2 #04 : EMESS / COZYHOON]]></title>
             <link>https://beyondlive.com/contents/165</link>
