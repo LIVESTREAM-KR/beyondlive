@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 01:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 04:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,6 +21,14 @@
             <pubDate>Tue, 06 Sep 2022 04:21:30 GMT</pubDate>
             <content:encoded><![CDATA[16. 9월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cabcb0ec3de641afa06026e8072c5dcb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료]  SHOWME S2 #04 : EMESS / COZYHOON]]></title>
+            <link>https://beyondlive.com/contents/165</link>
+            <guid>https://beyondlive.com/contents/165</guid>
+            <pubDate>Wed, 14 Sep 2022 04:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[16. 9월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/63be1236ac2c4911aaac8a4c4920b1da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming]]></title>

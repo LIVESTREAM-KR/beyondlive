@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-09-14T01:23:08.206Z</updated>
+    <updated>2022-09-14T04:13:08.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #04 : EMESS / COZYHOON]]></title>
+        <id>https://beyondlive.com/notice/88</id>
+        <link href="https://beyondlive.com/notice/88"/>
+        <updated>2022-09-14T04:12:47.900Z</updated>
+        <content type="html"><![CDATA[14. 9월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] NCT 127 4TH ALBUM"질주" COMEBACKSHOW- FASTER 온라인 티켓 오픈 공지문]]></title>
         <id>https://beyondlive.com/notice/85</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/78"/>
         <updated>2022-08-17T09:15:59.208Z</updated>
         <content type="html"><![CDATA[17. 8월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] 2022 MONSTA X [NO LIMIT] TOUR in SEOUL 티켓오픈공지]]></title>
-        <id>https://beyondlive.com/notice/77</id>
-        <link href="https://beyondlive.com/notice/77"/>
-        <updated>2022-08-12T07:13:35.939Z</updated>
-        <content type="html"><![CDATA[11. 8월. 2022]]></content>
     </entry>
 </feed>
