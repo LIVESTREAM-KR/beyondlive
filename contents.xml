@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 11:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 12:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER Re-Streaming]]></title>
+            <link>javascript:moveViewPage(162);</link>
+            <guid>javascript:moveViewPage(162);</guid>
+            <pubDate>Fri, 16 Sep 2022 12:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6e26b6c7941d4f01adf340f25ecc4909.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming]]></title>
             <link>javascript:moveViewPage(148);</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Aug 2022 04:02:40 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/983d13679fb64d00bce41f165174815b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료]Beyond LIVE - SHOWME S2 #01 : IMLAY / SUNGYOO]]></title>
-            <link>javascript:moveViewPage(150);</link>
-            <guid>javascript:moveViewPage(150);</guid>
-            <pubDate>Wed, 17 Aug 2022 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[IMLAY / SUNGYOO]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/30e3b2e2c22c48699bf1af9b7585c8d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
