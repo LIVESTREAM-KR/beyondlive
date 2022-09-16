@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 14:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 03 Sep 2022 14:13:59 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #04 : EMESS / COZYHOON Re-Streaming]]></title>
+            <link>javascript:moveViewPage(166);</link>
+            <guid>javascript:moveViewPage(166);</guid>
+            <pubDate>Fri, 16 Sep 2022 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[EMESS / COZYHOON]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/466c2d363a204810963573dfe6b4217c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 19 Aug 2022 15:17:11 GMT</pubDate>
             <content:encoded><![CDATA[IMLAY / SUNGYOO]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6e2c9a86bbd340dca360caee58a06d04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ HUMAN CITY_SUWON]]></title>
-            <link>javascript:moveViewPage(143);</link>
-            <guid>javascript:moveViewPage(143);</guid>
-            <pubDate>Tue, 02 Aug 2022 04:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/983d13679fb64d00bce41f165174815b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

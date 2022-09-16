@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 14:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:16:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,6 +28,14 @@
             <pubDate>Thu, 25 Aug 2022 12:30:30 GMT</pubDate>
             <content:encoded><![CDATA[17. 9월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7e574e3e83a9423eb7aa228b400139c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #04 : EMESS / COZYHOON Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/166</link>
+            <guid>https://beyondlive.com/contents/166</guid>
+            <pubDate>Fri, 16 Sep 2022 15:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[17. 9월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/466c2d363a204810963573dfe6b4217c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming]]></title>
