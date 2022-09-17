@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 12:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 13:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #04 : EMESS / COZYHOON Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/166</link>
+            <guid>https://beyondlive.com/contents/166</guid>
+            <pubDate>Sat, 17 Sep 2022 13:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[17. 9월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/323be05035334533b31c1b1326dae294.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/162</link>
@@ -34,14 +42,6 @@
 										</a>
 									</div>]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/75164af1e4e14729835516645cc899ff.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료]  SHOWME S2 #04 : EMESS / COZYHOON]]></title>
-            <link>https://beyondlive.com/contents/165</link>
-            <guid>https://beyondlive.com/contents/165</guid>
-            <pubDate>Wed, 14 Sep 2022 04:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[16. 9월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9d750a96c766472f8307cfd493098705.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming]]></title>
@@ -86,14 +86,6 @@
             <pubDate>Mon, 05 Sep 2022 06:00:17 GMT</pubDate>
             <content:encoded><![CDATA[02. 10월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7a881545a03043e6936a011a8b71aa6c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/142</link>
-            <guid>https://beyondlive.com/contents/142</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[17. 9월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/07e6d6f4b8bd43f7b71b7833ece7ff79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
