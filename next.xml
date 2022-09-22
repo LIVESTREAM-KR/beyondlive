@@ -1,65 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Beyond LIVE ─ Beyond NEXT</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 04:12:33 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Beyond VOD - SHINee : SHINee WORLD]]></title>
-            <link>https://beyondlive.com/contents/vod/149</link>
-            <guid>https://beyondlive.com/contents/vod/149</guid>
-            <pubDate>Fri, 09 Sep 2022 06:34:09 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/999fd64bb3984bbfafc993b6e7516b88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EXO의 사다리 타고 세계여행 - 남해편]]></title>
-            <link>https://beyondlive.com/contents/vod/164</link>
-            <guid>https://beyondlive.com/contents/vod/164</guid>
-            <pubDate>Wed, 14 Sep 2022 06:05:00 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/6ee51c3c6be1487fb7843264f27a0932.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/153</link>
-            <guid>https://beyondlive.com/contents/153</guid>
-            <pubDate>Sat, 03 Sep 2022 14:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[01. 10월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/155</link>
-            <guid>https://beyondlive.com/contents/155</guid>
-            <pubDate>Fri, 09 Sep 2022 13:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[01. 10월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/88d52a987be34822968a4242cf3587d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/148</link>
-            <guid>https://beyondlive.com/contents/148</guid>
-            <pubDate>Sun, 04 Sep 2022 11:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[02. 10월. 2022. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/83d4e276cc0547f896dc651f8c152a01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/162</link>
-            <guid>https://beyondlive.com/contents/162</guid>
-            <pubDate>Fri, 16 Sep 2022 12:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6e26b6c7941d4f01adf340f25ecc4909.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
-            <link>https://beyondlive.com/contents/167</link>
-            <guid>https://beyondlive.com/contents/167</guid>
-            <pubDate>Thu, 22 Sep 2022 04:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[15. 10월. 2022. 14:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/65533001239e4712817628af81f6996b.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://beyondlive.com/?lang=ko</id>
+    <title>Beyond LIVE ─ Beyond NEXT</title>
+    <updated>2022-09-22T06:01:34.027Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+</feed>
