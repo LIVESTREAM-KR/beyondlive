@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 01:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 04:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,6 +52,14 @@
             <pubDate>Fri, 16 Sep 2022 12:30:15 GMT</pubDate>
             <content:encoded><![CDATA[08. 10월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6e26b6c7941d4f01adf340f25ecc4909.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
+            <link>https://beyondlive.com/contents/167</link>
+            <guid>https://beyondlive.com/contents/167</guid>
+            <pubDate>Thu, 22 Sep 2022 04:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[15. 10월. 2022. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/65533001239e4712817628af81f6996b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
