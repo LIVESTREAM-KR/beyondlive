@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 05:59:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 06:53:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,13 +316,6 @@
             <pubDate>Sun, 04 Sep 2022 11:12:26 GMT</pubDate>
             <content:encoded><![CDATA[02. 10월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7a881545a03043e6936a011a8b71aa6c.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond VOD - SHINee : SHINee WORLD (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/149</link>
-            <guid>https://beyondlive.com/contents/vod/149</guid>
-            <pubDate>Fri, 09 Sep 2022 06:34:02 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/999fd64bb3984bbfafc993b6e7516b88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EXO의 사다리 타고 세계여행 - 남해편 (Beyond LIVE ─ Beyond NEXT)]]></title>
