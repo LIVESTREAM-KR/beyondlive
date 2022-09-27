@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 08:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 09:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/91</link>
+            <guid>https://beyondlive.com/notice/91</guid>
+            <pubDate>Tue, 27 Sep 2022 09:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[27. 9월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/90</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[19. 8월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] 2022 Girls’ Generation Special Event – Long Lasting Love  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/79</link>
-            <guid>https://beyondlive.com/notice/79</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[18. 8월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(167);</link>
             <guid>javascript:moveViewPage(167);</guid>
@@ -116,6 +116,14 @@
             <pubDate>Sat, 03 Sep 2022 14:13:59 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(172);</link>
+            <guid>javascript:moveViewPage(172);</guid>
+            <pubDate>Tue, 27 Sep 2022 09:26:21 GMT</pubDate>
+            <content:encoded><![CDATA[AIOBAHN / BAGAGEE VIPHEX 13]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/91f39d88818d4c9cbab2a55702afc83e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무료] SHOWME S2 #04 : EMESS / COZYHOON Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/0778d6abb3ef4366acb52bfb8ee3988b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(156);</link>
-            <guid>javascript:moveViewPage(156);</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[JOHNNY + MINIT]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/158684a669a4405b99bcf3f450f3d7e0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/172</link>
+            <guid>https://beyondlive.com/contents/172</guid>
+            <pubDate>Tue, 27 Sep 2022 09:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[30. 9월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5deaae676e274b99baf853b1470c69f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ TOP)]]></title>
@@ -323,6 +331,14 @@
             <guid>https://beyondlive.com/contents/vod/164</guid>
             <pubDate>Wed, 14 Sep 2022 06:04:54 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6ee51c3c6be1487fb7843264f27a0932.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/172</link>
+            <guid>https://beyondlive.com/contents/172</guid>
+            <pubDate>Tue, 27 Sep 2022 09:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[30. 9월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/91f39d88818d4c9cbab2a55702afc83e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
