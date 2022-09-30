@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 14:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 15:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Sun, 04 Sep 2022 11:12:14 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/83d4e276cc0547f896dc651f8c152a01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(173);</link>
+            <guid>javascript:moveViewPage(173);</guid>
+            <pubDate>Fri, 30 Sep 2022 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[AIOBAHN / BAGAGEE VIPHEX 13]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c77cd8682ed443a8a98134a44938a91b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,20 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/beba47d4e17345628fdcbad87c83e586.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(146);</link>
-            <guid>javascript:moveViewPage(146);</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0778d6abb3ef4366acb52bfb8ee3988b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/172</link>
-            <guid>https://beyondlive.com/contents/172</guid>
-            <pubDate>Tue, 27 Sep 2022 09:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[30. 9월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5deaae676e274b99baf853b1470c69f5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/173</link>
+            <guid>https://beyondlive.com/contents/173</guid>
+            <pubDate>Fri, 30 Sep 2022 15:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[01. 10월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/188b4fcdf22d45f0855b545b092ca652.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ TOP)]]></title>
@@ -347,6 +347,14 @@
             <pubDate>Fri, 09 Sep 2022 13:45:20 GMT</pubDate>
             <content:encoded><![CDATA[01. 10월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/88d52a987be34822968a4242cf3587d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/173</link>
+            <guid>https://beyondlive.com/contents/173</guid>
+            <pubDate>Fri, 30 Sep 2022 15:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[01. 10월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c77cd8682ed443a8a98134a44938a91b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
