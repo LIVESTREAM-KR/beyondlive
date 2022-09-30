@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 12:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 13:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,14 +331,6 @@
             <guid>https://beyondlive.com/contents/vod/164</guid>
             <pubDate>Wed, 14 Sep 2022 06:04:54 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6ee51c3c6be1487fb7843264f27a0932.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/172</link>
-            <guid>https://beyondlive.com/contents/172</guid>
-            <pubDate>Tue, 27 Sep 2022 09:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[30. 9월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/91f39d88818d4c9cbab2a55702afc83e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
