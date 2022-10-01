@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-10-01T14:17:36.848Z</updated>
+    <updated>2022-10-01T15:17:34.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13]]></title>
-        <id>https://beyondlive.com/notice/91</id>
-        <link href="https://beyondlive.com/notice/91"/>
-        <updated>2022-09-27T09:26:14.587Z</updated>
-        <content type="html"><![CDATA[27. 9월. 2022]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
         <id>https://beyondlive.com/notice/90</id>
@@ -25,6 +18,13 @@
         <link href="https://beyondlive.com/notice/73"/>
         <updated>2022-07-27T13:42:03.735Z</updated>
         <content type="html"><![CDATA[27. 7월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13]]></title>
+        <id>https://beyondlive.com/notice/91</id>
+        <link href="https://beyondlive.com/notice/91"/>
+        <updated>2022-09-27T09:26:14.587Z</updated>
+        <content type="html"><![CDATA[27. 9월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #04 : EMESS / COZYHOON]]></title>
