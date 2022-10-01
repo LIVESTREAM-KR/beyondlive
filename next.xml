@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 08:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 09:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,6 @@
             <guid>https://beyondlive.com/contents/vod/164</guid>
             <pubDate>Sat, 24 Sep 2022 16:21:07 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6ee51c3c6be1487fb7843264f27a0932.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/153</link>
-            <guid>https://beyondlive.com/contents/153</guid>
-            <pubDate>Sat, 24 Sep 2022 16:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[01. 10월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming]]></title>
