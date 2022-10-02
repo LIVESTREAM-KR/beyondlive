@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 04:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 05:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/92</link>
+            <guid>https://beyondlive.com/notice/92</guid>
+            <pubDate>Sun, 02 Oct 2022 05:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[02. 10월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/90</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/81</guid>
             <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
             <content:encoded><![CDATA[24. 8월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/80</link>
-            <guid>https://beyondlive.com/notice/80</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[19. 8월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공연)]]></title>
@@ -292,14 +292,6 @@
 										</a>
 									</div>]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/935f7d05b7ae41748cb1c8a50269cefe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/148</link>
-            <guid>https://beyondlive.com/contents/148</guid>
-            <pubDate>Sun, 04 Sep 2022 11:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[02. 10월. 2022. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7a881545a03043e6936a011a8b71aa6c.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[EXO의 사다리 타고 세계여행 - 남해편 (Beyond LIVE ─ Beyond NEXT)]]></title>
