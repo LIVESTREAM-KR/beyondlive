@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 01:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 04:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -307,14 +307,6 @@
             <guid>https://beyondlive.com/contents/vod/164</guid>
             <pubDate>Wed, 14 Sep 2022 06:04:54 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6ee51c3c6be1487fb7843264f27a0932.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/148</link>
-            <guid>https://beyondlive.com/contents/148</guid>
-            <pubDate>Sun, 04 Sep 2022 11:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[02. 10월. 2022. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/83d4e276cc0547f896dc651f8c152a01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
