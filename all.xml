@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 05:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 06:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/93</link>
+            <guid>https://beyondlive.com/notice/93</guid>
+            <pubDate>Mon, 03 Oct 2022 06:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[03. 10월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/92</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/82</guid>
             <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
             <content:encoded><![CDATA[25. 8월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #02 : JOHNNY / MINIT (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/81</link>
-            <guid>https://beyondlive.com/notice/81</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[24. 8월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공연)]]></title>
