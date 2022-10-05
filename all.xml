@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 05:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 06:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/94</link>
+            <guid>https://beyondlive.com/notice/94</guid>
+            <pubDate>Wed, 05 Oct 2022 06:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[05. 10월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/93</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/83</guid>
             <pubDate>Wed, 31 Aug 2022 09:15:29 GMT</pubDate>
             <content:encoded><![CDATA[31. 8월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내]SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO DJ OPENING SHOW (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/82</link>
-            <guid>https://beyondlive.com/notice/82</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[25. 8월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND (Beyond LIVE ─ 공연)]]></title>
