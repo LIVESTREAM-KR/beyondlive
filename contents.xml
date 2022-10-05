@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 01:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 03:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND]]></title>
+            <link>javascript:moveViewPage(168);</link>
+            <guid>javascript:moveViewPage(168);</guid>
+            <pubDate>Wed, 05 Oct 2022 03:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[KEY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5444b0a590c14da991e562c867181832.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
             <link>javascript:moveViewPage(167);</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 Aug 2022 13:28:48 GMT</pubDate>
             <content:encoded><![CDATA[JOHNNY + MINIT]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1c0d69e779a9419a8503d0f329e2a961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #02 : JOHNNY / MINIT 1st Re-Streaming]]></title>
-            <link>javascript:moveViewPage(157);</link>
-            <guid>javascript:moveViewPage(157);</guid>
-            <pubDate>Sat, 27 Aug 2022 15:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[JOHNNY + MINIT]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/beba47d4e17345628fdcbad87c83e586.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

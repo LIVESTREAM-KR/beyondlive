@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 01:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 03:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND]]></title>
+            <link>https://beyondlive.com/contents/168</link>
+            <guid>https://beyondlive.com/contents/168</guid>
+            <pubDate>Wed, 05 Oct 2022 03:38:12 GMT</pubDate>
+            <content:encoded><![CDATA[23. 10월. 2022. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9fe97ff99de44e0a840de90998933109.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
             <link>https://beyondlive.com/contents/167</link>
