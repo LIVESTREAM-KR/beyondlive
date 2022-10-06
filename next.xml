@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 05:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 06:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,14 @@
             <pubDate>Wed, 05 Oct 2022 03:38:18 GMT</pubDate>
             <content:encoded><![CDATA[23. 10월. 2022. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5444b0a590c14da991e562c867181832.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/174</link>
+            <guid>https://beyondlive.com/contents/174</guid>
+            <pubDate>Thu, 06 Oct 2022 06:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
