@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 01:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 03:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내 ]MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/95</link>
+            <guid>https://beyondlive.com/notice/95</guid>
+            <pubDate>Thu, 06 Oct 2022 03:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[06. 10월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/94</link>
@@ -22,13 +29,6 @@
             <content:encoded><![CDATA[03. 10월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/92</link>
-            <guid>https://beyondlive.com/notice/92</guid>
-            <pubDate>Sun, 02 Oct 2022 05:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[02. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] 김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/90</link>
             <guid>https://beyondlive.com/notice/90</guid>
@@ -36,11 +36,11 @@
             <content:encoded><![CDATA[19. 9월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE - NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM’ 공연 취소 및 환불 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/73</link>
-            <guid>https://beyondlive.com/notice/73</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[27. 7월. 2022]]></content:encoded>
+            <title><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/92</link>
+            <guid>https://beyondlive.com/notice/92</guid>
+            <pubDate>Sun, 02 Oct 2022 05:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[02. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 (Beyond LIVE ─ 공지사항)]]></title>
