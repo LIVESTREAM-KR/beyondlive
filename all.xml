@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 01:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 03:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,14 @@
             <pubDate>Thu, 06 Oct 2022 06:26:54 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(170);</link>
+            <guid>javascript:moveViewPage(170);</guid>
+            <pubDate>Fri, 07 Oct 2022 03:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/526598b151a940d3ad1b386da9ad3636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[무료] SHOWME S2 #03 : YANN / Vandal Rock (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(159);</link>
-            <guid>javascript:moveViewPage(159);</guid>
-            <pubDate>Wed, 31 Aug 2022 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[YANN / VANDAL ROCK]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a2ff7e08ec4446e3b88892d19ac23f28.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/170</link>
+            <guid>https://beyondlive.com/contents/170</guid>
+            <pubDate>Fri, 07 Oct 2022 03:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[23. 10월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/65f0929173aa47d8a1361015dbc4e274.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -339,6 +347,14 @@
             <pubDate>Wed, 05 Oct 2022 03:38:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 10월. 2022. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5444b0a590c14da991e562c867181832.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/170</link>
+            <guid>https://beyondlive.com/contents/170</guid>
+            <pubDate>Fri, 07 Oct 2022 03:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[23. 10월. 2022. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/526598b151a940d3ad1b386da9ad3636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
