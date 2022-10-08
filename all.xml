@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 10:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 11:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -323,14 +323,6 @@
             <guid>https://beyondlive.com/contents/vod/164</guid>
             <pubDate>Wed, 14 Sep 2022 06:04:54 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6ee51c3c6be1487fb7843264f27a0932.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/162</link>
-            <guid>https://beyondlive.com/contents/162</guid>
-            <pubDate>Fri, 16 Sep 2022 12:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6e26b6c7941d4f01adf340f25ecc4909.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ Beyond NEXT)]]></title>
