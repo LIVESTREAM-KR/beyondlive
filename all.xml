@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 12:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 13:39:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -236,14 +236,6 @@
             <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/162</link>
-            <guid>https://beyondlive.com/contents/162</guid>
-            <pubDate>Fri, 16 Sep 2022 12:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4cab3e0aff974221bd08c8e596e89298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ (Beyond LIVE ─ TOP)]]></title>
