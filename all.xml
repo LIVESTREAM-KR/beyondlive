@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 05:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 06:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,26 +288,6 @@
 										</a>
 									</div>]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/75164af1e4e14729835516645cc899ff.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond VOD - SHINee : SHINee WORLD (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/vod/149</link>
-            <guid>https://beyondlive.com/contents/vod/149</guid>
-            <pubDate>Fri, 09 Sep 2022 06:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/935f7d05b7ae41748cb1c8a50269cefe.jpg);"></div>
-									<div class="top-banner__info">
-										<div class="top-banner__artist shrink">
-											<span class="top-banner__logo">
-												<img src="https://static.beyondlive.com/contents/036e1c1febc74951b27aef2b384a75c3.jpg" alt="">
-											</span>
-											<em class="top-banner__name">SHINee</em>
-										</div>
-										<a href="/contents/vod/149" class="top-banner__title">Beyond VOD - SHINee : SHINee WORLD</a>
-										<a href="/contents/vod/149" class="top-banner__more">
-											<span class="text">VOD 정보 확인</span>
-										</a>
-									</div>]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/935f7d05b7ae41748cb1c8a50269cefe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EXO의 사다리 타고 세계여행 - 남해편 (Beyond LIVE ─ Beyond NEXT)]]></title>
