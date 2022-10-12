@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Oct 2022 08:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 09:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
             <content:encoded><![CDATA[KEY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5444b0a590c14da991e562c867181832.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #06 : MELLAN / CCHEKOZ]]></title>
+            <link>javascript:moveViewPage(175);</link>
+            <guid>javascript:moveViewPage(175);</guid>
+            <pubDate>Wed, 12 Oct 2022 09:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[MELLAN / CCHEKOZ]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/334b93a35cc54a0094cd7c3a068a912b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
             <content:encoded><![CDATA[YANN / VANDAL ROCK]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a4cdf0a524e34f41bd3626b5d74191cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love]]></title>
-            <link>javascript:moveViewPage(152);</link>
-            <guid>javascript:moveViewPage(152);</guid>
-            <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/630196036cd148b387639bd6441e5b27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
