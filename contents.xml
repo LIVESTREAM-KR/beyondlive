@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 11:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 12:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 Re-Streaming]]></title>
+            <link>javascript:moveViewPage(178);</link>
+            <guid>javascript:moveViewPage(178);</guid>
+            <pubDate>Thu, 13 Oct 2022 12:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/bf71c50f57464a34a7bf7523eb148365.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming]]></title>
             <link>javascript:moveViewPage(174);</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/df8faf74f3f341a2a0c81a84dd3514ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #03 : YANN / Vandal Rock Re-Streaming]]></title>
-            <link>javascript:moveViewPage(160);</link>
-            <guid>javascript:moveViewPage(160);</guid>
-            <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[YANN / VANDAL ROCK]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a4cdf0a524e34f41bd3626b5d74191cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
