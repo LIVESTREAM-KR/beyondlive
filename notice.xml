@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-10-14T01:52:13.143Z</updated>
+    <updated>2022-10-14T04:24:02.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] TWICE FANMEETING ONCE HALLOWEEN 3 온라인 티켓 오픈 공지문]]></title>
+        <id>https://beyondlive.com/notice/97</id>
+        <link href="https://beyondlive.com/notice/97"/>
+        <updated>2022-10-14T04:23:40.883Z</updated>
+        <content type="html"><![CDATA[14. 10월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ]]></title>
         <id>https://beyondlive.com/notice/96</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/86"/>
         <updated>2022-09-06T09:15:52.805Z</updated>
         <content type="html"><![CDATA[06. 9월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] NCT 127 4TH ALBUM"질주" COMEBACKSHOW- FASTER 온라인 티켓 오픈 공지문]]></title>
-        <id>https://beyondlive.com/notice/85</id>
-        <link href="https://beyondlive.com/notice/85"/>
-        <updated>2022-09-05T06:53:23.454Z</updated>
-        <content type="html"><![CDATA[05. 9월. 2022]]></content>
     </entry>
 </feed>

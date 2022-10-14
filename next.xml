@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Oct 2022 01:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 04:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,14 +53,6 @@
             <pubDate>Thu, 06 Oct 2022 06:27:06 GMT</pubDate>
             <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/178</link>
-            <guid>https://beyondlive.com/contents/178</guid>
-            <pubDate>Thu, 13 Oct 2022 12:35:51 GMT</pubDate>
-            <content:encoded><![CDATA[04. 12월. 2022. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/bf71c50f57464a34a7bf7523eb148365.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
