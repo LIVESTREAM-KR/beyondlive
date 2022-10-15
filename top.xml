@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 04:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 05:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
+            <link>https://beyondlive.com/contents/167</link>
+            <guid>https://beyondlive.com/contents/167</guid>
+            <pubDate>Thu, 22 Sep 2022 04:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[15. 10월. 2022. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/62a4b21a215543b5bf0102fedf47a59c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[무료] SHOWME S2 #06 : MELLAN / CCHEKOZ]]></title>
             <link>https://beyondlive.com/contents/175</link>
@@ -38,14 +46,6 @@
             <pubDate>Wed, 05 Oct 2022 03:38:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 10월. 2022. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9fe97ff99de44e0a840de90998933109.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
-            <link>https://beyondlive.com/contents/167</link>
-            <guid>https://beyondlive.com/contents/167</guid>
-            <pubDate>Thu, 22 Sep 2022 04:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[15. 10월. 2022. 14:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/62a4b21a215543b5bf0102fedf47a59c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
