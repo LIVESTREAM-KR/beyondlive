@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 14:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 15:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,6 +100,14 @@
             <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
             <content:encoded><![CDATA[KEY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5444b0a590c14da991e562c867181832.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #06 : MELLAN / CCHEKOZ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(176);</link>
+            <guid>javascript:moveViewPage(176);</guid>
+            <pubDate>Sat, 15 Oct 2022 15:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[MELLAN / CCHEKOZ]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2f105d0705994736831e0eae6dfb92e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무료] SHOWME S2 #06 : MELLAN / CCHEKOZ (Beyond LIVE ─ 공연)]]></title>
@@ -230,20 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/df8faf74f3f341a2a0c81a84dd3514ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[무료] SHOWME S2 #03 : YANN / Vandal Rock Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(160);</link>
-            <guid>javascript:moveViewPage(160);</guid>
-            <pubDate>Fri, 14 Oct 2022 04:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[YANN / VANDAL ROCK]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a4cdf0a524e34f41bd3626b5d74191cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #06 : MELLAN / CCHEKOZ (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/175</link>
-            <guid>https://beyondlive.com/contents/175</guid>
-            <pubDate>Wed, 12 Oct 2022 09:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[15. 10월. 2022. 22:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4013973cd69542b99ed89c645ca168f2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[무료] SHOWME S2 #06 : MELLAN / CCHEKOZ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/176</link>
+            <guid>https://beyondlive.com/contents/176</guid>
+            <pubDate>Sat, 15 Oct 2022 15:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[16. 10월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/fe799f6cf8fa46269a8733aec4c9a10a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ (Beyond LIVE ─ TOP)]]></title>
@@ -268,6 +268,14 @@
             <pubDate>Wed, 05 Oct 2022 03:38:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 10월. 2022. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9fe97ff99de44e0a840de90998933109.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무료] SHOWME S2 #06 : MELLAN / CCHEKOZ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/176</link>
+            <guid>https://beyondlive.com/contents/176</guid>
+            <pubDate>Sat, 15 Oct 2022 15:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[16. 10월. 2022. 22:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2f105d0705994736831e0eae6dfb92e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND (Beyond LIVE ─ Beyond NEXT)]]></title>
