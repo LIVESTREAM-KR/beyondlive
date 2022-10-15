@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Oct 2022 08:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 09:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,13 +43,6 @@
             <content:encoded><![CDATA[03. 10월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] 김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/90</link>
-            <guid>https://beyondlive.com/notice/90</guid>
-            <pubDate>Mon, 19 Sep 2022 06:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[19. 9월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/92</link>
             <guid>https://beyondlive.com/notice/92</guid>
@@ -62,6 +55,13 @@
             <guid>https://beyondlive.com/notice/91</guid>
             <pubDate>Tue, 27 Sep 2022 09:26:14 GMT</pubDate>
             <content:encoded><![CDATA[27. 9월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] 김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/90</link>
+            <guid>https://beyondlive.com/notice/90</guid>
+            <pubDate>Mon, 19 Sep 2022 06:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[19. 9월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #04 : EMESS / COZYHOON (Beyond LIVE ─ 공지사항)]]></title>
