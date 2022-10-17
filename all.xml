@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 01:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 04:30:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>https://beyondlive.com/notice/97</guid>
             <pubDate>Fri, 14 Oct 2022 04:23:40 GMT</pubDate>
             <content:encoded><![CDATA[14. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/96</link>
-            <guid>https://beyondlive.com/notice/96</guid>
-            <pubDate>Wed, 12 Oct 2022 09:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[12. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내 ]MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -41,6 +34,13 @@
             <guid>https://beyondlive.com/notice/93</guid>
             <pubDate>Mon, 03 Oct 2022 06:30:06 GMT</pubDate>
             <content:encoded><![CDATA[03. 10월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/96</link>
+            <guid>https://beyondlive.com/notice/96</guid>
+            <pubDate>Wed, 12 Oct 2022 09:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[12. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -84,6 +84,14 @@
             <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(177);</link>
+            <guid>javascript:moveViewPage(177);</guid>
+            <pubDate>Mon, 17 Oct 2022 04:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5a397f8acce2479c990d3dbaae85fc8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/b55d25f27ef74df7851c186a020dce34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE – ITZY THE 1ST WORLD TOUR <CHECKMATE> Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(140);</link>
-            <guid>javascript:moveViewPage(140);</guid>
-            <pubDate>Fri, 07 Oct 2022 22:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/df8faf74f3f341a2a0c81a84dd3514ac.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/177</link>
+            <guid>https://beyondlive.com/contents/177</guid>
+            <pubDate>Mon, 17 Oct 2022 04:30:37 GMT</pubDate>
+            <content:encoded><![CDATA[05. 11월. 2022. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3b9a2f62ae5741a8ad51bf78c3f01c13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ (Beyond LIVE ─ TOP)]]></title>
@@ -276,6 +284,14 @@
             <pubDate>Fri, 07 Oct 2022 03:47:41 GMT</pubDate>
             <content:encoded><![CDATA[23. 10월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/526598b151a940d3ad1b386da9ad3636.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/177</link>
+            <guid>https://beyondlive.com/contents/177</guid>
+            <pubDate>Mon, 17 Oct 2022 04:30:43 GMT</pubDate>
+            <content:encoded><![CDATA[05. 11월. 2022. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5a397f8acce2479c990d3dbaae85fc8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

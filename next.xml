@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 01:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 04:30:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 07 Oct 2022 03:47:48 GMT</pubDate>
             <content:encoded><![CDATA[23. 10월. 2022. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/526598b151a940d3ad1b386da9ad3636.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3]]></title>
+            <link>https://beyondlive.com/contents/177</link>
+            <guid>https://beyondlive.com/contents/177</guid>
+            <pubDate>Mon, 17 Oct 2022 04:30:43 GMT</pubDate>
+            <content:encoded><![CDATA[05. 11월. 2022. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5a397f8acce2479c990d3dbaae85fc8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming]]></title>
