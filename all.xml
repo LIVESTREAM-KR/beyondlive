@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 09:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 10:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -268,38 +268,6 @@
             <pubDate>Wed, 05 Oct 2022 03:38:12 GMT</pubDate>
             <content:encoded><![CDATA[23. 10월. 2022. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9fe97ff99de44e0a840de90998933109.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/168</link>
-            <guid>https://beyondlive.com/contents/168</guid>
-            <pubDate>Wed, 05 Oct 2022 03:38:12 GMT</pubDate>
-            <content:encoded><![CDATA[23. 10월. 2022. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5444b0a590c14da991e562c867181832.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/170</link>
-            <guid>https://beyondlive.com/contents/170</guid>
-            <pubDate>Fri, 07 Oct 2022 03:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[23. 10월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/526598b151a940d3ad1b386da9ad3636.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/177</link>
-            <guid>https://beyondlive.com/contents/177</guid>
-            <pubDate>Mon, 17 Oct 2022 04:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[05. 11월. 2022. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5a397f8acce2479c990d3dbaae85fc8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/174</link>
-            <guid>https://beyondlive.com/contents/174</guid>
-            <pubDate>Thu, 06 Oct 2022 06:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
