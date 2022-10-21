@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Oct 2022 09:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 10:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] “SMTOWN WONDERLAND 2022” RED CARPET LIVE 중계 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/98</link>
+            <guid>https://beyondlive.com/notice/98</guid>
+            <pubDate>Fri, 21 Oct 2022 10:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[21. 10월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] TWICE FANMEETING ONCE HALLOWEEN 3 온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/97</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/88</guid>
             <pubDate>Wed, 14 Sep 2022 04:12:47 GMT</pubDate>
             <content:encoded><![CDATA[14. 9월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME DAY (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/86</link>
-            <guid>https://beyondlive.com/notice/86</guid>
-            <pubDate>Tue, 06 Sep 2022 09:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[06. 9월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ 공연)]]></title>
