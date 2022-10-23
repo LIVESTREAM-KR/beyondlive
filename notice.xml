@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-10-23T09:19:30.787Z</updated>
+    <updated>2022-10-23T10:18:31.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[06. 10월. 2022]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ]]></title>
+        <id>https://beyondlive.com/notice/96</id>
+        <link href="https://beyondlive.com/notice/96"/>
+        <updated>2022-10-12T09:22:01.348Z</updated>
+        <content type="html"><![CDATA[12. 10월. 2022]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[공연안내] NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’온라인 티켓 오픈 공지문]]></title>
         <id>https://beyondlive.com/notice/94</id>
         <link href="https://beyondlive.com/notice/94"/>
@@ -39,13 +46,6 @@
         <link href="https://beyondlive.com/notice/93"/>
         <updated>2022-10-03T06:30:06.899Z</updated>
         <content type="html"><![CDATA[03. 10월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ]]></title>
-        <id>https://beyondlive.com/notice/96</id>
-        <link href="https://beyondlive.com/notice/96"/>
-        <updated>2022-10-12T09:22:01.348Z</updated>
-        <content type="html"><![CDATA[12. 10월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지]]></title>
