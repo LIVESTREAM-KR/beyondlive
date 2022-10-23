@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 08:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 09:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’]]></title>
-            <link>https://beyondlive.com/contents/170</link>
-            <guid>https://beyondlive.com/contents/170</guid>
-            <pubDate>Wed, 19 Oct 2022 11:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[23. 10월. 2022. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/526598b151a940d3ad1b386da9ad3636.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3]]></title>
             <link>https://beyondlive.com/contents/177</link>
@@ -30,6 +22,14 @@
             <pubDate>Wed, 19 Oct 2022 11:18:58 GMT</pubDate>
             <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/169</link>
+            <guid>https://beyondlive.com/contents/169</guid>
+            <pubDate>Sun, 23 Oct 2022 09:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[26. 11월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5ea0e4f5e3614a96a581c692d84b95e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
