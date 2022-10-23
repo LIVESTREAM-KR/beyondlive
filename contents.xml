@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 12:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 13:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 23 Oct 2022 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[KEY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5ea0e4f5e3614a96a581c692d84b95e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming]]></title>
+            <link>javascript:moveViewPage(171);</link>
+            <guid>javascript:moveViewPage(171);</guid>
+            <pubDate>Sun, 23 Oct 2022 13:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[NCT 127]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cf167e257d4647bca885ca1f46113dce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 17 Oct 2022 12:37:33 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료]  SHOWME DAY]]></title>
-            <link>javascript:moveViewPage(163);</link>
-            <guid>javascript:moveViewPage(163);</guid>
-            <pubDate>Mon, 17 Oct 2022 12:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[J.E.B / MINIMONSTER / IMLAY / GINJO / Will Not Fear / Anton Borin / DJ WOW / Demicat / DJ co.kr / Mar Vista / DJ TEZZ / BRLLNT]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6986b9f8ee914350bb39ab90ae99432b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
