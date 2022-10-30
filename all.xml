@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 10:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 11:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,13 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/cabcb0ec3de641afa06026e8072c5dcb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“SMTOWN WONDERLAND 2022” RED CARPET LIVE (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/179</link>
-            <guid>https://beyondlive.com/contents/179</guid>
-            <pubDate>Wed, 26 Oct 2022 06:22:43 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/591b68f943ef4622bb6961d7130a63e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/171</link>
             <guid>https://beyondlive.com/contents/171</guid>
@@ -275,13 +268,6 @@
             <pubDate>Thu, 06 Oct 2022 06:27:00 GMT</pubDate>
             <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e807cef9e99345f5887fdb601de3304a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“SMTOWN WONDERLAND 2022” RED CARPET LIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/179</link>
-            <guid>https://beyondlive.com/contents/179</guid>
-            <pubDate>Wed, 26 Oct 2022 06:22:43 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/e0bf807b92764a4db85aaa0bb81e8321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 (Beyond LIVE ─ Beyond NEXT)]]></title>
