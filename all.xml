@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 23:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 01:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[안내] “SMTOWN WONDERLAND 2022” RED CARPET LIVE 중계 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/98</link>
-            <guid>https://beyondlive.com/notice/98</guid>
-            <pubDate>Fri, 21 Oct 2022 10:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[21. 10월. 2022]]></content:encoded>
+            <title><![CDATA[[취소공지] SMTOWN WONDERLAND 2022 행사 중계 취소 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/99</link>
+            <guid>https://beyondlive.com/notice/99</guid>
+            <pubDate>Sun, 30 Oct 2022 01:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[30. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] TWICE FANMEETING ONCE HALLOWEEN 3 온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
@@ -27,6 +27,13 @@
             <guid>https://beyondlive.com/notice/95</guid>
             <pubDate>Thu, 06 Oct 2022 03:35:49 GMT</pubDate>
             <content:encoded><![CDATA[06. 10월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] “SMTOWN WONDERLAND 2022” RED CARPET LIVE 중계 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/98</link>
+            <guid>https://beyondlive.com/notice/98</guid>
+            <pubDate>Fri, 21 Oct 2022 10:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[21. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ (Beyond LIVE ─ 공지사항)]]></title>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/90</guid>
             <pubDate>Mon, 19 Sep 2022 06:10:10 GMT</pubDate>
             <content:encoded><![CDATA[19. 9월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] DJ 스트리밍 쇼 SHOWME S2 #04 : EMESS / COZYHOON (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/88</link>
-            <guid>https://beyondlive.com/notice/88</guid>
-            <pubDate>Wed, 14 Sep 2022 04:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[14. 9월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -242,7 +242,6 @@
             <link>https://beyondlive.com/contents/179</link>
             <guid>https://beyondlive.com/contents/179</guid>
             <pubDate>Wed, 26 Oct 2022 06:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[30. 10월. 2022. 18:15 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/591b68f943ef4622bb6961d7130a63e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -282,7 +281,6 @@
             <link>https://beyondlive.com/contents/179</link>
             <guid>https://beyondlive.com/contents/179</guid>
             <pubDate>Wed, 26 Oct 2022 06:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[30. 10월. 2022. 18:15 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e0bf807b92764a4db85aaa0bb81e8321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
