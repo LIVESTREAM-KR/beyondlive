@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 18:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 19:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 17 Oct 2022 12:37:33 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5a397f8acce2479c990d3dbaae85fc8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“SMTOWN WONDERLAND 2022” RED CARPET LIVE]]></title>
-            <link>javascript:moveViewPage(179);</link>
-            <guid>javascript:moveViewPage(179);</guid>
-            <pubDate>Wed, 26 Oct 2022 06:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e0bf807b92764a4db85aaa0bb81e8321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 17 Oct 2022 12:37:33 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cabcb0ec3de641afa06026e8072c5dcb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’]]></title>
+            <link>javascript:moveViewPage(154);</link>
+            <guid>javascript:moveViewPage(154);</guid>
+            <pubDate>Sun, 30 Oct 2022 19:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
