@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-10-31T05:32:21.656Z</updated>
+    <updated>2022-10-31T06:21:38.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[취소공지] TWICE FANMEETING ONCE HALLOWEEN 3 취소 안내]]></title>
+        <id>https://beyondlive.com/notice/100</id>
+        <link href="https://beyondlive.com/notice/100"/>
+        <updated>2022-10-31T06:21:17.214Z</updated>
+        <content type="html"><![CDATA[31. 10월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[취소공지] SMTOWN WONDERLAND 2022 행사 중계 취소 안내]]></title>
         <id>https://beyondlive.com/notice/99</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/91"/>
         <updated>2022-09-27T09:26:14.587Z</updated>
         <content type="html"><![CDATA[27. 9월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] 김고은 데뷔 10주년 팬미팅 <고은날: come in closer>]]></title>
-        <id>https://beyondlive.com/notice/90</id>
-        <link href="https://beyondlive.com/notice/90"/>
-        <updated>2022-09-19T06:10:10.708Z</updated>
-        <content type="html"><![CDATA[19. 9월. 2022]]></content>
     </entry>
 </feed>

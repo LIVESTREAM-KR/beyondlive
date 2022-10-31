@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Oct 2022 05:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 06:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[취소공지] TWICE FANMEETING ONCE HALLOWEEN 3 취소 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/100</link>
+            <guid>https://beyondlive.com/notice/100</guid>
+            <pubDate>Mon, 31 Oct 2022 06:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[31. 10월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[취소공지] SMTOWN WONDERLAND 2022 행사 중계 취소 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/99</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/91</guid>
             <pubDate>Tue, 27 Sep 2022 09:26:14 GMT</pubDate>
             <content:encoded><![CDATA[27. 9월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 김고은 데뷔 10주년 팬미팅 <고은날: come in closer> (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/90</link>
-            <guid>https://beyondlive.com/notice/90</guid>
-            <pubDate>Mon, 19 Sep 2022 06:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[19. 9월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -258,7 +258,6 @@
             <link>https://beyondlive.com/contents/177</link>
             <guid>https://beyondlive.com/contents/177</guid>
             <pubDate>Mon, 17 Oct 2022 04:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[05. 11월. 2022. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3b9a2f62ae5741a8ad51bf78c3f01c13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -274,7 +273,6 @@
             <link>https://beyondlive.com/contents/177</link>
             <guid>https://beyondlive.com/contents/177</guid>
             <pubDate>Mon, 17 Oct 2022 04:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[05. 11월. 2022. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5a397f8acce2479c990d3dbaae85fc8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
