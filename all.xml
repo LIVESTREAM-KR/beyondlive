@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Nov 2022 01:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 04:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] TWICE FANMEETING ONCE HALLOWEEN 3 환불 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/102</link>
+            <guid>https://beyondlive.com/notice/102</guid>
+            <pubDate>Tue, 01 Nov 2022 04:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[01. 11월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[취소공지] TWICE FANMEETING ONCE HALLOWEEN 3 취소 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/100</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/92</guid>
             <pubDate>Sun, 02 Oct 2022 05:43:52 GMT</pubDate>
             <content:encoded><![CDATA[02. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/91</link>
-            <guid>https://beyondlive.com/notice/91</guid>
-            <pubDate>Tue, 27 Sep 2022 09:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[27. 9월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ 공연)]]></title>
