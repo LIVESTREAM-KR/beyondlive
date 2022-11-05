@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Nov 2022 13:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 14:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,26 +254,12 @@
             <enclosure url="https://static.beyondlive.com/contents/d9c07a8984f24a9b806e15dc59387ec8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/177</link>
-            <guid>https://beyondlive.com/contents/177</guid>
-            <pubDate>Mon, 17 Oct 2022 04:30:37 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/3b9a2f62ae5741a8ad51bf78c3f01c13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/174</link>
             <guid>https://beyondlive.com/contents/174</guid>
             <pubDate>Thu, 06 Oct 2022 06:27:00 GMT</pubDate>
             <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e807cef9e99345f5887fdb601de3304a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3 (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/177</link>
-            <guid>https://beyondlive.com/contents/177</guid>
-            <pubDate>Mon, 17 Oct 2022 04:30:37 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/5a397f8acce2479c990d3dbaae85fc8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
