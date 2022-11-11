@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 14:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 15:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,30 +260,6 @@
             <pubDate>Mon, 07 Nov 2022 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e807cef9e99345f5887fdb601de3304a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/174</link>
-            <guid>https://beyondlive.com/contents/174</guid>
-            <pubDate>Mon, 07 Nov 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/171</link>
-            <guid>https://beyondlive.com/contents/171</guid>
-            <pubDate>Mon, 07 Nov 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[20. 11월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cf167e257d4647bca885ca1f46113dce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/169</link>
-            <guid>https://beyondlive.com/contents/169</guid>
-            <pubDate>Mon, 07 Nov 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[26. 11월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5ea0e4f5e3614a96a581c692d84b95e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
