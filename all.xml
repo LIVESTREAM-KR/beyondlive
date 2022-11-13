@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Nov 2022 05:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 06:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,14 +252,6 @@
             <pubDate>Mon, 07 Nov 2022 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[26. 11월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d9c07a8984f24a9b806e15dc59387ec8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/174</link>
-            <guid>https://beyondlive.com/contents/174</guid>
-            <pubDate>Mon, 07 Nov 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[13. 11월. 2022. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
