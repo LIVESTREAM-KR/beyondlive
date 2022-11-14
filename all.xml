@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 06:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 07:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/106</link>
+            <guid>https://beyondlive.com/notice/106</guid>
+            <pubDate>Mon, 14 Nov 2022 07:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[14. 11월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내] TWICE FANMEETING ONCE HALLOWEEN 3 환불 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/102</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/93</guid>
             <pubDate>Mon, 07 Nov 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[03. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/92</link>
-            <guid>https://beyondlive.com/notice/92</guid>
-            <pubDate>Mon, 07 Nov 2022 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[02. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ 공연)]]></title>

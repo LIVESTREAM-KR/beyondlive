@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-11-14T06:20:27.870Z</updated>
+    <updated>2022-11-14T07:15:08.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내]Beyond LIVE서비스 점검 안내]]></title>
+        <id>https://beyondlive.com/notice/106</id>
+        <link href="https://beyondlive.com/notice/106"/>
+        <updated>2022-11-14T07:14:48.177Z</updated>
+        <content type="html"><![CDATA[14. 11월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] TWICE FANMEETING ONCE HALLOWEEN 3 환불 안내]]></title>
         <id>https://beyondlive.com/notice/102</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/93"/>
         <updated>2022-10-03T06:30:06.899Z</updated>
         <content type="html"><![CDATA[03. 10월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내] MONSTA X [NO LIMIT] TOUR in SEOUL Re-Streaming 자막 오류에 대한 공지]]></title>
-        <id>https://beyondlive.com/notice/92</id>
-        <link href="https://beyondlive.com/notice/92"/>
-        <updated>2022-10-02T05:43:52.375Z</updated>
-        <content type="html"><![CDATA[02. 10월. 2022]]></content>
     </entry>
 </feed>
