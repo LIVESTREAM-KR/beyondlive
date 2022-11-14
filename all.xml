@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 01:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 03:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[30. 10월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안내 ]MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/95</link>
-            <guid>https://beyondlive.com/notice/95</guid>
-            <pubDate>Mon, 07 Nov 2022 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[06. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[안내] “SMTOWN WONDERLAND 2022” RED CARPET LIVE 중계 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/98</link>
             <guid>https://beyondlive.com/notice/98</guid>
@@ -55,6 +48,13 @@
             <guid>https://beyondlive.com/notice/96</guid>
             <pubDate>Mon, 07 Nov 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[12. 10월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내 ]MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/95</link>
+            <guid>https://beyondlive.com/notice/95</guid>
+            <pubDate>Mon, 07 Nov 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[06. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
