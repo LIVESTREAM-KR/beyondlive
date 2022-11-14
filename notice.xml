@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-11-14T21:14:56.041Z</updated>
+    <updated>2022-11-14T22:19:54.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://beyondlive.com/resources/favicon_32x32.png</icon>
+    <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[완료]Beyond LIVE서비스 점검 안내]]></title>
+        <id>https://beyondlive.com/notice/106</id>
+        <link href="https://beyondlive.com/notice/106"/>
+        <updated>2022-11-14T22:19:36.139Z</updated>
+        <content type="html"><![CDATA[14. 11월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안내] TWICE FANMEETING ONCE HALLOWEEN 3 환불 안내]]></title>
+        <id>https://beyondlive.com/notice/102</id>
+        <link href="https://beyondlive.com/notice/102"/>
+        <updated>2022-11-14T22:19:36.144Z</updated>
+        <content type="html"><![CDATA[01. 11월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[취소공지] TWICE FANMEETING ONCE HALLOWEEN 3 취소 안내]]></title>
+        <id>https://beyondlive.com/notice/100</id>
+        <link href="https://beyondlive.com/notice/100"/>
+        <updated>2022-11-14T22:19:36.144Z</updated>
+        <content type="html"><![CDATA[31. 10월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[취소공지] SMTOWN WONDERLAND 2022 행사 중계 취소 안내]]></title>
+        <id>https://beyondlive.com/notice/99</id>
+        <link href="https://beyondlive.com/notice/99"/>
+        <updated>2022-11-14T22:19:36.146Z</updated>
+        <content type="html"><![CDATA[30. 10월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안내] “SMTOWN WONDERLAND 2022” RED CARPET LIVE 중계 안내]]></title>
+        <id>https://beyondlive.com/notice/98</id>
+        <link href="https://beyondlive.com/notice/98"/>
+        <updated>2022-11-14T22:19:36.146Z</updated>
+        <content type="html"><![CDATA[21. 10월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] TWICE FANMEETING ONCE HALLOWEEN 3 온라인 티켓 오픈 공지문]]></title>
+        <id>https://beyondlive.com/notice/97</id>
+        <link href="https://beyondlive.com/notice/97"/>
+        <updated>2022-11-14T22:19:36.148Z</updated>
+        <content type="html"><![CDATA[14. 10월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ]]></title>
+        <id>https://beyondlive.com/notice/96</id>
+        <link href="https://beyondlive.com/notice/96"/>
+        <updated>2022-11-14T22:19:36.150Z</updated>
+        <content type="html"><![CDATA[12. 10월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안내 ]MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming 일정 안내]]></title>
+        <id>https://beyondlive.com/notice/95</id>
+        <link href="https://beyondlive.com/notice/95"/>
+        <updated>2022-11-14T22:19:36.152Z</updated>
+        <content type="html"><![CDATA[06. 10월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’온라인 티켓 오픈 공지문]]></title>
+        <id>https://beyondlive.com/notice/94</id>
+        <link href="https://beyondlive.com/notice/94"/>
+        <updated>2022-11-14T22:19:36.156Z</updated>
+        <content type="html"><![CDATA[05. 10월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 온라인 티켓 오픈 공지문]]></title>
+        <id>https://beyondlive.com/notice/93</id>
+        <link href="https://beyondlive.com/notice/93"/>
+        <updated>2022-11-14T22:19:36.160Z</updated>
+        <content type="html"><![CDATA[03. 10월. 2022]]></content>
+    </entry>
 </feed>

@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://beyondlive.com/?lang=ko</id>
-    <title>Beyond LIVE ─ TOP</title>
-    <updated>2022-11-14T21:14:56.040Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://beyondlive.com/resources/favicon_32x32.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Beyond LIVE ─ TOP</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 14 Nov 2022 22:19:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/171</link>
+            <guid>https://beyondlive.com/contents/171</guid>
+            <pubDate>Mon, 14 Nov 2022 22:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[20. 11월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e25398c74d044d1f9a9aca5e05881a98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/169</link>
+            <guid>https://beyondlive.com/contents/169</guid>
+            <pubDate>Mon, 14 Nov 2022 22:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[26. 11월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d9c07a8984f24a9b806e15dc59387ec8.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
