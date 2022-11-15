@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 05:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 06:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내]“2022 BEST CHOI’s MINHO – LUCKY CHOI’s"  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/103</link>
+            <guid>https://beyondlive.com/notice/103</guid>
+            <pubDate>Tue, 15 Nov 2022 06:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[15. 11월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/106</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/94</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[05. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND 온라인 티켓 오픈 공지문 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/93</link>
-            <guid>https://beyondlive.com/notice/93</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[03. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -238,6 +238,26 @@
             <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KEY : ‘GROKS IN THE KEYLAND’ (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/vod/180</link>
+            <guid>https://beyondlive.com/contents/vod/180</guid>
+            <pubDate>Tue, 15 Nov 2022 06:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/011223c8711a4d839120b04d95f92a4f.jpg);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/contents/a36513a863e04bd7a7c782094e23b930.jpg" alt="">
+											</span>
+											<em class="top-banner__name">KEY</em>
+										</div>
+										<a href="/contents/vod/180" class="top-banner__title">KEY : ‘GROKS IN THE KEYLAND’</a>
+										<a href="/contents/vod/180" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/011223c8711a4d839120b04d95f92a4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/171</link>
             <guid>https://beyondlive.com/contents/171</guid>
@@ -252,6 +272,13 @@
             <pubDate>Mon, 14 Nov 2022 22:19:47 GMT</pubDate>
             <content:encoded><![CDATA[26. 11월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d9c07a8984f24a9b806e15dc59387ec8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY : ‘GROKS IN THE KEYLAND’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/180</link>
+            <guid>https://beyondlive.com/contents/vod/180</guid>
+            <pubDate>Tue, 15 Nov 2022 06:18:42 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/ea054795135b4db68182da6e415eb6f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
