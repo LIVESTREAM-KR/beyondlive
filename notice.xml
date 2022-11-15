@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-11-15T06:18:43.409Z</updated>
+    <updated>2022-11-15T07:14:30.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://beyondlive.com/notice/103"/>
         <updated>2022-11-15T06:18:22.190Z</updated>
         <content type="html"><![CDATA[15. 11월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료]Beyond LIVE서비스 점검 안내]]></title>
-        <id>https://beyondlive.com/notice/106</id>
-        <link href="https://beyondlive.com/notice/106"/>
-        <updated>2022-11-14T22:19:36.139Z</updated>
-        <content type="html"><![CDATA[14. 11월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[안내] TWICE FANMEETING ONCE HALLOWEEN 3 환불 안내]]></title>
@@ -39,6 +32,13 @@
         <link href="https://beyondlive.com/notice/99"/>
         <updated>2022-11-14T22:19:36.146Z</updated>
         <content type="html"><![CDATA[30. 10월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료]Beyond LIVE서비스 점검 안내]]></title>
+        <id>https://beyondlive.com/notice/106</id>
+        <link href="https://beyondlive.com/notice/106"/>
+        <updated>2022-11-14T22:19:36.139Z</updated>
+        <content type="html"><![CDATA[14. 11월. 2022]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[안내] “SMTOWN WONDERLAND 2022” RED CARPET LIVE 중계 안내]]></title>

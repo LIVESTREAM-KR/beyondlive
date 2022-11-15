@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 06:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 07:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>https://beyondlive.com/notice/103</guid>
             <pubDate>Tue, 15 Nov 2022 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[15. 11월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/106</link>
-            <guid>https://beyondlive.com/notice/106</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[14. 11월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내] TWICE FANMEETING ONCE HALLOWEEN 3 환불 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -41,6 +34,13 @@
             <guid>https://beyondlive.com/notice/99</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[30. 10월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/106</link>
+            <guid>https://beyondlive.com/notice/106</guid>
+            <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[14. 11월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내] “SMTOWN WONDERLAND 2022” RED CARPET LIVE 중계 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -277,7 +277,7 @@
             <title><![CDATA[KEY : ‘GROKS IN THE KEYLAND’ (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/vod/180</link>
             <guid>https://beyondlive.com/contents/vod/180</guid>
-            <pubDate>Tue, 15 Nov 2022 06:18:42 GMT</pubDate>
+            <pubDate>Tue, 15 Nov 2022 06:18:35 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/ea054795135b4db68182da6e415eb6f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
