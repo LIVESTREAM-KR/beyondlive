@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 01:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 03:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’]]></title>
+            <link>https://beyondlive.com/contents/182</link>
+            <guid>https://beyondlive.com/contents/182</guid>
+            <pubDate>Wed, 16 Nov 2022 03:23:30 GMT</pubDate>
+            <content:encoded><![CDATA[27. 11월. 2022. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f118040b4f75474daac513f05442ab0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY : ‘GROKS IN THE KEYLAND’]]></title>
             <link>https://beyondlive.com/contents/vod/180</link>

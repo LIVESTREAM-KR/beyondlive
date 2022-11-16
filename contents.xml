@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 01:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 03:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’]]></title>
+            <link>javascript:moveViewPage(182);</link>
+            <guid>javascript:moveViewPage(182);</guid>
+            <pubDate>Wed, 16 Nov 2022 03:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/936ac559ae7248258ce33eca7d5a9209.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming]]></title>
             <link>javascript:moveViewPage(169);</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cabcb0ec3de641afa06026e8072c5dcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’]]></title>
-            <link>javascript:moveViewPage(154);</link>
-            <guid>javascript:moveViewPage(154);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7b72ba967859474c9f27f0e8f7b65504.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
