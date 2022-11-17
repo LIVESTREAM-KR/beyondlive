@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 01:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/95</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[06. 10월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(181);</link>
+            <guid>javascript:moveViewPage(181);</guid>
+            <pubDate>Thu, 17 Nov 2022 03:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[민호]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b17639bdf5ef4bb6bc6751a7a1de1db3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’ (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/63be1236ac2c4911aaac8a4c4920b1da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(161);</link>
-            <guid>javascript:moveViewPage(161);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cabcb0ec3de641afa06026e8072c5dcb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/181</link>
+            <guid>https://beyondlive.com/contents/181</guid>
+            <pubDate>Thu, 17 Nov 2022 03:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[08. 12월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/25db8150419145609d80d72390e47c51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’ (Beyond LIVE ─ TOP)]]></title>
@@ -311,6 +319,14 @@
             <pubDate>Wed, 16 Nov 2022 03:23:30 GMT</pubDate>
             <content:encoded><![CDATA[27. 11월. 2022. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/936ac559ae7248258ce33eca7d5a9209.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/181</link>
+            <guid>https://beyondlive.com/contents/181</guid>
+            <pubDate>Thu, 17 Nov 2022 03:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[08. 12월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b17639bdf5ef4bb6bc6751a7a1de1db3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 01:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,14 @@
             <pubDate>Wed, 16 Nov 2022 03:23:37 GMT</pubDate>
             <content:encoded><![CDATA[27. 11월. 2022. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/936ac559ae7248258ce33eca7d5a9209.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s]]></title>
+            <link>https://beyondlive.com/contents/181</link>
+            <guid>https://beyondlive.com/contents/181</guid>
+            <pubDate>Thu, 17 Nov 2022 03:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[08. 12월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b17639bdf5ef4bb6bc6751a7a1de1db3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
