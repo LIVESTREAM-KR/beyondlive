@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 06:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내]2022 THE BOYZ FAN CON：THE B－ROAD 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/107</link>
+            <guid>https://beyondlive.com/notice/107</guid>
+            <pubDate>Thu, 17 Nov 2022 06:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[17. 11월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ @ YOKOHAMA 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/104</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/96</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[12. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내 ]MONSTA X [NO LIMIT] TOUR in SEOUL 추가 Re-Streaming 일정 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/95</link>
-            <guid>https://beyondlive.com/notice/95</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[06. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s (Beyond LIVE ─ 공연)]]></title>
