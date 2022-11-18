@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2023 WJSN FAN-CON <CODENAME : UJUNG> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/109</link>
+            <guid>https://beyondlive.com/notice/109</guid>
+            <pubDate>Fri, 18 Nov 2022 05:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[18. 11월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]2022 THE BOYZ FAN CON：THE B－ROAD 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/107</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/97</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[14. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/96</link>
-            <guid>https://beyondlive.com/notice/96</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[12. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s (Beyond LIVE ─ 공연)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-11-18T04:18:55.071Z</updated>
+    <updated>2022-11-18T05:14:10.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2023 WJSN FAN-CON <CODENAME : UJUNG> 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/109</id>
+        <link href="https://beyondlive.com/notice/109"/>
+        <updated>2022-11-18T05:13:47.979Z</updated>
+        <content type="html"><![CDATA[18. 11월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내]2022 THE BOYZ FAN CON：THE B－ROAD 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/107</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/97"/>
         <updated>2022-11-14T22:19:36.148Z</updated>
         <content type="html"><![CDATA[14. 10월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내]  DJ 스트리밍 쇼 SHOWME S2 #06 : MELLAN / CCHEKOZ]]></title>
-        <id>https://beyondlive.com/notice/96</id>
-        <link href="https://beyondlive.com/notice/96"/>
-        <updated>2022-11-14T22:19:36.150Z</updated>
-        <content type="html"><![CDATA[12. 10월. 2022]]></content>
     </entry>
 </feed>
