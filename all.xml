@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 08:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 09:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <enclosure url="https://static.beyondlive.com/contents/7e574e3e83a9423eb7aa228b400139c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/171</link>
+            <guid>https://beyondlive.com/contents/171</guid>
+            <pubDate>Mon, 14 Nov 2022 22:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[20. 11월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e25398c74d044d1f9a9aca5e05881a98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 THE BOYZ FAN CON：THE B-ROAD (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/183</link>
             <guid>https://beyondlive.com/contents/183</guid>
@@ -280,14 +288,6 @@
 										</a>
 									</div>]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/011223c8711a4d839120b04d95f92a4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK ⁺’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/171</link>
-            <guid>https://beyondlive.com/contents/171</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[20. 11월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e25398c74d044d1f9a9aca5e05881a98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ TOP)]]></title>
