@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 13:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 14:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,14 +287,6 @@
             <guid>https://beyondlive.com/contents/vod/180</guid>
             <pubDate>Tue, 15 Nov 2022 06:18:35 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/ea054795135b4db68182da6e415eb6f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/169</link>
-            <guid>https://beyondlive.com/contents/169</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[26. 11월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5ea0e4f5e3614a96a581c692d84b95e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’ (Beyond LIVE ─ Beyond NEXT)]]></title>
