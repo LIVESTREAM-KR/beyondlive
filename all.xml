@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 12:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 13:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
 										</a>
 									</div>]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/011223c8711a4d839120b04d95f92a4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/169</link>
-            <guid>https://beyondlive.com/contents/169</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[26. 11월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d9c07a8984f24a9b806e15dc59387ec8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY : ‘GROKS IN THE KEYLAND’ (Beyond LIVE ─ Beyond NEXT)]]></title>
