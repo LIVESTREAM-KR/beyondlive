@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 10:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 11:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -279,14 +279,6 @@
             <guid>https://beyondlive.com/contents/vod/180</guid>
             <pubDate>Tue, 15 Nov 2022 06:18:35 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/ea054795135b4db68182da6e415eb6f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/182</link>
-            <guid>https://beyondlive.com/contents/182</guid>
-            <pubDate>Wed, 16 Nov 2022 03:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[27. 11월. 2022. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/936ac559ae7248258ce33eca7d5a9209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 THE BOYZ FAN CON：THE B-ROAD (Beyond LIVE ─ Beyond NEXT)]]></title>
