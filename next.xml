@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 02:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 03:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,6 +29,14 @@
             <pubDate>Thu, 17 Nov 2022 03:11:42 GMT</pubDate>
             <content:encoded><![CDATA[08. 12월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b17639bdf5ef4bb6bc6751a7a1de1db3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture]]></title>
+            <link>https://beyondlive.com/contents/186</link>
+            <guid>https://beyondlive.com/contents/186</guid>
+            <pubDate>Mon, 28 Nov 2022 03:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[18. 12월. 2022. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/349320ee42ac4d89aa0fd852b313a2a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

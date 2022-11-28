@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 02:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 03:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/98</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[21. 10월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(186);</link>
+            <guid>javascript:moveViewPage(186);</guid>
+            <pubDate>Mon, 28 Nov 2022 03:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/349320ee42ac4d89aa0fd852b313a2a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/466c2d363a204810963573dfe6b4217c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beyond LIVE – 이준호 2022 FAN-CON 〈Before Midnight〉 Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(142);</link>
-            <guid>javascript:moveViewPage(142);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[이준호]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7e574e3e83a9423eb7aa228b400139c4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/186</link>
+            <guid>https://beyondlive.com/contents/186</guid>
+            <pubDate>Mon, 28 Nov 2022 03:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[18. 12월. 2022. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/568187adcf3e44098111d7b7d0a3f8a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 THE BOYZ FAN CON：THE B-ROAD (Beyond LIVE ─ TOP)]]></title>
@@ -295,6 +303,14 @@
             <pubDate>Thu, 17 Nov 2022 03:11:35 GMT</pubDate>
             <content:encoded><![CDATA[08. 12월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b17639bdf5ef4bb6bc6751a7a1de1db3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/186</link>
+            <guid>https://beyondlive.com/contents/186</guid>
+            <pubDate>Mon, 28 Nov 2022 03:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[18. 12월. 2022. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/349320ee42ac4d89aa0fd852b313a2a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
