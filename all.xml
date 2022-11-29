@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 05:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 06:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,13 +27,6 @@
             <guid>https://beyondlive.com/notice/107</guid>
             <pubDate>Thu, 17 Nov 2022 06:18:40 GMT</pubDate>
             <content:encoded><![CDATA[17. 11월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ @ YOKOHAMA 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/104</link>
-            <guid>https://beyondlive.com/notice/104</guid>
-            <pubDate>Tue, 15 Nov 2022 10:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[15. 11월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내]“2022 BEST CHOI’s MINHO – LUCKY CHOI’s"  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -62,6 +55,13 @@
             <guid>https://beyondlive.com/notice/99</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[30. 10월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내]NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ @ YOKOHAMA 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/104</link>
+            <guid>https://beyondlive.com/notice/104</guid>
+            <pubDate>Tue, 15 Nov 2022 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[15. 11월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[완료]Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
