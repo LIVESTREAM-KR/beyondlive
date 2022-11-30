@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] NiziU Live with U 2022 “Burn it Up” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/111</link>
+            <guid>https://beyondlive.com/notice/111</guid>
+            <pubDate>Wed, 30 Nov 2022 06:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[30. 11월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Xdinary Heroes Stage ♭ : Overture 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/110</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/99</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[30. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] “SMTOWN WONDERLAND 2022” RED CARPET LIVE 중계 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/98</link>
-            <guid>https://beyondlive.com/notice/98</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[21. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes Stage ♭ : Overture (Beyond LIVE ─ 공연)]]></title>
