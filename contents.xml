@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 01:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 28 Nov 2022 03:27:04 GMT</pubDate>
             <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/349320ee42ac4d89aa0fd852b313a2a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NiziU Live with U 2022 “Burn it Up”]]></title>
+            <link>javascript:moveViewPage(188);</link>
+            <guid>javascript:moveViewPage(188);</guid>
+            <pubDate>Thu, 01 Dec 2022 03:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[NiziU]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dde668c66f9c4a389cdec88c2234f2bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
             <content:encoded><![CDATA[AIOBAHN / BAGAGEE VIPHEX 13]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/91f39d88818d4c9cbab2a55702afc83e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #04 : EMESS / COZYHOON Re-Streaming]]></title>
-            <link>javascript:moveViewPage(166);</link>
-            <guid>javascript:moveViewPage(166);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[EMESS / COZYHOON]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/466c2d363a204810963573dfe6b4217c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
