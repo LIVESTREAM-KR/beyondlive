@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 WJSN WJSN FAN-CON <CODENAME : UJUNG>]]></title>
+            <link>javascript:moveViewPage(185);</link>
+            <guid>javascript:moveViewPage(185);</guid>
+            <pubDate>Fri, 02 Dec 2022 08:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Xdinary Heroes Stage ♭ : Overture]]></title>
             <link>javascript:moveViewPage(186);</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
             <content:encoded><![CDATA[소녀시대]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13]]></title>
-            <link>javascript:moveViewPage(172);</link>
-            <guid>javascript:moveViewPage(172);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[AIOBAHN / BAGAGEE VIPHEX 13]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/91f39d88818d4c9cbab2a55702afc83e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

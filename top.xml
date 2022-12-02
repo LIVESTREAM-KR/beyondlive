@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 WJSN WJSN FAN-CON <CODENAME : UJUNG>]]></title>
+            <link>https://beyondlive.com/contents/185</link>
+            <guid>https://beyondlive.com/contents/185</guid>
+            <pubDate>Fri, 02 Dec 2022 08:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[08. 1월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cbd64aa530174f11b1064a048b0b0d23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NiziU Live with U 2022 “Burn it Up”]]></title>
             <link>https://beyondlive.com/contents/188</link>

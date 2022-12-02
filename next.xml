@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,6 +45,14 @@
             <pubDate>Mon, 28 Nov 2022 03:27:19 GMT</pubDate>
             <content:encoded><![CDATA[18. 12월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/349320ee42ac4d89aa0fd852b313a2a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WJSN WJSN FAN-CON <CODENAME : UJUNG>]]></title>
+            <link>https://beyondlive.com/contents/185</link>
+            <guid>https://beyondlive.com/contents/185</guid>
+            <pubDate>Fri, 02 Dec 2022 08:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[08. 1월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
