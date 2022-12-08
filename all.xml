@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 12:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 13:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -260,14 +260,6 @@
             <pubDate>Mon, 28 Nov 2022 03:27:12 GMT</pubDate>
             <content:encoded><![CDATA[18. 12월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/568187adcf3e44098111d7b7d0a3f8a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/181</link>
-            <guid>https://beyondlive.com/contents/181</guid>
-            <pubDate>Thu, 17 Nov 2022 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[08. 12월. 2022. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/25db8150419145609d80d72390e47c51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY : ‘GROKS IN THE KEYLAND’ (Beyond LIVE ─ TOP)]]></title>
