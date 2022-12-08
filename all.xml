@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 09:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 10:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내]MINHO와 SHINee WORLD가 함께하는 LUCKY TICKET EVENT (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/112</link>
+            <guid>https://beyondlive.com/notice/112</guid>
+            <pubDate>Thu, 08 Dec 2022 10:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[08. 12월. 2022]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] NiziU Live with U 2022 “Burn it Up” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/111</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/100</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[31. 10월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[취소공지] SMTOWN WONDERLAND 2022 행사 중계 취소 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/99</link>
-            <guid>https://beyondlive.com/notice/99</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[30. 10월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 WJSN FAN-CON <CODENAME : UJUNG> (Beyond LIVE ─ 공연)]]></title>
