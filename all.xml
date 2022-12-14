@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 03:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 04:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,7 +296,7 @@
             <title><![CDATA[NCT DREAM WINTER SPECIAL EVENT 'Candy' (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/189</link>
             <guid>https://beyondlive.com/contents/189</guid>
-            <pubDate>Wed, 14 Dec 2022 03:17:36 GMT</pubDate>
+            <pubDate>Wed, 14 Dec 2022 03:17:30 GMT</pubDate>
             <content:encoded><![CDATA[21. 12월. 2022. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/329689bfb65b4b10b990c742f18a55fb.jpg" length="0" type="image/jpg"/>
         </item>
