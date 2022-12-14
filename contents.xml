@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 02:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 03:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 02 Dec 2022 08:16:25 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM WINTER SPECIAL EVENT 'Candy']]></title>
+            <link>javascript:moveViewPage(189);</link>
+            <guid>javascript:moveViewPage(189);</guid>
+            <pubDate>Wed, 14 Dec 2022 03:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/329689bfb65b4b10b990c742f18a55fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes Stage ♭ : Overture]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/88d52a987be34822968a4242cf3587d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 소녀시대 Special Event – Long Lasting Love Re-Streaming]]></title>
-            <link>javascript:moveViewPage(153);</link>
-            <guid>javascript:moveViewPage(153);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[소녀시대]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6ea471f8a17e49c486ae1ac4dee62ef5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

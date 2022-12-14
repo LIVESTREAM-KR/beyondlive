@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2022-12-14T02:46:09.367Z</updated>
+    <updated>2022-12-14T03:17:37.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] NCT DREAM WINTER SPECIAL EVENT 'Candy' 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/113</id>
+        <link href="https://beyondlive.com/notice/113"/>
+        <updated>2022-12-14T03:17:16.203Z</updated>
+        <content type="html"><![CDATA[14. 12월. 2022]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내]MINHO와 SHINee WORLD가 함께하는 LUCKY TICKET EVENT]]></title>
         <id>https://beyondlive.com/notice/112</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/102"/>
         <updated>2022-11-14T22:19:36.144Z</updated>
         <content type="html"><![CDATA[01. 11월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취소공지] TWICE FANMEETING ONCE HALLOWEEN 3 취소 안내]]></title>
-        <id>https://beyondlive.com/notice/100</id>
-        <link href="https://beyondlive.com/notice/100"/>
-        <updated>2022-11-14T22:19:36.144Z</updated>
-        <content type="html"><![CDATA[31. 10월. 2022]]></content>
     </entry>
 </feed>

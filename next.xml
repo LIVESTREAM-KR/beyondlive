@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 02:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 03:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,6 +29,14 @@
             <pubDate>Mon, 28 Nov 2022 03:27:19 GMT</pubDate>
             <content:encoded><![CDATA[18. 12월. 2022. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/349320ee42ac4d89aa0fd852b313a2a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM WINTER SPECIAL EVENT 'Candy']]></title>
+            <link>https://beyondlive.com/contents/189</link>
+            <guid>https://beyondlive.com/contents/189</guid>
+            <pubDate>Wed, 14 Dec 2022 03:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[21. 12월. 2022. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/329689bfb65b4b10b990c742f18a55fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 WJSN FAN-CON <CODENAME : UJUNG>]]></title>
