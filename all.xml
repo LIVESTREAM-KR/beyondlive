@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 02:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,17 +50,17 @@
             <content:encoded><![CDATA[17. 11월. 2022]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내]“2022 BEST CHOI’s MINHO – LUCKY CHOI’s"  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/103</link>
-            <guid>https://beyondlive.com/notice/103</guid>
-            <pubDate>Tue, 15 Nov 2022 06:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[15. 11월. 2022]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내]NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ @ YOKOHAMA 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/104</link>
             <guid>https://beyondlive.com/notice/104</guid>
             <pubDate>Tue, 15 Nov 2022 10:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[15. 11월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내]“2022 BEST CHOI’s MINHO – LUCKY CHOI’s"  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/103</link>
+            <guid>https://beyondlive.com/notice/103</guid>
+            <pubDate>Tue, 15 Nov 2022 06:18:22 GMT</pubDate>
             <content:encoded><![CDATA[15. 11월. 2022]]></content:encoded>
         </item>
         <item>
