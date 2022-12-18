@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 09:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 10:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://beyondlive.com/notice/113</guid>
             <pubDate>Wed, 14 Dec 2022 03:17:16 GMT</pubDate>
             <content:encoded><![CDATA[14. 12월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] 2023 WJSN FAN-CON <CODENAME : UJUNG> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/109</link>
+            <guid>https://beyondlive.com/notice/109</guid>
+            <pubDate>Fri, 18 Nov 2022 05:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[18. 11월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내]MINHO와 SHINee WORLD가 함께하는 LUCKY TICKET EVENT (Beyond LIVE ─ 공지사항)]]></title>
@@ -34,13 +41,6 @@
             <guid>https://beyondlive.com/notice/110</guid>
             <pubDate>Fri, 25 Nov 2022 03:37:44 GMT</pubDate>
             <content:encoded><![CDATA[25. 11월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 2023 WJSN FAN-CON <CODENAME : UJUNG> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/109</link>
-            <guid>https://beyondlive.com/notice/109</guid>
-            <pubDate>Fri, 18 Nov 2022 05:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[18. 11월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내]2022 THE BOYZ FAN CON：THE B－ROAD 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
