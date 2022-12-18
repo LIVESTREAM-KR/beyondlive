@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 10:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 11:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/102</guid>
             <pubDate>Mon, 14 Nov 2022 22:19:36 GMT</pubDate>
             <content:encoded><![CDATA[01. 11월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(187);</link>
+            <guid>javascript:moveViewPage(187);</guid>
+            <pubDate>Sun, 18 Dec 2022 11:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c5180da9340442b59c309f9dee3b2748.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 WJSN FAN-CON <CODENAME : UJUNG> (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/c77cd8682ed443a8a98134a44938a91b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(155);</link>
-            <guid>javascript:moveViewPage(155);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/88d52a987be34822968a4242cf3587d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NCT DREAM WINTER SPECIAL EVENT 'Candy' (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/189</link>
             <guid>https://beyondlive.com/contents/189</guid>
@@ -300,6 +300,14 @@
             <pubDate>Fri, 02 Dec 2022 08:16:33 GMT</pubDate>
             <content:encoded><![CDATA[08. 1월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/187</link>
+            <guid>https://beyondlive.com/contents/187</guid>
+            <pubDate>Sun, 18 Dec 2022 11:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[15. 1월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c5180da9340442b59c309f9dee3b2748.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
