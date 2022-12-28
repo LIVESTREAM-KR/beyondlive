@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 02:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 03:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 02 Dec 2022 08:16:25 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FREE]SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA]]></title>
+            <link>javascript:moveViewPage(191);</link>
+            <guid>javascript:moveViewPage(191);</guid>
+            <pubDate>Wed, 28 Dec 2022 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1c7fc0e7bc364376bc0fd187df2e5a55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM WINTER SPECIAL EVENT 'Candy']]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/83d4e276cc0547f896dc651f8c152a01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무료] SHOWME S2 #05 : AIOBAHN / BAGAGEE VIPHEX 13 Re-Streaming]]></title>
-            <link>javascript:moveViewPage(173);</link>
-            <guid>javascript:moveViewPage(173);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[AIOBAHN / BAGAGEE VIPHEX 13]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c77cd8682ed443a8a98134a44938a91b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
