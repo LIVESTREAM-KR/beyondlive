@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 09:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 10:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/116</link>
-            <guid>https://beyondlive.com/notice/116</guid>
-            <pubDate>Wed, 28 Dec 2022 03:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[28. 12월. 2022]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연안내]  2023 CRAVITY FAN-CON <Dear My LUVITY> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/115</link>
@@ -34,6 +27,13 @@
             <guid>https://beyondlive.com/notice/109</guid>
             <pubDate>Fri, 18 Nov 2022 05:13:47 GMT</pubDate>
             <content:encoded><![CDATA[18. 11월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/116</link>
+            <guid>https://beyondlive.com/notice/116</guid>
+            <pubDate>Wed, 28 Dec 2022 03:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[28. 12월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] NCT DREAM WINTER SPECIAL EVENT 'Candy' 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/83d4e276cc0547f896dc651f8c152a01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE]SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/191</link>
-            <guid>https://beyondlive.com/contents/191</guid>
-            <pubDate>Wed, 28 Dec 2022 03:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[01. 1월. 2023. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7d12bae4b77f452e866c3f10096463d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Xdinary Heroes Stage ♭ : Overture Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/187</link>
             <guid>https://beyondlive.com/contents/187</guid>
@@ -260,14 +252,6 @@
             <pubDate>Fri, 02 Dec 2022 08:16:33 GMT</pubDate>
             <content:encoded><![CDATA[08. 1월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cbd64aa530174f11b1064a048b0b0d23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FREE]SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/191</link>
-            <guid>https://beyondlive.com/contents/191</guid>
-            <pubDate>Wed, 28 Dec 2022 03:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[01. 1월. 2023. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1c7fc0e7bc364376bc0fd187df2e5a55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 WJSN FAN-CON <CODENAME : UJUNG> (Beyond LIVE ─ Beyond NEXT)]]></title>
