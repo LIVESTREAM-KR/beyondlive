@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 05:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 06:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/117</link>
+            <guid>https://beyondlive.com/notice/117</guid>
+            <pubDate>Mon, 02 Jan 2023 06:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[02. 1월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내]  2023 CRAVITY FAN-CON <Dear My LUVITY> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/115</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/107</guid>
             <pubDate>Thu, 17 Nov 2022 06:18:40 GMT</pubDate>
             <content:encoded><![CDATA[17. 11월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ @ YOKOHAMA 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/104</link>
-            <guid>https://beyondlive.com/notice/104</guid>
-            <pubDate>Tue, 15 Nov 2022 10:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[15. 11월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes Stage ♭ : Overture Re-Streaming (Beyond LIVE ─ 공연)]]></title>
