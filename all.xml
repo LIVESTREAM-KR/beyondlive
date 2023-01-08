@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 11:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 12:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,22 +252,6 @@
             <pubDate>Sun, 18 Dec 2022 11:10:02 GMT</pubDate>
             <content:encoded><![CDATA[15. 1월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/44e05a27b00145078d7705524cbc129a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 WJSN FAN-CON <CODENAME : UJUNG> (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/185</link>
-            <guid>https://beyondlive.com/contents/185</guid>
-            <pubDate>Fri, 02 Dec 2022 08:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[08. 1월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cbd64aa530174f11b1064a048b0b0d23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 WJSN FAN-CON <CODENAME : UJUNG> (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/185</link>
-            <guid>https://beyondlive.com/contents/185</guid>
-            <pubDate>Fri, 02 Dec 2022 08:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[08. 1월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes Stage ♭ : Overture Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
