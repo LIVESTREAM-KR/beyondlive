@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 02:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/107</guid>
             <pubDate>Thu, 17 Nov 2022 06:18:40 GMT</pubDate>
             <content:encoded><![CDATA[17. 11월. 2022]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens> (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(190);</link>
+            <guid>javascript:moveViewPage(190);</guid>
+            <pubDate>Mon, 09 Jan 2023 03:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[IVE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7048a37f549046678836c55d5fb69713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/65533001239e4712817628af81f6996b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT 127 4TH ALBUM "질주" COMEBACKSHOW- FASTER Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(162);</link>
-            <guid>javascript:moveViewPage(162);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6e26b6c7941d4f01adf340f25ecc4909.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/192</link>
             <guid>https://beyondlive.com/contents/192</guid>
@@ -268,6 +268,14 @@
             <pubDate>Tue, 03 Jan 2023 03:14:06 GMT</pubDate>
             <content:encoded><![CDATA[29. 1월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f62a3c9252e44e7a905fb3012f50572d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens> (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/190</link>
+            <guid>https://beyondlive.com/contents/190</guid>
+            <pubDate>Mon, 09 Jan 2023 03:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7048a37f549046678836c55d5fb69713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

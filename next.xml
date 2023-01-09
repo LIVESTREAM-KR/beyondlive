@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 02:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 03 Jan 2023 03:14:14 GMT</pubDate>
             <content:encoded><![CDATA[29. 1월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f62a3c9252e44e7a905fb3012f50572d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens>]]></title>
+            <link>https://beyondlive.com/contents/190</link>
+            <guid>https://beyondlive.com/contents/190</guid>
+            <pubDate>Mon, 09 Jan 2023 03:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7048a37f549046678836c55d5fb69713.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
