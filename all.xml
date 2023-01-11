@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 07:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 08:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] #Cinema - KAI : KLoor VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/119</link>
+            <guid>https://beyondlive.com/notice/119</guid>
+            <pubDate>Wed, 11 Jan 2023 08:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[11. 1월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/117</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/109</guid>
             <pubDate>Fri, 18 Nov 2022 05:13:47 GMT</pubDate>
             <content:encoded><![CDATA[18. 11월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]2022 THE BOYZ FAN CON：THE B－ROAD 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/107</link>
-            <guid>https://beyondlive.com/notice/107</guid>
-            <pubDate>Thu, 17 Nov 2022 06:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[17. 11월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens> (Beyond LIVE ─ 공연)]]></title>
