@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 12:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 13:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -285,7 +285,7 @@
             <title><![CDATA[#Cinema - KAI : KLoor (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/vod/195</link>
             <guid>https://beyondlive.com/contents/vod/195</guid>
-            <pubDate>Fri, 13 Jan 2023 12:25:36 GMT</pubDate>
+            <pubDate>Fri, 13 Jan 2023 12:25:29 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/fdbee5b833974181b485dad0c845a785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
