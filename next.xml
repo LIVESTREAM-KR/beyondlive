@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 05:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 06:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,6 @@
             <guid>https://beyondlive.com/contents/vod/195</guid>
             <pubDate>Fri, 13 Jan 2023 12:25:36 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/fdbee5b833974181b485dad0c845a785.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/187</link>
-            <guid>https://beyondlive.com/contents/187</guid>
-            <pubDate>Sun, 18 Dec 2022 11:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[15. 1월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c5180da9340442b59c309f9dee3b2748.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me]]></title>
