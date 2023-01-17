@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 03:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 04:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -300,7 +300,7 @@
             <title><![CDATA[2023 송강 아시아 팬미팅 투어 <강이로운 순간> IN SEOUL (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/194</link>
             <guid>https://beyondlive.com/contents/194</guid>
-            <pubDate>Tue, 17 Jan 2023 03:14:23 GMT</pubDate>
+            <pubDate>Tue, 17 Jan 2023 03:14:17 GMT</pubDate>
             <content:encoded><![CDATA[11. 2월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/379540eaaa224bf5b9655cf0de2aa87b.jpg" length="0" type="image/jpg"/>
         </item>
