@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 02:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 03:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,14 @@
             <pubDate>Mon, 09 Jan 2023 03:13:36 GMT</pubDate>
             <content:encoded><![CDATA[IVE]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7048a37f549046678836c55d5fb69713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(197);</link>
+            <guid>javascript:moveViewPage(197);</guid>
+            <pubDate>Wed, 18 Jan 2023 03:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[임시완]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ff9b620c91f3408391ce96d9b4d2e807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 송강 아시아 팬미팅 투어 <강이로운 순간> IN SEOUL (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/2f105d0705994736831e0eae6dfb92e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[무료] SHOWME S2 #06 : MELLAN / CCHEKOZ (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(175);</link>
-            <guid>javascript:moveViewPage(175);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[MELLAN / CCHEKOZ]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/334b93a35cc54a0094cd7c3a068a912b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/197</link>
+            <guid>https://beyondlive.com/contents/197</guid>
+            <pubDate>Wed, 18 Jan 2023 03:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[11. 2월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e4e8fb1c37a54c3fac3d076b079630cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 송강 아시아 팬미팅 투어 <강이로운 순간> IN SEOUL (Beyond LIVE ─ TOP)]]></title>
@@ -303,6 +311,14 @@
             <pubDate>Tue, 17 Jan 2023 03:14:17 GMT</pubDate>
             <content:encoded><![CDATA[11. 2월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/379540eaaa224bf5b9655cf0de2aa87b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/197</link>
+            <guid>https://beyondlive.com/contents/197</guid>
+            <pubDate>Wed, 18 Jan 2023 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[11. 2월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ff9b620c91f3408391ce96d9b4d2e807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens> (Beyond LIVE ─ Beyond NEXT)]]></title>
