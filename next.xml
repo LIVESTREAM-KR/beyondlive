@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 04:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 05:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://beyondlive.com/contents/vod/195</guid>
             <pubDate>Fri, 13 Jan 2023 12:25:36 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/fdbee5b833974181b485dad0c845a785.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 15th Anniversary Special Event - 초대(Invitation)]]></title>
+            <link>https://beyondlive.com/contents/vod/196</link>
+            <guid>https://beyondlive.com/contents/vod/196</guid>
+            <pubDate>Fri, 20 Jan 2023 05:12:41 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/76dfd6eb72bd476493198273e159519f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me]]></title>

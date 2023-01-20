@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 04:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 05:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,26 @@
             <enclosure url="https://static.beyondlive.com/contents/5444b0a590c14da991e562c867181832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SUPER JUNIOR 15th Anniversary Special Event - 초대(Invitation) (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/vod/196</link>
+            <guid>https://beyondlive.com/contents/vod/196</guid>
+            <pubDate>Fri, 20 Jan 2023 05:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/25bf50ea883942908746fd080c99439f.jpg);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/contents/c10f894c0fb74390a2030c00d1166ebd.jpg" alt="">
+											</span>
+											<em class="top-banner__name">SUPER JUNIOR</em>
+										</div>
+										<a href="/contents/vod/196" class="top-banner__title">SUPER JUNIOR 15th Anniversary Special Event - 초대(Invitation)</a>
+										<a href="/contents/vod/196" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/25bf50ea883942908746fd080c99439f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2023 CRAVITY FAN-CON <Dear My LUVITY> (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/193</link>
             <guid>https://beyondlive.com/contents/193</guid>
@@ -303,6 +323,13 @@
             <guid>https://beyondlive.com/contents/vod/195</guid>
             <pubDate>Fri, 13 Jan 2023 12:25:29 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/fdbee5b833974181b485dad0c845a785.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 15th Anniversary Special Event - 초대(Invitation) (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/196</link>
+            <guid>https://beyondlive.com/contents/vod/196</guid>
+            <pubDate>Fri, 20 Jan 2023 05:12:41 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/76dfd6eb72bd476493198273e159519f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me (Beyond LIVE ─ Beyond NEXT)]]></title>
