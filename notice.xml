@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-01-25T05:12:33.362Z</updated>
+    <updated>2023-01-25T06:16:06.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2023 WayV Fanmeeting Tour [Phantom] 온라인 티켓 공지]]></title>
+        <id>https://beyondlive.com/notice/123</id>
+        <link href="https://beyondlive.com/notice/123"/>
+        <updated>2023-01-25T06:15:44.396Z</updated>
+        <content type="html"><![CDATA[25. 1월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정안내] 2023 SONG KANG FANMEETING IN SEOUL <강이로운 순간> 글로벌 송출 안내]]></title>
         <id>https://beyondlive.com/notice/121</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/113"/>
         <updated>2022-12-14T03:17:16.203Z</updated>
         <content type="html"><![CDATA[14. 12월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내]MINHO와 SHINee WORLD가 함께하는 LUCKY TICKET EVENT]]></title>
-        <id>https://beyondlive.com/notice/112</id>
-        <link href="https://beyondlive.com/notice/112"/>
-        <updated>2022-12-08T10:14:01.444Z</updated>
-        <content type="html"><![CDATA[08. 12월. 2022]]></content>
     </entry>
 </feed>
