@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,6 +92,14 @@
             <pubDate>Mon, 09 Jan 2023 03:13:36 GMT</pubDate>
             <content:encoded><![CDATA[IVE]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7048a37f549046678836c55d5fb69713.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 WayV Fanmeeting Tour [Phantom] (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(199);</link>
+            <guid>javascript:moveViewPage(199);</guid>
+            <pubDate>Thu, 26 Jan 2023 03:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[WayV]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5c9b91eaf3bc412a9d87d35d76bf10a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/526598b151a940d3ad1b386da9ad3636.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(168);</link>
-            <guid>javascript:moveViewPage(168);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[KEY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5444b0a590c14da991e562c867181832.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2023 WayV Fanmeeting Tour [Phantom] (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/199</link>
+            <guid>https://beyondlive.com/contents/199</guid>
+            <pubDate>Thu, 26 Jan 2023 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[11. 2월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a51a4ba0263a49d388e99c17d64f076c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 SONG KANG FANMEETING IN SEOUL <강이로운 순간> (Beyond LIVE ─ TOP)]]></title>
@@ -354,6 +362,14 @@
             <pubDate>Wed, 18 Jan 2023 03:14:55 GMT</pubDate>
             <content:encoded><![CDATA[11. 2월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ff9b620c91f3408391ce96d9b4d2e807.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 WayV Fanmeeting Tour [Phantom] (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/199</link>
+            <guid>https://beyondlive.com/contents/199</guid>
+            <pubDate>Thu, 26 Jan 2023 03:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[11. 2월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5c9b91eaf3bc412a9d87d35d76bf10a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens> (Beyond LIVE ─ Beyond NEXT)]]></title>
