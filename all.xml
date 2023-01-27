@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 05:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 06:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -243,7 +243,7 @@
             <guid>https://beyondlive.com/contents/200</guid>
             <pubDate>Fri, 27 Jan 2023 03:13:59 GMT</pubDate>
             <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f8b4cc680f6c44259c6c3a4befa9fca8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.beyondlive.com/contents/fbf5e3e6bf5e4d6eb936e219890c50ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 WayV Fanmeeting Tour [Phantom] (Beyond LIVE ─ TOP)]]></title>
