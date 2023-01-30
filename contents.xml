@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 02:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 19 Jan 2023 08:17:00 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/34a0143052584ab2973409df3c2b3f94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’]]></title>
+            <link>javascript:moveViewPage(202);</link>
+            <guid>javascript:moveViewPage(202);</guid>
+            <pubDate>Mon, 30 Jan 2023 03:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0771c5e9f4524e1b995e13220f513adc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World"]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/33fd938b880b44c38fdef4524c243adb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE FANMEETING ONCE HALLOWEEN 3]]></title>
-            <link>javascript:moveViewPage(177);</link>
-            <guid>javascript:moveViewPage(177);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5a397f8acce2479c990d3dbaae85fc8f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
