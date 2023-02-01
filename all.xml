@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 03:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 04:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/125</link>
+            <guid>https://beyondlive.com/notice/125</guid>
+            <pubDate>Wed, 01 Feb 2023 04:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[01. 2월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ 추가 공연 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/124</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/114</guid>
             <pubDate>Mon, 19 Dec 2022 05:11:52 GMT</pubDate>
             <content:encoded><![CDATA[19. 12월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/117</link>
-            <guid>https://beyondlive.com/notice/117</guid>
-            <pubDate>Mon, 02 Jan 2023 06:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[02. 1월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 CRAVITY FAN-CON <Dear My LUVITY> (Beyond LIVE ─ 공연)]]></title>
