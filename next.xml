@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 02:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 03:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <pubDate>Thu, 19 Jan 2023 08:17:15 GMT</pubDate>
             <content:encoded><![CDATA[19. 2월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/34a0143052584ab2973409df3c2b3f94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN]]></title>
+            <link>https://beyondlive.com/contents/203</link>
+            <guid>https://beyondlive.com/contents/203</guid>
+            <pubDate>Mon, 06 Feb 2023 03:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[25. 2월. 2023. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a76c017d1ae246c7a3edd302561ecfc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

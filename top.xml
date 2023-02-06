@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 02:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 03:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN]]></title>
+            <link>https://beyondlive.com/contents/203</link>
+            <guid>https://beyondlive.com/contents/203</guid>
+            <pubDate>Mon, 06 Feb 2023 03:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[25. 2월. 2023. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ce4eaff6709a4dba9826c0743514fcd2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’]]></title>
             <link>https://beyondlive.com/contents/202</link>
