@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 05:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 06:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World” Beyond LIVE 관람권 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/127</link>
+            <guid>https://beyondlive.com/notice/127</guid>
+            <pubDate>Thu, 09 Feb 2023 06:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[09. 2월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/125</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/115</guid>
             <pubDate>Wed, 21 Dec 2022 05:11:49 GMT</pubDate>
             <content:encoded><![CDATA[21. 12월. 2022]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내]  IVE THE FIRST FAN CONCERT <The Prom Queens> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/114</link>
-            <guid>https://beyondlive.com/notice/114</guid>
-            <pubDate>Mon, 19 Dec 2022 05:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[19. 12월. 2022]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN (Beyond LIVE ─ 공연)]]></title>
