@@ -4,25 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 11:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 12:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 SONG KANG FANMEETING IN SEOUL <강이로운 순간>]]></title>
-            <link>https://beyondlive.com/contents/194</link>
-            <guid>https://beyondlive.com/contents/194</guid>
-            <pubDate>Tue, 17 Jan 2023 03:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[11. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7dc713797794476a914f536c914cc8da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL>]]></title>
-            <link>https://beyondlive.com/contents/197</link>
-            <guid>https://beyondlive.com/contents/197</guid>
-            <pubDate>Wed, 18 Jan 2023 03:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[11. 2월. 2023. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ff9b620c91f3408391ce96d9b4d2e807.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2023 WayV Fanmeeting Tour [Phantom]]]></title>
             <link>https://beyondlive.com/contents/199</link>
@@ -70,6 +54,14 @@
             <pubDate>Mon, 06 Feb 2023 03:14:03 GMT</pubDate>
             <content:encoded><![CDATA[25. 2월. 2023. 17:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a76c017d1ae246c7a3edd302561ecfc7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/198</link>
+            <guid>https://beyondlive.com/contents/198</guid>
+            <pubDate>Sat, 11 Feb 2023 12:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[11. 3월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a2cc7bfe8c144e23aed4482b4b99fc44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
