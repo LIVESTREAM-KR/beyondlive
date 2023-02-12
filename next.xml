@@ -4,25 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 11:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 12:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens>]]></title>
-            <link>https://beyondlive.com/contents/190</link>
-            <guid>https://beyondlive.com/contents/190</guid>
-            <pubDate>Mon, 09 Jan 2023 03:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7048a37f549046678836c55d5fb69713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World"]]></title>
-            <link>https://beyondlive.com/contents/200</link>
-            <guid>https://beyondlive.com/contents/200</guid>
-            <pubDate>Fri, 27 Jan 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/803e82b316a4431d9249900143dfa750.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’]]></title>
             <link>https://beyondlive.com/contents/202</link>
@@ -54,6 +38,14 @@
             <pubDate>Sat, 11 Feb 2023 12:22:15 GMT</pubDate>
             <content:encoded><![CDATA[11. 3월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a2cc7bfe8c144e23aed4482b4b99fc44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/201</link>
+            <guid>https://beyondlive.com/contents/201</guid>
+            <pubDate>Sun, 12 Feb 2023 12:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5d17e8452a5643f1b7b5c50859876281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

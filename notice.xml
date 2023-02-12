@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-02-12T11:11:07.260Z</updated>
+    <updated>2023-02-12T12:23:27.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[30. 1월. 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World"온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/122</id>
-        <link href="https://beyondlive.com/notice/122"/>
-        <updated>2023-01-26T06:16:33.151Z</updated>
-        <content type="html"><![CDATA[26. 1월. 2023]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[안내] #Cinema - KAI : KLoor VOD 출시 안내]]></title>
         <id>https://beyondlive.com/notice/119</id>
         <link href="https://beyondlive.com/notice/119"/>
@@ -53,6 +46,13 @@
         <link href="https://beyondlive.com/notice/114"/>
         <updated>2023-02-11T11:10:50.954Z</updated>
         <content type="html"><![CDATA[19. 12월. 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World"온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/122</id>
+        <link href="https://beyondlive.com/notice/122"/>
+        <updated>2023-01-26T06:16:33.151Z</updated>
+        <content type="html"><![CDATA[26. 1월. 2023]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 2023 WayV Fanmeeting Tour [Phantom] 온라인 티켓 공지]]></title>

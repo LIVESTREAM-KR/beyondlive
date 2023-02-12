@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 11:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 12:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[30. 1월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World"온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/122</link>
-            <guid>https://beyondlive.com/notice/122</guid>
-            <pubDate>Thu, 26 Jan 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[26. 1월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[안내] #Cinema - KAI : KLoor VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/119</link>
             <guid>https://beyondlive.com/notice/119</guid>
@@ -57,6 +50,13 @@
             <content:encoded><![CDATA[19. 12월. 2022]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[공연안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World"온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/122</link>
+            <guid>https://beyondlive.com/notice/122</guid>
+            <pubDate>Thu, 26 Jan 2023 06:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[26. 1월. 2023]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[공연안내] 2023 WayV Fanmeeting Tour [Phantom] 온라인 티켓 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/123</link>
             <guid>https://beyondlive.com/notice/123</guid>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/120</guid>
             <pubDate>Tue, 17 Jan 2023 06:15:50 GMT</pubDate>
             <content:encoded><![CDATA[17. 1월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(201);</link>
+            <guid>javascript:moveViewPage(201);</guid>
+            <pubDate>Sun, 12 Feb 2023 12:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5d17e8452a5643f1b7b5c50859876281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,28 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/936ac559ae7248258ce33eca7d5a9209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(169);</link>
-            <guid>javascript:moveViewPage(169);</guid>
-            <pubDate>Mon, 14 Nov 2022 22:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[KEY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5ea0e4f5e3614a96a581c692d84b95e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/200</link>
-            <guid>https://beyondlive.com/contents/200</guid>
-            <pubDate>Fri, 27 Jan 2023 03:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/fbf5e3e6bf5e4d6eb936e219890c50ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens> (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/190</link>
-            <guid>https://beyondlive.com/contents/190</guid>
-            <pubDate>Mon, 09 Jan 2023 03:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4d0bbd47ba7f4fd49605a87e6668619a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/201</link>
+            <guid>https://beyondlive.com/contents/201</guid>
+            <pubDate>Sun, 12 Feb 2023 12:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7b73f2524aad459090fb349a91bf3db6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN (Beyond LIVE ─ TOP)]]></title>
@@ -276,22 +268,6 @@
             <pubDate>Thu, 19 Jan 2023 08:17:08 GMT</pubDate>
             <content:encoded><![CDATA[19. 2월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5c3c4926ab604549b3e13d302cb9711f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IVE THE FIRST FAN CONCERT <The Prom Queens> (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/190</link>
-            <guid>https://beyondlive.com/contents/190</guid>
-            <pubDate>Mon, 09 Jan 2023 03:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7048a37f549046678836c55d5fb69713.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/200</link>
-            <guid>https://beyondlive.com/contents/200</guid>
-            <pubDate>Fri, 27 Jan 2023 03:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[12. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/803e82b316a4431d9249900143dfa750.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’ (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -324,6 +300,14 @@
             <pubDate>Sat, 11 Feb 2023 12:22:15 GMT</pubDate>
             <content:encoded><![CDATA[11. 3월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a2cc7bfe8c144e23aed4482b4b99fc44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/201</link>
+            <guid>https://beyondlive.com/contents/201</guid>
+            <pubDate>Sun, 12 Feb 2023 12:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5d17e8452a5643f1b7b5c50859876281.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
