@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 02:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 19 Jan 2023 08:17:15 GMT</pubDate>
             <content:encoded><![CDATA[19. 2월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/34a0143052584ab2973409df3c2b3f94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY THE 1ST WORLD TOUR <CHECKMATE> in JAPAN]]></title>
+            <link>https://beyondlive.com/contents/204</link>
+            <guid>https://beyondlive.com/contents/204</guid>
+            <pubDate>Mon, 13 Feb 2023 03:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[23. 2월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/abdbdb7e8858499388dc74d5f80bc977.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN]]></title>
