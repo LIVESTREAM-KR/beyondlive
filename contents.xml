@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 02:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 03:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 11 Feb 2023 12:22:01 GMT</pubDate>
             <content:encoded><![CDATA[임시완]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a2cc7bfe8c144e23aed4482b4b99fc44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’]]></title>
+            <link>javascript:moveViewPage(205);</link>
+            <guid>javascript:moveViewPage(205);</guid>
+            <pubDate>Tue, 14 Feb 2023 03:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/758ae4ca30a64ea9821aaf57b7de1e3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:11:26 GMT</pubDate>
             <content:encoded><![CDATA[민호]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b17639bdf5ef4bb6bc6751a7a1de1db3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 THE BOYZ FAN CON：THE B-ROAD]]></title>
-            <link>javascript:moveViewPage(183);</link>
-            <guid>javascript:moveViewPage(183);</guid>
-            <pubDate>Fri, 18 Nov 2022 08:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6bfc5e914a5d4a638a98795ab8223e1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
