@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 03:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 04:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,7 +329,7 @@
             <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/205</link>
             <guid>https://beyondlive.com/contents/205</guid>
-            <pubDate>Tue, 14 Feb 2023 03:17:44 GMT</pubDate>
+            <pubDate>Tue, 14 Feb 2023 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[26. 2월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/758ae4ca30a64ea9821aaf57b7de1e3b.jpg" length="0" type="image/jpg"/>
         </item>
