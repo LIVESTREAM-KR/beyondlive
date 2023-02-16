@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 04:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 05:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,22 +276,6 @@
             <pubDate>Tue, 14 Feb 2023 03:17:36 GMT</pubDate>
             <content:encoded><![CDATA[26. 2월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e3fa785f1a3f4472a8fab5e79542af97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/198</link>
-            <guid>https://beyondlive.com/contents/198</guid>
-            <pubDate>Sat, 11 Feb 2023 12:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[11. 3월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ed5e56ab2a864dd9a8a7822c36f6227a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/201</link>
-            <guid>https://beyondlive.com/contents/201</guid>
-            <pubDate>Sun, 12 Feb 2023 12:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7b73f2524aad459090fb349a91bf3db6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" (Beyond LIVE ─ TOP)]]></title>
