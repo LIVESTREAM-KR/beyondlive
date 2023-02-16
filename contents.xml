@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 02:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 03:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 11 Feb 2023 12:22:01 GMT</pubDate>
             <content:encoded><![CDATA[임시완]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a2cc7bfe8c144e23aed4482b4b99fc44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE"]]></title>
+            <link>javascript:moveViewPage(207);</link>
+            <guid>javascript:moveViewPage(207);</guid>
+            <pubDate>Thu, 16 Feb 2023 03:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[온유]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/800a896e021d42a099eff1bd9385bc28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Dec 2022 03:07:22 GMT</pubDate>
             <content:encoded><![CDATA[NiziU]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/dde668c66f9c4a389cdec88c2234f2bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 BEST CHOI’s MINHO – LUCKY CHOI’s]]></title>
-            <link>javascript:moveViewPage(181);</link>
-            <guid>javascript:moveViewPage(181);</guid>
-            <pubDate>Thu, 17 Nov 2022 03:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[민호]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b17639bdf5ef4bb6bc6751a7a1de1db3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

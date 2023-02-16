@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 02:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 03:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sun, 12 Feb 2023 12:23:19 GMT</pubDate>
             <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7b73f2524aad459090fb349a91bf3db6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE"]]></title>
+            <link>https://beyondlive.com/contents/207</link>
+            <guid>https://beyondlive.com/contents/207</guid>
+            <pubDate>Thu, 16 Feb 2023 03:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[05. 3월. 2023. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ad9ed050df2e4314a927095e1cd22cf2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
