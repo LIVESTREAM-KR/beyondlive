@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-02-19T11:11:09.417Z</updated>
+    <updated>2023-02-19T12:23:04.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -48,31 +48,31 @@
         <content type="html"><![CDATA[30. 1월. 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[안내] #Cinema - KAI : KLoor VOD 출시 안내]]></title>
-        <id>https://beyondlive.com/notice/119</id>
-        <link href="https://beyondlive.com/notice/119"/>
-        <updated>2023-01-11T08:17:24.201Z</updated>
-        <content type="html"><![CDATA[11. 1월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내]  2023 CRAVITY FAN-CON <Dear My LUVITY> 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/115</id>
-        <link href="https://beyondlive.com/notice/115"/>
-        <updated>2022-12-21T05:11:49.709Z</updated>
-        <content type="html"><![CDATA[21. 12월. 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내]  IVE THE FIRST FAN CONCERT <The Prom Queens> 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/114</id>
-        <link href="https://beyondlive.com/notice/114"/>
-        <updated>2023-02-11T11:10:50.954Z</updated>
-        <content type="html"><![CDATA[19. 12월. 2022]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[공연안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World"온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/122</id>
         <link href="https://beyondlive.com/notice/122"/>
         <updated>2023-01-26T06:16:33.151Z</updated>
         <content type="html"><![CDATA[26. 1월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2023 WayV Fanmeeting Tour [Phantom] 온라인 티켓 공지]]></title>
+        <id>https://beyondlive.com/notice/123</id>
+        <link href="https://beyondlive.com/notice/123"/>
+        <updated>2023-02-19T12:22:44.144Z</updated>
+        <content type="html"><![CDATA[25. 1월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정안내] 2023 SONG KANG FANMEETING IN SEOUL <강이로운 순간> 글로벌 송출 안내]]></title>
+        <id>https://beyondlive.com/notice/121</id>
+        <link href="https://beyondlive.com/notice/121"/>
+        <updated>2023-02-19T12:22:44.145Z</updated>
+        <content type="html"><![CDATA[20. 1월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2023 임시완 팬 콘서트 <WHY I AM in SEOUL> 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/120</id>
+        <link href="https://beyondlive.com/notice/120"/>
+        <updated>2023-02-19T12:22:44.147Z</updated>
+        <content type="html"><![CDATA[17. 1월. 2023]]></content>
     </entry>
 </feed>
