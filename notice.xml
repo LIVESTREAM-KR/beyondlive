@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-02-23T02:44:08.154Z</updated>
+    <updated>2023-02-23T03:16:07.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] BoA 20th Anniversary Live - THE BoA : Musicality 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/132</id>
+        <link href="https://beyondlive.com/notice/132"/>
+        <updated>2023-02-23T03:15:44.818Z</updated>
+        <content type="html"><![CDATA[23. 2월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN」추가 공연 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/131</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/123"/>
         <updated>2023-02-19T12:22:44.144Z</updated>
         <content type="html"><![CDATA[25. 1월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정안내] 2023 SONG KANG FANMEETING IN SEOUL <강이로운 순간> 글로벌 송출 안내]]></title>
-        <id>https://beyondlive.com/notice/121</id>
-        <link href="https://beyondlive.com/notice/121"/>
-        <updated>2023-02-19T12:22:44.145Z</updated>
-        <content type="html"><![CDATA[20. 1월. 2023]]></content>
     </entry>
 </feed>
