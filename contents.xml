@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 10:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 11:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ Re-Streaming]]></title>
+            <link>javascript:moveViewPage(206);</link>
+            <guid>javascript:moveViewPage(206);</guid>
+            <pubDate>Sun, 26 Feb 2023 11:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[aespa]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/55ddd0df735146f0a653a3dce426fea2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming]]></title>
             <link>javascript:moveViewPage(201);</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 28 Dec 2022 03:14:07 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1c7fc0e7bc364376bc0fd187df2e5a55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM WINTER SPECIAL EVENT 'Candy']]></title>
-            <link>javascript:moveViewPage(189);</link>
-            <guid>javascript:moveViewPage(189);</guid>
-            <pubDate>Wed, 14 Dec 2022 03:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/329689bfb65b4b10b990c742f18a55fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

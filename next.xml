@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 10:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 11:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’]]></title>
-            <link>https://beyondlive.com/contents/205</link>
-            <guid>https://beyondlive.com/contents/205</guid>
-            <pubDate>Tue, 14 Feb 2023 03:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[26. 2월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/758ae4ca30a64ea9821aaf57b7de1e3b.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE"]]></title>
             <link>https://beyondlive.com/contents/207</link>
@@ -54,6 +46,14 @@
             <pubDate>Sun, 12 Feb 2023 12:23:26 GMT</pubDate>
             <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5d17e8452a5643f1b7b5c50859876281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/206</link>
+            <guid>https://beyondlive.com/contents/206</guid>
+            <pubDate>Sun, 26 Feb 2023 11:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[25. 3월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/55ddd0df735146f0a653a3dce426fea2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
