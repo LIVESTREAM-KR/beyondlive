@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-02-28T05:14:15.719Z</updated>
+    <updated>2023-02-28T06:18:39.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World” Beyond LIVE 관람권 구매 EVENT 당첨자 발표]]></title>
+        <id>https://beyondlive.com/notice/133</id>
+        <link href="https://beyondlive.com/notice/133"/>
+        <updated>2023-02-28T06:18:14.320Z</updated>
+        <content type="html"><![CDATA[28. 2월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] BoA 20th Anniversary Live - THE BoA : Musicality 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/132</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/122"/>
         <updated>2023-01-26T06:16:33.151Z</updated>
         <content type="html"><![CDATA[26. 1월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] 2023 WayV Fanmeeting Tour [Phantom] 온라인 티켓 공지]]></title>
-        <id>https://beyondlive.com/notice/123</id>
-        <link href="https://beyondlive.com/notice/123"/>
-        <updated>2023-02-19T12:22:44.144Z</updated>
-        <content type="html"><![CDATA[25. 1월. 2023]]></content>
     </entry>
 </feed>
