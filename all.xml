@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 09:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 10:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/122</guid>
             <pubDate>Thu, 26 Jan 2023 06:16:33 GMT</pubDate>
             <content:encoded><![CDATA[26. 1월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(208);</link>
+            <guid>javascript:moveViewPage(208);</guid>
+            <pubDate>Sun, 05 Mar 2023 10:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[온유]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/38d8e2b396814b698073d60d41f32baa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,22 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FREE]SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(191);</link>
-            <guid>javascript:moveViewPage(191);</guid>
-            <pubDate>Wed, 28 Dec 2022 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1c7fc0e7bc364376bc0fd187df2e5a55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/207</link>
-            <guid>https://beyondlive.com/contents/207</guid>
-            <pubDate>Thu, 16 Feb 2023 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[05. 3월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ad9ed050df2e4314a927095e1cd22cf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/198</link>
             <guid>https://beyondlive.com/contents/198</guid>
@@ -286,12 +278,12 @@
             <enclosure url="https://static.beyondlive.com/contents/e05fc42bcc3840708266953b9a2fa2c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/207</link>
-            <guid>https://beyondlive.com/contents/207</guid>
-            <pubDate>Thu, 16 Feb 2023 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[05. 3월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/800a896e021d42a099eff1bd9385bc28.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/208</link>
+            <guid>https://beyondlive.com/contents/208</guid>
+            <pubDate>Sun, 05 Mar 2023 10:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[01. 4월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/03be49f5080c4a9285dd4f9171c0099d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -332,6 +324,14 @@
             <pubDate>Sun, 26 Feb 2023 11:11:33 GMT</pubDate>
             <content:encoded><![CDATA[25. 3월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/55ddd0df735146f0a653a3dce426fea2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/208</link>
+            <guid>https://beyondlive.com/contents/208</guid>
+            <pubDate>Sun, 05 Mar 2023 10:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[01. 4월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/38d8e2b396814b698073d60d41f32baa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
