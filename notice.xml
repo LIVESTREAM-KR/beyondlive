@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-03-05T08:16:03.780Z</updated>
+    <updated>2023-03-05T09:13:11.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[22. 2월. 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공연안내] ONEW 1st CONCERT "O-NEW-NOTE" 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/128</id>
-        <link href="https://beyondlive.com/notice/128"/>
-        <updated>2023-02-15T06:17:14.254Z</updated>
-        <content type="html"><![CDATA[15. 2월. 2023]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World” Beyond LIVE 관람권 구매 EVENT]]></title>
         <id>https://beyondlive.com/notice/127</id>
         <link href="https://beyondlive.com/notice/127"/>
@@ -46,6 +39,13 @@
         <link href="https://beyondlive.com/notice/125"/>
         <updated>2023-02-01T04:16:07.499Z</updated>
         <content type="html"><![CDATA[01. 2월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] ONEW 1st CONCERT "O-NEW-NOTE" 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/128</id>
+        <link href="https://beyondlive.com/notice/128"/>
+        <updated>2023-02-15T06:17:14.254Z</updated>
+        <content type="html"><![CDATA[15. 2월. 2023]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 2023 aespa 1st Concert ‘SYNK : HYPER LINE’ 온라인 티켓 오픈 공지]]></title>
