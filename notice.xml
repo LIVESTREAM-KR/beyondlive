@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-03-10T04:16:58.344Z</updated>
+    <updated>2023-03-10T05:13:28.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -27,20 +27,6 @@
         <content type="html"><![CDATA[22. 2월. 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World” Beyond LIVE 관람권 구매 EVENT]]></title>
-        <id>https://beyondlive.com/notice/127</id>
-        <link href="https://beyondlive.com/notice/127"/>
-        <updated>2023-02-09T06:18:42.681Z</updated>
-        <content type="html"><![CDATA[09. 2월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/125</id>
-        <link href="https://beyondlive.com/notice/125"/>
-        <updated>2023-02-01T04:16:07.499Z</updated>
-        <content type="html"><![CDATA[01. 2월. 2023]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[공연안내] ONEW 1st CONCERT "O-NEW-NOTE" 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/128</id>
         <link href="https://beyondlive.com/notice/128"/>
@@ -60,6 +46,20 @@
         <link href="https://beyondlive.com/notice/126"/>
         <updated>2023-02-13T03:18:33.055Z</updated>
         <content type="html"><![CDATA[13. 2월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World” Beyond LIVE 관람권 구매 EVENT]]></title>
+        <id>https://beyondlive.com/notice/127</id>
+        <link href="https://beyondlive.com/notice/127"/>
+        <updated>2023-02-09T06:18:42.681Z</updated>
+        <content type="html"><![CDATA[09. 2월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/125</id>
+        <link href="https://beyondlive.com/notice/125"/>
+        <updated>2023-02-01T04:16:07.499Z</updated>
+        <content type="html"><![CDATA[01. 2월. 2023]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ 추가 공연 온라인 티켓 오픈 공지]]></title>
