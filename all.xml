@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 13:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 14:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/198</link>
-            <guid>https://beyondlive.com/contents/198</guid>
-            <pubDate>Sat, 11 Feb 2023 12:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[11. 3월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ed5e56ab2a864dd9a8a7822c36f6227a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/209</link>
             <guid>https://beyondlive.com/contents/209</guid>
@@ -284,14 +276,6 @@
             <pubDate>Sun, 05 Mar 2023 10:14:03 GMT</pubDate>
             <content:encoded><![CDATA[01. 4월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/03be49f5080c4a9285dd4f9171c0099d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/198</link>
-            <guid>https://beyondlive.com/contents/198</guid>
-            <pubDate>Sat, 11 Feb 2023 12:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[11. 3월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a2cc7bfe8c144e23aed4482b4b99fc44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN (Beyond LIVE ─ Beyond NEXT)]]></title>
