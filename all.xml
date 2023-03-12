@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 09:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 10:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,22 @@
             <guid>https://beyondlive.com/notice/122</guid>
             <pubDate>Thu, 26 Jan 2023 06:16:33 GMT</pubDate>
             <content:encoded><![CDATA[26. 1월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(212);</link>
+            <guid>javascript:moveViewPage(212);</guid>
+            <pubDate>Sun, 12 Mar 2023 10:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[BoA]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(210);</link>
+            <guid>javascript:moveViewPage(210);</guid>
+            <pubDate>Sun, 12 Mar 2023 10:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[KEY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5cc8fe3369404f2ca935bb15fc7896f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -222,38 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/f62a3c9252e44e7a905fb3012f50572d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(187);</link>
-            <guid>javascript:moveViewPage(187);</guid>
-            <pubDate>Sun, 18 Dec 2022 11:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c5180da9340442b59c309f9dee3b2748.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 WJSN FAN-CON <CODENAME : UJUNG> (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(185);</link>
-            <guid>javascript:moveViewPage(185);</guid>
-            <pubDate>Fri, 02 Dec 2022 08:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9e3285239dbb4d5ea39e3cc2dd95ba43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/209</link>
-            <guid>https://beyondlive.com/contents/209</guid>
-            <pubDate>Wed, 22 Feb 2023 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[12. 3월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a3ca06c018a2401c90f80e7013d0ba4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/211</link>
-            <guid>https://beyondlive.com/contents/211</guid>
-            <pubDate>Thu, 23 Feb 2023 03:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[12. 3월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/291e83ff38e64cc899165d29bfdd1154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/201</link>
             <guid>https://beyondlive.com/contents/201</guid>
@@ -278,20 +262,20 @@
             <enclosure url="https://static.beyondlive.com/contents/03be49f5080c4a9285dd4f9171c0099d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/209</link>
-            <guid>https://beyondlive.com/contents/209</guid>
-            <pubDate>Wed, 22 Feb 2023 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[12. 3월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c394b6e9c9324f0b98df7c45d4d63802.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/210</link>
+            <guid>https://beyondlive.com/contents/210</guid>
+            <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[09. 4월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6e296c9b7ea149b79b6a8eaf62dd26f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/211</link>
-            <guid>https://beyondlive.com/contents/211</guid>
-            <pubDate>Thu, 23 Feb 2023 03:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[12. 3월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/231426eee7be4536a3062f0b901fc031.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/212</link>
+            <guid>https://beyondlive.com/contents/212</guid>
+            <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[22. 4월. 2023. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8de421f823254623a2a3782b8ce6defb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -316,6 +300,22 @@
             <pubDate>Sun, 05 Mar 2023 10:14:03 GMT</pubDate>
             <content:encoded><![CDATA[01. 4월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/38d8e2b396814b698073d60d41f32baa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/210</link>
+            <guid>https://beyondlive.com/contents/210</guid>
+            <pubDate>Sun, 12 Mar 2023 10:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[09. 4월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5cc8fe3369404f2ca935bb15fc7896f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/212</link>
+            <guid>https://beyondlive.com/contents/212</guid>
+            <pubDate>Sun, 12 Mar 2023 10:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[22. 4월. 2023. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,25 +4,9 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 09:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 10:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN]]></title>
-            <link>https://beyondlive.com/contents/209</link>
-            <guid>https://beyondlive.com/contents/209</guid>
-            <pubDate>Wed, 22 Feb 2023 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[12. 3월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a3ca06c018a2401c90f80e7013d0ba4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality]]></title>
-            <link>https://beyondlive.com/contents/211</link>
-            <guid>https://beyondlive.com/contents/211</guid>
-            <pubDate>Thu, 23 Feb 2023 03:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[12. 3월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/291e83ff38e64cc899165d29bfdd1154.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/201</link>
@@ -46,6 +30,22 @@
             <pubDate>Sun, 05 Mar 2023 10:14:03 GMT</pubDate>
             <content:encoded><![CDATA[01. 4월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/03be49f5080c4a9285dd4f9171c0099d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/210</link>
+            <guid>https://beyondlive.com/contents/210</guid>
+            <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[09. 4월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6e296c9b7ea149b79b6a8eaf62dd26f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/212</link>
+            <guid>https://beyondlive.com/contents/212</guid>
+            <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[22. 4월. 2023. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8de421f823254623a2a3782b8ce6defb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
