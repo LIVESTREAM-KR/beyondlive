@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 05:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 06:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Red Velvet 4th Concert : R to V  온라인 티켓  오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/134</link>
+            <guid>https://beyondlive.com/notice/134</guid>
+            <pubDate>Tue, 14 Mar 2023 06:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[14. 3월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World” Beyond LIVE 관람권 구매 EVENT 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/133</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/124</guid>
             <pubDate>Mon, 30 Jan 2023 03:14:00 GMT</pubDate>
             <content:encoded><![CDATA[30. 1월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World"온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/122</link>
-            <guid>https://beyondlive.com/notice/122</guid>
-            <pubDate>Thu, 26 Jan 2023 06:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[26. 1월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ 공연)]]></title>
