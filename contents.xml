@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 12 Mar 2023 10:12:50 GMT</pubDate>
             <content:encoded><![CDATA[KEY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5cc8fe3369404f2ca935bb15fc7896f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 4th Concert : R to V]]></title>
+            <link>javascript:moveViewPage(213);</link>
+            <guid>javascript:moveViewPage(213);</guid>
+            <pubDate>Thu, 16 Mar 2023 03:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[Red Velvet]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/96e8c1888a4c422984945e2dd5b14038.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 17 Jan 2023 03:14:09 GMT</pubDate>
             <content:encoded><![CDATA[송강]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7dc713797794476a914f536c914cc8da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 PARK JINYOUNG FANCONCERT 'RENDEZVOUS' IN SEOUL: Secret meeting between you and me]]></title>
-            <link>javascript:moveViewPage(192);</link>
-            <guid>javascript:moveViewPage(192);</guid>
-            <pubDate>Tue, 03 Jan 2023 03:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[박진영]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f62a3c9252e44e7a905fb3012f50572d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
