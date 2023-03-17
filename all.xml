@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 03:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 04:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -313,7 +313,7 @@
             <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/215</link>
             <guid>https://beyondlive.com/contents/215</guid>
-            <pubDate>Fri, 17 Mar 2023 03:14:08 GMT</pubDate>
+            <pubDate>Fri, 17 Mar 2023 03:14:01 GMT</pubDate>
             <content:encoded><![CDATA[30. 3월. 2023. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2dd9333a486b4d14a1377d8d683513b2.jpg" length="0" type="image/jpg"/>
         </item>
