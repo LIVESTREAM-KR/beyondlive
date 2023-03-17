@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 02:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 일단, 은혁이 4랑하는 4람들의 파티 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/135</link>
+            <guid>https://beyondlive.com/notice/135</guid>
+            <pubDate>Fri, 17 Mar 2023 03:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[17. 3월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Red Velvet 4th Concert : R to V  온라인 티켓  오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/134</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[01. 2월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ 추가 공연 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/124</link>
-            <guid>https://beyondlive.com/notice/124</guid>
-            <pubDate>Mon, 30 Jan 2023 03:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[30. 1월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(212);</link>
             <guid>javascript:moveViewPage(212);</guid>
@@ -108,6 +108,14 @@
             <pubDate>Sun, 05 Mar 2023 10:13:56 GMT</pubDate>
             <content:encoded><![CDATA[온유]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/38d8e2b396814b698073d60d41f32baa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(215);</link>
+            <guid>javascript:moveViewPage(215);</guid>
+            <pubDate>Fri, 17 Mar 2023 03:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[은혁]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2dd9333a486b4d14a1377d8d683513b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/ff9b620c91f3408391ce96d9b4d2e807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 SONG KANG FANMEETING IN SEOUL <강이로운 순간> (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(194);</link>
-            <guid>javascript:moveViewPage(194);</guid>
-            <pubDate>Tue, 17 Jan 2023 03:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[송강]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7dc713797794476a914f536c914cc8da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/206</link>
             <guid>https://beyondlive.com/contents/206</guid>
@@ -252,6 +252,14 @@
             <pubDate>Sun, 12 Feb 2023 12:23:19 GMT</pubDate>
             <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7b73f2524aad459090fb349a91bf3db6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/215</link>
+            <guid>https://beyondlive.com/contents/215</guid>
+            <pubDate>Fri, 17 Mar 2023 03:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[30. 3월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/00100bb91a804e4f82b6d1a328ed7f18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -300,6 +308,14 @@
             <pubDate>Sun, 26 Feb 2023 11:11:33 GMT</pubDate>
             <content:encoded><![CDATA[25. 3월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/55ddd0df735146f0a653a3dce426fea2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/215</link>
+            <guid>https://beyondlive.com/contents/215</guid>
+            <pubDate>Fri, 17 Mar 2023 03:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[30. 3월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2dd9333a486b4d14a1377d8d683513b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ONEW 1st CONCERT "O-NEW-NOTE" Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

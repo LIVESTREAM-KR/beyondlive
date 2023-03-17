@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-03-17T02:35:12.657Z</updated>
+    <updated>2023-03-17T03:14:09.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 일단, 은혁이 4랑하는 4람들의 파티 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/135</id>
+        <link href="https://beyondlive.com/notice/135"/>
+        <updated>2023-03-17T03:13:47.491Z</updated>
+        <content type="html"><![CDATA[17. 3월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] Red Velvet 4th Concert : R to V  온라인 티켓  오픈 공지]]></title>
         <id>https://beyondlive.com/notice/134</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/125"/>
         <updated>2023-02-01T04:16:07.499Z</updated>
         <content type="html"><![CDATA[01. 2월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] NCT DREAM TOUR ‘THE DREAM SHOW2 : In A DREAM - in JAPAN’ 추가 공연 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/124</id>
-        <link href="https://beyondlive.com/notice/124"/>
-        <updated>2023-01-30T03:14:00.554Z</updated>
-        <content type="html"><![CDATA[30. 1월. 2023]]></content>
     </entry>
 </feed>
