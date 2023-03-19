@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 05:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 06:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/ff9b620c91f3408391ce96d9b4d2e807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/201</link>
-            <guid>https://beyondlive.com/contents/201</guid>
-            <pubDate>Sun, 12 Feb 2023 12:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7b73f2524aad459090fb349a91bf3db6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/206</link>
             <guid>https://beyondlive.com/contents/206</guid>
@@ -292,14 +284,6 @@
             <pubDate>Thu, 16 Mar 2023 03:14:01 GMT</pubDate>
             <content:encoded><![CDATA[02. 4월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5815a2789cfa4c30a1737c7865dea30b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World" Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/201</link>
-            <guid>https://beyondlive.com/contents/201</guid>
-            <pubDate>Sun, 12 Feb 2023 12:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[19. 3월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5d17e8452a5643f1b7b5c50859876281.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
