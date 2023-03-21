@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 04:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 05:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/136</link>
+            <guid>https://beyondlive.com/notice/136</guid>
+            <pubDate>Tue, 21 Mar 2023 05:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[21. 3월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 일단, 은혁이 4랑하는 4람들의 파티 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/135</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/127</guid>
             <pubDate>Thu, 09 Feb 2023 06:18:42 GMT</pubDate>
             <content:encoded><![CDATA[09. 2월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/125</link>
-            <guid>https://beyondlive.com/notice/125</guid>
-            <pubDate>Wed, 01 Feb 2023 04:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[01. 2월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ 공연)]]></title>
