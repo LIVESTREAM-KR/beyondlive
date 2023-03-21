@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-03-21T05:12:24.689Z</updated>
+    <updated>2023-03-21T06:16:20.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2023 EXO FANMEETING "EXO' CLOCK" 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/137</id>
+        <link href="https://beyondlive.com/notice/137"/>
+        <updated>2023-03-21T06:16:02.438Z</updated>
+        <content type="html"><![CDATA[21. 3월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/136</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/126"/>
         <updated>2023-02-13T03:18:33.055Z</updated>
         <content type="html"><![CDATA[13. 2월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World” Beyond LIVE 관람권 구매 EVENT]]></title>
-        <id>https://beyondlive.com/notice/127</id>
-        <link href="https://beyondlive.com/notice/127"/>
-        <updated>2023-02-09T06:18:42.681Z</updated>
-        <content type="html"><![CDATA[09. 2월. 2023]]></content>
     </entry>
 </feed>
