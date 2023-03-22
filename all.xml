@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 06:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] 알리페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/138</link>
+            <guid>https://beyondlive.com/notice/138</guid>
+            <pubDate>Wed, 22 Mar 2023 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[22. 3월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 EXO FANMEETING "EXO' CLOCK" 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/137</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/129</guid>
             <pubDate>Tue, 14 Feb 2023 03:17:20 GMT</pubDate>
             <content:encoded><![CDATA[14. 2월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] ITZY THE 1ST WORLD TOUR <CHECKMATE> in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/126</link>
-            <guid>https://beyondlive.com/notice/126</guid>
-            <pubDate>Mon, 13 Feb 2023 03:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[13. 2월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ 공연)]]></title>
