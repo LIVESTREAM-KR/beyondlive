@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-03-23T02:08:25.367Z</updated>
+    <updated>2023-03-23T03:13:45.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] HKT48 봄 콘서트 2023～우리의 지금 이 자리～ 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/139</id>
+        <link href="https://beyondlive.com/notice/139"/>
+        <updated>2023-03-23T03:13:24.709Z</updated>
+        <content type="html"><![CDATA[23. 3월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 야부키 나코 졸업 콘서트～미래의 날개～ 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/140</id>
+        <link href="https://beyondlive.com/notice/140"/>
+        <updated>2023-03-23T03:13:24.710Z</updated>
+        <content type="html"><![CDATA[23. 3월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] 알리페이 도입 안내]]></title>
         <id>https://beyondlive.com/notice/138</id>
@@ -60,19 +74,5 @@
         <link href="https://beyondlive.com/notice/131"/>
         <updated>2023-02-22T03:16:50.741Z</updated>
         <content type="html"><![CDATA[22. 2월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] ONEW 1st CONCERT "O-NEW-NOTE" 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/128</id>
-        <link href="https://beyondlive.com/notice/128"/>
-        <updated>2023-02-15T06:17:14.254Z</updated>
-        <content type="html"><![CDATA[15. 2월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] 2023 aespa 1st Concert ‘SYNK : HYPER LINE’ 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/129</id>
-        <link href="https://beyondlive.com/notice/129"/>
-        <updated>2023-02-14T03:17:20.396Z</updated>
-        <content type="html"><![CDATA[14. 2월. 2023]]></content>
     </entry>
 </feed>
