@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 05:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 06:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이벤트 안내] "HKT48 봄 콘서트 2023" & "야부키 나코 졸업 콘서트" 관람권 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/141</link>
+            <guid>https://beyondlive.com/notice/141</guid>
+            <pubDate>Thu, 23 Mar 2023 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] HKT48 봄 콘서트 2023～우리의 지금 이 자리～ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/139</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/132</guid>
             <pubDate>Thu, 23 Feb 2023 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[23. 2월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN」추가 공연 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/131</link>
-            <guid>https://beyondlive.com/notice/131</guid>
-            <pubDate>Wed, 22 Feb 2023 03:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[22. 2월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ 공연)]]></title>
