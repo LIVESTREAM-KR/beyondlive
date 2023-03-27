@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-03-27T02:08:32.050Z</updated>
+    <updated>2023-03-27T03:13:48.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/142</id>
+        <link href="https://beyondlive.com/notice/142"/>
+        <updated>2023-03-27T03:13:24.682Z</updated>
+        <content type="html"><![CDATA[27. 3월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이벤트 안내] "HKT48 봄 콘서트 2023" & "야부키 나코 졸업 콘서트" 관람권 구매 EVENT]]></title>
         <id>https://beyondlive.com/notice/141</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/133"/>
         <updated>2023-02-28T06:18:14.320Z</updated>
         <content type="html"><![CDATA[28. 2월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] BoA 20th Anniversary Live - THE BoA : Musicality 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/132</id>
-        <link href="https://beyondlive.com/notice/132"/>
-        <updated>2023-02-23T03:15:44.818Z</updated>
-        <content type="html"><![CDATA[23. 2월. 2023]]></content>
     </entry>
 </feed>
