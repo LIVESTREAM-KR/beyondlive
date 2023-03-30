@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 11:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 12:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Sun, 12 Mar 2023 10:13:03 GMT</pubDate>
             <content:encoded><![CDATA[22. 4월. 2023. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/216</link>
+            <guid>https://beyondlive.com/contents/216</guid>
+            <pubDate>Thu, 30 Mar 2023 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a16793f2e8d64ccfa7901526049b5291.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

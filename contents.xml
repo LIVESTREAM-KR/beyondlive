@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 11:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 12:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 Re-Streaming]]></title>
+            <link>javascript:moveViewPage(216);</link>
+            <guid>javascript:moveViewPage(216);</guid>
+            <pubDate>Thu, 30 Mar 2023 12:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[은혁]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a16793f2e8d64ccfa7901526049b5291.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming]]></title>
             <link>javascript:moveViewPage(212);</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 19 Jan 2023 08:17:00 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/34a0143052584ab2973409df3c2b3f94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM TOUR ‘ THE DREAM SHOW2 : In A DREAM – in JAPAN’]]></title>
-            <link>javascript:moveViewPage(202);</link>
-            <guid>javascript:moveViewPage(202);</guid>
-            <pubDate>Mon, 30 Jan 2023 03:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0771c5e9f4524e1b995e13220f513adc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
