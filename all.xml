@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 05:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 06:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] 위쳇페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/143</link>
+            <guid>https://beyondlive.com/notice/143</guid>
+            <pubDate>Thu, 30 Mar 2023 06:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[30. 3월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/142</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/134</guid>
             <pubDate>Tue, 14 Mar 2023 06:17:36 GMT</pubDate>
             <content:encoded><![CDATA[14. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] ITZY The 2nd Fan Meeting 있지 믿지, 날자! "To Wonder World” Beyond LIVE 관람권 구매 EVENT 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/133</link>
-            <guid>https://beyondlive.com/notice/133</guid>
-            <pubDate>Tue, 28 Feb 2023 06:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[28. 2월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ 공연)]]></title>
