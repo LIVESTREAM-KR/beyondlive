@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 12:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 13:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티]]></title>
-            <link>https://beyondlive.com/contents/215</link>
-            <guid>https://beyondlive.com/contents/215</guid>
-            <pubDate>Fri, 17 Mar 2023 03:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[30. 3월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/00100bb91a804e4f82b6d1a328ed7f18.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[HKT48 봄 콘서트 2023～우리의 지금 이 자리～]]></title>
             <link>https://beyondlive.com/contents/219</link>
@@ -78,6 +70,14 @@
             <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
             <content:encoded><![CDATA[22. 4월. 2023. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8de421f823254623a2a3782b8ce6defb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/216</link>
+            <guid>https://beyondlive.com/contents/216</guid>
+            <pubDate>Thu, 30 Mar 2023 13:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c976456018e945c2b142b96358336b22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
