@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 05:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 06:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/34a0143052584ab2973409df3c2b3f94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HKT48 봄 콘서트 2023～우리의 지금 이 자리～ (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/219</link>
-            <guid>https://beyondlive.com/contents/219</guid>
-            <pubDate>Thu, 23 Mar 2023 03:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[01. 4월. 2023. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/254753f53a8148169bcbabfe947c3170.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[야부키 나코 졸업 콘서트～미래의 날개～ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/220</link>
             <guid>https://beyondlive.com/contents/220</guid>
@@ -308,14 +300,6 @@
             <pubDate>Thu, 30 Mar 2023 12:25:07 GMT</pubDate>
             <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c976456018e945c2b142b96358336b22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HKT48 봄 콘서트 2023～우리의 지금 이 자리～ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/219</link>
-            <guid>https://beyondlive.com/contents/219</guid>
-            <pubDate>Thu, 23 Mar 2023 03:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[01. 4월. 2023. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/17c1d3b3b75d41879d13d286f74b75f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야부키 나코 졸업 콘서트～미래의 날개～ (Beyond LIVE ─ Beyond NEXT)]]></title>
