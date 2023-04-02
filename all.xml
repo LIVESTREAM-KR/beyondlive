@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 11:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 12:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -329,7 +329,7 @@
             <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/214</link>
             <guid>https://beyondlive.com/contents/214</guid>
-            <pubDate>Sun, 02 Apr 2023 11:09:44 GMT</pubDate>
+            <pubDate>Sun, 02 Apr 2023 11:09:37 GMT</pubDate>
             <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e3fb1613934b48aea72f2601fe6ef2bc.jpg" length="0" type="image/jpg"/>
         </item>
