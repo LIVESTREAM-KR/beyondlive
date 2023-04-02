@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 09:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 10:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/34a0143052584ab2973409df3c2b3f94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Red Velvet 4th Concert : R to V (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/213</link>
-            <guid>https://beyondlive.com/contents/213</guid>
-            <pubDate>Thu, 16 Mar 2023 03:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[02. 4월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5815a2789cfa4c30a1737c7865dea30b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 EXO FANMEETING "EXO' CLOCK" (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/217</link>
             <guid>https://beyondlive.com/contents/217</guid>
@@ -284,14 +276,6 @@
             <pubDate>Thu, 30 Mar 2023 12:25:07 GMT</pubDate>
             <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c976456018e945c2b142b96358336b22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 4th Concert : R to V (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/213</link>
-            <guid>https://beyondlive.com/contents/213</guid>
-            <pubDate>Thu, 16 Mar 2023 03:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[02. 4월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/96e8c1888a4c422984945e2dd5b14038.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
