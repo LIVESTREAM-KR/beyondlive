@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 10:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 11:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 30 Mar 2023 12:25:07 GMT</pubDate>
             <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a16793f2e8d64ccfa7901526049b5291.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/214</link>
+            <guid>https://beyondlive.com/contents/214</guid>
+            <pubDate>Sun, 02 Apr 2023 11:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e3fb1613934b48aea72f2601fe6ef2bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
