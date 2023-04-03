@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 02:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 03:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,27 +20,6 @@
             <guid>https://beyondlive.com/notice/142</guid>
             <pubDate>Mon, 27 Mar 2023 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[27. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트 안내] "HKT48 봄 콘서트 2023" & "야부키 나코 졸업 콘서트" 관람권 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/141</link>
-            <guid>https://beyondlive.com/notice/141</guid>
-            <pubDate>Thu, 23 Mar 2023 06:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] HKT48 봄 콘서트 2023～우리의 지금 이 자리～ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/139</link>
-            <guid>https://beyondlive.com/notice/139</guid>
-            <pubDate>Thu, 23 Mar 2023 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 야부키 나코 졸업 콘서트～미래의 날개～ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/140</link>
-            <guid>https://beyondlive.com/notice/140</guid>
-            <pubDate>Thu, 23 Mar 2023 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내] 알리페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -64,11 +43,25 @@
             <content:encoded><![CDATA[21. 3월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] Red Velvet 4th Concert : R to V  온라인 티켓  오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/134</link>
-            <guid>https://beyondlive.com/notice/134</guid>
-            <pubDate>Tue, 14 Mar 2023 06:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[14. 3월. 2023]]></content:encoded>
+            <title><![CDATA[[이벤트 안내] "HKT48 봄 콘서트 2023" & "야부키 나코 졸업 콘서트" 관람권 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/141</link>
+            <guid>https://beyondlive.com/notice/141</guid>
+            <pubDate>Thu, 23 Mar 2023 06:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] HKT48 봄 콘서트 2023～우리의 지금 이 자리～ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/139</link>
+            <guid>https://beyondlive.com/notice/139</guid>
+            <pubDate>Thu, 23 Mar 2023 03:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] 야부키 나코 졸업 콘서트～미래의 날개～ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/140</link>
+            <guid>https://beyondlive.com/notice/140</guid>
+            <pubDate>Thu, 23 Mar 2023 03:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 일단, 은혁이 4랑하는 4람들의 파티 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/135</guid>
             <pubDate>Fri, 17 Mar 2023 03:13:47 GMT</pubDate>
             <content:encoded><![CDATA[17. 3월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] Red Velvet 4th Concert : R to V  온라인 티켓  오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/134</link>
+            <guid>https://beyondlive.com/notice/134</guid>
+            <pubDate>Tue, 14 Mar 2023 06:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[14. 3월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming (Beyond LIVE ─ 공연)]]></title>
