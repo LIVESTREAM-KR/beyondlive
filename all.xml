@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/144</link>
+            <guid>https://beyondlive.com/notice/144</guid>
+            <pubDate>Mon, 03 Apr 2023 06:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[03. 4월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내] 위쳇페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/143</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/135</guid>
             <pubDate>Fri, 17 Mar 2023 03:13:47 GMT</pubDate>
             <content:encoded><![CDATA[17. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] Red Velvet 4th Concert : R to V  온라인 티켓  오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/134</link>
-            <guid>https://beyondlive.com/notice/134</guid>
-            <pubDate>Tue, 14 Mar 2023 06:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[14. 3월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming (Beyond LIVE ─ 공연)]]></title>
