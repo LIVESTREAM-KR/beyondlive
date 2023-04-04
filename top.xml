@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 02:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 03:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
             <content:encoded><![CDATA[09. 4월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6e296c9b7ea149b79b6a8eaf62dd26f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW]]></title>
+            <link>https://beyondlive.com/contents/225</link>
+            <guid>https://beyondlive.com/contents/225</guid>
+            <pubDate>Tue, 04 Apr 2023 03:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[16. 4월. 2023. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a77c842569f741418d73e36fa52f4302.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’]]></title>
