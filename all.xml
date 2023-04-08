@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 03:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 04:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -351,7 +351,7 @@
             <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/229</link>
             <guid>https://beyondlive.com/contents/229</guid>
-            <pubDate>Sat, 08 Apr 2023 03:12:27 GMT</pubDate>
+            <pubDate>Sat, 08 Apr 2023 03:12:20 GMT</pubDate>
             <content:encoded><![CDATA[16. 4월. 2023. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d5b9e4130e3b4aea82bfd2d03e8e9d7c.jpg" length="0" type="image/jpg"/>
         </item>
