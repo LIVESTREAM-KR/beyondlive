@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 03:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,6 +52,14 @@
             <pubDate>Mon, 27 Mar 2023 03:13:47 GMT</pubDate>
             <content:encoded><![CDATA[16. 4월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d3a49de7c549465ba78502acc8be4a39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY]]></title>
+            <link>https://beyondlive.com/contents/229</link>
+            <guid>https://beyondlive.com/contents/229</guid>
+            <pubDate>Sat, 08 Apr 2023 03:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[16. 4월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d5b9e4130e3b4aea82bfd2d03e8e9d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming]]></title>

@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 03:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] NCT DOJAEJUNG LAUNCH DAY 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/145</link>
+            <guid>https://beyondlive.com/notice/145</guid>
+            <pubDate>Sat, 08 Apr 2023 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[08. 4월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/144</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] 일단, 은혁이 4랑하는 4람들의 파티 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/135</link>
-            <guid>https://beyondlive.com/notice/135</guid>
-            <pubDate>Fri, 17 Mar 2023 03:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[17. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(214);</link>
             <guid>javascript:moveViewPage(214);</guid>
@@ -100,6 +100,14 @@
             <pubDate>Sun, 12 Mar 2023 10:12:50 GMT</pubDate>
             <content:encoded><![CDATA[BoA]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(229);</link>
+            <guid>javascript:moveViewPage(229);</guid>
+            <pubDate>Sat, 08 Apr 2023 03:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[DOJAEJUNG]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d5b9e4130e3b4aea82bfd2d03e8e9d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/758ae4ca30a64ea9821aaf57b7de1e3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(203);</link>
-            <guid>javascript:moveViewPage(203);</guid>
-            <pubDate>Mon, 06 Feb 2023 03:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a76c017d1ae246c7a3edd302561ecfc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/210</link>
             <guid>https://beyondlive.com/contents/210</guid>
@@ -268,6 +268,14 @@
             <pubDate>Mon, 27 Mar 2023 03:13:39 GMT</pubDate>
             <content:encoded><![CDATA[16. 4월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5d2bb1c9a5194c0fbb1679f5f2d47907.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/229</link>
+            <guid>https://beyondlive.com/contents/229</guid>
+            <pubDate>Sat, 08 Apr 2023 03:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[16. 4월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/a81decac43564440aa35730384d2b244.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -338,6 +346,14 @@
             <pubDate>Mon, 27 Mar 2023 03:13:39 GMT</pubDate>
             <content:encoded><![CDATA[16. 4월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d3a49de7c549465ba78502acc8be4a39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/229</link>
+            <guid>https://beyondlive.com/contents/229</guid>
+            <pubDate>Sat, 08 Apr 2023 03:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[16. 4월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d5b9e4130e3b4aea82bfd2d03e8e9d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

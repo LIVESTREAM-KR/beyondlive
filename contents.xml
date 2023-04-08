@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 03:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 05 Apr 2023 17:12:29 GMT</pubDate>
             <content:encoded><![CDATA[BoA]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY]]></title>
+            <link>javascript:moveViewPage(229);</link>
+            <guid>javascript:moveViewPage(229);</guid>
+            <pubDate>Sat, 08 Apr 2023 03:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[DOJAEJUNG]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d5b9e4130e3b4aea82bfd2d03e8e9d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Apr 2023 17:12:29 GMT</pubDate>
             <content:encoded><![CDATA[aespa]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/758ae4ca30a64ea9821aaf57b7de1e3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids 2nd World Tour "MANIAC" ENCORE in JAPAN]]></title>
-            <link>javascript:moveViewPage(203);</link>
-            <guid>javascript:moveViewPage(203);</guid>
-            <pubDate>Wed, 05 Apr 2023 17:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a76c017d1ae246c7a3edd302561ecfc7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
