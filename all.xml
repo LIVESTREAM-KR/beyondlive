@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 04:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 05:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/758ae4ca30a64ea9821aaf57b7de1e3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/210</link>
-            <guid>https://beyondlive.com/contents/210</guid>
-            <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[09. 4월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6e296c9b7ea149b79b6a8eaf62dd26f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 EXO FANMEETING "EXO' CLOCK" (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/217</link>
             <guid>https://beyondlive.com/contents/217</guid>
@@ -314,14 +306,6 @@
             <guid>https://beyondlive.com/contents/vod/221</guid>
             <pubDate>Tue, 04 Apr 2023 08:16:13 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/8b35c20de87e4a018e1584ffc2c07096.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/210</link>
-            <guid>https://beyondlive.com/contents/210</guid>
-            <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[09. 4월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5cc8fe3369404f2ca935bb15fc7896f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 EXO FANMEETING "EXO' CLOCK" (Beyond LIVE ─ Beyond NEXT)]]></title>
