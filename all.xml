@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 02:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 02:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <guid>javascript:moveViewPage(229);</guid>
             <pubDate>Sat, 08 Apr 2023 03:12:12 GMT</pubDate>
             <content:encoded><![CDATA[DOJAEJUNG]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d5b9e4130e3b4aea82bfd2d03e8e9d7c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.beyondlive.com/contents/279d7f95f79c494f97726fe2273ee3f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ (Beyond LIVE ─ 공연)]]></title>
@@ -238,6 +238,14 @@
             <enclosure url="https://static.beyondlive.com/contents/800a896e021d42a099eff1bd9385bc28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/229</link>
+            <guid>https://beyondlive.com/contents/229</guid>
+            <pubDate>Sat, 08 Apr 2023 03:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[16. 4월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/4883c520521443618bfb95f228ad7d63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/225</link>
             <guid>https://beyondlive.com/contents/225</guid>
@@ -252,14 +260,6 @@
             <pubDate>Mon, 27 Mar 2023 03:13:39 GMT</pubDate>
             <content:encoded><![CDATA[16. 4월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5d2bb1c9a5194c0fbb1679f5f2d47907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/229</link>
-            <guid>https://beyondlive.com/contents/229</guid>
-            <pubDate>Sat, 08 Apr 2023 03:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[16. 4월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a81decac43564440aa35730384d2b244.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -329,7 +329,7 @@
             <guid>https://beyondlive.com/contents/229</guid>
             <pubDate>Sat, 08 Apr 2023 03:12:20 GMT</pubDate>
             <content:encoded><![CDATA[16. 4월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d5b9e4130e3b4aea82bfd2d03e8e9d7c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://static.beyondlive.com/contents/279d7f95f79c494f97726fe2273ee3f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
