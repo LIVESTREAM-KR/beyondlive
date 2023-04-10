@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 08:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 09:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -122,7 +122,7 @@
             <link>javascript:moveViewPage(229);</link>
             <guid>javascript:moveViewPage(229);</guid>
             <pubDate>Sat, 08 Apr 2023 03:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[DOJAEJUNG]]></content:encoded>
+            <content:encoded><![CDATA[NCT DOJAEJUNG]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/279d7f95f79c494f97726fe2273ee3f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -375,7 +375,7 @@
             <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/227</link>
             <guid>https://beyondlive.com/contents/227</guid>
-            <pubDate>Mon, 10 Apr 2023 08:15:48 GMT</pubDate>
+            <pubDate>Mon, 10 Apr 2023 08:15:41 GMT</pubDate>
             <content:encoded><![CDATA[14. 5월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c5e07676c7974344b0e6af1bb98749aa.jpg" length="0" type="image/jpg"/>
         </item>
