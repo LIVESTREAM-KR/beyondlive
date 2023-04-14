@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 02:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 03:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2023 TAEMIN FANMEETING “RE : ACT” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/146</link>
+            <guid>https://beyondlive.com/notice/146</guid>
+            <pubDate>Fri, 14 Apr 2023 03:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[14. 4월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] NCT DOJAEJUNG LAUNCH DAY 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/145</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] 2023 EXO FANMEETING "EXO' CLOCK" 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/137</link>
-            <guid>https://beyondlive.com/notice/137</guid>
-            <pubDate>Tue, 21 Mar 2023 06:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[21. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(227);</link>
             <guid>javascript:moveViewPage(227);</guid>
@@ -108,6 +108,14 @@
             <pubDate>Thu, 30 Mar 2023 12:24:51 GMT</pubDate>
             <content:encoded><![CDATA[은혁]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a16793f2e8d64ccfa7901526049b5291.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 TAEMIN FANMEETING “RE : ACT” (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(230);</link>
+            <guid>javascript:moveViewPage(230);</guid>
+            <pubDate>Fri, 14 Apr 2023 03:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[태민]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/bd5c8688f38c4b9b9d710ebe9fcb380c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/c394b6e9c9324f0b98df7c45d4d63802.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 임시완 팬 콘서트 <WHY I AM in SEOUL> Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(198);</link>
-            <guid>javascript:moveViewPage(198);</guid>
-            <pubDate>Sat, 11 Feb 2023 12:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[임시완]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a2cc7bfe8c144e23aed4482b4b99fc44.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2023 TAEMIN FANMEETING “RE : ACT” (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/230</link>
+            <guid>https://beyondlive.com/contents/230</guid>
+            <pubDate>Fri, 14 Apr 2023 03:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[23. 4월. 2023. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e8cee491ef3347ae8e4699544ecb7884.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW (Beyond LIVE ─ TOP)]]></title>
@@ -346,6 +354,14 @@
             <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
             <content:encoded><![CDATA[22. 4월. 2023. 18:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 TAEMIN FANMEETING “RE : ACT” (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/230</link>
+            <guid>https://beyondlive.com/contents/230</guid>
+            <pubDate>Fri, 14 Apr 2023 03:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[23. 4월. 2023. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/bd5c8688f38c4b9b9d710ebe9fcb380c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
