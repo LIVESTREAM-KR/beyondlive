@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 08:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 09:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -308,6 +308,13 @@
             <pubDate>Mon, 10 Apr 2023 08:15:41 GMT</pubDate>
             <content:encoded><![CDATA[14. 5월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9b6f04c2639943ddbe389b0278686fcd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야부키 나코 졸업 콘서트～미래의 날개～ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/222</link>
+            <guid>https://beyondlive.com/contents/vod/222</guid>
+            <pubDate>Sun, 16 Apr 2023 09:11:26 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/68733f700d7f45c9af0618836b7a8317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HKT48 봄 콘서트 2023～우리의 지금 이 자리～ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
