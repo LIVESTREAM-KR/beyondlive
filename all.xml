@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 10:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 11:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,6 @@
             <guid>https://beyondlive.com/notice/145</guid>
             <pubDate>Sat, 08 Apr 2023 03:12:07 GMT</pubDate>
             <content:encoded><![CDATA[08. 4월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/144</link>
-            <guid>https://beyondlive.com/notice/144</guid>
-            <pubDate>Mon, 03 Apr 2023 06:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[03. 4월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내] 위쳇페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -57,6 +50,13 @@
             <content:encoded><![CDATA[21. 3월. 2023]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[공연안내] SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/144</link>
+            <guid>https://beyondlive.com/notice/144</guid>
+            <pubDate>Mon, 03 Apr 2023 06:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[03. 4월. 2023]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이벤트 안내] "HKT48 봄 콘서트 2023" & "야부키 나코 졸업 콘서트" 관람권 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/141</link>
             <guid>https://beyondlive.com/notice/141</guid>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/140</guid>
             <pubDate>Thu, 23 Mar 2023 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(224);</link>
+            <guid>javascript:moveViewPage(224);</guid>
+            <pubDate>Sun, 16 Apr 2023 11:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ac741b14cd144983a2b45afe8f0b9f50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL (Beyond LIVE ─ 공연)]]></title>
@@ -230,36 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/231426eee7be4536a3062f0b901fc031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KEY CONCERT - G.O.A.T. (Greatest Of All Time) IN THE KEYLAND JAPAN (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(209);</link>
-            <guid>javascript:moveViewPage(209);</guid>
-            <pubDate>Wed, 22 Feb 2023 03:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[KEY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c394b6e9c9324f0b98df7c45d4d63802.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/225</link>
-            <guid>https://beyondlive.com/contents/225</guid>
-            <pubDate>Tue, 04 Apr 2023 03:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[16. 4월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a77c842569f741418d73e36fa52f4302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/223</link>
             <guid>https://beyondlive.com/contents/223</guid>
             <pubDate>Mon, 27 Mar 2023 03:13:39 GMT</pubDate>
             <content:encoded><![CDATA[16. 4월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5d2bb1c9a5194c0fbb1679f5f2d47907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/229</link>
-            <guid>https://beyondlive.com/contents/229</guid>
-            <pubDate>Sat, 08 Apr 2023 03:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[16. 4월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4883c520521443618bfb95f228ad7d63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TAEMIN FANMEETING “RE : ACT” (Beyond LIVE ─ TOP)]]></title>
@@ -324,14 +308,6 @@
             <enclosure url="https://static.beyondlive.com/contents/8b35c20de87e4a018e1584ffc2c07096.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/225</link>
-            <guid>https://beyondlive.com/contents/225</guid>
-            <pubDate>Tue, 04 Apr 2023 03:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[16. 4월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1e7ba7b0b21b4fb899a433cb23890870.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/223</link>
             <guid>https://beyondlive.com/contents/223</guid>
@@ -394,6 +370,14 @@
             <pubDate>Mon, 10 Apr 2023 08:15:41 GMT</pubDate>
             <content:encoded><![CDATA[14. 5월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c5e07676c7974344b0e6af1bb98749aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/224</link>
+            <guid>https://beyondlive.com/contents/224</guid>
+            <pubDate>Sun, 16 Apr 2023 11:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[28. 5월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ac741b14cd144983a2b45afe8f0b9f50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

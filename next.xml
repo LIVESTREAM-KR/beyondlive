@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 10:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 11:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,14 +20,6 @@
             <guid>https://beyondlive.com/contents/vod/221</guid>
             <pubDate>Tue, 04 Apr 2023 08:16:13 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/8b35c20de87e4a018e1584ffc2c07096.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW]]></title>
-            <link>https://beyondlive.com/contents/225</link>
-            <guid>https://beyondlive.com/contents/225</guid>
-            <pubDate>Tue, 04 Apr 2023 03:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[16. 4월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1e7ba7b0b21b4fb899a433cb23890870.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’]]></title>
@@ -92,6 +84,14 @@
             <pubDate>Mon, 10 Apr 2023 08:15:48 GMT</pubDate>
             <content:encoded><![CDATA[14. 5월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c5e07676c7974344b0e6af1bb98749aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/224</link>
+            <guid>https://beyondlive.com/contents/224</guid>
+            <pubDate>Sun, 16 Apr 2023 11:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[28. 5월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ac741b14cd144983a2b45afe8f0b9f50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
