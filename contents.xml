@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 11:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 12:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 09 Apr 2023 10:11:45 GMT</pubDate>
             <content:encoded><![CDATA[EXO]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/276177d953564298a75df804bcb476e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW Re-Streaming]]></title>
+            <link>javascript:moveViewPage(226);</link>
+            <guid>javascript:moveViewPage(226);</guid>
+            <pubDate>Sun, 16 Apr 2023 12:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/65f37dae127b4bdf84526709583a0a57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Apr 2023 17:12:29 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5d17e8452a5643f1b7b5c50859876281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality]]></title>
-            <link>javascript:moveViewPage(211);</link>
-            <guid>javascript:moveViewPage(211);</guid>
-            <pubDate>Wed, 05 Apr 2023 17:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[BoA]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/231426eee7be4536a3062f0b901fc031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
