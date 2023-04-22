@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 13:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 14:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,14 +254,6 @@
             <enclosure url="https://static.beyondlive.com/contents/9b6f04c2639943ddbe389b0278686fcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/212</link>
-            <guid>https://beyondlive.com/contents/212</guid>
-            <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[22. 4월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8de421f823254623a2a3782b8ce6defb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/214</link>
             <guid>https://beyondlive.com/contents/214</guid>
@@ -300,14 +292,6 @@
             <pubDate>Sun, 16 Apr 2023 11:10:14 GMT</pubDate>
             <content:encoded><![CDATA[28. 5월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cc03b4e0819e4851bd1bb2798051895b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/212</link>
-            <guid>https://beyondlive.com/contents/212</guid>
-            <pubDate>Sun, 12 Mar 2023 10:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[22. 4월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TAEMIN FANMEETING “RE : ACT” (Beyond LIVE ─ Beyond NEXT)]]></title>
