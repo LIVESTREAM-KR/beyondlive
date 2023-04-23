@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 05:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 06:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[공연안내] 2023 TAEMIN FANMEETING “RE : ACT” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/146</link>
-            <guid>https://beyondlive.com/notice/146</guid>
-            <pubDate>Fri, 14 Apr 2023 03:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[14. 4월. 2023]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[안내] 위쳇페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/143</link>
@@ -34,6 +27,13 @@
             <guid>https://beyondlive.com/notice/136</guid>
             <pubDate>Tue, 21 Mar 2023 05:12:04 GMT</pubDate>
             <content:encoded><![CDATA[21. 3월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] 2023 TAEMIN FANMEETING “RE : ACT” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/146</link>
+            <guid>https://beyondlive.com/notice/146</guid>
+            <pubDate>Fri, 14 Apr 2023 03:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[14. 4월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] NCT DOJAEJUNG LAUNCH DAY 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
