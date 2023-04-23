@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 06:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 07:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -236,14 +236,6 @@
             <pubDate>Sun, 12 Feb 2023 12:23:12 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5d17e8452a5643f1b7b5c50859876281.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 TAEMIN FANMEETING “RE : ACT” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/230</link>
-            <guid>https://beyondlive.com/contents/230</guid>
-            <pubDate>Fri, 14 Apr 2023 03:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[23. 4월. 2023. 14:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e8cee491ef3347ae8e4699544ecb7884.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL (Beyond LIVE ─ TOP)]]></title>
