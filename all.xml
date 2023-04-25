@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 06:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 07:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>https://beyondlive.com/notice/143</guid>
             <pubDate>Thu, 30 Mar 2023 06:16:19 GMT</pubDate>
             <content:encoded><![CDATA[30. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] 알리페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/138</link>
-            <guid>https://beyondlive.com/notice/138</guid>
-            <pubDate>Wed, 22 Mar 2023 06:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[22. 3월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/140</guid>
             <pubDate>Thu, 23 Mar 2023 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] 알리페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/138</link>
+            <guid>https://beyondlive.com/notice/138</guid>
+            <pubDate>Wed, 22 Mar 2023 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[22. 3월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
