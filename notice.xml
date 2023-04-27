@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-04-27T05:11:52.726Z</updated>
+    <updated>2023-04-27T06:16:31.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내] "HKT48 콘서트" 관람권 구매 EVENT 당첨자 발표]]></title>
+        <id>https://beyondlive.com/notice/147</id>
+        <link href="https://beyondlive.com/notice/147"/>
+        <updated>2023-04-27T06:16:07.889Z</updated>
+        <content type="html"><![CDATA[27. 4월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] 위쳇페이 도입 안내]]></title>
         <id>https://beyondlive.com/notice/143</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/140"/>
         <updated>2023-04-05T17:12:22.534Z</updated>
         <content type="html"><![CDATA[23. 3월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내] 알리페이 도입 안내]]></title>
-        <id>https://beyondlive.com/notice/138</id>
-        <link href="https://beyondlive.com/notice/138"/>
-        <updated>2023-04-05T17:12:22.527Z</updated>
-        <content type="html"><![CDATA[22. 3월. 2023]]></content>
     </entry>
 </feed>

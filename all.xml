@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 05:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 06:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] "HKT48 콘서트" 관람권 구매 EVENT 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/147</link>
+            <guid>https://beyondlive.com/notice/147</guid>
+            <pubDate>Thu, 27 Apr 2023 06:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[27. 4월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내] 위쳇페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/143</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/140</guid>
             <pubDate>Thu, 23 Mar 2023 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] 알리페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/138</link>
-            <guid>https://beyondlive.com/notice/138</guid>
-            <pubDate>Wed, 22 Mar 2023 06:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[22. 3월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
