@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 13:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 14:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,22 +246,6 @@
             <enclosure url="https://static.beyondlive.com/contents/9b6f04c2639943ddbe389b0278686fcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/214</link>
-            <guid>https://beyondlive.com/contents/214</guid>
-            <pubDate>Sun, 02 Apr 2023 11:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1f7decb5f5d542019d78bb78afb3a88e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/216</link>
-            <guid>https://beyondlive.com/contents/216</guid>
-            <pubDate>Thu, 30 Mar 2023 12:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c976456018e945c2b142b96358336b22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/226</link>
             <guid>https://beyondlive.com/contents/226</guid>
@@ -284,22 +268,6 @@
             <pubDate>Sun, 16 Apr 2023 11:10:14 GMT</pubDate>
             <content:encoded><![CDATA[28. 5월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cc03b4e0819e4851bd1bb2798051895b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/216</link>
-            <guid>https://beyondlive.com/contents/216</guid>
-            <pubDate>Thu, 30 Mar 2023 12:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a16793f2e8d64ccfa7901526049b5291.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Velvet 4th Concert : R to V Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/214</link>
-            <guid>https://beyondlive.com/contents/214</guid>
-            <pubDate>Sun, 02 Apr 2023 11:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[29. 4월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e3fb1613934b48aea72f2601fe6ef2bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
