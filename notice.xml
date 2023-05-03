@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-05-03T02:04:21.636Z</updated>
+    <updated>2023-05-03T03:13:13.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] THE BOYZ 2ND WORLD TOUR : ZENERATION 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/148</id>
+        <link href="https://beyondlive.com/notice/148"/>
+        <updated>2023-05-03T03:12:52.034Z</updated>
+        <content type="html"><![CDATA[03. 5월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] "HKT48 콘서트" 관람권 구매 EVENT 당첨자 발표]]></title>
         <id>https://beyondlive.com/notice/147</id>
@@ -66,13 +73,6 @@
         <id>https://beyondlive.com/notice/139</id>
         <link href="https://beyondlive.com/notice/139"/>
         <updated>2023-04-05T17:12:22.533Z</updated>
-        <content type="html"><![CDATA[23. 3월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] 야부키 나코 졸업 콘서트～미래의 날개～ 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/140</id>
-        <link href="https://beyondlive.com/notice/140"/>
-        <updated>2023-04-05T17:12:22.534Z</updated>
         <content type="html"><![CDATA[23. 3월. 2023]]></content>
     </entry>
 </feed>
