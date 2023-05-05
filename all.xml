@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 10:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 11:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] YOASOBI ARENA TOUR 2023 “電光石火”온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/149</link>
+            <guid>https://beyondlive.com/notice/149</guid>
+            <pubDate>Fri, 05 May 2023 11:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] THE BOYZ 2ND WORLD TOUR : ZENERATION 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/148</link>
@@ -71,11 +78,12 @@
             <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] HKT48 봄 콘서트 2023～우리의 지금 이 자리～ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/139</link>
-            <guid>https://beyondlive.com/notice/139</guid>
-            <pubDate>Thu, 23 Mar 2023 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[23. 3월. 2023]]></content:encoded>
+            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(233);</link>
+            <guid>javascript:moveViewPage(233);</guid>
+            <pubDate>Fri, 05 May 2023 11:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[YOASOBI]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5a9f9b7ffbbb499dbad994a29f5e8eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/2dd9333a486b4d14a1377d8d683513b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 aespa 1st Concert ‘SYNK : HYPER LINE’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(206);</link>
-            <guid>javascript:moveViewPage(206);</guid>
-            <pubDate>Sun, 26 Feb 2023 11:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[aespa]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/55ddd0df735146f0a653a3dce426fea2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/233</link>
+            <guid>https://beyondlive.com/contents/233</guid>
+            <pubDate>Fri, 05 May 2023 11:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[04. 6월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/df840d0379ca400e98f124c69bec7973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION (Beyond LIVE ─ TOP)]]></title>
@@ -316,6 +324,14 @@
             <pubDate>Sun, 16 Apr 2023 11:10:14 GMT</pubDate>
             <content:encoded><![CDATA[28. 5월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ac741b14cd144983a2b45afe8f0b9f50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/233</link>
+            <guid>https://beyondlive.com/contents/233</guid>
+            <pubDate>Fri, 05 May 2023 11:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[04. 6월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5a9f9b7ffbbb499dbad994a29f5e8eb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 10:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 11:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sun, 16 Apr 2023 11:10:14 GMT</pubDate>
             <content:encoded><![CDATA[28. 5월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ac741b14cd144983a2b45afe8f0b9f50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火”]]></title>
+            <link>https://beyondlive.com/contents/233</link>
+            <guid>https://beyondlive.com/contents/233</guid>
+            <pubDate>Fri, 05 May 2023 11:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[04. 6월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5a9f9b7ffbbb499dbad994a29f5e8eb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
