@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 14:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 15:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,20 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/2dd9333a486b4d14a1377d8d683513b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/233</link>
-            <guid>https://beyondlive.com/contents/233</guid>
-            <pubDate>Fri, 05 May 2023 11:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[04. 6월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/df840d0379ca400e98f124c69bec7973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/232</link>
-            <guid>https://beyondlive.com/contents/232</guid>
-            <pubDate>Wed, 03 May 2023 03:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[21. 5월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/458cbb226f5e4337895ee4471042b82a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2023 EXO FANMEETING "EXO' CLOCK" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/218</link>
+            <guid>https://beyondlive.com/contents/218</guid>
+            <pubDate>Sun, 09 Apr 2023 10:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[13. 5월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0e12b3d9b93c4dfd80d85527033e2bdd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL (Beyond LIVE ─ TOP)]]></title>
@@ -262,20 +254,12 @@
             <enclosure url="https://static.beyondlive.com/contents/9b6f04c2639943ddbe389b0278686fcd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/226</link>
-            <guid>https://beyondlive.com/contents/226</guid>
-            <pubDate>Sun, 16 Apr 2023 12:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[06. 5월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8bc74d1d74c64d3c9d61739b617790ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 EXO FANMEETING "EXO' CLOCK" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/218</link>
-            <guid>https://beyondlive.com/contents/218</guid>
-            <pubDate>Sun, 09 Apr 2023 10:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[13. 5월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0e12b3d9b93c4dfd80d85527033e2bdd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/232</link>
+            <guid>https://beyondlive.com/contents/232</guid>
+            <pubDate>Wed, 03 May 2023 03:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[21. 5월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/458cbb226f5e4337895ee4471042b82a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
@@ -286,12 +270,12 @@
             <enclosure url="https://static.beyondlive.com/contents/cc03b4e0819e4851bd1bb2798051895b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/226</link>
-            <guid>https://beyondlive.com/contents/226</guid>
-            <pubDate>Sun, 16 Apr 2023 12:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[06. 5월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/65f37dae127b4bdf84526709583a0a57.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/233</link>
+            <guid>https://beyondlive.com/contents/233</guid>
+            <pubDate>Fri, 05 May 2023 11:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[04. 6월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/df840d0379ca400e98f124c69bec7973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 EXO FANMEETING "EXO' CLOCK" Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
