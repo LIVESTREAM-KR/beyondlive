@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 07:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 08:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>https://beyondlive.com/notice/153</guid>
             <pubDate>Thu, 11 May 2023 06:15:24 GMT</pubDate>
             <content:encoded><![CDATA[11. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내]Beyond LIVE 페이스북 로그인 장애에 관한 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/150</link>
-            <guid>https://beyondlive.com/notice/150</guid>
-            <pubDate>Fri, 05 May 2023 12:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] YOASOBI ARENA TOUR 2023 “電光石火”온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -48,6 +41,13 @@
             <guid>https://beyondlive.com/notice/136</guid>
             <pubDate>Tue, 21 Mar 2023 05:12:04 GMT</pubDate>
             <content:encoded><![CDATA[21. 3월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[대응 완료]Beyond LIVE 페이스북 로그인 장애에 관한 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/150</link>
+            <guid>https://beyondlive.com/notice/150</guid>
+            <pubDate>Fri, 05 May 2023 12:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 2023 TAEMIN FANMEETING “RE : ACT” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
