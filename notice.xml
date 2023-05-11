@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-05-11T05:11:18.603Z</updated>
+    <updated>2023-05-11T06:15:48.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내] GoPay 도입 안내]]></title>
+        <id>https://beyondlive.com/notice/153</id>
+        <link href="https://beyondlive.com/notice/153"/>
+        <updated>2023-05-11T06:15:24.897Z</updated>
+        <content type="html"><![CDATA[11. 5월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내]Beyond LIVE 페이스북 로그인 장애에 관한 안내]]></title>
         <id>https://beyondlive.com/notice/150</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/143"/>
         <updated>2023-04-05T17:12:22.524Z</updated>
         <content type="html"><![CDATA[30. 3월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/142</id>
-        <link href="https://beyondlive.com/notice/142"/>
-        <updated>2023-04-05T17:12:22.524Z</updated>
-        <content type="html"><![CDATA[27. 3월. 2023]]></content>
     </entry>
 </feed>
