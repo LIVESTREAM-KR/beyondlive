@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 03:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 04:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/152</link>
+            <guid>https://beyondlive.com/notice/152</guid>
+            <pubDate>Fri, 12 May 2023 04:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Kawaguchi Yurina Birthday～Yurina's Room～＆～Yurisse's Party～ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/156</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[08. 4월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] SUPER JUNIOR WORLD TOUR - SUPER SHOW 9 : ROAD_SHOW 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/144</link>
-            <guid>https://beyondlive.com/notice/144</guid>
-            <pubDate>Mon, 03 Apr 2023 06:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[03. 4월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(238);</link>
             <guid>javascript:moveViewPage(238);</guid>
@@ -108,6 +108,14 @@
             <pubDate>Sun, 16 Apr 2023 11:10:00 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ac741b14cd144983a2b45afe8f0b9f50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(236);</link>
+            <guid>javascript:moveViewPage(236);</guid>
+            <pubDate>Fri, 12 May 2023 04:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f5dec2a0baa741abab258ad33c93518a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/38d8e2b396814b698073d60d41f32baa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[야부키 나코 졸업 콘서트～미래의 날개～ (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(220);</link>
-            <guid>javascript:moveViewPage(220);</guid>
-            <pubDate>Thu, 23 Mar 2023 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2ff791a772324fbb8824d3663955bb99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/238</link>
             <guid>https://beyondlive.com/contents/238</guid>
@@ -252,6 +252,14 @@
             <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[18. 6월. 2023. 14:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/dd1f2112dd484ed8a8c49d7d0a3230f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/236</link>
+            <guid>https://beyondlive.com/contents/236</guid>
+            <pubDate>Fri, 12 May 2023 04:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[21. 5월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/beae2f6c64e94b359d16342bd2f33beb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ TOP)]]></title>
@@ -318,6 +326,14 @@
             <enclosure url="https://static.beyondlive.com/contents/0f1c43fe41874022be2e0f2b4e267a74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/236</link>
+            <guid>https://beyondlive.com/contents/236</guid>
+            <pubDate>Fri, 12 May 2023 04:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[21. 5월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f5dec2a0baa741abab258ad33c93518a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/224</link>
             <guid>https://beyondlive.com/contents/224</guid>
@@ -337,7 +353,7 @@
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/237</link>
             <guid>https://beyondlive.com/contents/237</guid>
-            <pubDate>Fri, 12 May 2023 03:13:37 GMT</pubDate>
+            <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[18. 6월. 2023. 14:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f204cb59c33748929dd122630b7b7853.jpg" length="0" type="image/jpg"/>
         </item>
@@ -345,7 +361,7 @@
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/238</link>
             <guid>https://beyondlive.com/contents/238</guid>
-            <pubDate>Fri, 12 May 2023 03:13:37 GMT</pubDate>
+            <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[18. 6월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/62ad7c6a3adb48d7bf0d2a6efb23fb16.jpg" length="0" type="image/jpg"/>
         </item>

@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 03:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 04:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ac741b14cd144983a2b45afe8f0b9f50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN]]></title>
+            <link>javascript:moveViewPage(236);</link>
+            <guid>javascript:moveViewPage(236);</guid>
+            <pubDate>Fri, 12 May 2023 04:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f5dec2a0baa741abab258ad33c93518a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
             <content:encoded><![CDATA[온유]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/38d8e2b396814b698073d60d41f32baa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야부키 나코 졸업 콘서트～미래의 날개～]]></title>
-            <link>javascript:moveViewPage(220);</link>
-            <guid>javascript:moveViewPage(220);</guid>
-            <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2ff791a772324fbb8824d3663955bb99.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
