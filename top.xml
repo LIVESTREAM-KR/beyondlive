@@ -4,9 +4,25 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 02:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 03:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～]]></title>
+            <link>https://beyondlive.com/contents/238</link>
+            <guid>https://beyondlive.com/contents/238</guid>
+            <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[18. 6월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6bc46079703a41788f1098c9548114df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～]]></title>
+            <link>https://beyondlive.com/contents/237</link>
+            <guid>https://beyondlive.com/contents/237</guid>
+            <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[18. 6월. 2023. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dd1f2112dd484ed8a8c49d7d0a3230f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火”]]></title>
             <link>https://beyondlive.com/contents/233</link>

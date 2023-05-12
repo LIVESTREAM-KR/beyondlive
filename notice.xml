@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-05-12T02:03:26.926Z</updated>
+    <updated>2023-05-12T03:13:38.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] Kawaguchi Yurina Birthday～Yurina's Room～＆～Yurisse's Party～ 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/156</id>
+        <link href="https://beyondlive.com/notice/156"/>
+        <updated>2023-05-12T03:13:16.940Z</updated>
+        <content type="html"><![CDATA[12. 5월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] GoPay 도입 안내]]></title>
         <id>https://beyondlive.com/notice/153</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/144"/>
         <updated>2023-04-05T17:12:22.515Z</updated>
         <content type="html"><![CDATA[03. 4월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내] 위쳇페이 도입 안내]]></title>
-        <id>https://beyondlive.com/notice/143</id>
-        <link href="https://beyondlive.com/notice/143"/>
-        <updated>2023-04-05T17:12:22.524Z</updated>
-        <content type="html"><![CDATA[30. 3월. 2023]]></content>
     </entry>
 </feed>

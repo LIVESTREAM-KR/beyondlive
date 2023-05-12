@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 02:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 03:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Kawaguchi Yurina Birthday～Yurina's Room～＆～Yurisse's Party～ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/156</link>
+            <guid>https://beyondlive.com/notice/156</guid>
+            <pubDate>Fri, 12 May 2023 03:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내] GoPay 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/153</link>
@@ -71,11 +78,20 @@
             <content:encoded><![CDATA[03. 4월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안내] 위쳇페이 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/143</link>
-            <guid>https://beyondlive.com/notice/143</guid>
-            <pubDate>Thu, 30 Mar 2023 06:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[30. 3월. 2023]]></content:encoded>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(238);</link>
+            <guid>javascript:moveViewPage(238);</guid>
+            <pubDate>Fri, 12 May 2023 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[Kawaguchi Yurina/川口ゆりな]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/62ad7c6a3adb48d7bf0d2a6efb23fb16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(237);</link>
+            <guid>javascript:moveViewPage(237);</guid>
+            <pubDate>Fri, 12 May 2023 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[Kawaguchi Yurina/川口ゆりな]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f204cb59c33748929dd122630b7b7853.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ 공연)]]></title>
@@ -222,20 +238,20 @@
             <enclosure url="https://static.beyondlive.com/contents/2ff791a772324fbb8824d3663955bb99.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HKT48 봄 콘서트 2023～우리의 지금 이 자리～ (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(219);</link>
-            <guid>javascript:moveViewPage(219);</guid>
-            <pubDate>Thu, 23 Mar 2023 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/17c1d3b3b75d41879d13d286f74b75f3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/238</link>
+            <guid>https://beyondlive.com/contents/238</guid>
+            <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[18. 6월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6bc46079703a41788f1098c9548114df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티 (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(215);</link>
-            <guid>javascript:moveViewPage(215);</guid>
-            <pubDate>Fri, 17 Mar 2023 03:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[은혁]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2dd9333a486b4d14a1377d8d683513b2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/237</link>
+            <guid>https://beyondlive.com/contents/237</guid>
+            <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[18. 6월. 2023. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dd1f2112dd484ed8a8c49d7d0a3230f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ TOP)]]></title>
@@ -316,6 +332,22 @@
             <pubDate>Fri, 05 May 2023 11:10:37 GMT</pubDate>
             <content:encoded><![CDATA[04. 6월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5a9f9b7ffbbb499dbad994a29f5e8eb4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/237</link>
+            <guid>https://beyondlive.com/contents/237</guid>
+            <pubDate>Fri, 12 May 2023 03:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[18. 6월. 2023. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f204cb59c33748929dd122630b7b7853.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/238</link>
+            <guid>https://beyondlive.com/contents/238</guid>
+            <pubDate>Fri, 12 May 2023 03:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[18. 6월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/62ad7c6a3adb48d7bf0d2a6efb23fb16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

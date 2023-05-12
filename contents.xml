@@ -4,9 +4,25 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 02:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 03:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～]]></title>
+            <link>javascript:moveViewPage(238);</link>
+            <guid>javascript:moveViewPage(238);</guid>
+            <pubDate>Fri, 12 May 2023 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[Kawaguchi Yurina/川口ゆりな]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/62ad7c6a3adb48d7bf0d2a6efb23fb16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～]]></title>
+            <link>javascript:moveViewPage(237);</link>
+            <guid>javascript:moveViewPage(237);</guid>
+            <pubDate>Fri, 12 May 2023 03:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[Kawaguchi Yurina/川口ゆりな]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f204cb59c33748929dd122630b7b7853.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火”]]></title>
             <link>javascript:moveViewPage(233);</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
             <content:encoded><![CDATA[HKT48]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2ff791a772324fbb8824d3663955bb99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HKT48 봄 콘서트 2023～우리의 지금 이 자리～]]></title>
-            <link>javascript:moveViewPage(219);</link>
-            <guid>javascript:moveViewPage(219);</guid>
-            <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[HKT48]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/17c1d3b3b75d41879d13d286f74b75f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일단, 은혁이 4랑하는 4람들의 파티]]></title>
-            <link>javascript:moveViewPage(215);</link>
-            <guid>javascript:moveViewPage(215);</guid>
-            <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[은혁]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2dd9333a486b4d14a1377d8d683513b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
