@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 13:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 14:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -292,22 +292,6 @@
             <pubDate>Sun, 16 Apr 2023 11:10:14 GMT</pubDate>
             <content:encoded><![CDATA[28. 5월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cc03b4e0819e4851bd1bb2798051895b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 EXO FANMEETING "EXO' CLOCK" Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/218</link>
-            <guid>https://beyondlive.com/contents/218</guid>
-            <pubDate>Sun, 09 Apr 2023 10:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[13. 5월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0e12b3d9b93c4dfd80d85527033e2bdd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 EXO FANMEETING "EXO' CLOCK" Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/218</link>
-            <guid>https://beyondlive.com/contents/218</guid>
-            <pubDate>Sun, 09 Apr 2023 10:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[13. 5월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/276177d953564298a75df804bcb476e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL (Beyond LIVE ─ Beyond NEXT)]]></title>
