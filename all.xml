@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 09:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,13 +57,6 @@
             <content:encoded><![CDATA[27. 4월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] 2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/136</link>
-            <guid>https://beyondlive.com/notice/136</guid>
-            <pubDate>Tue, 21 Mar 2023 05:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[21. 3월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[대응 완료]Beyond LIVE 페이스북 로그인 장애에 관한 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/150</link>
             <guid>https://beyondlive.com/notice/150</guid>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/146</guid>
             <pubDate>Fri, 14 Apr 2023 03:12:44 GMT</pubDate>
             <content:encoded><![CDATA[14. 4월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] NCT DOJAEJUNG LAUNCH DAY 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/145</link>
+            <guid>https://beyondlive.com/notice/145</guid>
+            <pubDate>Sun, 14 May 2023 09:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[08. 4월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ 공연)]]></title>
