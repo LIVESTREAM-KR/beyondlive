@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-05-18T02:06:30.878Z</updated>
+    <updated>2023-05-18T03:12:53.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2023 SHINee FANMEETING ‘Everyday is SHINee DAY’ : [Piece of SHINE] 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/151</id>
+        <link href="https://beyondlive.com/notice/151"/>
+        <updated>2023-05-18T03:12:31.649Z</updated>
+        <content type="html"><![CDATA[18. 5월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/157</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/150"/>
         <updated>2023-05-05T12:20:56.669Z</updated>
         <content type="html"><![CDATA[05. 5월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] 2023 TAEMIN FANMEETING “RE : ACT” 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/146</id>
-        <link href="https://beyondlive.com/notice/146"/>
-        <updated>2023-04-14T03:12:44.988Z</updated>
-        <content type="html"><![CDATA[14. 4월. 2023]]></content>
     </entry>
 </feed>
