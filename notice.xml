@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-05-19T06:15:29.117Z</updated>
+    <updated>2023-05-19T07:11:51.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/158</id>
+        <link href="https://beyondlive.com/notice/158"/>
+        <updated>2023-05-19T07:11:25.547Z</updated>
+        <content type="html"><![CDATA[19. 5월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 2023 SHINee FANMEETING ‘Everyday is SHINee DAY’ : [Piece of SHINE] 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/151</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/147"/>
         <updated>2023-04-27T06:16:07.889Z</updated>
         <content type="html"><![CDATA[27. 4월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대응 완료]Beyond LIVE 페이스북 로그인 장애에 관한 안내]]></title>
-        <id>https://beyondlive.com/notice/150</id>
-        <link href="https://beyondlive.com/notice/150"/>
-        <updated>2023-05-05T12:20:56.669Z</updated>
-        <content type="html"><![CDATA[05. 5월. 2023]]></content>
     </entry>
 </feed>
