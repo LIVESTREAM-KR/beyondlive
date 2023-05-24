@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 01:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 02:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -57,13 +57,6 @@
             <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안내] "HKT48 콘서트" 관람권 구매 EVENT 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/147</link>
-            <guid>https://beyondlive.com/notice/147</guid>
-            <pubDate>Thu, 27 Apr 2023 06:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[27. 4월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/152</link>
             <guid>https://beyondlive.com/notice/152</guid>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/150</guid>
             <pubDate>Sun, 21 May 2023 12:20:06 GMT</pubDate>
             <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] THE BOYZ 2ND WORLD TOUR : ZENERATION 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/148</link>
+            <guid>https://beyondlive.com/notice/148</guid>
+            <pubDate>Wed, 24 May 2023 02:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[03. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ 공연)]]></title>
