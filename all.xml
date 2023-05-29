@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 04:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 05:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2023 MONSTA X 7TH OFFICIAL FANCLUB MONBEBE FAN-CONCERT <MX FRIENDS> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/159</link>
+            <guid>https://beyondlive.com/notice/159</guid>
+            <pubDate>Mon, 29 May 2023 05:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[29. 5월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/158</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/150</guid>
             <pubDate>Sun, 21 May 2023 12:20:06 GMT</pubDate>
             <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] THE BOYZ 2ND WORLD TOUR : ZENERATION 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/148</link>
-            <guid>https://beyondlive.com/notice/148</guid>
-            <pubDate>Wed, 24 May 2023 02:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[03. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ 공연)]]></title>

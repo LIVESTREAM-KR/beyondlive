@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-05-29T04:14:32.661Z</updated>
+    <updated>2023-05-29T05:12:20.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2023 MONSTA X 7TH OFFICIAL FANCLUB MONBEBE FAN-CONCERT <MX FRIENDS> 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/159</id>
+        <link href="https://beyondlive.com/notice/159"/>
+        <updated>2023-05-29T05:11:57.774Z</updated>
+        <content type="html"><![CDATA[29. 5월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/158</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/150"/>
         <updated>2023-05-21T12:20:06.645Z</updated>
         <content type="html"><![CDATA[05. 5월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] THE BOYZ 2ND WORLD TOUR : ZENERATION 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/148</id>
-        <link href="https://beyondlive.com/notice/148"/>
-        <updated>2023-05-24T02:12:25.779Z</updated>
-        <content type="html"><![CDATA[03. 5월. 2023]]></content>
     </entry>
 </feed>
