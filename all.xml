@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 05:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 06:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -309,7 +309,7 @@
             <title><![CDATA[에스파의 싱크로드 비하인드 (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/vod/245</link>
             <guid>https://beyondlive.com/contents/vod/245</guid>
-            <pubDate>Tue, 30 May 2023 05:12:04 GMT</pubDate>
+            <pubDate>Tue, 30 May 2023 05:11:56 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/649d5670140941f2be8de939d2139064.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
