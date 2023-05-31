@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 05:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 06:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,26 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/1e7ba7b0b21b4fb899a433cb23890870.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에스파의 싱크로드 비하인드 (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/vod/245</link>
-            <guid>https://beyondlive.com/contents/vod/245</guid>
-            <pubDate>Tue, 30 May 2023 05:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/18856e77e2544d5896cbffe20c49dbc3.jpg);"></div>
-									<div class="top-banner__info">
-										<div class="top-banner__artist shrink">
-											<span class="top-banner__logo">
-												<img src="https://static.beyondlive.com/contents/e0c824d7ea3448b2ba5665442b32a1e3.jpg" alt="">
-											</span>
-											<em class="top-banner__name">aespa</em>
-										</div>
-										<a href="/contents/vod/245" class="top-banner__title">에스파의 싱크로드 비하인드</a>
-										<a href="/contents/vod/245" class="top-banner__more">
-											<span class="text">VOD 정보 확인</span>
-										</a>
-									</div>]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/18856e77e2544d5896cbffe20c49dbc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/243</link>
             <guid>https://beyondlive.com/contents/243</guid>
@@ -304,6 +284,26 @@
             <pubDate>Sun, 14 May 2023 11:10:16 GMT</pubDate>
             <content:encoded><![CDATA[18. 6월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/4ef86da259de41a5bc136b6368b5a64c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스파의 싱크로드 비하인드 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/vod/245</link>
+            <guid>https://beyondlive.com/contents/vod/245</guid>
+            <pubDate>Tue, 30 May 2023 05:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/contents/18856e77e2544d5896cbffe20c49dbc3.jpg);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/contents/e0c824d7ea3448b2ba5665442b32a1e3.jpg" alt="">
+											</span>
+											<em class="top-banner__name">aespa</em>
+										</div>
+										<a href="/contents/vod/245" class="top-banner__title">에스파의 싱크로드 비하인드</a>
+										<a href="/contents/vod/245" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/18856e77e2544d5896cbffe20c49dbc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스파의 싱크로드 비하인드 (Beyond LIVE ─ Beyond NEXT)]]></title>
