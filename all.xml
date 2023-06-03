@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 13:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 14:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/d3a49de7c549465ba78502acc8be4a39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/243</link>
-            <guid>https://beyondlive.com/contents/243</guid>
-            <pubDate>Fri, 19 May 2023 03:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[03. 6월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7767a437d43c43418d8a0347e3bffec6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/233</link>
             <guid>https://beyondlive.com/contents/233</guid>
@@ -286,6 +278,14 @@
             <enclosure url="https://static.beyondlive.com/contents/4ef86da259de41a5bc136b6368b5a64c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/244</link>
+            <guid>https://beyondlive.com/contents/244</guid>
+            <pubDate>Sat, 03 Jun 2023 13:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[01. 7월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0d8628a230844ccf8dffa5c4ddd2927d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에스파의 싱크로드 비하인드 (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/vod/245</link>
             <guid>https://beyondlive.com/contents/vod/245</guid>
@@ -311,14 +311,6 @@
             <guid>https://beyondlive.com/contents/vod/245</guid>
             <pubDate>Tue, 30 May 2023 05:11:56 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/649d5670140941f2be8de939d2139064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/243</link>
-            <guid>https://beyondlive.com/contents/243</guid>
-            <pubDate>Fri, 19 May 2023 03:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[03. 6월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c9a89af397404751abe9ab0ddcf2bd44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ Beyond NEXT)]]></title>
