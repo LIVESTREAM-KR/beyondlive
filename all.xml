@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 01:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 03:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,13 +27,6 @@
             <guid>https://beyondlive.com/notice/151</guid>
             <pubDate>Thu, 18 May 2023 03:12:31 GMT</pubDate>
             <content:encoded><![CDATA[18. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/157</link>
-            <guid>https://beyondlive.com/notice/157</guid>
-            <pubDate>Wed, 17 May 2023 06:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[17. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이벤트 안내] Kawaguchi Yurina Birthday 티켓 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
@@ -62,6 +55,13 @@
             <guid>https://beyondlive.com/notice/149</guid>
             <pubDate>Fri, 05 May 2023 11:10:22 GMT</pubDate>
             <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/157</link>
+            <guid>https://beyondlive.com/notice/157</guid>
+            <pubDate>Wed, 17 May 2023 06:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[17. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
