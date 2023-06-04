@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 08:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 09:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,6 +116,14 @@
             <pubDate>Fri, 19 May 2023 07:11:32 GMT</pubDate>
             <content:encoded><![CDATA[Takarazuka Revue Cosmos Troupe]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b45e1b555f0745f0a2b7d371df07144b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(234);</link>
+            <guid>javascript:moveViewPage(234);</guid>
+            <pubDate>Sun, 04 Jun 2023 09:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[YOASOBI]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2894b674afc540a8983f894441a912ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/279d7f95f79c494f97726fe2273ee3f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’ (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(223);</link>
-            <guid>javascript:moveViewPage(223);</guid>
-            <pubDate>Mon, 27 Mar 2023 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d3a49de7c549465ba78502acc8be4a39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/233</link>
             <guid>https://beyondlive.com/contents/233</guid>
@@ -319,6 +319,14 @@
             <pubDate>Fri, 05 May 2023 11:10:37 GMT</pubDate>
             <content:encoded><![CDATA[04. 6월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5a9f9b7ffbbb499dbad994a29f5e8eb4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/234</link>
+            <guid>https://beyondlive.com/contents/234</guid>
+            <pubDate>Sun, 04 Jun 2023 09:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[11. 6월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2894b674afc540a8983f894441a912ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! (Beyond LIVE ─ Beyond NEXT)]]></title>

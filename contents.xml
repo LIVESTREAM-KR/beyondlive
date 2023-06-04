@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 08:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 09:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 19 May 2023 07:11:32 GMT</pubDate>
             <content:encoded><![CDATA[Takarazuka Revue Cosmos Troupe]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b45e1b555f0745f0a2b7d371df07144b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” Re-Streaming]]></title>
+            <link>javascript:moveViewPage(234);</link>
+            <guid>javascript:moveViewPage(234);</guid>
+            <pubDate>Sun, 04 Jun 2023 09:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[YOASOBI]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2894b674afc540a8983f894441a912ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火”]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
             <content:encoded><![CDATA[NCT DOJAEJUNG]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/279d7f95f79c494f97726fe2273ee3f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE 5TH WORLD TOUR ‘READY TO BE’]]></title>
-            <link>javascript:moveViewPage(223);</link>
-            <guid>javascript:moveViewPage(223);</guid>
-            <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d3a49de7c549465ba78502acc8be4a39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
