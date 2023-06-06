@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 08:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 09:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,13 +20,6 @@
             <guid>https://beyondlive.com/notice/158</guid>
             <pubDate>Fri, 19 May 2023 07:11:25 GMT</pubDate>
             <content:encoded><![CDATA[19. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 2023 SHINee FANMEETING ‘Everyday is SHINee DAY’ : [Piece of SHINE] 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/151</link>
-            <guid>https://beyondlive.com/notice/151</guid>
-            <pubDate>Thu, 18 May 2023 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[18. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이벤트 안내] Kawaguchi Yurina Birthday 티켓 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
@@ -50,11 +43,11 @@
             <content:encoded><![CDATA[11. 5월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] YOASOBI ARENA TOUR 2023 “電光石火”온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/149</link>
-            <guid>https://beyondlive.com/notice/149</guid>
-            <pubDate>Fri, 05 May 2023 11:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
+            <title><![CDATA[[공연안내] 2023 SHINee FANMEETING ‘Everyday is SHINee DAY’ : [Piece of SHINE] 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/151</link>
+            <guid>https://beyondlive.com/notice/151</guid>
+            <pubDate>Thu, 18 May 2023 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[18. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -75,6 +68,13 @@
             <link>https://beyondlive.com/notice/150</link>
             <guid>https://beyondlive.com/notice/150</guid>
             <pubDate>Sun, 21 May 2023 12:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] YOASOBI ARENA TOUR 2023 “電光石火”온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/149</link>
+            <guid>https://beyondlive.com/notice/149</guid>
+            <pubDate>Fri, 05 May 2023 11:10:22 GMT</pubDate>
             <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
         </item>
         <item>
