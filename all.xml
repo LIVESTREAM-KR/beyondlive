@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 02:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 03:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/150</guid>
             <pubDate>Sun, 21 May 2023 12:20:06 GMT</pubDate>
             <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(248);</link>
+            <guid>javascript:moveViewPage(248);</guid>
+            <pubDate>Fri, 09 Jun 2023 03:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/987ff17c602545adb193ef03064c9a06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(229);</link>
-            <guid>javascript:moveViewPage(229);</guid>
-            <pubDate>Sat, 08 Apr 2023 03:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DOJAEJUNG]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/279d7f95f79c494f97726fe2273ee3f4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/248</link>
+            <guid>https://beyondlive.com/contents/248</guid>
+            <pubDate>Fri, 09 Jun 2023 03:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[02. 7월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e8652e288be64345a0a8ff071d256f57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! (Beyond LIVE ─ TOP)]]></title>
@@ -359,6 +367,14 @@
             <pubDate>Sat, 03 Jun 2023 13:14:03 GMT</pubDate>
             <content:encoded><![CDATA[01. 7월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3c36756324ef402b9f6d461759d9d55e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/248</link>
+            <guid>https://beyondlive.com/contents/248</guid>
+            <pubDate>Fri, 09 Jun 2023 03:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[02. 7월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/987ff17c602545adb193ef03064c9a06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

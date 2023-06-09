@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 02:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 03:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,14 @@
             <pubDate>Sat, 03 Jun 2023 13:14:03 GMT</pubDate>
             <content:encoded><![CDATA[01. 7월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3c36756324ef402b9f6d461759d9d55e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’]]></title>
+            <link>https://beyondlive.com/contents/248</link>
+            <guid>https://beyondlive.com/contents/248</guid>
+            <pubDate>Fri, 09 Jun 2023 03:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[02. 7월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/987ff17c602545adb193ef03064c9a06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

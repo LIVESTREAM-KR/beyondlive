@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 02:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 03:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’]]></title>
+            <link>javascript:moveViewPage(248);</link>
+            <guid>javascript:moveViewPage(248);</guid>
+            <pubDate>Fri, 09 Jun 2023 03:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/987ff17c602545adb193ef03064c9a06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' Re-Streaming]]></title>
             <link>javascript:moveViewPage(244);</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
             <content:encoded><![CDATA[BoA]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DOJAEJUNG LAUNCH DAY]]></title>
-            <link>javascript:moveViewPage(229);</link>
-            <guid>javascript:moveViewPage(229);</guid>
-            <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DOJAEJUNG]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/279d7f95f79c494f97726fe2273ee3f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
