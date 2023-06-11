@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 01:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 03:00:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,13 +43,6 @@
             <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안내] GoPay 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/153</link>
-            <guid>https://beyondlive.com/notice/153</guid>
-            <pubDate>Thu, 11 May 2023 06:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[11. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] 2023 SHINee FANMEETING ‘Everyday is SHINee DAY’ : [Piece of SHINE] 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/151</link>
             <guid>https://beyondlive.com/notice/151</guid>
@@ -69,6 +62,13 @@
             <guid>https://beyondlive.com/notice/152</guid>
             <pubDate>Fri, 12 May 2023 04:13:53 GMT</pubDate>
             <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] GoPay 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/153</link>
+            <guid>https://beyondlive.com/notice/153</guid>
+            <pubDate>Thu, 11 May 2023 06:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[11. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[대응 완료]Beyond LIVE 페이스북 로그인 장애에 관한 안내 (Beyond LIVE ─ 공지사항)]]></title>
