@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 07:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 08:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 03 Jun 2023 13:13:48 GMT</pubDate>
             <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3c36756324ef402b9f6d461759d9d55e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! Re-Streaming]]></title>
+            <link>javascript:moveViewPage(242);</link>
+            <guid>javascript:moveViewPage(242);</guid>
+            <pubDate>Sun, 11 Jun 2023 08:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[Takarazuka Revue Cosmos Troupe]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e0c1f8a081b24cdc9f3a1b900b43d09e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
             <content:encoded><![CDATA[태민]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/bd5c8688f38c4b9b9d710ebe9fcb380c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BoA 20th Anniversary Live - THE BoA : Musicality Re-Streaming]]></title>
-            <link>javascript:moveViewPage(212);</link>
-            <guid>javascript:moveViewPage(212);</guid>
-            <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[BoA]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a87458600f884a589f251ac7eb56d726.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
