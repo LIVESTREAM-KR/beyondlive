@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 02:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 03:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] SHINee WORLD VI [PERFECT ILLUMINATION] 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/160</link>
+            <guid>https://beyondlive.com/notice/160</guid>
+            <pubDate>Mon, 12 Jun 2023 03:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[12. 6월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/161</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[11. 5월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[대응 완료]Beyond LIVE 페이스북 로그인 장애에 관한 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/150</link>
-            <guid>https://beyondlive.com/notice/150</guid>
-            <pubDate>Sun, 21 May 2023 12:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[05. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(248);</link>
             <guid>javascript:moveViewPage(248);</guid>
@@ -100,6 +100,14 @@
             <pubDate>Sun, 11 Jun 2023 08:13:59 GMT</pubDate>
             <content:encoded><![CDATA[Takarazuka Revue Cosmos Troupe]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e0c1f8a081b24cdc9f3a1b900b43d09e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(250);</link>
+            <guid>javascript:moveViewPage(250);</guid>
+            <pubDate>Mon, 12 Jun 2023 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[SHINee]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7c2e7fc5dadd41318c4e39fe5c8a54de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/a16793f2e8d64ccfa7901526049b5291.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 TAEMIN FANMEETING “RE : ACT” (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(230);</link>
-            <guid>javascript:moveViewPage(230);</guid>
-            <pubDate>Fri, 14 Apr 2023 03:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[태민]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/bd5c8688f38c4b9b9d710ebe9fcb380c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/250</link>
+            <guid>https://beyondlive.com/contents/250</guid>
+            <pubDate>Mon, 12 Jun 2023 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[25. 6월. 2023. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/815bf0e4b365471bb038009341e22685.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ TOP)]]></title>
@@ -335,6 +343,14 @@
             <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[18. 6월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/62ad7c6a3adb48d7bf0d2a6efb23fb16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/250</link>
+            <guid>https://beyondlive.com/contents/250</guid>
+            <pubDate>Mon, 12 Jun 2023 03:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[25. 6월. 2023. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7c2e7fc5dadd41318c4e39fe5c8a54de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
