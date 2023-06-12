@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 03:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 04:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,7 +348,7 @@
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/250</link>
             <guid>https://beyondlive.com/contents/250</guid>
-            <pubDate>Mon, 12 Jun 2023 03:18:21 GMT</pubDate>
+            <pubDate>Mon, 12 Jun 2023 03:18:13 GMT</pubDate>
             <content:encoded><![CDATA[25. 6월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7c2e7fc5dadd41318c4e39fe5c8a54de.jpg" length="0" type="image/jpg"/>
         </item>
