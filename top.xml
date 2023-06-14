@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 01:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 02:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION]]]></title>
-            <link>https://beyondlive.com/contents/250</link>
-            <guid>https://beyondlive.com/contents/250</guid>
-            <pubDate>Mon, 12 Jun 2023 03:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[25. 6월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/815bf0e4b365471bb038009341e22685.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～]]></title>
             <link>https://beyondlive.com/contents/237</link>
@@ -30,6 +22,14 @@
             <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[18. 6월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6bc46079703a41788f1098c9548114df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION]]]></title>
+            <link>https://beyondlive.com/contents/250</link>
+            <guid>https://beyondlive.com/contents/250</guid>
+            <pubDate>Mon, 12 Jun 2023 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[25. 6월. 2023. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/815bf0e4b365471bb038009341e22685.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’]]></title>
