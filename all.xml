@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 23:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 01:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/e3fb1613934b48aea72f2601fe6ef2bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 MONSTA X 7TH OFFICIAL FANCLUB MONBEBE FAN-CONCERT <MX FRIENDS> (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/246</link>
-            <guid>https://beyondlive.com/contents/246</guid>
-            <pubDate>Wed, 14 Jun 2023 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[09. 7월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8c3930c765524e4aaaeaa01f8b65a710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/237</link>
             <guid>https://beyondlive.com/contents/237</guid>
@@ -276,6 +268,14 @@
             <pubDate>Fri, 09 Jun 2023 03:19:55 GMT</pubDate>
             <content:encoded><![CDATA[02. 7월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e8652e288be64345a0a8ff071d256f57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 MONSTA X 7TH OFFICIAL FANCLUB MONBEBE FAN-CONCERT <MX FRIENDS> (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/246</link>
+            <guid>https://beyondlive.com/contents/246</guid>
+            <pubDate>Wed, 14 Jun 2023 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[09. 7월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8c3930c765524e4aaaeaa01f8b65a710.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL Re-Streaming (Beyond LIVE ─ TOP)]]></title>
