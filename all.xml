@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 06:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 07:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/e3fb1613934b48aea72f2601fe6ef2bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/237</link>
-            <guid>https://beyondlive.com/contents/237</guid>
-            <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[18. 6월. 2023. 14:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/dd1f2112dd484ed8a8c49d7d0a3230f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/238</link>
             <guid>https://beyondlive.com/contents/238</guid>
@@ -319,14 +311,6 @@
             <guid>https://beyondlive.com/contents/vod/245</guid>
             <pubDate>Tue, 30 May 2023 05:11:56 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/649d5670140941f2be8de939d2139064.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/237</link>
-            <guid>https://beyondlive.com/contents/237</guid>
-            <pubDate>Fri, 12 May 2023 03:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[18. 6월. 2023. 14:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f204cb59c33748929dd122630b7b7853.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ (Beyond LIVE ─ Beyond NEXT)]]></title>
