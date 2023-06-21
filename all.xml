@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 01:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 02:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[29. 5월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[이벤트 안내] Kawaguchi Yurina Birthday 티켓 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/155</link>
-            <guid>https://beyondlive.com/notice/155</guid>
-            <pubDate>Fri, 12 May 2023 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] 타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/158</link>
             <guid>https://beyondlive.com/notice/158</guid>
@@ -55,6 +48,13 @@
             <guid>https://beyondlive.com/notice/157</guid>
             <pubDate>Wed, 17 May 2023 06:16:40 GMT</pubDate>
             <content:encoded><![CDATA[17. 5월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[이벤트 안내] Kawaguchi Yurina Birthday 티켓 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/155</link>
+            <guid>https://beyondlive.com/notice/155</guid>
+            <pubDate>Fri, 12 May 2023 09:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
