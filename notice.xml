@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-06-22T04:16:58.232Z</updated>
+    <updated>2023-06-22T05:13:19.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내] 글로벌 자막 서비스 확대 시행 안내]]></title>
+        <id>https://beyondlive.com/notice/164</id>
+        <link href="https://beyondlive.com/notice/164"/>
+        <updated>2023-06-22T05:12:53.240Z</updated>
+        <content type="html"><![CDATA[22. 6월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] SHINee WORLD VI [PERFECT ILLUMINATION] 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/160</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/156"/>
         <updated>2023-05-12T03:13:16.940Z</updated>
         <content type="html"><![CDATA[12. 5월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내] GoPay 도입 안내]]></title>
-        <id>https://beyondlive.com/notice/153</id>
-        <link href="https://beyondlive.com/notice/153"/>
-        <updated>2023-05-11T06:15:24.897Z</updated>
-        <content type="html"><![CDATA[11. 5월. 2023]]></content>
     </entry>
 </feed>
