@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 10:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 11:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,13 +22,6 @@
             <content:encoded><![CDATA[22. 6월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] SHINee WORLD VI [PERFECT ILLUMINATION] 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/160</link>
-            <guid>https://beyondlive.com/notice/160</guid>
-            <pubDate>Mon, 12 Jun 2023 03:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[12. 6월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ 티켓오픈공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/161</link>
             <guid>https://beyondlive.com/notice/161</guid>
@@ -41,6 +34,13 @@
             <guid>https://beyondlive.com/notice/159</guid>
             <pubDate>Mon, 29 May 2023 05:11:57 GMT</pubDate>
             <content:encoded><![CDATA[29. 5월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] SHINee WORLD VI [PERFECT ILLUMINATION] 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/160</link>
+            <guid>https://beyondlive.com/notice/160</guid>
+            <pubDate>Mon, 12 Jun 2023 03:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[12. 6월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
