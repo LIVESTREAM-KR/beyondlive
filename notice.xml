@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-06-28T05:13:12.548Z</updated>
+    <updated>2023-06-28T06:17:47.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2023 NCT 127 7th ANNIVERSARY FANMEETING ‘ONCE UPON A 7ULY’ 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/162</id>
+        <link href="https://beyondlive.com/notice/162"/>
+        <updated>2023-06-28T06:17:26.035Z</updated>
+        <content type="html"><![CDATA[28. 6월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연기안내] Kawaguchi Yurina Birthday ~ Yurina's Room~ & ~ Yurisse's Party~ ARCHIVE 공개일 연기 공지]]></title>
         <id>https://beyondlive.com/notice/165</id>
@@ -66,13 +73,6 @@
         <id>https://beyondlive.com/notice/155</id>
         <link href="https://beyondlive.com/notice/155"/>
         <updated>2023-05-12T09:11:37.636Z</updated>
-        <content type="html"><![CDATA[12. 5월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/152</id>
-        <link href="https://beyondlive.com/notice/152"/>
-        <updated>2023-05-12T04:13:53.325Z</updated>
         <content type="html"><![CDATA[12. 5월. 2023]]></content>
     </entry>
 </feed>

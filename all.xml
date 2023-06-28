@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 06:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2023 NCT 127 7th ANNIVERSARY FANMEETING ‘ONCE UPON A 7ULY’ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/162</link>
+            <guid>https://beyondlive.com/notice/162</guid>
+            <pubDate>Wed, 28 Jun 2023 06:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[28. 6월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[연기안내] Kawaguchi Yurina Birthday ~ Yurina's Room~ & ~ Yurisse's Party~ ARCHIVE 공개일 연기 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/165</link>
@@ -68,13 +75,6 @@
             <link>https://beyondlive.com/notice/155</link>
             <guid>https://beyondlive.com/notice/155</guid>
             <pubDate>Fri, 12 May 2023 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/152</link>
-            <guid>https://beyondlive.com/notice/152</guid>
-            <pubDate>Fri, 12 May 2023 04:13:53 GMT</pubDate>
             <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
         </item>
         <item>
