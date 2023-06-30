@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 05:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 06:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Xdinary Heroes 1st fanmeeting〈BAND CLUB XV : 2023 SUMMER CAMP〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/166</link>
+            <guid>https://beyondlive.com/notice/166</guid>
+            <pubDate>Fri, 30 Jun 2023 06:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[30. 6월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 NCT 127 7th ANNIVERSARY FANMEETING ‘ONCE UPON A 7ULY’ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/162</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/157</guid>
             <pubDate>Wed, 17 May 2023 06:16:40 GMT</pubDate>
             <content:encoded><![CDATA[17. 5월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트 안내] Kawaguchi Yurina Birthday 티켓 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/155</link>
-            <guid>https://beyondlive.com/notice/155</guid>
-            <pubDate>Fri, 12 May 2023 09:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[12. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming (Beyond LIVE ─ 공연)]]></title>
