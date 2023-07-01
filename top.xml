@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 03:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 04:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MISAMO JAPAN SHOWCASE “Masterpiece”]]></title>
+            <link>https://beyondlive.com/contents/255</link>
+            <guid>https://beyondlive.com/contents/255</guid>
+            <pubDate>Sat, 01 Jul 2023 04:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[27. 7월. 2023. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/47e328941df24622a1c8a7194b935754.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’]]></title>
             <link>https://beyondlive.com/contents/248</link>
