@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 10:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 11:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 25 Jun 2023 10:13:49 GMT</pubDate>
             <content:encoded><![CDATA[SHINee]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8eacf00dc5104bf9bbbac2f1e3b26aef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ Re-Streaming]]></title>
+            <link>javascript:moveViewPage(249);</link>
+            <guid>javascript:moveViewPage(249);</guid>
+            <pubDate>Sun, 02 Jul 2023 11:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9a2310a059a64ae698f2391d5fe94971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MISAMO JAPAN SHOWCASE “Masterpiece”]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 May 2023 03:12:58 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0f1c43fe41874022be2e0f2b4e267a74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 CRAVITY THE 1ST WORLD TOUR 'MASTERPIECE' IN SEOUL]]></title>
-            <link>javascript:moveViewPage(227);</link>
-            <guid>javascript:moveViewPage(227);</guid>
-            <pubDate>Mon, 01 May 2023 12:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c5e07676c7974344b0e6af1bb98749aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

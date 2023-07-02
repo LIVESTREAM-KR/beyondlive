@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 10:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 11:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 01 Jul 2023 04:15:35 GMT</pubDate>
             <content:encoded><![CDATA[27. 7월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7d66c0e8044f4653ac1d3f568863fea4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/249</link>
+            <guid>https://beyondlive.com/contents/249</guid>
+            <pubDate>Sun, 02 Jul 2023 11:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[30. 7월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9a2310a059a64ae698f2391d5fe94971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming]]></title>
