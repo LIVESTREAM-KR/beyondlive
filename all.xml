@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 05:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 06:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이벤트 안내] [MISAMO JAPAN SHOWCASE “Masterpiece”] 시청 티켓 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/168</link>
+            <guid>https://beyondlive.com/notice/168</guid>
+            <pubDate>Wed, 05 Jul 2023 06:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[05. 7월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/163</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/161</guid>
             <pubDate>Thu, 08 Jun 2023 06:15:19 GMT</pubDate>
             <content:encoded><![CDATA[08. 6월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/158</link>
-            <guid>https://beyondlive.com/notice/158</guid>
-            <pubDate>Fri, 19 May 2023 07:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[19. 5월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming (Beyond LIVE ─ 공연)]]></title>
