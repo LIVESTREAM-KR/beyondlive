@@ -4,9 +4,25 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 03:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 04:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party”]]></title>
+            <link>https://beyondlive.com/contents/256</link>
+            <guid>https://beyondlive.com/contents/256</guid>
+            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[29. 7월. 2023. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0f7cc9926eed4b05bbb8ba5d7e008d6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IKONOIJOY 2023 “Shuffle Party”]]></title>
+            <link>https://beyondlive.com/contents/258</link>
+            <guid>https://beyondlive.com/contents/258</guid>
+            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[30. 7월. 2023. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/aa2376a38e4a491281ca7120a893782c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Xdinary Heroes 1st Fanmeeting <BAND CLUB XV : 2023 SUMMER CAMP>]]></title>
             <link>https://beyondlive.com/contents/254</link>
