@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 04:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 05:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -359,7 +359,7 @@
             <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/256</link>
             <guid>https://beyondlive.com/contents/256</guid>
-            <pubDate>Mon, 10 Jul 2023 04:16:23 GMT</pubDate>
+            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
             <content:encoded><![CDATA[29. 7월. 2023. 17:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5104b1c8cf574543897ce1d6283dbfe9.jpg" length="0" type="image/jpg"/>
         </item>
@@ -375,7 +375,7 @@
             <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/258</link>
             <guid>https://beyondlive.com/contents/258</guid>
-            <pubDate>Mon, 10 Jul 2023 04:16:23 GMT</pubDate>
+            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
             <content:encoded><![CDATA[30. 7월. 2023. 17:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a46c6860737c419eb07ce7dee116e40b.jpg" length="0" type="image/jpg"/>
         </item>
