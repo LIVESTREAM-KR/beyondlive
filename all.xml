@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 10:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 11:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,22 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/5a9f9b7ffbbb499dbad994a29f5e8eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/256</link>
-            <guid>https://beyondlive.com/contents/256</guid>
-            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[29. 7월. 2023. 17:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0f7cc9926eed4b05bbb8ba5d7e008d6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/258</link>
-            <guid>https://beyondlive.com/contents/258</guid>
-            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[30. 7월. 2023. 17:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/aa2376a38e4a491281ca7120a893782c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Xdinary Heroes 1st Fanmeeting <BAND CLUB XV : 2023 SUMMER CAMP> (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/254</link>
             <guid>https://beyondlive.com/contents/254</guid>
@@ -284,6 +268,22 @@
             <pubDate>Sat, 01 Jul 2023 04:15:27 GMT</pubDate>
             <content:encoded><![CDATA[27. 7월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/47e328941df24622a1c8a7194b935754.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/256</link>
+            <guid>https://beyondlive.com/contents/256</guid>
+            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[29. 7월. 2023. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0f7cc9926eed4b05bbb8ba5d7e008d6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/258</link>
+            <guid>https://beyondlive.com/contents/258</guid>
+            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[30. 7월. 2023. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/aa2376a38e4a491281ca7120a893782c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ Re-Streaming (Beyond LIVE ─ TOP)]]></title>
