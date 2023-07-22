@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 13:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 14:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[안내]2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/171</link>
-            <guid>https://beyondlive.com/notice/171</guid>
-            <pubDate>Sat, 22 Jul 2023 10:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[22. 7월. 2023]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연안내] IKONOIJOY 2023 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/170</link>
@@ -34,6 +27,13 @@
             <guid>https://beyondlive.com/notice/167</guid>
             <pubDate>Sat, 01 Jul 2023 04:15:13 GMT</pubDate>
             <content:encoded><![CDATA[01. 7월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내]2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/171</link>
+            <guid>https://beyondlive.com/notice/171</guid>
+            <pubDate>Sat, 22 Jul 2023 10:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[22. 7월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내] "Kawaguchi Yurina Birthday" 관람권 구매 EVENT 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/5a9f9b7ffbbb499dbad994a29f5e8eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/253</link>
-            <guid>https://beyondlive.com/contents/253</guid>
-            <pubDate>Wed, 05 Jul 2023 03:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[22. 7월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c414c9793e0b42159a061160b2e3fafc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MISAMO JAPAN SHOWCASE “Masterpiece” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/255</link>
             <guid>https://beyondlive.com/contents/255</guid>
@@ -306,14 +298,6 @@
             <guid>https://beyondlive.com/contents/vod/239</guid>
             <pubDate>Tue, 04 Jul 2023 06:19:12 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/3f30deb8eb4b4b7bb6457247895168ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/253</link>
-            <guid>https://beyondlive.com/contents/253</guid>
-            <pubDate>Wed, 05 Jul 2023 03:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[22. 7월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6cf89a75d07e4b8a824e992eba703ddf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MISAMO JAPAN SHOWCASE “Masterpiece” (Beyond LIVE ─ Beyond NEXT)]]></title>
