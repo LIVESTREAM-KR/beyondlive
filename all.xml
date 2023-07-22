@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 12:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 13:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[05. 7월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] 2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/163</link>
-            <guid>https://beyondlive.com/notice/163</guid>
-            <pubDate>Tue, 04 Jul 2023 06:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[04. 7월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] MISAMO JAPAN SHOWCASE “Masterpiece” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/167</link>
             <guid>https://beyondlive.com/notice/167</guid>
@@ -43,18 +36,18 @@
             <content:encoded><![CDATA[01. 7월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안내] 글로벌 자막 서비스 확대 시행 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/164</link>
-            <guid>https://beyondlive.com/notice/164</guid>
-            <pubDate>Thu, 22 Jun 2023 05:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[22. 6월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[안내] "Kawaguchi Yurina Birthday" 관람권 구매 EVENT 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/169</link>
             <guid>https://beyondlive.com/notice/169</guid>
             <pubDate>Fri, 07 Jul 2023 03:25:26 GMT</pubDate>
             <content:encoded><![CDATA[07. 7월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] 2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/163</link>
+            <guid>https://beyondlive.com/notice/163</guid>
+            <pubDate>Tue, 04 Jul 2023 06:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[04. 7월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] Xdinary Heroes 1st fanmeeting〈BAND CLUB XV : 2023 SUMMER CAMP〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/165</guid>
             <pubDate>Mon, 26 Jun 2023 10:14:24 GMT</pubDate>
             <content:encoded><![CDATA[26. 6월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] 글로벌 자막 서비스 확대 시행 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/164</link>
+            <guid>https://beyondlive.com/notice/164</guid>
+            <pubDate>Thu, 22 Jun 2023 05:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[22. 6월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming (Beyond LIVE ─ 공연)]]></title>
