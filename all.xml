@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 09:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 10:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내]2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/171</link>
+            <guid>https://beyondlive.com/notice/171</guid>
+            <pubDate>Sat, 22 Jul 2023 10:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[22. 7월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] IKONOIJOY 2023 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/170</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/165</guid>
             <pubDate>Mon, 26 Jun 2023 10:14:24 GMT</pubDate>
             <content:encoded><![CDATA[26. 6월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] SHINee WORLD VI [PERFECT ILLUMINATION] 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/160</link>
-            <guid>https://beyondlive.com/notice/160</guid>
-            <pubDate>Mon, 12 Jun 2023 03:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[12. 6월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming (Beyond LIVE ─ 공연)]]></title>
