@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 09:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 10:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/5a9f9b7ffbbb499dbad994a29f5e8eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MISAMO JAPAN SHOWCASE “Masterpiece” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/255</link>
-            <guid>https://beyondlive.com/contents/255</guid>
-            <pubDate>Sat, 01 Jul 2023 04:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[27. 7월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/47e328941df24622a1c8a7194b935754.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/256</link>
             <guid>https://beyondlive.com/contents/256</guid>
@@ -298,14 +290,6 @@
             <guid>https://beyondlive.com/contents/vod/239</guid>
             <pubDate>Tue, 04 Jul 2023 06:19:12 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/3f30deb8eb4b4b7bb6457247895168ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MISAMO JAPAN SHOWCASE “Masterpiece” (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/255</link>
-            <guid>https://beyondlive.com/contents/255</guid>
-            <pubDate>Sat, 01 Jul 2023 04:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[27. 7월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7d66c0e8044f4653ac1d3f568863fea4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” (Beyond LIVE ─ Beyond NEXT)]]></title>
