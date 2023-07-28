@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 02:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 03:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,20 +276,6 @@
             <pubDate>Sun, 25 Jun 2023 10:13:58 GMT</pubDate>
             <content:encoded><![CDATA[19. 8월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/835a217eabef466b8b83da62016bab02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～ ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/240</link>
-            <guid>https://beyondlive.com/contents/vod/240</guid>
-            <pubDate>Tue, 04 Jul 2023 06:19:12 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/ed7c79d97a0e4693958b8ee1b0e42df7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/239</link>
-            <guid>https://beyondlive.com/contents/vod/239</guid>
-            <pubDate>Tue, 04 Jul 2023 06:19:12 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/3f30deb8eb4b4b7bb6457247895168ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” (Beyond LIVE ─ Beyond NEXT)]]></title>
