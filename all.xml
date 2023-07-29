@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 10:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 11:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/2894b674afc540a8983f894441a912ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/256</link>
-            <guid>https://beyondlive.com/contents/256</guid>
-            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[29. 7월. 2023. 17:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0f7cc9926eed4b05bbb8ba5d7e008d6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/258</link>
             <guid>https://beyondlive.com/contents/258</guid>
@@ -268,6 +260,14 @@
             <pubDate>Sun, 09 Jul 2023 12:23:52 GMT</pubDate>
             <content:encoded><![CDATA[06. 8월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c0b6dfe882ae4b319ff3a86f59fba8a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/257</link>
+            <guid>https://beyondlive.com/contents/257</guid>
+            <pubDate>Sat, 29 Jul 2023 10:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[12. 8월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ff5a2bb404b4430ba03deb6e1963f72e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming (Beyond LIVE ─ TOP)]]></title>
