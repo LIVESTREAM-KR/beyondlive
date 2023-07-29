@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 11:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 12:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,14 +276,6 @@
             <pubDate>Sun, 25 Jun 2023 10:13:58 GMT</pubDate>
             <content:encoded><![CDATA[19. 8월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/835a217eabef466b8b83da62016bab02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/256</link>
-            <guid>https://beyondlive.com/contents/256</guid>
-            <pubDate>Mon, 10 Jul 2023 04:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[29. 7월. 2023. 17:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/5104b1c8cf574543897ce1d6283dbfe9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
