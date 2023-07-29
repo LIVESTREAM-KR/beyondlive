@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 09:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 10:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 09 Jul 2023 12:24:01 GMT</pubDate>
             <content:encoded><![CDATA[06. 8월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/bf302903b5b540ee94f3eb30a848df5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/257</link>
+            <guid>https://beyondlive.com/contents/257</guid>
+            <pubDate>Sat, 29 Jul 2023 10:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[12. 8월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2500f09517e14b269fe20a7ed5834c59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming]]></title>
