@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 01:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 02:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[05. 7월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] MISAMO JAPAN SHOWCASE “Masterpiece” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/167</link>
-            <guid>https://beyondlive.com/notice/167</guid>
-            <pubDate>Sat, 01 Jul 2023 04:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[01. 7월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[안내]2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/171</link>
             <guid>https://beyondlive.com/notice/171</guid>
@@ -55,6 +48,13 @@
             <guid>https://beyondlive.com/notice/163</guid>
             <pubDate>Tue, 04 Jul 2023 06:18:45 GMT</pubDate>
             <content:encoded><![CDATA[04. 7월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] MISAMO JAPAN SHOWCASE “Masterpiece” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/167</link>
+            <guid>https://beyondlive.com/notice/167</guid>
+            <pubDate>Sat, 01 Jul 2023 04:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[01. 7월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] Xdinary Heroes 1st fanmeeting〈BAND CLUB XV : 2023 SUMMER CAMP〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
