@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 09:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 10:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,14 @@
             <pubDate>Sun, 25 Jun 2023 10:13:49 GMT</pubDate>
             <content:encoded><![CDATA[SHINee]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8eacf00dc5104bf9bbbac2f1e3b26aef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(259);</link>
+            <guid>javascript:moveViewPage(259);</guid>
+            <pubDate>Sun, 30 Jul 2023 10:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/225eadb4ddfd4716a0bf5e82c861d180.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/b45e1b555f0745f0a2b7d371df07144b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[YOASOBI ARENA TOUR 2023 “電光石火” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(234);</link>
-            <guid>javascript:moveViewPage(234);</guid>
-            <pubDate>Sun, 04 Jun 2023 09:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[YOASOBI]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2894b674afc540a8983f894441a912ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/258</link>
             <guid>https://beyondlive.com/contents/258</guid>
@@ -292,6 +292,14 @@
             <pubDate>Sat, 29 Jul 2023 10:11:41 GMT</pubDate>
             <content:encoded><![CDATA[12. 8월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2500f09517e14b269fe20a7ed5834c59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/259</link>
+            <guid>https://beyondlive.com/contents/259</guid>
+            <pubDate>Sun, 30 Jul 2023 10:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[13. 8월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/225eadb4ddfd4716a0bf5e82c861d180.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
