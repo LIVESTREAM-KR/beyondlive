@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-08-04T04:19:05.397Z</updated>
+    <updated>2023-08-04T05:11:43.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] Young K Solo Concert <Letters with notes> 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/173</id>
+        <link href="https://beyondlive.com/notice/173"/>
+        <updated>2023-08-04T05:11:19.790Z</updated>
+        <content type="html"><![CDATA[04. 8월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/172</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/162"/>
         <updated>2023-06-28T06:17:26.035Z</updated>
         <content type="html"><![CDATA[28. 6월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연기안내] Kawaguchi Yurina Birthday ~ Yurina's Room~ & ~ Yurisse's Party~ ARCHIVE 공개일 연기 공지]]></title>
-        <id>https://beyondlive.com/notice/165</id>
-        <link href="https://beyondlive.com/notice/165"/>
-        <updated>2023-06-26T10:14:24.749Z</updated>
-        <content type="html"><![CDATA[26. 6월. 2023]]></content>
     </entry>
 </feed>
