@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 02:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 03:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -297,7 +297,7 @@
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/260</link>
             <guid>https://beyondlive.com/contents/260</guid>
-            <pubDate>Mon, 07 Aug 2023 02:04:59 GMT</pubDate>
+            <pubDate>Mon, 07 Aug 2023 02:04:51 GMT</pubDate>
             <content:encoded><![CDATA[10. 9월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/974aa78aeba549f3b3d087cd7c130c83.jpg" length="0" type="image/jpg"/>
         </item>
