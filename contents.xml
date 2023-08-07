@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 01:00:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 02:05:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM>]]></title>
+            <link>javascript:moveViewPage(260);</link>
+            <guid>javascript:moveViewPage(260);</guid>
+            <pubDate>Mon, 07 Aug 2023 02:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/974aa78aeba549f3b3d087cd7c130c83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming]]></title>
             <link>javascript:moveViewPage(251);</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 May 2023 12:20:38 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/162d85d39c354e4e8d34a45ca0fc0588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연!]]></title>
-            <link>javascript:moveViewPage(241);</link>
-            <guid>javascript:moveViewPage(241);</guid>
-            <pubDate>Fri, 19 May 2023 07:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Takarazuka Revue Cosmos Troupe]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b45e1b555f0745f0a2b7d371df07144b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
