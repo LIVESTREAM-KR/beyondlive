@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 04:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 05:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/176</link>
+            <guid>https://beyondlive.com/notice/176</guid>
+            <pubDate>Fri, 11 Aug 2023 05:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[11. 8월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Young K Solo Concert <Letters with notes> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/173</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/166</guid>
             <pubDate>Fri, 30 Jun 2023 06:16:51 GMT</pubDate>
             <content:encoded><![CDATA[30. 6월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 2023 NCT 127 7th ANNIVERSARY FANMEETING ‘ONCE UPON A 7ULY’ 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/162</link>
-            <guid>https://beyondlive.com/notice/162</guid>
-            <pubDate>Wed, 28 Jun 2023 06:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[28. 6월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ 공연)]]></title>

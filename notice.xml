@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-08-11T04:14:28.356Z</updated>
+    <updated>2023-08-11T05:11:16.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' 온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/176</id>
+        <link href="https://beyondlive.com/notice/176"/>
+        <updated>2023-08-11T05:10:54.731Z</updated>
+        <content type="html"><![CDATA[11. 8월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] Young K Solo Concert <Letters with notes> 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/173</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/166"/>
         <updated>2023-06-30T06:16:51.078Z</updated>
         <content type="html"><![CDATA[30. 6월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] 2023 NCT 127 7th ANNIVERSARY FANMEETING ‘ONCE UPON A 7ULY’ 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/162</id>
-        <link href="https://beyondlive.com/notice/162"/>
-        <updated>2023-06-28T06:17:26.035Z</updated>
-        <content type="html"><![CDATA[28. 6월. 2023]]></content>
     </entry>
 </feed>
