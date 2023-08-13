@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 11:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 12:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,14 +252,6 @@
             <pubDate>Sun, 25 Jun 2023 10:13:58 GMT</pubDate>
             <content:encoded><![CDATA[19. 8월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/835a217eabef466b8b83da62016bab02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/259</link>
-            <guid>https://beyondlive.com/contents/259</guid>
-            <pubDate>Sun, 30 Jul 2023 10:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[13. 8월. 2023. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/225eadb4ddfd4716a0bf5e82c861d180.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
