@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 03:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 04:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,7 +281,7 @@
             <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/264</link>
             <guid>https://beyondlive.com/contents/264</guid>
-            <pubDate>Mon, 14 Aug 2023 03:11:57 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 03:11:49 GMT</pubDate>
             <content:encoded><![CDATA[26. 8월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/45e9eaf45ea741648680919c5d43c7be.jpg" length="0" type="image/jpg"/>
         </item>
