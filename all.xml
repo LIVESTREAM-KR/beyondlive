@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 02:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 03:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2023 NCT CONCERT - NCT NATION : To The World 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/175</link>
+            <guid>https://beyondlive.com/notice/175</guid>
+            <pubDate>Mon, 14 Aug 2023 03:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[14. 8월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/176</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[01. 7월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] Xdinary Heroes 1st fanmeeting〈BAND CLUB XV : 2023 SUMMER CAMP〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/166</link>
-            <guid>https://beyondlive.com/notice/166</guid>
-            <pubDate>Fri, 30 Jun 2023 06:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[30. 6월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(260);</link>
             <guid>javascript:moveViewPage(260);</guid>
@@ -92,6 +92,14 @@
             <pubDate>Mon, 14 Aug 2023 02:16:23 GMT</pubDate>
             <content:encoded><![CDATA[Young K]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1da28c8de40948f2942a051504fd3d56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(264);</link>
+            <guid>javascript:moveViewPage(264);</guid>
+            <pubDate>Mon, 14 Aug 2023 03:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[NCT]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/45e9eaf45ea741648680919c5d43c7be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/62ad7c6a3adb48d7bf0d2a6efb23fb16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kawaguchi Yurina Birthday～Yurina's Room～ (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(237);</link>
-            <guid>javascript:moveViewPage(237);</guid>
-            <pubDate>Fri, 12 May 2023 03:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[Kawaguchi Yurina/川口ゆりな]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f204cb59c33748929dd122630b7b7853.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/264</link>
+            <guid>https://beyondlive.com/contents/264</guid>
+            <pubDate>Mon, 14 Aug 2023 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[26. 8월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ddec10ecb5bf493a9d41fe4a88635f69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Young K Solo Concert <Letters with notes> (Beyond LIVE ─ TOP)]]></title>
@@ -270,10 +278,18 @@
             <enclosure url="https://static.beyondlive.com/contents/8eacf00dc5104bf9bbbac2f1e3b26aef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/264</link>
+            <guid>https://beyondlive.com/contents/264</guid>
+            <pubDate>Mon, 14 Aug 2023 03:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[26. 8월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/45e9eaf45ea741648680919c5d43c7be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Young K Solo Concert <Letters with notes> (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/262</link>
             <guid>https://beyondlive.com/contents/262</guid>
-            <pubDate>Mon, 14 Aug 2023 02:16:39 GMT</pubDate>
+            <pubDate>Mon, 14 Aug 2023 02:16:31 GMT</pubDate>
             <content:encoded><![CDATA[03. 9월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1da28c8de40948f2942a051504fd3d56.jpg" length="0" type="image/jpg"/>
         </item>
