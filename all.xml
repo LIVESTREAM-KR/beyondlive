@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 05:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 06:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] 2023 NCT CONCERT - NCT NATION : To The World 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/177</link>
+            <guid>https://beyondlive.com/notice/177</guid>
+            <pubDate>Tue, 15 Aug 2023 06:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[15. 8월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 NCT CONCERT - NCT NATION : To The World 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/175</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/163</guid>
             <pubDate>Tue, 04 Jul 2023 06:18:45 GMT</pubDate>
             <content:encoded><![CDATA[04. 7월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] MISAMO JAPAN SHOWCASE “Masterpiece” 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/167</link>
-            <guid>https://beyondlive.com/notice/167</guid>
-            <pubDate>Sat, 01 Jul 2023 04:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[01. 7월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ 공연)]]></title>

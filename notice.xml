@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-08-15T05:11:42.915Z</updated>
+    <updated>2023-08-15T06:14:50.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내] 2023 NCT CONCERT - NCT NATION : To The World 아티스트 불참 안내]]></title>
+        <id>https://beyondlive.com/notice/177</id>
+        <link href="https://beyondlive.com/notice/177"/>
+        <updated>2023-08-15T06:14:27.375Z</updated>
+        <content type="html"><![CDATA[15. 8월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 2023 NCT CONCERT - NCT NATION : To The World 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/175</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/163"/>
         <updated>2023-07-04T06:18:45.738Z</updated>
         <content type="html"><![CDATA[04. 7월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] MISAMO JAPAN SHOWCASE “Masterpiece” 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/167</id>
-        <link href="https://beyondlive.com/notice/167"/>
-        <updated>2023-07-01T04:15:13.689Z</updated>
-        <content type="html"><![CDATA[01. 7월. 2023]]></content>
     </entry>
 </feed>
