@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-08-18T05:11:32.171Z</updated>
+    <updated>2023-08-18T06:14:33.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[점검 안내] Beyond LIVE서비스 점검 안내]]></title>
+        <id>https://beyondlive.com/notice/178</id>
+        <link href="https://beyondlive.com/notice/178"/>
+        <updated>2023-08-18T06:14:09.742Z</updated>
+        <content type="html"><![CDATA[18. 8월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안내] 리워드 포인트 제도 실시 안내]]></title>
+        <id>https://beyondlive.com/notice/179</id>
+        <link href="https://beyondlive.com/notice/179"/>
+        <updated>2023-08-18T06:14:09.744Z</updated>
+        <content type="html"><![CDATA[18. 8월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] [MISAMO JAPAN SHOWCASE “Masterpiece”] 관람권 구매 EVENT 당첨자 발표]]></title>
         <id>https://beyondlive.com/notice/174</id>
@@ -60,19 +74,5 @@
         <link href="https://beyondlive.com/notice/170"/>
         <updated>2023-07-10T04:16:01.194Z</updated>
         <content type="html"><![CDATA[10. 7월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내] "Kawaguchi Yurina Birthday" 관람권 구매 EVENT 당첨자 발표]]></title>
-        <id>https://beyondlive.com/notice/169</id>
-        <link href="https://beyondlive.com/notice/169"/>
-        <updated>2023-07-07T03:25:26.967Z</updated>
-        <content type="html"><![CDATA[07. 7월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이벤트 안내] [MISAMO JAPAN SHOWCASE “Masterpiece”] 시청 티켓 구매 EVENT]]></title>
-        <id>https://beyondlive.com/notice/168</id>
-        <link href="https://beyondlive.com/notice/168"/>
-        <updated>2023-07-05T06:18:39.024Z</updated>
-        <content type="html"><![CDATA[05. 7월. 2023]]></content>
     </entry>
 </feed>

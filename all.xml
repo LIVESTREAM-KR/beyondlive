@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 05:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 06:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[점검 안내] Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/178</link>
+            <guid>https://beyondlive.com/notice/178</guid>
+            <pubDate>Fri, 18 Aug 2023 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[18. 8월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] 리워드 포인트 제도 실시 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/179</link>
+            <guid>https://beyondlive.com/notice/179</guid>
+            <pubDate>Fri, 18 Aug 2023 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[18. 8월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[안내] [MISAMO JAPAN SHOWCASE “Masterpiece”] 관람권 구매 EVENT 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/174</link>
@@ -62,20 +76,6 @@
             <guid>https://beyondlive.com/notice/170</guid>
             <pubDate>Mon, 10 Jul 2023 04:16:01 GMT</pubDate>
             <content:encoded><![CDATA[10. 7월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] "Kawaguchi Yurina Birthday" 관람권 구매 EVENT 당첨자 발표 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/169</link>
-            <guid>https://beyondlive.com/notice/169</guid>
-            <pubDate>Fri, 07 Jul 2023 03:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[07. 7월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트 안내] [MISAMO JAPAN SHOWCASE “Masterpiece”] 시청 티켓 구매 EVENT (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/168</link>
-            <guid>https://beyondlive.com/notice/168</guid>
-            <pubDate>Wed, 05 Jul 2023 06:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[05. 7월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ 공연)]]></title>
