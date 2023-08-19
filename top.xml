@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 13:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 14:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 07 Aug 2023 02:04:51 GMT</pubDate>
             <content:encoded><![CDATA[10. 9월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d61e6e716511479d94cc501404dce163.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION] Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/251</link>
-            <guid>https://beyondlive.com/contents/251</guid>
-            <pubDate>Mon, 31 Jul 2023 02:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[19. 8월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/835a217eabef466b8b83da62016bab02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
