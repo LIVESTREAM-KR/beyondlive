@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-08-22T01:44:17.457Z</updated>
+    <updated>2023-08-22T02:17:07.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[점검 안내] Beyond LIVE서비스 점검 안내]]></title>
-        <id>https://beyondlive.com/notice/178</id>
-        <link href="https://beyondlive.com/notice/178"/>
-        <updated>2023-08-18T06:14:09.742Z</updated>
-        <content type="html"><![CDATA[18. 8월. 2023]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] 리워드 포인트 제도 실시 안내]]></title>
         <id>https://beyondlive.com/notice/179</id>
@@ -60,6 +53,13 @@
         <link href="https://beyondlive.com/notice/172"/>
         <updated>2023-07-26T06:15:01.640Z</updated>
         <content type="html"><![CDATA[26. 7월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[완료] Beyond LIVE서비스 점검 안내]]></title>
+        <id>https://beyondlive.com/notice/178</id>
+        <link href="https://beyondlive.com/notice/178"/>
+        <updated>2023-08-18T06:14:09.742Z</updated>
+        <content type="html"><![CDATA[18. 8월. 2023]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[안내]2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 아티스트 불참 안내]]></title>
