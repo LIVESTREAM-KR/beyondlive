@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 02:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 03:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,38 @@
             <pubDate>Mon, 07 Aug 2023 02:04:59 GMT</pubDate>
             <content:encoded><![CDATA[10. 9월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/974aa78aeba549f3b3d087cd7c130c83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
+            <link>https://beyondlive.com/contents/267</link>
+            <guid>https://beyondlive.com/contents/267</guid>
+            <pubDate>Fri, 25 Aug 2023 03:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[30. 9월. 2023. 13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/42f4855c520c455998305f1ba061b87d.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
+            <link>https://beyondlive.com/contents/268</link>
+            <guid>https://beyondlive.com/contents/268</guid>
+            <pubDate>Fri, 25 Aug 2023 03:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[30. 9월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c55dc5b6171749dd897daec7d3d676e3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
+            <link>https://beyondlive.com/contents/269</link>
+            <guid>https://beyondlive.com/contents/269</guid>
+            <pubDate>Fri, 25 Aug 2023 03:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[01. 10월. 2023. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6bfc72457f4e4e46b311ccf9df5cd347.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
+            <link>https://beyondlive.com/contents/270</link>
+            <guid>https://beyondlive.com/contents/270</guid>
+            <pubDate>Fri, 25 Aug 2023 03:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[01. 10월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/994b6dd589154a11a8ef5b3c7ec26d2f.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

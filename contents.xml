@@ -4,9 +4,41 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 02:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 03:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<DAY2-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
+            <link>javascript:moveViewPage(270);</link>
+            <guid>javascript:moveViewPage(270);</guid>
+            <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/994b6dd589154a11a8ef5b3c7ec26d2f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
+            <link>javascript:moveViewPage(269);</link>
+            <guid>javascript:moveViewPage(269);</guid>
+            <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6bfc72457f4e4e46b311ccf9df5cd347.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
+            <link>javascript:moveViewPage(268);</link>
+            <guid>javascript:moveViewPage(268);</guid>
+            <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c55dc5b6171749dd897daec7d3d676e3.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
+            <link>javascript:moveViewPage(267);</link>
+            <guid>javascript:moveViewPage(267);</guid>
+            <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/42f4855c520c455998305f1ba061b87d.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM>]]></title>
             <link>javascript:moveViewPage(260);</link>
@@ -134,38 +166,6 @@
             <pubDate>Fri, 09 Jun 2023 03:19:45 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/987ff17c602545adb193ef03064c9a06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT DREAM TOUR 'THE DREAM SHOW 2 : In YOUR DREAM' Re-Streaming]]></title>
-            <link>javascript:moveViewPage(244);</link>
-            <guid>javascript:moveViewPage(244);</guid>
-            <pubDate>Sat, 03 Jun 2023 13:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3c36756324ef402b9f6d461759d9d55e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타카라즈카 가극단, 소라구미의 도쿄 타카라즈카 극장 공연작, "카지노 로얄 ~ 내 이름은 본드 ~"의 파이널 공연! Re-Streaming]]></title>
-            <link>javascript:moveViewPage(242);</link>
-            <guid>javascript:moveViewPage(242);</guid>
-            <pubDate>Sun, 11 Jun 2023 08:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[Takarazuka Revue Cosmos Troupe]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e0c1f8a081b24cdc9f3a1b900b43d09e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHINee WORLD VI [PERFECT ILLUMINATION]]]></title>
-            <link>javascript:moveViewPage(250);</link>
-            <guid>javascript:moveViewPage(250);</guid>
-            <pubDate>Mon, 12 Jun 2023 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7c2e7fc5dadd41318c4e39fe5c8a54de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kawaguchi Yurina Birthday～Yurisse's Party～]]></title>
-            <link>javascript:moveViewPage(238);</link>
-            <guid>javascript:moveViewPage(238);</guid>
-            <pubDate>Fri, 12 May 2023 03:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[Kawaguchi Yurina/川口ゆりな]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/62ad7c6a3adb48d7bf0d2a6efb23fb16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

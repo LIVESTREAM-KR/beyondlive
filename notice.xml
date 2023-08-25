@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-08-25T02:17:48.048Z</updated>
+    <updated>2023-08-25T03:12:04.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’  온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/180</id>
+        <link href="https://beyondlive.com/notice/180"/>
+        <updated>2023-08-25T03:11:42.490Z</updated>
+        <content type="html"><![CDATA[25. 8월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] 리워드 포인트 제도 실시 안내]]></title>
         <id>https://beyondlive.com/notice/179</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/171"/>
         <updated>2023-07-22T10:10:59.531Z</updated>
         <content type="html"><![CDATA[22. 7월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] IKONOIJOY 2023 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/170</id>
-        <link href="https://beyondlive.com/notice/170"/>
-        <updated>2023-07-10T04:16:01.194Z</updated>
-        <content type="html"><![CDATA[10. 7월. 2023]]></content>
     </entry>
 </feed>
