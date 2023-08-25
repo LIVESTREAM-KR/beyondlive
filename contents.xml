@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 07:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE']]></title>
+            <link>javascript:moveViewPage(266);</link>
+            <guid>javascript:moveViewPage(266);</guid>
+            <pubDate>Fri, 25 Aug 2023 08:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[IVE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/4febf57c6f364c148ffce22dc7541be1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<DAY2-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
             <link>javascript:moveViewPage(270);</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 14 Jun 2023 03:12:39 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/34c2c2c0ef95445d9e3f9501a98beb47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’]]></title>
-            <link>javascript:moveViewPage(248);</link>
-            <guid>javascript:moveViewPage(248);</guid>
-            <pubDate>Fri, 09 Jun 2023 03:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/987ff17c602545adb193ef03064c9a06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

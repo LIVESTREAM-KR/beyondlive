@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 07:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE']]></title>
+            <link>https://beyondlive.com/contents/266</link>
+            <guid>https://beyondlive.com/contents/266</guid>
+            <pubDate>Fri, 25 Aug 2023 08:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[08. 10월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/219bf7e71a344cac838fa0b10d3945ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
             <link>https://beyondlive.com/contents/267</link>
