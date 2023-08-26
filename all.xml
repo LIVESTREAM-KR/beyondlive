@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 18:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 19:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[장애] Beyond LIVE 모바일 앱 접속장애 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/181</link>
+            <guid>https://beyondlive.com/notice/181</guid>
+            <pubDate>Sat, 26 Aug 2023 19:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[27. 8월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/180</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/175</guid>
             <pubDate>Mon, 14 Aug 2023 03:11:33 GMT</pubDate>
             <content:encoded><![CDATA[14. 8월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내]2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’ 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/171</link>
-            <guid>https://beyondlive.com/notice/171</guid>
-            <pubDate>Sat, 22 Jul 2023 10:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[22. 7월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' (Beyond LIVE ─ 공연)]]></title>
