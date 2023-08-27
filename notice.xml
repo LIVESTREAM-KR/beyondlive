@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-08-27T06:14:11.985Z</updated>
+    <updated>2023-08-27T07:10:18.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
-        <title type="html"><![CDATA[[장애] Beyond LIVE 모바일 앱 접속장애 안내]]></title>
+        <title type="html"><![CDATA[[복구 완료] Beyond LIVE 모바일 앱 접속장애 복구 안내]]></title>
         <id>https://beyondlive.com/notice/181</id>
         <link href="https://beyondlive.com/notice/181"/>
         <updated>2023-08-26T19:08:43.791Z</updated>
