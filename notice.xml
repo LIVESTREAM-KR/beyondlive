@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-08-28T00:51:10.052Z</updated>
+    <updated>2023-08-28T01:45:38.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[복구 완료] Beyond LIVE 모바일 앱 접속장애 복구 안내]]></title>
-        <id>https://beyondlive.com/notice/181</id>
-        <link href="https://beyondlive.com/notice/181"/>
-        <updated>2023-08-26T19:08:43.791Z</updated>
-        <content type="html"><![CDATA[27. 8월. 2023]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’  온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/180</id>
@@ -46,6 +39,13 @@
         <link href="https://beyondlive.com/notice/172"/>
         <updated>2023-07-26T06:15:01.640Z</updated>
         <content type="html"><![CDATA[26. 7월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[복구 완료] Beyond LIVE 모바일 앱 접속장애 복구 안내]]></title>
+        <id>https://beyondlive.com/notice/181</id>
+        <link href="https://beyondlive.com/notice/181"/>
+        <updated>2023-08-26T19:08:43.791Z</updated>
+        <content type="html"><![CDATA[27. 8월. 2023]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[완료] Beyond LIVE서비스 점검 안내]]></title>
