@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 08:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 09:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,38 @@
             <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
             <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/42f4855c520c455998305f1ba061b87d.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
+            <link>javascript:moveViewPage(278);</link>
+            <guid>javascript:moveViewPage(278);</guid>
+            <pubDate>Wed, 30 Aug 2023 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b6ea1fc0ddc947d293297f1df8f06d7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
+            <link>javascript:moveViewPage(277);</link>
+            <guid>javascript:moveViewPage(277);</guid>
+            <pubDate>Wed, 30 Aug 2023 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f3b9b19ba1df4a98bb763bd127a56d21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-밤공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
+            <link>javascript:moveViewPage(276);</link>
+            <guid>javascript:moveViewPage(276);</guid>
+            <pubDate>Wed, 30 Aug 2023 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/4a2e19568f5146f8b89eb9c2e4a5d4c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
+            <link>javascript:moveViewPage(275);</link>
+            <guid>javascript:moveViewPage(275);</guid>
+            <pubDate>Wed, 30 Aug 2023 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3a16b342b44c4bc58dfb44f91fefdc77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM>]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Mon, 10 Jul 2023 04:16:07 GMT</pubDate>
             <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5104b1c8cf574543897ce1d6283dbfe9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MISAMO JAPAN SHOWCASE “Masterpiece”]]></title>
-            <link>javascript:moveViewPage(255);</link>
-            <guid>javascript:moveViewPage(255);</guid>
-            <pubDate>Sat, 01 Jul 2023 04:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[MISAMO]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7d66c0e8044f4653ac1d3f568863fea4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 NCT DREAM 7th ANNIVERSARY FANMEETING ‘DREAM LAND’]]></title>
-            <link>javascript:moveViewPage(253);</link>
-            <guid>javascript:moveViewPage(253);</guid>
-            <pubDate>Wed, 05 Jul 2023 03:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[NCT DREAM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6cf89a75d07e4b8a824e992eba703ddf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 NCT 127 7th ANNIVERSARY FANMEETING ‘ONCE UPON A 7ULY’]]></title>
-            <link>javascript:moveViewPage(252);</link>
-            <guid>javascript:moveViewPage(252);</guid>
-            <pubDate>Thu, 29 Jun 2023 03:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 127]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8e76ff2d9f7f4f958513367179d69876.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes 1st Fanmeeting <BAND CLUB XV : 2023 SUMMER CAMP>]]></title>
-            <link>javascript:moveViewPage(254);</link>
-            <guid>javascript:moveViewPage(254);</guid>
-            <pubDate>Wed, 30 Aug 2023 08:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2adf76f1f23148f5bf13f80156150a27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

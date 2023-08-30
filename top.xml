@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 08:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 09:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sat, 26 Aug 2023 14:10:00 GMT</pubDate>
             <content:encoded><![CDATA[07. 10월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/075f8901a023457d8691ba08f40511fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
+            <link>https://beyondlive.com/contents/275</link>
+            <guid>https://beyondlive.com/contents/275</guid>
+            <pubDate>Wed, 30 Aug 2023 09:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[16. 9월. 2023. 13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/93ba7041e43047a6887ff604f0d3584f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
