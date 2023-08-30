@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 07:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 08:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
             <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/42f4855c520c455998305f1ba061b87d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
-            <link>javascript:moveViewPage(278);</link>
-            <guid>javascript:moveViewPage(278);</guid>
-            <pubDate>Wed, 30 Aug 2023 03:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b6ea1fc0ddc947d293297f1df8f06d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM>]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 29 Jun 2023 03:14:12 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8e76ff2d9f7f4f958513367179d69876.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes 1st Fanmeeting <BAND CLUB XV : 2023 SUMMER CAMP>]]></title>
+            <link>javascript:moveViewPage(254);</link>
+            <guid>javascript:moveViewPage(254);</guid>
+            <pubDate>Wed, 30 Aug 2023 08:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2adf76f1f23148f5bf13f80156150a27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
