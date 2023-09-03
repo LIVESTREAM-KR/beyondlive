@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 10:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 11:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Young K Solo Concert <Letters with notes>]]></title>
-            <link>https://beyondlive.com/contents/262</link>
-            <guid>https://beyondlive.com/contents/262</guid>
-            <pubDate>Mon, 14 Aug 2023 02:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[03. 9월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1da28c8de40948f2942a051504fd3d56.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM>]]></title>
             <link>https://beyondlive.com/contents/260</link>
@@ -94,6 +86,14 @@
             <pubDate>Sat, 26 Aug 2023 13:13:35 GMT</pubDate>
             <content:encoded><![CDATA[07. 10월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b15561ccb4ff41ea9f55753b1b41db5b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Young K Solo Concert <Letters with notes> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/263</link>
+            <guid>https://beyondlive.com/contents/263</guid>
+            <pubDate>Sun, 03 Sep 2023 11:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[08. 10월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/de8dbfd734e84256a6ae3d7b16f75a60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE']]></title>
