@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 02:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 03:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,13 +34,6 @@
             <guid>https://beyondlive.com/notice/176</guid>
             <pubDate>Fri, 11 Aug 2023 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[11. 8월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] Young K Solo Concert <Letters with notes> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/173</link>
-            <guid>https://beyondlive.com/notice/173</guid>
-            <pubDate>Fri, 04 Aug 2023 05:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[04. 8월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/177</guid>
             <pubDate>Tue, 15 Aug 2023 06:14:27 GMT</pubDate>
             <content:encoded><![CDATA[15. 8월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] 2023 NCT CONCERT - NCT NATION : To The World 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/175</link>
+            <guid>https://beyondlive.com/notice/175</guid>
+            <pubDate>Mon, 04 Sep 2023 03:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[14. 8월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' (Beyond LIVE ─ 공연)]]></title>
@@ -238,20 +238,28 @@
             <enclosure url="https://static.beyondlive.com/contents/9a2310a059a64ae698f2391d5fe94971.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/267</link>
-            <guid>https://beyondlive.com/contents/267</guid>
-            <pubDate>Fri, 25 Aug 2023 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[30. 9월. 2023. 13:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d7615a7665ee45b2b4f840f00b40e841.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/260</link>
             <guid>https://beyondlive.com/contents/260</guid>
             <pubDate>Mon, 07 Aug 2023 02:04:51 GMT</pubDate>
             <content:encoded><![CDATA[10. 9월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/d61e6e716511479d94cc501404dce163.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/275</link>
+            <guid>https://beyondlive.com/contents/275</guid>
+            <pubDate>Wed, 30 Aug 2023 09:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[16. 9월. 2023. 13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/93ba7041e43047a6887ff604f0d3584f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/267</link>
+            <guid>https://beyondlive.com/contents/267</guid>
+            <pubDate>Fri, 25 Aug 2023 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[30. 9월. 2023. 13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/d7615a7665ee45b2b4f840f00b40e841.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' (Beyond LIVE ─ TOP)]]></title>
@@ -270,12 +278,12 @@
             <enclosure url="https://static.beyondlive.com/contents/075f8901a023457d8691ba08f40511fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/275</link>
-            <guid>https://beyondlive.com/contents/275</guid>
-            <pubDate>Wed, 30 Aug 2023 09:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[16. 9월. 2023. 13:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/93ba7041e43047a6887ff604f0d3584f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Young K Solo Concert <Letters with notes> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/263</link>
+            <guid>https://beyondlive.com/contents/263</guid>
+            <pubDate>Sun, 03 Sep 2023 11:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[08. 10월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c1621907e671436faa119d5d0fa49cef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ Beyond NEXT)]]></title>
