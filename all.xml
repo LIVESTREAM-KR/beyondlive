@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 07:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 08:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] 일본 내 편의점(CVS) 결제 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/184</link>
+            <guid>https://beyondlive.com/notice/184</guid>
+            <pubDate>Thu, 07 Sep 2023 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[07. 9월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 일본판 프로젝트 세카이 3주년 감사제  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/182</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/177</guid>
             <pubDate>Tue, 15 Aug 2023 06:14:27 GMT</pubDate>
             <content:encoded><![CDATA[15. 8월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 2023 NCT CONCERT - NCT NATION : To The World 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/175</link>
-            <guid>https://beyondlive.com/notice/175</guid>
-            <pubDate>Mon, 04 Sep 2023 03:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[14. 8월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' (Beyond LIVE ─ 공연)]]></title>

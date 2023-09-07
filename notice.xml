@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-09-07T07:11:15.761Z</updated>
+    <updated>2023-09-07T08:15:19.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[안내] 일본 내 편의점(CVS) 결제 도입 안내]]></title>
+        <id>https://beyondlive.com/notice/184</id>
+        <link href="https://beyondlive.com/notice/184"/>
+        <updated>2023-09-07T08:14:55.413Z</updated>
+        <content type="html"><![CDATA[07. 9월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] 일본판 프로젝트 세카이 3주년 감사제  온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/182</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/177"/>
         <updated>2023-08-15T06:14:27.375Z</updated>
         <content type="html"><![CDATA[15. 8월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] 2023 NCT CONCERT - NCT NATION : To The World 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/175</id>
-        <link href="https://beyondlive.com/notice/175"/>
-        <updated>2023-09-04T03:12:27.872Z</updated>
-        <content type="html"><![CDATA[14. 8월. 2023]]></content>
     </entry>
 </feed>
