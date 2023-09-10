@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 11:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 12:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming]]></title>
+            <link>javascript:moveViewPage(261);</link>
+            <guid>javascript:moveViewPage(261);</guid>
+            <pubDate>Sun, 10 Sep 2023 12:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ec23d2b484364f159030fb48bc900530.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE']]></title>
             <link>javascript:moveViewPage(266);</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Jul 2023 04:16:07 GMT</pubDate>
             <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a46c6860737c419eb07ce7dee116e40b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ Re-Streaming]]></title>
-            <link>javascript:moveViewPage(249);</link>
-            <guid>javascript:moveViewPage(249);</guid>
-            <pubDate>Sun, 02 Jul 2023 11:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9a2310a059a64ae698f2391d5fe94971.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

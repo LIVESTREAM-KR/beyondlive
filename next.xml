@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 11:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 12:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM>]]></title>
-            <link>https://beyondlive.com/contents/260</link>
-            <guid>https://beyondlive.com/contents/260</guid>
-            <pubDate>Mon, 07 Aug 2023 02:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[10. 9월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/974aa78aeba549f3b3d087cd7c130c83.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
             <link>https://beyondlive.com/contents/275</link>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 25 Aug 2023 08:14:35 GMT</pubDate>
             <content:encoded><![CDATA[08. 10월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/4febf57c6f364c148ffce22dc7541be1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/261</link>
+            <guid>https://beyondlive.com/contents/261</guid>
+            <pubDate>Sun, 10 Sep 2023 12:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ec23d2b484364f159030fb48bc900530.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

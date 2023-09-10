@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 11:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 12:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,14 @@
             <guid>https://beyondlive.com/notice/177</guid>
             <pubDate>Tue, 15 Aug 2023 06:14:27 GMT</pubDate>
             <content:encoded><![CDATA[15. 8월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(261);</link>
+            <guid>javascript:moveViewPage(261);</guid>
+            <pubDate>Sun, 10 Sep 2023 12:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ec23d2b484364f159030fb48bc900530.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' (Beyond LIVE ─ 공연)]]></title>
@@ -230,22 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/a46c6860737c419eb07ce7dee116e40b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stray Kids 3RD FANMEETING ‘PILOT : FOR ★★★★★’ Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(249);</link>
-            <guid>javascript:moveViewPage(249);</guid>
-            <pubDate>Sun, 02 Jul 2023 11:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9a2310a059a64ae698f2391d5fe94971.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/260</link>
-            <guid>https://beyondlive.com/contents/260</guid>
-            <pubDate>Mon, 07 Aug 2023 02:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[10. 9월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/d61e6e716511479d94cc501404dce163.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/275</link>
             <guid>https://beyondlive.com/contents/275</guid>
@@ -286,12 +278,12 @@
             <enclosure url="https://static.beyondlive.com/contents/c1621907e671436faa119d5d0fa49cef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/260</link>
-            <guid>https://beyondlive.com/contents/260</guid>
-            <pubDate>Mon, 07 Aug 2023 02:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[10. 9월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/974aa78aeba549f3b3d087cd7c130c83.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/261</link>
+            <guid>https://beyondlive.com/contents/261</guid>
+            <pubDate>Sun, 10 Sep 2023 12:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8412a1d1055b49bcb4c8190b2ccaa6d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -380,6 +372,14 @@
             <pubDate>Fri, 25 Aug 2023 08:14:27 GMT</pubDate>
             <content:encoded><![CDATA[08. 10월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/4febf57c6f364c148ffce22dc7541be1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/261</link>
+            <guid>https://beyondlive.com/contents/261</guid>
+            <pubDate>Sun, 10 Sep 2023 12:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ec23d2b484364f159030fb48bc900530.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
