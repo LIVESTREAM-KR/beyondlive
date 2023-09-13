@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 01:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 02:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,13 +50,6 @@
             <content:encoded><![CDATA[11. 8월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/172</link>
-            <guid>https://beyondlive.com/notice/172</guid>
-            <pubDate>Wed, 26 Jul 2023 06:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[26. 7월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[복구 완료] Beyond LIVE 모바일 앱 접속장애 복구 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/181</link>
             <guid>https://beyondlive.com/notice/181</guid>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/174</guid>
             <pubDate>Wed, 16 Aug 2023 03:12:13 GMT</pubDate>
             <content:encoded><![CDATA[16. 8월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] 2023 NCT CONCERT - NCT NATION : To The World 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/177</link>
+            <guid>https://beyondlive.com/notice/177</guid>
+            <pubDate>Wed, 13 Sep 2023 02:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[15. 8월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -329,7 +329,7 @@
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/287</link>
             <guid>https://beyondlive.com/contents/287</guid>
-            <pubDate>Wed, 13 Sep 2023 01:47:25 GMT</pubDate>
+            <pubDate>Wed, 13 Sep 2023 01:47:17 GMT</pubDate>
             <content:encoded><![CDATA[23. 9월. 2023. 20:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/abb322af73c64becb97dda714b52a9cb.jpg" length="0" type="image/jpg"/>
         </item>
