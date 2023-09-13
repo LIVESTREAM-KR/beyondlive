@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-09-13T00:52:13.876Z</updated>
+    <updated>2023-09-13T01:47:26.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/183</id>
+        <link href="https://beyondlive.com/notice/183"/>
+        <updated>2023-09-13T01:47:01.868Z</updated>
+        <content type="html"><![CDATA[13. 9월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안내] 일본 내 편의점(CVS) 결제 도입 안내]]></title>
         <id>https://beyondlive.com/notice/184</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/174"/>
         <updated>2023-08-16T03:12:13.572Z</updated>
         <content type="html"><![CDATA[16. 8월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내] 2023 NCT CONCERT - NCT NATION : To The World 아티스트 불참 안내]]></title>
-        <id>https://beyondlive.com/notice/177</id>
-        <link href="https://beyondlive.com/notice/177"/>
-        <updated>2023-08-15T06:14:27.375Z</updated>
-        <content type="html"><![CDATA[15. 8월. 2023]]></content>
     </entry>
 </feed>

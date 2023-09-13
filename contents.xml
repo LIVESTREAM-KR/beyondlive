@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 00:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 01:47:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
             <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/42f4855c520c455998305f1ba061b87d.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank]]></title>
+            <link>javascript:moveViewPage(287);</link>
+            <guid>javascript:moveViewPage(287);</guid>
+            <pubDate>Wed, 13 Sep 2023 01:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/abb322af73c64becb97dda714b52a9cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 09 Jul 2023 12:23:42 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/bf302903b5b540ee94f3eb30a848df5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IKONOIJOY 2023 “Shuffle Party”]]></title>
-            <link>javascript:moveViewPage(258);</link>
-            <guid>javascript:moveViewPage(258);</guid>
-            <pubDate>Mon, 10 Jul 2023 04:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/a46c6860737c419eb07ce7dee116e40b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
