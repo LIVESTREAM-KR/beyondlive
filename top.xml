@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 06:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 07:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 25 Aug 2023 08:14:27 GMT</pubDate>
             <content:encoded><![CDATA[08. 10월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/219bf7e71a344cac838fa0b10d3945ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/265</link>
-            <guid>https://beyondlive.com/contents/265</guid>
-            <pubDate>Sat, 26 Aug 2023 14:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[07. 10월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/075f8901a023457d8691ba08f40511fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Young K Solo Concert <Letters with notes> Re-Streaming]]></title>
