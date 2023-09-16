@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 11:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 12:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,14 +150,6 @@
             <pubDate>Sat, 29 Jul 2023 10:11:25 GMT</pubDate>
             <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/2500f09517e14b269fe20a7ed5834c59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 MONSTA X 7TH OFFICIAL FANCLUB MONBEBE FAN-CONCERT <MX FRIENDS> Re-Streaming]]></title>
-            <link>javascript:moveViewPage(247);</link>
-            <guid>javascript:moveViewPage(247);</guid>
-            <pubDate>Sun, 09 Jul 2023 12:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/bf302903b5b540ee94f3eb30a848df5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

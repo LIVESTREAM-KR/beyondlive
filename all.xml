@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 11:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 12:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -222,28 +222,20 @@
             <enclosure url="https://static.beyondlive.com/contents/2500f09517e14b269fe20a7ed5834c59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 MONSTA X 7TH OFFICIAL FANCLUB MONBEBE FAN-CONCERT <MX FRIENDS> Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(247);</link>
-            <guid>javascript:moveViewPage(247);</guid>
-            <pubDate>Sun, 09 Jul 2023 12:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/bf302903b5b540ee94f3eb30a848df5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY1-밤공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/276</link>
-            <guid>https://beyondlive.com/contents/276</guid>
-            <pubDate>Wed, 30 Aug 2023 09:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[16. 9월. 2023. 18:45 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4b634daff7ab408db36e0f8e02a8ad06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/277</link>
             <guid>https://beyondlive.com/contents/277</guid>
             <pubDate>Wed, 30 Aug 2023 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[17. 9월. 2023. 13:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e81c93b166c44d228e8383ff766f2a07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/278</link>
+            <guid>https://beyondlive.com/contents/278</guid>
+            <pubDate>Wed, 30 Aug 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[17. 9월. 2023. 18:45 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9b9a32107a0a4daea376da6f19101070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank (Beyond LIVE ─ TOP)]]></title>
