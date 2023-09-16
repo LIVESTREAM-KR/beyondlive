@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 23:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 00:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,20 +238,28 @@
             <enclosure url="https://static.beyondlive.com/contents/a46c6860737c419eb07ce7dee116e40b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/287</link>
-            <guid>https://beyondlive.com/contents/287</guid>
-            <pubDate>Wed, 13 Sep 2023 01:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[23. 9월. 2023. 20:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e695271d6c8a4b1a81fdb086dc5eeca7.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/275</link>
             <guid>https://beyondlive.com/contents/275</guid>
             <pubDate>Wed, 30 Aug 2023 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[16. 9월. 2023. 13:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/93ba7041e43047a6887ff604f0d3584f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-밤공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/276</link>
+            <guid>https://beyondlive.com/contents/276</guid>
+            <pubDate>Wed, 30 Aug 2023 09:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[16. 9월. 2023. 18:45 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/4b634daff7ab408db36e0f8e02a8ad06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/287</link>
+            <guid>https://beyondlive.com/contents/287</guid>
+            <pubDate>Wed, 13 Sep 2023 01:47:17 GMT</pubDate>
+            <content:encoded><![CDATA[23. 9월. 2023. 20:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/e695271d6c8a4b1a81fdb086dc5eeca7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ (Beyond LIVE ─ TOP)]]></title>
