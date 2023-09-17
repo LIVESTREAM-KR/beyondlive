@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 06:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 07:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -214,22 +214,6 @@
             <enclosure url="https://static.beyondlive.com/contents/225eadb4ddfd4716a0bf5e82c861d180.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” Re-Streaming (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(257);</link>
-            <guid>javascript:moveViewPage(257);</guid>
-            <pubDate>Sat, 29 Jul 2023 10:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2500f09517e14b269fe20a7ed5834c59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/277</link>
-            <guid>https://beyondlive.com/contents/277</guid>
-            <pubDate>Wed, 30 Aug 2023 09:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[17. 9월. 2023. 13:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e81c93b166c44d228e8383ff766f2a07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/278</link>
             <guid>https://beyondlive.com/contents/278</guid>
@@ -276,14 +260,6 @@
             <pubDate>Sun, 10 Sep 2023 12:20:14 GMT</pubDate>
             <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8412a1d1055b49bcb4c8190b2ccaa6d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/277</link>
-            <guid>https://beyondlive.com/contents/277</guid>
-            <pubDate>Wed, 30 Aug 2023 09:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[17. 9월. 2023. 13:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f3b9b19ba1df4a98bb763bd127a56d21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ Beyond NEXT)]]></title>

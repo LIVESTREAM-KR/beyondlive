@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 06:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 07:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Sun, 30 Jul 2023 10:12:00 GMT</pubDate>
             <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/225eadb4ddfd4716a0bf5e82c861d180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IKONOIJOY 2023 “Water & Bubbles Party” Re-Streaming]]></title>
-            <link>javascript:moveViewPage(257);</link>
-            <guid>javascript:moveViewPage(257);</guid>
-            <pubDate>Sat, 29 Jul 2023 10:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2500f09517e14b269fe20a7ed5834c59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
