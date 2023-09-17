@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 11:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 12:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,14 +134,6 @@
             <pubDate>Sun, 25 Jun 2023 10:13:49 GMT</pubDate>
             <content:encoded><![CDATA[SHINee]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8eacf00dc5104bf9bbbac2f1e3b26aef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IKONOIJOY 2023 “Shuffle Party” Re-Streaming]]></title>
-            <link>javascript:moveViewPage(259);</link>
-            <guid>javascript:moveViewPage(259);</guid>
-            <pubDate>Sun, 30 Jul 2023 10:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[IKONOIJOY]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/225eadb4ddfd4716a0bf5e82c861d180.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
