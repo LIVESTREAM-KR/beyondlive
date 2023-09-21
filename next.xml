@@ -4,9 +4,37 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 08:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 09:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제 ARCHIVE]]></title>
+            <link>https://beyondlive.com/contents/vod/286</link>
+            <guid>https://beyondlive.com/contents/vod/286</guid>
+            <pubDate>Thu, 21 Sep 2023 09:12:39 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/833ea50440184d5ab6f562f0760beefe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제 ARCHIVE]]></title>
+            <link>https://beyondlive.com/contents/vod/285</link>
+            <guid>https://beyondlive.com/contents/vod/285</guid>
+            <pubDate>Thu, 21 Sep 2023 09:12:39 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/b21c62d347e84b1b8ae22a4403d982b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-밤공연>일본판 프로젝트 세카이 3주년 감사제 ARCHIVE]]></title>
+            <link>https://beyondlive.com/contents/vod/284</link>
+            <guid>https://beyondlive.com/contents/vod/284</guid>
+            <pubDate>Thu, 21 Sep 2023 09:12:39 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/77c8423e870c4b138f3fd3bcf42991f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제 ARCHIVE]]></title>
+            <link>https://beyondlive.com/contents/vod/283</link>
+            <guid>https://beyondlive.com/contents/vod/283</guid>
+            <pubDate>Thu, 21 Sep 2023 09:12:39 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/a28e638c36b04d4c9de542cc793bbaa7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank]]></title>
             <link>https://beyondlive.com/contents/287</link>
