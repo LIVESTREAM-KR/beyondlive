@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 12:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 13:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[안내]SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/189</link>
-            <guid>https://beyondlive.com/notice/189</guid>
-            <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/188</link>
@@ -27,13 +20,6 @@
             <guid>https://beyondlive.com/notice/185</guid>
             <pubDate>Thu, 21 Sep 2023 03:12:07 GMT</pubDate>
             <content:encoded><![CDATA[21. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/183</link>
-            <guid>https://beyondlive.com/notice/183</guid>
-            <pubDate>Wed, 13 Sep 2023 01:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내] 일본 내 편의점(CVS) 결제 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -62,6 +48,20 @@
             <guid>https://beyondlive.com/notice/176</guid>
             <pubDate>Fri, 11 Aug 2023 05:10:54 GMT</pubDate>
             <content:encoded><![CDATA[11. 8월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내]SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/189</link>
+            <guid>https://beyondlive.com/notice/189</guid>
+            <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/183</link>
+            <guid>https://beyondlive.com/notice/183</guid>
+            <pubDate>Wed, 13 Sep 2023 01:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 일본판 프로젝트 세카이 3주년 감사제  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
