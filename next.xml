@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 14:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 15:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -106,6 +106,14 @@
             <pubDate>Sun, 10 Sep 2023 12:20:21 GMT</pubDate>
             <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ec23d2b484364f159030fb48bc900530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/288</link>
+            <guid>https://beyondlive.com/contents/288</guid>
+            <pubDate>Sat, 23 Sep 2023 15:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[28. 10월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ef4aeead3c7c4a8884aa2c51804bee7e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
