@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> in JAPAN온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/186</link>
+            <guid>https://beyondlive.com/notice/186</guid>
+            <pubDate>Mon, 25 Sep 2023 03:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[25. 9월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/188</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[27. 8월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[완료] Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/178</link>
-            <guid>https://beyondlive.com/notice/178</guid>
-            <pubDate>Sun, 24 Sep 2023 11:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[18. 8월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(288);</link>
             <guid>javascript:moveViewPage(288);</guid>
@@ -108,6 +108,14 @@
             <pubDate>Fri, 25 Aug 2023 08:14:18 GMT</pubDate>
             <content:encoded><![CDATA[IVE]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/4febf57c6f364c148ffce22dc7541be1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(291);</link>
+            <guid>javascript:moveViewPage(291);</guid>
+            <pubDate>Mon, 25 Sep 2023 03:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f3ec242620ad44c390ac462f4cc3d587.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Young K Solo Concert <Letters with notes> Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -198,12 +206,12 @@
             <enclosure url="https://static.beyondlive.com/contents/974aa78aeba549f3b3d087cd7c130c83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Young K Solo Concert <Letters with notes> (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(262);</link>
-            <guid>javascript:moveViewPage(262);</guid>
-            <pubDate>Mon, 14 Aug 2023 02:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[Young K]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1da28c8de40948f2942a051504fd3d56.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/291</link>
+            <guid>https://beyondlive.com/contents/291</guid>
+            <pubDate>Mon, 25 Sep 2023 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[08. 10월. 2023. 16:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1c69daba45354222913ed44994a5b154.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ (Beyond LIVE ─ TOP)]]></title>
@@ -320,6 +328,14 @@
             <pubDate>Sun, 03 Sep 2023 11:09:30 GMT</pubDate>
             <content:encoded><![CDATA[08. 10월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/de8dbfd734e84256a6ae3d7b16f75a60.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/291</link>
+            <guid>https://beyondlive.com/contents/291</guid>
+            <pubDate>Mon, 25 Sep 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[08. 10월. 2023. 16:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f3ec242620ad44c390ac462f4cc3d587.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' (Beyond LIVE ─ Beyond NEXT)]]></title>

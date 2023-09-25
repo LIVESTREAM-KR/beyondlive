@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-09-25T02:19:44.267Z</updated>
+    <updated>2023-09-25T03:12:22.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> in JAPAN온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/186</id>
+        <link href="https://beyondlive.com/notice/186"/>
+        <updated>2023-09-25T03:11:57.861Z</updated>
+        <content type="html"><![CDATA[25. 9월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내]]></title>
         <id>https://beyondlive.com/notice/188</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/181"/>
         <updated>2023-08-26T19:08:43.791Z</updated>
         <content type="html"><![CDATA[27. 8월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[완료] Beyond LIVE서비스 점검 안내]]></title>
-        <id>https://beyondlive.com/notice/178</id>
-        <link href="https://beyondlive.com/notice/178"/>
-        <updated>2023-09-24T11:09:15.914Z</updated>
-        <content type="html"><![CDATA[18. 8월. 2023]]></content>
     </entry>
 </feed>

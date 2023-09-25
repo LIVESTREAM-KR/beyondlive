@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,6 +74,14 @@
             <pubDate>Sun, 03 Sep 2023 11:09:30 GMT</pubDate>
             <content:encoded><![CDATA[08. 10월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/de8dbfd734e84256a6ae3d7b16f75a60.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN]]></title>
+            <link>https://beyondlive.com/contents/291</link>
+            <guid>https://beyondlive.com/contents/291</guid>
+            <pubDate>Mon, 25 Sep 2023 03:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[08. 10월. 2023. 16:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f3ec242620ad44c390ac462f4cc3d587.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE']]></title>
