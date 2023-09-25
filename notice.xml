@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-09-25T08:15:52.438Z</updated>
+    <updated>2023-09-25T09:13:07.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -17,6 +17,13 @@
         <id>https://beyondlive.com/notice/188</id>
         <link href="https://beyondlive.com/notice/188"/>
         <updated>2023-09-22T10:12:51.357Z</updated>
+        <content type="html"><![CDATA[22. 9월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안내]Rabbit LINE Pay 도입 안내]]></title>
+        <id>https://beyondlive.com/notice/187</id>
+        <link href="https://beyondlive.com/notice/187"/>
+        <updated>2023-09-25T09:12:40.271Z</updated>
         <content type="html"><![CDATA[22. 9월. 2023]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/182"/>
         <updated>2023-08-30T09:11:35.599Z</updated>
         <content type="html"><![CDATA[30. 8월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[복구 완료] Beyond LIVE 모바일 앱 접속장애 복구 안내]]></title>
-        <id>https://beyondlive.com/notice/181</id>
-        <link href="https://beyondlive.com/notice/181"/>
-        <updated>2023-08-26T19:08:43.791Z</updated>
-        <content type="html"><![CDATA[27. 8월. 2023]]></content>
     </entry>
 </feed>
