@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 09:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 10:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sat, 23 Sep 2023 15:10:45 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef4aeead3c7c4a8884aa2c51804bee7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY2] =LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
+            <link>javascript:moveViewPage(293);</link>
+            <guid>javascript:moveViewPage(293);</guid>
+            <pubDate>Thu, 28 Sep 2023 10:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[=LOVE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ded266bf0551451faed5e7dd11885c3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY1] =LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
+            <link>javascript:moveViewPage(292);</link>
+            <guid>javascript:moveViewPage(292);</guid>
+            <pubDate>Thu, 28 Sep 2023 10:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[=LOVE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/690d5e462f3a4144a6ced01565e3f101.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming]]></title>
