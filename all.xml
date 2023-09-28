@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 13:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 14:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -284,34 +284,6 @@
             <pubDate>Sat, 23 Sep 2023 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[28. 10월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8505ad16102543d68745bb4a42d351a8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제 ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/286</link>
-            <guid>https://beyondlive.com/contents/vod/286</guid>
-            <pubDate>Thu, 21 Sep 2023 09:12:39 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/833ea50440184d5ab6f562f0760beefe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제 ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/285</link>
-            <guid>https://beyondlive.com/contents/vod/285</guid>
-            <pubDate>Thu, 21 Sep 2023 09:12:39 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/b21c62d347e84b1b8ae22a4403d982b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY1-밤공연>일본판 프로젝트 세카이 3주년 감사제 ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/284</link>
-            <guid>https://beyondlive.com/contents/vod/284</guid>
-            <pubDate>Thu, 21 Sep 2023 09:12:39 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/77c8423e870c4b138f3fd3bcf42991f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제 ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/283</link>
-            <guid>https://beyondlive.com/contents/vod/283</guid>
-            <pubDate>Thu, 21 Sep 2023 09:12:39 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/a28e638c36b04d4c9de542cc793bbaa7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ (Beyond LIVE ─ Beyond NEXT)]]></title>
