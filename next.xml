@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 03:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 04:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,6 +114,22 @@
             <pubDate>Sun, 10 Sep 2023 12:20:21 GMT</pubDate>
             <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ec23d2b484364f159030fb48bc900530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY1] =LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
+            <link>https://beyondlive.com/contents/292</link>
+            <guid>https://beyondlive.com/contents/292</guid>
+            <pubDate>Thu, 28 Sep 2023 04:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[18. 10월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/690d5e462f3a4144a6ced01565e3f101.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY2] =LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
+            <link>https://beyondlive.com/contents/293</link>
+            <guid>https://beyondlive.com/contents/293</guid>
+            <pubDate>Thu, 28 Sep 2023 04:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[19. 10월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ded266bf0551451faed5e7dd11885c3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming]]></title>

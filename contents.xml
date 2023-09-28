@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 03:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 04:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sat, 23 Sep 2023 15:10:45 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef4aeead3c7c4a8884aa2c51804bee7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY2] =LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
+            <link>javascript:moveViewPage(293);</link>
+            <guid>javascript:moveViewPage(293);</guid>
+            <pubDate>Thu, 28 Sep 2023 04:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[=LOVE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ded266bf0551451faed5e7dd11885c3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY1] =LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
+            <link>javascript:moveViewPage(292);</link>
+            <guid>javascript:moveViewPage(292);</guid>
+            <pubDate>Thu, 28 Sep 2023 04:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[=LOVE]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/690d5e462f3a4144a6ced01565e3f101.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 30 Aug 2023 09:11:44 GMT</pubDate>
             <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f3b9b19ba1df4a98bb763bd127a56d21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY1-밤공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
-            <link>javascript:moveViewPage(276);</link>
-            <guid>javascript:moveViewPage(276);</guid>
-            <pubDate>Wed, 30 Aug 2023 09:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4a2e19568f5146f8b89eb9c2e4a5d4c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY1-낮공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
-            <link>javascript:moveViewPage(275);</link>
-            <guid>javascript:moveViewPage(275);</guid>
-            <pubDate>Wed, 30 Aug 2023 09:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3a16b342b44c4bc58dfb44f91fefdc77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
