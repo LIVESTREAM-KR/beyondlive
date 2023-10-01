@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 10:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 11:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,13 +50,6 @@
             <content:encoded><![CDATA[07. 9월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/180</link>
-            <guid>https://beyondlive.com/notice/180</guid>
-            <pubDate>Fri, 25 Aug 2023 03:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[25. 8월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/176</link>
             <guid>https://beyondlive.com/notice/176</guid>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/183</guid>
             <pubDate>Wed, 13 Sep 2023 01:47:01 GMT</pubDate>
             <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] 일본판 프로젝트 세카이 3주년 감사제  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/182</link>
+            <guid>https://beyondlive.com/notice/182</guid>
+            <pubDate>Sun, 01 Oct 2023 11:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[30. 8월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -206,14 +206,6 @@
             <enclosure url="https://static.beyondlive.com/contents/f3b9b19ba1df4a98bb763bd127a56d21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<DAY2-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/270</link>
-            <guid>https://beyondlive.com/contents/270</guid>
-            <pubDate>Fri, 25 Aug 2023 03:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[01. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/654a5313d985418ba7c2ee43eacef862.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/291</link>
             <guid>https://beyondlive.com/contents/291</guid>
@@ -270,20 +262,20 @@
             <enclosure url="https://static.beyondlive.com/contents/c1621907e671436faa119d5d0fa49cef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/288</link>
+            <guid>https://beyondlive.com/contents/288</guid>
+            <pubDate>Sat, 23 Sep 2023 15:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[28. 10월. 2023. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8505ad16102543d68745bb4a42d351a8.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/261</link>
             <guid>https://beyondlive.com/contents/261</guid>
             <pubDate>Sun, 10 Sep 2023 12:20:14 GMT</pubDate>
             <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8412a1d1055b49bcb4c8190b2ccaa6d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY2-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/270</link>
-            <guid>https://beyondlive.com/contents/270</guid>
-            <pubDate>Fri, 25 Aug 2023 03:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[01. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/994b6dd589154a11a8ef5b3c7ec26d2f.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
