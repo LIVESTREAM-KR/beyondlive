@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 05:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 06:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child―VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/191</link>
+            <guid>https://beyondlive.com/notice/191</guid>
+            <pubDate>Thu, 05 Oct 2023 06:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[05. 10월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 TWICE FANMEETING 〈ONCE AGAIN〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/192</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/189</guid>
             <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/183</link>
-            <guid>https://beyondlive.com/notice/183</guid>
-            <pubDate>Wed, 13 Sep 2023 01:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -312,6 +312,13 @@
             <guid>https://beyondlive.com/contents/vod/273</guid>
             <pubDate>Wed, 04 Oct 2023 02:20:37 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/8125f9f7a2c7457e853a8c6bf79d3c5f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child― (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/296</link>
+            <guid>https://beyondlive.com/contents/vod/296</guid>
+            <pubDate>Thu, 05 Oct 2023 06:16:23 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

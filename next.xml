@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 05:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 06:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,6 +34,13 @@
             <guid>https://beyondlive.com/contents/vod/273</guid>
             <pubDate>Wed, 04 Oct 2023 02:20:37 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/8125f9f7a2c7457e853a8c6bf79d3c5f.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child―]]></title>
+            <link>https://beyondlive.com/contents/vod/296</link>
+            <guid>https://beyondlive.com/contents/vod/296</guid>
+            <pubDate>Thu, 05 Oct 2023 06:16:23 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World Re-Streaming]]></title>
