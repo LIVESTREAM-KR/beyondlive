@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 00:51:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 01:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,14 +206,6 @@
             <enclosure url="https://static.beyondlive.com/contents/b6ea1fc0ddc947d293297f1df8f06d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/297</link>
-            <guid>https://beyondlive.com/contents/297</guid>
-            <pubDate>Wed, 04 Oct 2023 03:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[21. 10월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4cfce4768b1a4670bc85fe15d168b267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/291</link>
             <guid>https://beyondlive.com/contents/291</guid>
@@ -252,6 +244,14 @@
             <pubDate>Thu, 28 Sep 2023 04:14:10 GMT</pubDate>
             <content:encoded><![CDATA[19. 10월. 2023. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3d933001ad074a41bc90ab18fb09fa36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/297</link>
+            <guid>https://beyondlive.com/contents/297</guid>
+            <pubDate>Wed, 04 Oct 2023 03:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[21. 10월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/4cfce4768b1a4670bc85fe15d168b267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 NCT CONCERT - NCT NATION : To The World Re-Streaming (Beyond LIVE ─ TOP)]]></title>
