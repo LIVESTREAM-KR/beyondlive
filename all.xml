@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 09:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 10:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[안내] HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child―VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/191</link>
-            <guid>https://beyondlive.com/notice/191</guid>
-            <pubDate>Sun, 08 Oct 2023 05:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[05. 10월. 2023]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 TWICE FANMEETING 〈ONCE AGAIN〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/192</link>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/189</guid>
             <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/183</link>
+            <guid>https://beyondlive.com/notice/183</guid>
+            <pubDate>Sun, 08 Oct 2023 10:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
