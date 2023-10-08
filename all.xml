@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 11:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 12:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[28. 9월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> in JAPAN온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/186</link>
-            <guid>https://beyondlive.com/notice/186</guid>
-            <pubDate>Mon, 25 Sep 2023 03:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[25. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/188</link>
             <guid>https://beyondlive.com/notice/188</guid>
@@ -50,13 +43,6 @@
             <content:encoded><![CDATA[22. 9월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/185</link>
-            <guid>https://beyondlive.com/notice/185</guid>
-            <pubDate>Thu, 21 Sep 2023 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[안내] 일본 내 편의점(CVS) 결제 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/184</link>
             <guid>https://beyondlive.com/notice/184</guid>
@@ -64,11 +50,11 @@
             <content:encoded><![CDATA[07. 9월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/176</link>
-            <guid>https://beyondlive.com/notice/176</guid>
-            <pubDate>Fri, 11 Aug 2023 05:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[11. 8월. 2023]]></content:encoded>
+            <title><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> in JAPAN온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/186</link>
+            <guid>https://beyondlive.com/notice/186</guid>
+            <pubDate>Mon, 25 Sep 2023 03:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[25. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[안내]SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
@@ -76,6 +62,28 @@
             <guid>https://beyondlive.com/notice/189</guid>
             <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/185</link>
+            <guid>https://beyondlive.com/notice/185</guid>
+            <pubDate>Thu, 21 Sep 2023 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[21. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/183</link>
+            <guid>https://beyondlive.com/notice/183</guid>
+            <pubDate>Sun, 08 Oct 2023 12:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(290);</link>
+            <guid>javascript:moveViewPage(290);</guid>
+            <pubDate>Sun, 08 Oct 2023 12:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3417872875f346c5bbe2f42890e5788f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -198,22 +206,6 @@
             <enclosure url="https://static.beyondlive.com/contents/abb322af73c64becb97dda714b52a9cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(278);</link>
-            <guid>javascript:moveViewPage(278);</guid>
-            <pubDate>Wed, 30 Aug 2023 09:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/b6ea1fc0ddc947d293297f1df8f06d7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/291</link>
-            <guid>https://beyondlive.com/contents/291</guid>
-            <pubDate>Mon, 25 Sep 2023 03:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 16:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1c69daba45354222913ed44994a5b154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/292</link>
             <guid>https://beyondlive.com/contents/292</guid>
@@ -289,14 +281,6 @@
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/291</link>
-            <guid>https://beyondlive.com/contents/291</guid>
-            <pubDate>Mon, 25 Sep 2023 03:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 16:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f3ec242620ad44c390ac462f4cc3d587.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/261</link>
             <guid>https://beyondlive.com/contents/261</guid>
@@ -335,6 +319,14 @@
             <pubDate>Sat, 23 Sep 2023 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[28. 10월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef4aeead3c7c4a8884aa2c51804bee7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/290</link>
+            <guid>https://beyondlive.com/contents/290</guid>
+            <pubDate>Sun, 08 Oct 2023 12:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[12. 11월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3417872875f346c5bbe2f42890e5788f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
