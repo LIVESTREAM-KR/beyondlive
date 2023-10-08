@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 10:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 11:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child―VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/191</link>
+            <guid>https://beyondlive.com/notice/191</guid>
+            <pubDate>Sun, 08 Oct 2023 11:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[05. 10월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 TWICE FANMEETING 〈ONCE AGAIN〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/192</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/189</guid>
             <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/183</link>
-            <guid>https://beyondlive.com/notice/183</guid>
-            <pubDate>Sun, 08 Oct 2023 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -214,22 +214,6 @@
             <enclosure url="https://static.beyondlive.com/contents/1c69daba45354222913ed44994a5b154.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/266</link>
-            <guid>https://beyondlive.com/contents/266</guid>
-            <pubDate>Fri, 25 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1b55a372fa3e4ecb9cbe23c67e599ea0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/289</link>
-            <guid>https://beyondlive.com/contents/289</guid>
-            <pubDate>Thu, 21 Sep 2023 03:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/e89947dfd0e240cc840d4fca52e6f332.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/292</link>
             <guid>https://beyondlive.com/contents/292</guid>
@@ -311,22 +295,6 @@
             <pubDate>Mon, 25 Sep 2023 03:12:13 GMT</pubDate>
             <content:encoded><![CDATA[08. 10월. 2023. 16:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f3ec242620ad44c390ac462f4cc3d587.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/266</link>
-            <guid>https://beyondlive.com/contents/266</guid>
-            <pubDate>Fri, 25 Aug 2023 08:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6aed8b74d79d4b3a8944c9a6b6ee5edc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/289</link>
-            <guid>https://beyondlive.com/contents/289</guid>
-            <pubDate>Thu, 21 Sep 2023 03:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/17eb4cb0b4e14198b3f1bc512187308a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
