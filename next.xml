@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 04:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 05:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,14 +41,6 @@
             <guid>https://beyondlive.com/contents/vod/296</guid>
             <pubDate>Thu, 05 Oct 2023 06:16:23 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Young K Solo Concert <Letters with notes> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/263</link>
-            <guid>https://beyondlive.com/contents/263</guid>
-            <pubDate>Sun, 03 Sep 2023 11:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/de8dbfd734e84256a6ae3d7b16f75a60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN]]></title>

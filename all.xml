@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 04:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 05:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child―VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/191</link>
+            <guid>https://beyondlive.com/notice/191</guid>
+            <pubDate>Sun, 08 Oct 2023 05:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[05. 10월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 2023 TWICE FANMEETING 〈ONCE AGAIN〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/192</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/189</guid>
             <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/183</link>
-            <guid>https://beyondlive.com/notice/183</guid>
-            <pubDate>Sun, 08 Oct 2023 04:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -254,14 +254,6 @@
             <enclosure url="https://static.beyondlive.com/contents/4cfce4768b1a4670bc85fe15d168b267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Young K Solo Concert <Letters with notes> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/263</link>
-            <guid>https://beyondlive.com/contents/263</guid>
-            <pubDate>Sun, 03 Sep 2023 11:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c1621907e671436faa119d5d0fa49cef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/261</link>
             <guid>https://beyondlive.com/contents/261</guid>
@@ -311,14 +303,6 @@
             <guid>https://beyondlive.com/contents/vod/296</guid>
             <pubDate>Thu, 05 Oct 2023 06:16:23 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Young K Solo Concert <Letters with notes> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/263</link>
-            <guid>https://beyondlive.com/contents/263</guid>
-            <pubDate>Sun, 03 Sep 2023 11:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[08. 10월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/de8dbfd734e84256a6ae3d7b16f75a60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN (Beyond LIVE ─ Beyond NEXT)]]></title>
