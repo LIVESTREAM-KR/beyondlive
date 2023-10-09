@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 03:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 04:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -332,7 +332,7 @@
             <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/299</link>
             <guid>https://beyondlive.com/contents/299</guid>
-            <pubDate>Mon, 09 Oct 2023 03:12:56 GMT</pubDate>
+            <pubDate>Mon, 09 Oct 2023 03:12:48 GMT</pubDate>
             <content:encoded><![CDATA[22. 10월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/979838acd28c477081e65720ea423d7b.jpg" length="0" type="image/jpg"/>
         </item>
