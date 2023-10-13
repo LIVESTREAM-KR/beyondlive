@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-10-13T07:11:33.040Z</updated>
+    <updated>2023-10-13T08:16:08.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[22. 9월. 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[안내] 일본 내 편의점(CVS) 결제 도입 안내]]></title>
-        <id>https://beyondlive.com/notice/184</id>
-        <link href="https://beyondlive.com/notice/184"/>
-        <updated>2023-09-07T08:14:55.413Z</updated>
-        <content type="html"><![CDATA[07. 9월. 2023]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> in JAPAN온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/186</id>
         <link href="https://beyondlive.com/notice/186"/>
@@ -74,5 +67,12 @@
         <link href="https://beyondlive.com/notice/185"/>
         <updated>2023-09-21T03:12:07.968Z</updated>
         <content type="html"><![CDATA[21. 9월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/183</id>
+        <link href="https://beyondlive.com/notice/183"/>
+        <updated>2023-10-13T08:15:45.209Z</updated>
+        <content type="html"><![CDATA[13. 9월. 2023]]></content>
     </entry>
 </feed>

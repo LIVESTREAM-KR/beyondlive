@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 07:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 08:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,13 +50,6 @@
             <content:encoded><![CDATA[22. 9월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안내] 일본 내 편의점(CVS) 결제 도입 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/184</link>
-            <guid>https://beyondlive.com/notice/184</guid>
-            <pubDate>Thu, 07 Sep 2023 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[07. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> in JAPAN온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/186</link>
             <guid>https://beyondlive.com/notice/186</guid>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/185</guid>
             <pubDate>Thu, 21 Sep 2023 03:12:07 GMT</pubDate>
             <content:encoded><![CDATA[21. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/183</link>
+            <guid>https://beyondlive.com/notice/183</guid>
+            <pubDate>Fri, 13 Oct 2023 08:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -262,11 +262,25 @@
             <enclosure url="https://static.beyondlive.com/contents/8505ad16102543d68745bb4a42d351a8.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[<DAY1-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/272</link>
+            <guid>https://beyondlive.com/contents/vod/272</guid>
+            <pubDate>Fri, 13 Oct 2023 08:16:07 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/9062d7b01b484836b4510e99d146593e.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/vod/271</link>
             <guid>https://beyondlive.com/contents/vod/271</guid>
             <pubDate>Mon, 02 Oct 2023 12:22:24 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/f326606983394d2aaa3c7cf62e900b40.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-밤공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/274</link>
+            <guid>https://beyondlive.com/contents/vod/274</guid>
+            <pubDate>Fri, 13 Oct 2023 08:16:07 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/4721a56277d0437694ad41412be3214d.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<DAY2-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’ ARCHIVE (Beyond LIVE ─ Beyond NEXT)]]></title>
