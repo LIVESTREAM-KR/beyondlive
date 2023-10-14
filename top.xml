@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 11:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 12:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 09 Oct 2023 03:12:48 GMT</pubDate>
             <content:encoded><![CDATA[22. 10월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f2bc4e1c21cc4d4bb7cec69208585d05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/261</link>
-            <guid>https://beyondlive.com/contents/261</guid>
-            <pubDate>Sun, 10 Sep 2023 12:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8412a1d1055b49bcb4c8190b2ccaa6d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 11:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 12:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -262,14 +262,6 @@
             <enclosure url="https://static.beyondlive.com/contents/f2bc4e1c21cc4d4bb7cec69208585d05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/261</link>
-            <guid>https://beyondlive.com/contents/261</guid>
-            <pubDate>Sun, 10 Sep 2023 12:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8412a1d1055b49bcb4c8190b2ccaa6d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/288</link>
             <guid>https://beyondlive.com/contents/288</guid>
@@ -311,14 +303,6 @@
             <guid>https://beyondlive.com/contents/vod/296</guid>
             <pubDate>Thu, 05 Oct 2023 06:16:23 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/261</link>
-            <guid>https://beyondlive.com/contents/261</guid>
-            <pubDate>Sun, 10 Sep 2023 12:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[14. 10월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ec23d2b484364f159030fb48bc900530.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT (Beyond LIVE ─ Beyond NEXT)]]></title>
