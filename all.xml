@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 10:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 11:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -364,7 +364,7 @@
             <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/301</link>
             <guid>https://beyondlive.com/contents/301</guid>
-            <pubDate>Sat, 14 Oct 2023 10:12:20 GMT</pubDate>
+            <pubDate>Sat, 14 Oct 2023 10:12:13 GMT</pubDate>
             <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
         </item>
