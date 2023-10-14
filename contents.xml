@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 09:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 10:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 08 Oct 2023 12:19:59 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3417872875f346c5bbe2f42890e5788f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eve Arena Tour 2023 「kororon」]]></title>
+            <link>javascript:moveViewPage(301);</link>
+            <guid>javascript:moveViewPage(301);</guid>
+            <pubDate>Sat, 14 Oct 2023 10:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[Eve]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming]]></title>

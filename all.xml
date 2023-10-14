@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 09:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 10:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Eve Arena Tour 2023 "kororon" 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/194</link>
+            <guid>https://beyondlive.com/notice/194</guid>
+            <pubDate>Sat, 14 Oct 2023 10:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[14. 10월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] YESUNG SOLO CONCERT – Unfading Sense 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/193</link>
@@ -71,19 +78,20 @@
             <content:encoded><![CDATA[21. 9월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/183</link>
-            <guid>https://beyondlive.com/notice/183</guid>
-            <pubDate>Fri, 13 Oct 2023 08:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[13. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(290);</link>
             <guid>javascript:moveViewPage(290);</guid>
             <pubDate>Sun, 08 Oct 2023 12:19:59 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3417872875f346c5bbe2f42890e5788f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(301);</link>
+            <guid>javascript:moveViewPage(301);</guid>
+            <pubDate>Sat, 14 Oct 2023 10:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[Eve]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -212,6 +220,14 @@
             <pubDate>Wed, 13 Sep 2023 01:47:09 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/abb322af73c64becb97dda714b52a9cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/301</link>
+            <guid>https://beyondlive.com/contents/301</guid>
+            <pubDate>Sat, 14 Oct 2023 10:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1307975ebaac4fdc9674bff306190106.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT (Beyond LIVE ─ TOP)]]></title>
@@ -343,6 +359,14 @@
             <pubDate>Sat, 23 Sep 2023 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[28. 10월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef4aeead3c7c4a8884aa2c51804bee7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/301</link>
+            <guid>https://beyondlive.com/contents/301</guid>
+            <pubDate>Sat, 14 Oct 2023 10:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

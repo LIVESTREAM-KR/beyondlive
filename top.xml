@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 09:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 10:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eve Arena Tour 2023 「kororon」]]></title>
+            <link>https://beyondlive.com/contents/301</link>
+            <guid>https://beyondlive.com/contents/301</guid>
+            <pubDate>Sat, 14 Oct 2023 10:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1307975ebaac4fdc9674bff306190106.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
             <link>https://beyondlive.com/contents/292</link>
