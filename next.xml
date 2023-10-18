@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 12:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 13:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,6 @@
             <guid>https://beyondlive.com/contents/vod/296</guid>
             <pubDate>Thu, 05 Oct 2023 06:16:23 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
-            <link>https://beyondlive.com/contents/292</link>
-            <guid>https://beyondlive.com/contents/292</guid>
-            <pubDate>Thu, 28 Sep 2023 10:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[18. 10월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/690d5e462f3a4144a6ced01565e3f101.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[DAY2] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT]]></title>
