@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 10:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 11:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/197</link>
+            <guid>https://beyondlive.com/notice/197</guid>
+            <pubDate>Wed, 18 Oct 2023 11:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[18. 10월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] Eve Arena Tour 2023 "kororon" 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/194</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/189</guid>
             <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/185</link>
-            <guid>https://beyondlive.com/notice/185</guid>
-            <pubDate>Thu, 21 Sep 2023 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[21. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ 공연)]]></title>
