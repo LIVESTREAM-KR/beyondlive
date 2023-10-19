@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 00:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 01:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,13 +27,6 @@
             <guid>https://beyondlive.com/notice/193</guid>
             <pubDate>Mon, 09 Oct 2023 03:12:33 GMT</pubDate>
             <content:encoded><![CDATA[09. 10월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[안내] HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child―VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/191</link>
-            <guid>https://beyondlive.com/notice/191</guid>
-            <pubDate>Wed, 18 Oct 2023 05:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[05. 10월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 2023 TWICE FANMEETING 〈ONCE AGAIN〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -76,6 +69,13 @@
             <guid>https://beyondlive.com/notice/189</guid>
             <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/185</link>
+            <guid>https://beyondlive.com/notice/185</guid>
+            <pubDate>Thu, 19 Oct 2023 01:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[21. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ 공연)]]></title>
