@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 05:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 06:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공연안내] Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/196</link>
+            <guid>https://beyondlive.com/notice/196</guid>
+            <pubDate>Fri, 20 Oct 2023 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[20. 10월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/197</link>
@@ -71,13 +78,6 @@
             <content:encoded><![CDATA[25. 9월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[안내]SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank 아티스트 불참 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/189</link>
-            <guid>https://beyondlive.com/notice/189</guid>
-            <pubDate>Sat, 23 Sep 2023 12:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[23. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(290);</link>
             <guid>javascript:moveViewPage(290);</guid>
@@ -92,6 +92,14 @@
             <pubDate>Sat, 14 Oct 2023 10:12:05 GMT</pubDate>
             <content:encoded><![CDATA[Eve]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ 공연)]]></title>
+            <link>javascript:moveViewPage(305);</link>
+            <guid>javascript:moveViewPage(305);</guid>
+            <pubDate>Fri, 20 Oct 2023 06:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[하뉴 유즈루]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3c5eb73c954c4319846bc8f1e185fa77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -230,12 +238,12 @@
             <enclosure url="https://static.beyondlive.com/contents/b6ea1fc0ddc947d293297f1df8f06d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제 (Beyond LIVE ─ 공연)]]></title>
-            <link>javascript:moveViewPage(277);</link>
-            <guid>javascript:moveViewPage(277);</guid>
-            <pubDate>Fri, 20 Oct 2023 02:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f3b9b19ba1df4a98bb763bd127a56d21.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/305</link>
+            <guid>https://beyondlive.com/contents/305</guid>
+            <pubDate>Fri, 20 Oct 2023 06:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ff9d774bdc094807baa0dc1a2eb4db3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 (Beyond LIVE ─ TOP)]]></title>
@@ -254,6 +262,14 @@
             <enclosure url="https://static.beyondlive.com/contents/f2bc4e1c21cc4d4bb7cec69208585d05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/301</link>
+            <guid>https://beyondlive.com/contents/301</guid>
+            <pubDate>Fri, 20 Oct 2023 06:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1307975ebaac4fdc9674bff306190106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/288</link>
             <guid>https://beyondlive.com/contents/288</guid>
@@ -268,6 +284,13 @@
             <pubDate>Sun, 08 Oct 2023 12:20:15 GMT</pubDate>
             <content:encoded><![CDATA[12. 11월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7a8cce2dd0d54931b2dd2510df58c42f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child― (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/296</link>
+            <guid>https://beyondlive.com/contents/vod/296</guid>
+            <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -292,6 +315,22 @@
             <pubDate>Sat, 23 Sep 2023 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[28. 10월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef4aeead3c7c4a8884aa2c51804bee7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/305</link>
+            <guid>https://beyondlive.com/contents/305</guid>
+            <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3c5eb73c954c4319846bc8f1e185fa77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/301</link>
+            <guid>https://beyondlive.com/contents/301</guid>
+            <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

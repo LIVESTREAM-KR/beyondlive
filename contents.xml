@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 05:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 06:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 14 Oct 2023 10:12:05 GMT</pubDate>
             <content:encoded><![CDATA[Eve]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR]]></title>
+            <link>javascript:moveViewPage(305);</link>
+            <guid>javascript:moveViewPage(305);</guid>
+            <pubDate>Fri, 20 Oct 2023 06:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[하뉴 유즈루]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/3c5eb73c954c4319846bc8f1e185fa77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 20 Oct 2023 02:19:59 GMT</pubDate>
             <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b6ea1fc0ddc947d293297f1df8f06d7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
-            <link>javascript:moveViewPage(277);</link>
-            <guid>javascript:moveViewPage(277);</guid>
-            <pubDate>Fri, 20 Oct 2023 02:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f3b9b19ba1df4a98bb763bd127a56d21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
