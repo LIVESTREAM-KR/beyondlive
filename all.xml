@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 04:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 05:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,7 +238,7 @@
             <enclosure url="https://static.beyondlive.com/contents/f3b9b19ba1df4a98bb763bd127a56d21.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10/21 re 11/18 2023 TWICE FANMEETING 〈ONCE AGAIN〉 (Beyond LIVE ─ TOP)]]></title>
+            <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/297</link>
             <guid>https://beyondlive.com/contents/297</guid>
             <pubDate>Wed, 04 Oct 2023 03:12:35 GMT</pubDate>
@@ -246,7 +246,7 @@
             <enclosure url="https://static.beyondlive.com/contents/4cfce4768b1a4670bc85fe15d168b267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[10/22 re 11/11 YESUNG <Unfading Sense> (Beyond LIVE ─ TOP)]]></title>
+            <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/299</link>
             <guid>https://beyondlive.com/contents/299</guid>
             <pubDate>Mon, 09 Oct 2023 03:12:48 GMT</pubDate>
@@ -254,15 +254,7 @@
             <enclosure url="https://static.beyondlive.com/contents/f2bc4e1c21cc4d4bb7cec69208585d05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11/4-12/3 Eve <kororon> (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/301</link>
-            <guid>https://beyondlive.com/contents/301</guid>
-            <pubDate>Sat, 14 Oct 2023 10:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1307975ebaac4fdc9674bff306190106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[re 10/28SMTOWN LIVE 2023 SMCU PALACE @JAKARTA (Beyond LIVE ─ TOP)]]></title>
+            <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/288</link>
             <guid>https://beyondlive.com/contents/288</guid>
             <pubDate>Sat, 23 Sep 2023 15:11:01 GMT</pubDate>
@@ -270,11 +262,12 @@
             <enclosure url="https://static.beyondlive.com/contents/8505ad16102543d68745bb4a42d351a8.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child― (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/296</link>
-            <guid>https://beyondlive.com/contents/vod/296</guid>
-            <pubDate>Thu, 05 Oct 2023 06:16:23 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/290</link>
+            <guid>https://beyondlive.com/contents/290</guid>
+            <pubDate>Sun, 08 Oct 2023 12:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[12. 11월. 2023. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7a8cce2dd0d54931b2dd2510df58c42f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 (Beyond LIVE ─ Beyond NEXT)]]></title>
@@ -299,14 +292,6 @@
             <pubDate>Sat, 23 Sep 2023 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[28. 10월. 2023. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ef4aeead3c7c4a8884aa2c51804bee7e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/301</link>
-            <guid>https://beyondlive.com/contents/301</guid>
-            <pubDate>Sat, 14 Oct 2023 10:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
