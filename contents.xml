@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 01:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 02:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,22 @@
             <pubDate>Wed, 13 Sep 2023 01:47:09 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/abb322af73c64becb97dda714b52a9cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-밤공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
+            <link>javascript:moveViewPage(278);</link>
+            <guid>javascript:moveViewPage(278);</guid>
+            <pubDate>Fri, 20 Oct 2023 02:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/b6ea1fc0ddc947d293297f1df8f06d7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<DAY2-낮공연>일본판 프로젝트 세카이 3주년 감사제]]></title>
+            <link>javascript:moveViewPage(277);</link>
+            <guid>javascript:moveViewPage(277);</guid>
+            <pubDate>Fri, 20 Oct 2023 02:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트 세카이 컬러풀 스테이지! feat.하츠네 미쿠]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/f3b9b19ba1df4a98bb763bd127a56d21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
