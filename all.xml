@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 06:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 07:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,20 +238,20 @@
             <enclosure url="https://static.beyondlive.com/contents/abb322af73c64becb97dda714b52a9cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/305</link>
-            <guid>https://beyondlive.com/contents/305</guid>
-            <pubDate>Fri, 20 Oct 2023 06:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[04. 11월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ff9d774bdc094807baa0dc1a2eb4db3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/299</link>
             <guid>https://beyondlive.com/contents/299</guid>
             <pubDate>Mon, 09 Oct 2023 03:12:48 GMT</pubDate>
             <content:encoded><![CDATA[22. 10월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/f2bc4e1c21cc4d4bb7cec69208585d05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/305</link>
+            <guid>https://beyondlive.com/contents/305</guid>
+            <pubDate>Fri, 20 Oct 2023 06:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ff9d774bdc094807baa0dc1a2eb4db3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ TOP)]]></title>
@@ -276,6 +276,14 @@
             <pubDate>Sun, 08 Oct 2023 12:20:15 GMT</pubDate>
             <content:encoded><![CDATA[12. 11월. 2023. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7a8cce2dd0d54931b2dd2510df58c42f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 Re-Streaming (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/298</link>
+            <guid>https://beyondlive.com/contents/298</guid>
+            <pubDate>Sat, 21 Oct 2023 12:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[18. 11월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9514e77872b44fe0a8c8964aa53ee1ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child― (Beyond LIVE ─ Beyond NEXT)]]></title>
