@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-10-21T23:11:14.615Z</updated>
+    <updated>2023-10-22T00:55:40.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[05. 10월. 2023]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내]]></title>
+        <id>https://beyondlive.com/notice/188</id>
+        <link href="https://beyondlive.com/notice/188"/>
+        <updated>2023-09-22T10:12:51.357Z</updated>
+        <content type="html"><![CDATA[22. 9월. 2023]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[공연안내] 2023 TWICE FANMEETING 〈ONCE AGAIN〉 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/192</id>
         <link href="https://beyondlive.com/notice/192"/>
@@ -55,24 +62,17 @@
         <content type="html"><![CDATA[28. 9월. 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내]]></title>
-        <id>https://beyondlive.com/notice/188</id>
-        <link href="https://beyondlive.com/notice/188"/>
-        <updated>2023-09-22T10:12:51.357Z</updated>
-        <content type="html"><![CDATA[22. 9월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안내]Rabbit LINE Pay 도입 안내]]></title>
-        <id>https://beyondlive.com/notice/187</id>
-        <link href="https://beyondlive.com/notice/187"/>
-        <updated>2023-09-25T09:12:40.271Z</updated>
-        <content type="html"><![CDATA[22. 9월. 2023]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> in JAPAN온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/186</id>
         <link href="https://beyondlive.com/notice/186"/>
         <updated>2023-09-25T03:11:57.861Z</updated>
         <content type="html"><![CDATA[25. 9월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안내]SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank 아티스트 불참 안내]]></title>
+        <id>https://beyondlive.com/notice/189</id>
+        <link href="https://beyondlive.com/notice/189"/>
+        <updated>2023-10-22T00:55:17.316Z</updated>
+        <content type="html"><![CDATA[23. 9월. 2023]]></content>
     </entry>
 </feed>
