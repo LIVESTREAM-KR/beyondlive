@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 08:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 09:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,13 +29,6 @@
             <content:encoded><![CDATA[14. 10월. 2023]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[공연안내] YESUNG SOLO CONCERT – Unfading Sense 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/193</link>
-            <guid>https://beyondlive.com/notice/193</guid>
-            <pubDate>Mon, 09 Oct 2023 03:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[09. 10월. 2023]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[안내] HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child―VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/191</link>
             <guid>https://beyondlive.com/notice/191</guid>
@@ -48,6 +41,13 @@
             <guid>https://beyondlive.com/notice/188</guid>
             <pubDate>Fri, 22 Sep 2023 10:12:51 GMT</pubDate>
             <content:encoded><![CDATA[22. 9월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[공연안내] YESUNG SOLO CONCERT – Unfading Sense 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/193</link>
+            <guid>https://beyondlive.com/notice/193</guid>
+            <pubDate>Mon, 09 Oct 2023 03:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[09. 10월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] 2023 TWICE FANMEETING 〈ONCE AGAIN〉 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/abb322af73c64becb97dda714b52a9cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/299</link>
-            <guid>https://beyondlive.com/contents/299</guid>
-            <pubDate>Mon, 09 Oct 2023 03:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[22. 10월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f2bc4e1c21cc4d4bb7cec69208585d05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/305</link>
             <guid>https://beyondlive.com/contents/305</guid>
@@ -291,14 +283,6 @@
             <guid>https://beyondlive.com/contents/vod/296</guid>
             <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/299</link>
-            <guid>https://beyondlive.com/contents/299</guid>
-            <pubDate>Mon, 09 Oct 2023 03:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[22. 10월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/979838acd28c477081e65720ea423d7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>

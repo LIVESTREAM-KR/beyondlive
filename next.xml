@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 08:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 09:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,14 +13,6 @@
             <guid>https://beyondlive.com/contents/vod/296</guid>
             <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense]]></title>
-            <link>https://beyondlive.com/contents/299</link>
-            <guid>https://beyondlive.com/contents/299</guid>
-            <pubDate>Mon, 09 Oct 2023 03:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[22. 10월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/979838acd28c477081e65720ea423d7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank Re-Streaming]]></title>
