@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 09:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 10:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 08 Oct 2023 12:19:59 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3417872875f346c5bbe2f42890e5788f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense Re-Streaming]]></title>
+            <link>javascript:moveViewPage(300);</link>
+            <guid>javascript:moveViewPage(300);</guid>
+            <pubDate>Sun, 22 Oct 2023 10:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[예성]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ac98cbfea7ae4d2ebbd87ce0eb61e6dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eve Arena Tour 2023 「kororon」]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
             <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/42f4855c520c455998305f1ba061b87d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN LIVE 2023 SMCU PALACE @JAKARTA with KB Bank]]></title>
-            <link>javascript:moveViewPage(287);</link>
-            <guid>javascript:moveViewPage(287);</guid>
-            <pubDate>Wed, 13 Sep 2023 01:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/abb322af73c64becb97dda714b52a9cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

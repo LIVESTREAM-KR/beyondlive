@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 09:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 10:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,6 +37,14 @@
             <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
             <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/300</link>
+            <guid>https://beyondlive.com/contents/300</guid>
+            <pubDate>Sun, 22 Oct 2023 10:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[11. 11월. 2023. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ac98cbfea7ae4d2ebbd87ce0eb61e6dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming]]></title>
