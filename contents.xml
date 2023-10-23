@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 02:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 03:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 22 Oct 2023 10:11:49 GMT</pubDate>
             <content:encoded><![CDATA[예성]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ac98cbfea7ae4d2ebbd87ce0eb61e6dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue>]]></title>
+            <link>javascript:moveViewPage(303);</link>
+            <guid>javascript:moveViewPage(303);</guid>
+            <pubDate>Mon, 23 Oct 2023 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[SUPER JUNIOR]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cc18ad871f3e44018b6be626a603cca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eve Arena Tour 2023 「kororon」]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
             <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c55dc5b6171749dd897daec7d3d676e3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<DAY1-낮공연> Nosaka Labo 낭독극 아르센 뤼팽#3 ‘초록 눈동자의 아가씨’]]></title>
-            <link>javascript:moveViewPage(267);</link>
-            <guid>javascript:moveViewPage(267);</guid>
-            <pubDate>Fri, 25 Aug 2023 03:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[Nosaka Labo]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/42f4855c520c455998305f1ba061b87d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
