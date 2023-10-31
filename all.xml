@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 08:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 09:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[안내] Ado Japan Tour 2023 "MARS" VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/200</link>
+            <guid>https://beyondlive.com/notice/200</guid>
+            <pubDate>Tue, 31 Oct 2023 09:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[31. 10월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/197</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/190</guid>
             <pubDate>Thu, 28 Sep 2023 04:13:52 GMT</pubDate>
             <content:encoded><![CDATA[28. 9월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] 2PM 15th Anniversary Concert <It's 2PM> in JAPAN온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/186</link>
-            <guid>https://beyondlive.com/notice/186</guid>
-            <pubDate>Mon, 25 Sep 2023 03:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[25. 9월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 Re-Streaming (Beyond LIVE ─ 공연)]]></title>
@@ -238,6 +238,26 @@
             <enclosure url="https://static.beyondlive.com/contents/c55dc5b6171749dd897daec7d3d676e3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Ado Japan Tour 2023 "MARS" (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/vod/312</link>
+            <guid>https://beyondlive.com/contents/vod/312</guid>
+            <pubDate>Tue, 31 Oct 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/vod/wYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg" alt="">
+											</span>
+											<em class="top-banner__name">Ado</em>
+										</div>
+										<a href="/contents/vod/312" class="top-banner__title">Ado Japan Tour 2023 "MARS"</a>
+										<a href="/contents/vod/312" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/303</link>
             <guid>https://beyondlive.com/contents/303</guid>
@@ -291,6 +311,13 @@
             <guid>https://beyondlive.com/contents/vod/296</guid>
             <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ado Japan Tour 2023 "MARS" (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <link>https://beyondlive.com/contents/vod/312</link>
+            <guid>https://beyondlive.com/contents/vod/312</guid>
+            <pubDate>Tue, 31 Oct 2023 09:12:27 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/vod/GoznXltrzt4CedOyQqIDDn9WK5kVd6bJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ Beyond NEXT)]]></title>

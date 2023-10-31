@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 08:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 09:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://beyondlive.com/contents/vod/296</guid>
             <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ado Japan Tour 2023 "MARS"]]></title>
+            <link>https://beyondlive.com/contents/vod/312</link>
+            <guid>https://beyondlive.com/contents/vod/312</guid>
+            <pubDate>Tue, 31 Oct 2023 09:12:27 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/vod/GoznXltrzt4CedOyQqIDDn9WK5kVd6bJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR]]></title>
