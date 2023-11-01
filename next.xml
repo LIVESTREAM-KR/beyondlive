@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 05:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 06:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,20 @@
             <guid>https://beyondlive.com/contents/vod/312</guid>
             <pubDate>Tue, 31 Oct 2023 09:12:27 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/vod/GoznXltrzt4CedOyQqIDDn9WK5kVd6bJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY2] =LOVE 6th ANNIVERSARY PREMIUM CONCERT Archive]]></title>
+            <link>https://beyondlive.com/contents/vod/295</link>
+            <guid>https://beyondlive.com/contents/vod/295</guid>
+            <pubDate>Wed, 01 Nov 2023 06:16:38 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/efa382099edd4cc8a9397707218e45ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY1] =LOVE 6th ANNIVERSARY PREMIUM CONCERT Archive]]></title>
+            <link>https://beyondlive.com/contents/vod/294</link>
+            <guid>https://beyondlive.com/contents/vod/294</guid>
+            <pubDate>Wed, 01 Nov 2023 06:16:38 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/5f90fea8ef0442c88da62832bd699253.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR]]></title>
