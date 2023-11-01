@@ -4,21 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 23:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 00:55:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[안내] Ado Japan Tour 2023 "MARS" VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/200</link>
-            <guid>https://beyondlive.com/notice/200</guid>
-            <pubDate>Tue, 31 Oct 2023 09:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[31. 10월. 2023]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/197</link>
             <guid>https://beyondlive.com/notice/197</guid>
             <pubDate>Wed, 18 Oct 2023 11:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[01. 11월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[안내] Ado Japan Tour 2023 "MARS" VOD 출시 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/200</link>
+            <guid>https://beyondlive.com/notice/200</guid>
+            <pubDate>Tue, 31 Oct 2023 09:12:05 GMT</pubDate>
             <content:encoded><![CDATA[31. 10월. 2023]]></content:encoded>
         </item>
         <item>
