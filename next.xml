@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 10:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 11:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <pubDate>Sat, 21 Oct 2023 12:21:01 GMT</pubDate>
             <content:encoded><![CDATA[18. 11월. 2023. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/68d47a5db8454e6ab3f2012db476bf9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’]]></title>
+            <link>https://beyondlive.com/contents/313</link>
+            <guid>https://beyondlive.com/contents/313</guid>
+            <pubDate>Fri, 03 Nov 2023 11:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[26. 11월. 2023. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Fb4KUhQ5kIRGSl0hDYai1FdEHdvr2Glq.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
