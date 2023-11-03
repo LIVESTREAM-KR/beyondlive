@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 04:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 05:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,7 +47,7 @@
             <link>https://beyondlive.com/notice/188</link>
             <guid>https://beyondlive.com/notice/188</guid>
             <pubDate>Fri, 22 Sep 2023 10:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[22. 9월. 2023]]></content:encoded>
+            <content:encoded><![CDATA[03. 11월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
@@ -238,26 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/c55dc5b6171749dd897daec7d3d676e3.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Ado Japan Tour 2023 "MARS" (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/vod/312</link>
-            <guid>https://beyondlive.com/contents/vod/312</guid>
-            <pubDate>Tue, 31 Oct 2023 09:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg);"></div>
-									<div class="top-banner__info">
-										<div class="top-banner__artist shrink">
-											<span class="top-banner__logo">
-												<img src="https://static.beyondlive.com/vod/wYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg" alt="">
-											</span>
-											<em class="top-banner__name">Ado</em>
-										</div>
-										<a href="/contents/vod/312" class="top-banner__title">Ado Japan Tour 2023 "MARS"</a>
-										<a href="/contents/vod/312" class="top-banner__more">
-											<span class="text">VOD 정보 확인</span>
-										</a>
-									</div>]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/303</link>
             <guid>https://beyondlive.com/contents/303</guid>
@@ -304,6 +284,26 @@
             <pubDate>Sat, 21 Oct 2023 12:21:01 GMT</pubDate>
             <content:encoded><![CDATA[18. 11월. 2023. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/9514e77872b44fe0a8c8964aa53ee1ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ado Japan Tour 2023 "MARS" (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/vod/312</link>
+            <guid>https://beyondlive.com/contents/vod/312</guid>
+            <pubDate>Tue, 31 Oct 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg);"></div>
+									<div class="top-banner__info">
+										<div class="top-banner__artist shrink">
+											<span class="top-banner__logo">
+												<img src="https://static.beyondlive.com/vod/wYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg" alt="">
+											</span>
+											<em class="top-banner__name">Ado</em>
+										</div>
+										<a href="/contents/vod/312" class="top-banner__title">Ado Japan Tour 2023 "MARS"</a>
+										<a href="/contents/vod/312" class="top-banner__more">
+											<span class="text">VOD 정보 확인</span>
+										</a>
+									</div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child― (Beyond LIVE ─ Beyond NEXT)]]></title>
