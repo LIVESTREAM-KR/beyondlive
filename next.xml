@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 11:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 12:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -34,14 +34,6 @@
             <guid>https://beyondlive.com/contents/vod/294</guid>
             <pubDate>Wed, 01 Nov 2023 06:16:38 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/5f90fea8ef0442c88da62832bd699253.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eve Arena Tour 2023 「kororon」]]></title>
-            <link>https://beyondlive.com/contents/301</link>
-            <guid>https://beyondlive.com/contents/301</guid>
-            <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6db8468a43da4bc5ba8d21e8963868fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue>]]></title>
