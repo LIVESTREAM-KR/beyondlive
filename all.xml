@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 10:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 11:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,20 @@
             <guid>https://beyondlive.com/notice/200</guid>
             <pubDate>Tue, 31 Oct 2023 09:12:05 GMT</pubDate>
             <content:encoded><![CDATA[31. 10월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/188</link>
+            <guid>https://beyondlive.com/notice/188</guid>
+            <pubDate>Fri, 22 Sep 2023 10:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[03. 11월. 2023]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/197</link>
+            <guid>https://beyondlive.com/notice/197</guid>
+            <pubDate>Wed, 18 Oct 2023 11:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[01. 11월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -41,20 +55,6 @@
             <guid>https://beyondlive.com/notice/194</guid>
             <pubDate>Sat, 14 Oct 2023 10:11:58 GMT</pubDate>
             <content:encoded><![CDATA[14. 10월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/188</link>
-            <guid>https://beyondlive.com/notice/188</guid>
-            <pubDate>Fri, 22 Sep 2023 10:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[03. 11월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/197</link>
-            <guid>https://beyondlive.com/notice/197</guid>
-            <pubDate>Wed, 18 Oct 2023 11:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[01. 11월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[공연안내] YESUNG SOLO CONCERT – Unfading Sense 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
@@ -238,14 +238,6 @@
             <enclosure url="https://static.beyondlive.com/contents/6bfc72457f4e4e46b311ccf9df5cd347.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/305</link>
-            <guid>https://beyondlive.com/contents/305</guid>
-            <pubDate>Fri, 20 Oct 2023 06:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[04. 11월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/634601fdbf1a4b13916f23715285d594.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/303</link>
             <guid>https://beyondlive.com/contents/303</guid>
@@ -340,14 +332,6 @@
             <guid>https://beyondlive.com/contents/vod/294</guid>
             <pubDate>Wed, 01 Nov 2023 06:16:38 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/5f90fea8ef0442c88da62832bd699253.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/305</link>
-            <guid>https://beyondlive.com/contents/305</guid>
-            <pubDate>Fri, 20 Oct 2023 06:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[04. 11월. 2023. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6c11a2233d6d4b0385428abea3dd654a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ Beyond NEXT)]]></title>

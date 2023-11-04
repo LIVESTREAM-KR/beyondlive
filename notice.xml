@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-11-04T10:11:33.396Z</updated>
+    <updated>2023-11-04T11:10:46.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://beyondlive.com/notice/200"/>
         <updated>2023-10-31T09:12:05.868Z</updated>
         <content type="html"><![CDATA[31. 10월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내]]></title>
+        <id>https://beyondlive.com/notice/188</id>
+        <link href="https://beyondlive.com/notice/188"/>
+        <updated>2023-09-22T10:12:51.357Z</updated>
+        <content type="html"><![CDATA[03. 11월. 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서]]></title>
+        <id>https://beyondlive.com/notice/197</id>
+        <link href="https://beyondlive.com/notice/197"/>
+        <updated>2023-10-18T11:10:19.258Z</updated>
+        <content type="html"><![CDATA[01. 11월. 2023]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> 온라인 티켓 오픈 공지]]></title>
@@ -39,20 +53,6 @@
         <link href="https://beyondlive.com/notice/194"/>
         <updated>2023-10-14T10:11:58.802Z</updated>
         <content type="html"><![CDATA[14. 10월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사전공지]개인정보 처리방침 내용 변경 안내]]></title>
-        <id>https://beyondlive.com/notice/188</id>
-        <link href="https://beyondlive.com/notice/188"/>
-        <updated>2023-09-22T10:12:51.357Z</updated>
-        <content type="html"><![CDATA[03. 11월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DAY1] ＝LOVE 6th ANNIVERSARY PREMIUM CONCERT 공연 장애에 대해서]]></title>
-        <id>https://beyondlive.com/notice/197</id>
-        <link href="https://beyondlive.com/notice/197"/>
-        <updated>2023-10-18T11:10:19.258Z</updated>
-        <content type="html"><![CDATA[01. 11월. 2023]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] YESUNG SOLO CONCERT – Unfading Sense 온라인 티켓 오픈 공지]]></title>
