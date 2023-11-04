@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 01:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 02:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’]]></title>
-            <link>https://beyondlive.com/contents/313</link>
-            <guid>https://beyondlive.com/contents/313</guid>
-            <pubDate>Fri, 03 Nov 2023 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[26. 11월. 2023. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/B9Pd2VEULjlFKnM16CoX8fHuIm7kLJ0o.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue>]]></title>
             <link>https://beyondlive.com/contents/303</link>
@@ -38,6 +30,14 @@
             <pubDate>Fri, 20 Oct 2023 06:16:12 GMT</pubDate>
             <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/1307975ebaac4fdc9674bff306190106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’]]></title>
+            <link>https://beyondlive.com/contents/313</link>
+            <guid>https://beyondlive.com/contents/313</guid>
+            <pubDate>Fri, 03 Nov 2023 11:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[26. 11월. 2023. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/B9Pd2VEULjlFKnM16CoX8fHuIm7kLJ0o.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense Re-Streaming]]></title>
