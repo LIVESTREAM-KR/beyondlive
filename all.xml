@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 05:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 06:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,20 +238,20 @@
             <enclosure url="https://static.beyondlive.com/contents/6bfc72457f4e4e46b311ccf9df5cd347.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/303</link>
-            <guid>https://beyondlive.com/contents/303</guid>
-            <pubDate>Mon, 23 Oct 2023 03:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/PQ5DOpASfN3VEVCH8pSTZrrLFlurGC6H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/305</link>
             <guid>https://beyondlive.com/contents/305</guid>
             <pubDate>Fri, 20 Oct 2023 06:16:12 GMT</pubDate>
             <content:encoded><![CDATA[04. 11월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/634601fdbf1a4b13916f23715285d594.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/303</link>
+            <guid>https://beyondlive.com/contents/303</guid>
+            <pubDate>Mon, 23 Oct 2023 03:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[04. 11월. 2023. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/PQ5DOpASfN3VEVCH8pSTZrrLFlurGC6H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eve Arena Tour 2023 「kororon」 (Beyond LIVE ─ TOP)]]></title>
