@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 05:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 06:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,13 +296,6 @@
 										</a>
 									</div>]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HATA MOTOHIRO CONCERT TOUR 2023 ―Paint Like a Child― (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/vod/296</link>
-            <guid>https://beyondlive.com/contents/vod/296</guid>
-            <pubDate>Fri, 20 Oct 2023 06:16:19 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/6427ee9145e446aebd529f4b58eeaa01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ado Japan Tour 2023 "MARS" (Beyond LIVE ─ Beyond NEXT)]]></title>
