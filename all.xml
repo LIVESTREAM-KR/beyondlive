@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 05:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 06:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[공연안내] 2023 aespa FAN MEETING  온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
+            <title><![CDATA[[공연안내] 2023 aespa FAN MEETING ＜MY DRAMA＞온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/199</link>
             <guid>https://beyondlive.com/notice/199</guid>
             <pubDate>Mon, 06 Nov 2023 05:11:52 GMT</pubDate>
@@ -102,7 +102,7 @@
             <enclosure url="https://static.beyondlive.com/contents/68d47a5db8454e6ab3f2012db476bf9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 aespa FAN MEETING (Beyond LIVE ─ 공연)]]></title>
+            <title><![CDATA[2023 aespa FAN MEETING ＜MY DRAMA＞ (Beyond LIVE ─ 공연)]]></title>
             <link>javascript:moveViewPage(307);</link>
             <guid>javascript:moveViewPage(307);</guid>
             <pubDate>Mon, 06 Nov 2023 05:12:00 GMT</pubDate>
@@ -238,7 +238,7 @@
             <enclosure url="https://static.beyondlive.com/contents/b15561ccb4ff41ea9f55753b1b41db5b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 aespa FAN MEETING (Beyond LIVE ─ TOP)]]></title>
+            <title><![CDATA[2023 aespa FAN MEETING ＜MY DRAMA＞ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/307</link>
             <guid>https://beyondlive.com/contents/307</guid>
             <pubDate>Mon, 06 Nov 2023 05:12:09 GMT</pubDate>
@@ -350,10 +350,10 @@
             <enclosure url="https://static.beyondlive.com/contents/3417872875f346c5bbe2f42890e5788f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 aespa FAN MEETING (Beyond LIVE ─ Beyond NEXT)]]></title>
+            <title><![CDATA[2023 aespa FAN MEETING ＜MY DRAMA＞ (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/307</link>
             <guid>https://beyondlive.com/contents/307</guid>
-            <pubDate>Mon, 06 Nov 2023 05:12:17 GMT</pubDate>
+            <pubDate>Mon, 06 Nov 2023 05:12:09 GMT</pubDate>
             <content:encoded><![CDATA[17. 11월. 2023. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/22e7d951cb4944debc2e8a700fb396e3.png" length="0" type="image/png"/>
         </item>

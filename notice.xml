@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-11-06T05:12:18.926Z</updated>
+    <updated>2023-11-06T06:16:56.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
     <entry>
-        <title type="html"><![CDATA[[공연안내] 2023 aespa FAN MEETING  온라인 티켓 오픈 공지]]></title>
+        <title type="html"><![CDATA[[공연안내] 2023 aespa FAN MEETING ＜MY DRAMA＞온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/199</id>
         <link href="https://beyondlive.com/notice/199"/>
         <updated>2023-11-06T05:11:52.985Z</updated>
