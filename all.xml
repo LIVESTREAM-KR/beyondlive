@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 12:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 13:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,14 +278,6 @@
             <enclosure url="https://static.beyondlive.com/contents/JJsIrcI69pA7hd6KKj00Woi2ae6oq5e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/300</link>
-            <guid>https://beyondlive.com/contents/300</guid>
-            <pubDate>Sun, 22 Oct 2023 10:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[11. 11월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/4b2005159e0941f69a19aed37bc393f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/290</link>
             <guid>https://beyondlive.com/contents/290</guid>
@@ -356,14 +348,6 @@
             <guid>https://beyondlive.com/contents/vod/302</guid>
             <pubDate>Sat, 04 Nov 2023 13:12:27 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/d7dc122d8bff4e7c830290dbae2c8d7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YESUNG SOLO CONCERT – Unfading Sense Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/300</link>
-            <guid>https://beyondlive.com/contents/300</guid>
-            <pubDate>Sun, 22 Oct 2023 10:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[11. 11월. 2023. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ac98cbfea7ae4d2ebbd87ce0eb61e6dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
