@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 02:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://static.beyondlive.com/contents/tJk1kLoSHAjYXnHwYUu0G3yBFEgI9irN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[DAY2] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
+            <link>javascript:moveViewPage(318);</link>
+            <guid>javascript:moveViewPage(318);</guid>
+            <pubDate>Sat, 11 Nov 2023 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[사쿠라자카46]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CUpP03ERG4KE12OGlyiXmuQazConipzS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’]]></title>
             <link>javascript:moveViewPage(313);</link>
             <guid>javascript:moveViewPage(313);</guid>
             <pubDate>Fri, 03 Nov 2023 11:10:05 GMT</pubDate>
             <content:encoded><![CDATA[NCT 127]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/Fb4KUhQ5kIRGSl0hDYai1FdEHdvr2Glq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY1] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
+            <link>javascript:moveViewPage(316);</link>
+            <guid>javascript:moveViewPage(316);</guid>
+            <pubDate>Sat, 11 Nov 2023 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[사쿠라자카46]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/LjKe4JHfPBnWLjP941nngBHocBrQyNrb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> Re-Streaming]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 25 Aug 2023 08:14:18 GMT</pubDate>
             <content:encoded><![CDATA[IVE]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6aed8b74d79d4b3a8944c9a6b6ee5edc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2PM 15th Anniversary Concert <It's 2PM> in JAPAN]]></title>
-            <link>javascript:moveViewPage(291);</link>
-            <guid>javascript:moveViewPage(291);</guid>
-            <pubDate>Mon, 25 Sep 2023 03:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[2PM]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/f3ec242620ad44c390ac462f4cc3d587.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Young K Solo Concert <Letters with notes> Re-Streaming]]></title>
-            <link>javascript:moveViewPage(263);</link>
-            <guid>javascript:moveViewPage(263);</guid>
-            <pubDate>Sun, 03 Sep 2023 11:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[Young K]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/de8dbfd734e84256a6ae3d7b16f75a60.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

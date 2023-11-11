@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/notice?lang=ko</id>
     <title>Beyond LIVE ─ 공지사항</title>
-    <updated>2023-11-11T02:50:42.210Z</updated>
+    <updated>2023-11-11T03:15:22.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16-8ddddfba7eaac55e698267b84d8fa0e0.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[공연안내] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”온라인 티켓 오픈 공지]]></title>
+        <id>https://beyondlive.com/notice/203</id>
+        <link href="https://beyondlive.com/notice/203"/>
+        <updated>2023-11-11T03:15:04.123Z</updated>
+        <content type="html"><![CDATA[11. 11월. 2023]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공연안내] THE BOYZ 2ND WORLD TOUR : ZENERATION – ENCORE 온라인 티켓 오픈 공지]]></title>
         <id>https://beyondlive.com/notice/202</id>
@@ -67,12 +74,5 @@
         <link href="https://beyondlive.com/notice/196"/>
         <updated>2023-10-20T06:15:57.261Z</updated>
         <content type="html"><![CDATA[20. 10월. 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[공연안내] Eve Arena Tour 2023 "kororon" 온라인 티켓 오픈 공지]]></title>
-        <id>https://beyondlive.com/notice/194</id>
-        <link href="https://beyondlive.com/notice/194"/>
-        <updated>2023-10-14T10:11:58.802Z</updated>
-        <content type="html"><![CDATA[14. 10월. 2023]]></content>
     </entry>
 </feed>

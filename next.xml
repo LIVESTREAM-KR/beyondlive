@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 02:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,12 +76,28 @@
             <enclosure url="https://static.beyondlive.com/contents/pjkTs0dQoUBX7etyd3ndY3ICe0cxx6cp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[DAY1] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
+            <link>https://beyondlive.com/contents/316</link>
+            <guid>https://beyondlive.com/contents/316</guid>
+            <pubDate>Sat, 11 Nov 2023 03:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[25. 11월. 2023. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/LjKe4JHfPBnWLjP941nngBHocBrQyNrb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’]]></title>
             <link>https://beyondlive.com/contents/313</link>
             <guid>https://beyondlive.com/contents/313</guid>
             <pubDate>Fri, 03 Nov 2023 11:10:18 GMT</pubDate>
             <content:encoded><![CDATA[26. 11월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/Fb4KUhQ5kIRGSl0hDYai1FdEHdvr2Glq.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY2] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
+            <link>https://beyondlive.com/contents/318</link>
+            <guid>https://beyondlive.com/contents/318</guid>
+            <pubDate>Sat, 11 Nov 2023 03:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[26. 11월. 2023. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CUpP03ERG4KE12OGlyiXmuQazConipzS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION - ENCORE]]></title>
