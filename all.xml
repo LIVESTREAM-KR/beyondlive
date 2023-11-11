@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 03:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 04:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,7 +401,7 @@
             <title><![CDATA[[DAY1] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE” (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/316</link>
             <guid>https://beyondlive.com/contents/316</guid>
-            <pubDate>Sat, 11 Nov 2023 03:15:21 GMT</pubDate>
+            <pubDate>Sat, 11 Nov 2023 03:15:15 GMT</pubDate>
             <content:encoded><![CDATA[25. 11월. 2023. 17:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/LjKe4JHfPBnWLjP941nngBHocBrQyNrb.jpg" length="0" type="image/jpg"/>
         </item>
@@ -417,7 +417,7 @@
             <title><![CDATA[[DAY2] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE” (Beyond LIVE ─ Beyond NEXT)]]></title>
             <link>https://beyondlive.com/contents/318</link>
             <guid>https://beyondlive.com/contents/318</guid>
-            <pubDate>Sat, 11 Nov 2023 03:15:21 GMT</pubDate>
+            <pubDate>Sat, 11 Nov 2023 03:15:15 GMT</pubDate>
             <content:encoded><![CDATA[26. 11월. 2023. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/CUpP03ERG4KE12OGlyiXmuQazConipzS.jpg" length="0" type="image/jpg"/>
         </item>
