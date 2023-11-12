@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 04:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 05:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,14 +278,6 @@
             <enclosure url="https://static.beyondlive.com/contents/JJsIrcI69pA7hd6KKj00Woi2ae6oq5e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/290</link>
-            <guid>https://beyondlive.com/contents/290</guid>
-            <pubDate>Sun, 08 Oct 2023 12:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[12. 11월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/7a8cce2dd0d54931b2dd2510df58c42f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 Re-Streaming (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/298</link>
             <guid>https://beyondlive.com/contents/298</guid>
@@ -348,14 +340,6 @@
             <guid>https://beyondlive.com/contents/vod/302</guid>
             <pubDate>Sat, 04 Nov 2023 13:12:27 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/contents/d7dc122d8bff4e7c830290dbae2c8d7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NMIXX THE 1ST FAN CONCERT NMIXX CHANGE UP : MIXX UNIVERSITY Re-Streaming (Beyond LIVE ─ Beyond NEXT)]]></title>
-            <link>https://beyondlive.com/contents/290</link>
-            <guid>https://beyondlive.com/contents/290</guid>
-            <pubDate>Sun, 08 Oct 2023 12:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[12. 11월. 2023. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3417872875f346c5bbe2f42890e5788f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 aespa FAN MEETING ＜MY DRAMA＞ (Beyond LIVE ─ Beyond NEXT)]]></title>
