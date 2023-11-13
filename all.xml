@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 01:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 02:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,20 +246,20 @@
             <enclosure url="https://static.beyondlive.com/contents/5dfc51842d14439d9e36c22ee30d49ad.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[DAY1] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE” (Beyond LIVE ─ TOP)]]></title>
-            <link>https://beyondlive.com/contents/316</link>
-            <guid>https://beyondlive.com/contents/316</guid>
-            <pubDate>Sat, 11 Nov 2023 03:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[25. 11월. 2023. 17:30 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/LQQgjqp6pqWQa8vOFO3iJ3OHSeBNwxst.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’ (Beyond LIVE ─ TOP)]]></title>
             <link>https://beyondlive.com/contents/313</link>
             <guid>https://beyondlive.com/contents/313</guid>
             <pubDate>Fri, 03 Nov 2023 11:10:12 GMT</pubDate>
             <content:encoded><![CDATA[26. 11월. 2023. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/B9Pd2VEULjlFKnM16CoX8fHuIm7kLJ0o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY1] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE” (Beyond LIVE ─ TOP)]]></title>
+            <link>https://beyondlive.com/contents/316</link>
+            <guid>https://beyondlive.com/contents/316</guid>
+            <pubDate>Sat, 11 Nov 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[25. 11월. 2023. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/LQQgjqp6pqWQa8vOFO3iJ3OHSeBNwxst.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[DAY2] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE” (Beyond LIVE ─ TOP)]]></title>
