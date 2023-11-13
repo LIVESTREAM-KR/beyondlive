@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 08:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 09:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[긴급 안내] Beyond LIVE서비스 점검 안내 (Beyond LIVE ─ 공지사항)]]></title>
+            <link>https://beyondlive.com/notice/204</link>
+            <guid>https://beyondlive.com/notice/204</guid>
+            <pubDate>Mon, 13 Nov 2023 09:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[13. 11월. 2023]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[공연안내] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
             <link>https://beyondlive.com/notice/203</link>
@@ -69,13 +76,6 @@
             <guid>https://beyondlive.com/notice/195</guid>
             <pubDate>Mon, 23 Oct 2023 03:12:48 GMT</pubDate>
             <content:encoded><![CDATA[23. 10월. 2023]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[공연안내] Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR 온라인 티켓 오픈 공지 (Beyond LIVE ─ 공지사항)]]></title>
-            <link>https://beyondlive.com/notice/196</link>
-            <guid>https://beyondlive.com/notice/196</guid>
-            <pubDate>Fri, 20 Oct 2023 06:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[20. 10월. 2023]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION - ENCORE (Beyond LIVE ─ 공연)]]></title>
