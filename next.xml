@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 05:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 06:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,25 +15,18 @@
             <enclosure url="https://beyondlive.com/_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FGoznXltrzt4CedOyQqIDDn9WK5kVd6bJ.jpg&w=1920&q=75" length="0" type="image//_next/image"/>
         </item>
         <item>
-            <title><![CDATA[[DAY2] =LOVE 6th ANNIVERSARY PREMIUM CONCERT Archive]]></title>
-            <link>https://beyondlive.com/contents/vod/295</link>
-            <guid>https://beyondlive.com/contents/vod/295</guid>
-            <pubDate>Wed, 01 Nov 2023 06:16:38 GMT</pubDate>
-            <enclosure url="https://beyondlive.com/_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fcontents%2Fefa382099edd4cc8a9397707218e45ad.jpg&w=1920&q=75" length="0" type="image//_next/image"/>
-        </item>
-        <item>
-            <title><![CDATA[[DAY1] =LOVE 6th ANNIVERSARY PREMIUM CONCERT Archive]]></title>
-            <link>https://beyondlive.com/contents/vod/294</link>
-            <guid>https://beyondlive.com/contents/vod/294</guid>
-            <pubDate>Wed, 01 Nov 2023 06:16:38 GMT</pubDate>
-            <enclosure url="https://beyondlive.com/_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fcontents%2F5f90fea8ef0442c88da62832bd699253.jpg&w=1920&q=75" length="0" type="image//_next/image"/>
-        </item>
-        <item>
             <title><![CDATA[Eve Arena Tour 2023 「kororon」 Archive]]></title>
             <link>https://beyondlive.com/contents/vod/302</link>
             <guid>https://beyondlive.com/contents/vod/302</guid>
             <pubDate>Sat, 04 Nov 2023 13:12:27 GMT</pubDate>
             <enclosure url="https://beyondlive.com/_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fcontents%2Fd7dc122d8bff4e7c830290dbae2c8d7a.jpg&w=1920&q=75" length="0" type="image//_next/image"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR Archive]]></title>
+            <link>https://beyondlive.com/?lang=ko</link>
+            <guid>https://beyondlive.com/?lang=ko</guid>
+            <pubDate>Tue, 14 Nov 2023 06:16:26 GMT</pubDate>
+            <enclosure url="https://beyondlive.com/_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FsVjbsGBHsjg074WRC5BPYNrGjpmrvl4N.jpg&w=1920&q=75" length="0" type="image//_next/image"/>
         </item>
         <item>
             <title><![CDATA[2023 aespa FAN MEETING ＜MY DRAMA＞]]></title>
