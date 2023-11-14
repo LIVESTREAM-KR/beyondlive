@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://beyondlive.com/?lang=ko</id>
     <title>Beyond LIVE ─ TOP</title>
-    <updated>2023-11-14T11:10:45.045Z</updated>
+    <updated>2023-11-14T12:22:15.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://beyondlive.com/favicon-16x16.png</icon>
     <entry>
@@ -53,5 +53,12 @@
         <link href="https://beyondlive.com/contents/304"/>
         <updated>2023-11-04T13:12:20.304Z</updated>
         <content type="html"><![CDATA[2023. 11. 18. 20:00 (KST)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ado Japan Tour 2023 "MARS"]]></title>
+        <id>https://beyondlive.com/contents/vod/312</id>
+        <link href="https://beyondlive.com/contents/vod/312"/>
+        <updated>2023-11-14T12:22:08.152Z</updated>
+        <content type="html"><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(&quot;/_next/image?url=https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg&amp;w=1200&amp;q=75&quot;);"></div><div class="top-banner__info"><div class="top-banner__artist shrink"><span class="top-banner__logo"><img alt="" loading="lazy" width="0" height="0" decoding="async" data-nimg="1" style="color: transparent; width: 100%; height: 100%;" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FwYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FwYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FwYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FwYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FwYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FwYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg&amp;w=1920&amp;q=75 1920w" src="https://beyondlive.com/_next/image?url=https%3A%2F%2Fstatic.beyondlive.com%2Fvod%2FwYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg&amp;w=1920&amp;q=75"></span><em class="top-banner__name">Ado</em></div><a href="/contents/vod/312" class="top-banner__title" tabindex="0">Ado Japan Tour 2023 "MARS"</a><a href="/contents/vod/312" class="top-banner__more" tabindex="0"><span class="text">VOD 정보 확인</span></a></div>]]></content>
     </entry>
 </feed>
