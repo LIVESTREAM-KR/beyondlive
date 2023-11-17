@@ -1,57 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://beyondlive.com/?lang=ko</id>
-    <title>Beyond LIVE ─ TOP</title>
-    <updated>2023-11-17T05:11:58.860Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://beyondlive.com/favicon-16x16.png</icon>
-    <entry>
-        <title type="html"><![CDATA[2023 aespa FAN MEETING ＜MY DRAMA＞]]></title>
-        <id>https://beyondlive.com/contents/307</id>
-        <link href="https://beyondlive.com/contents/307"/>
-        <updated>2023-11-06T05:12:09.618Z</updated>
-        <content type="html"><![CDATA[2023. 11. 17. 20:00 (KST)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’]]></title>
-        <id>https://beyondlive.com/contents/313</id>
-        <link href="https://beyondlive.com/contents/313"/>
-        <updated>2023-11-03T11:10:12.762Z</updated>
-        <content type="html"><![CDATA[2023. 11. 26. 16:00 (KST)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DAY1] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
-        <id>https://beyondlive.com/contents/316</id>
-        <link href="https://beyondlive.com/contents/316"/>
-        <updated>2023-11-11T03:15:15.750Z</updated>
-        <content type="html"><![CDATA[2023. 11. 25. 17:30 (KST)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DAY2] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
-        <id>https://beyondlive.com/contents/318</id>
-        <link href="https://beyondlive.com/contents/318"/>
-        <updated>2023-11-11T03:15:15.753Z</updated>
-        <content type="html"><![CDATA[2023. 11. 26. 17:00 (KST)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION - ENCORE]]></title>
-        <id>https://beyondlive.com/contents/315</id>
-        <link href="https://beyondlive.com/contents/315"/>
-        <updated>2023-11-09T03:11:59.037Z</updated>
-        <content type="html"><![CDATA[2023. 12. 03. 16:00 (KST)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 Re-Streaming]]></title>
-        <id>https://beyondlive.com/contents/298</id>
-        <link href="https://beyondlive.com/contents/298"/>
-        <updated>2023-10-22T07:10:26.046Z</updated>
-        <content type="html"><![CDATA[2023. 11. 18. 19:00 (KST)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> Re-Streaming]]></title>
-        <id>https://beyondlive.com/contents/304</id>
-        <link href="https://beyondlive.com/contents/304"/>
-        <updated>2023-11-04T13:12:20.304Z</updated>
-        <content type="html"><![CDATA[2023. 11. 18. 20:00 (KST)]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Beyond LIVE ─ TOP</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 17 Nov 2023 06:16:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 aespa FAN MEETING ＜MY DRAMA＞]]></title>
+            <link>https://beyondlive.com/contents/307</link>
+            <guid>https://beyondlive.com/contents/307</guid>
+            <pubDate>Mon, 06 Nov 2023 05:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023. 11. 17. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5dfc51842d14439d9e36c22ee30d49ad.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 3RD TOUR ‘NEO CITY : SEOUL - THE UNITY’]]></title>
+            <link>https://beyondlive.com/contents/313</link>
+            <guid>https://beyondlive.com/contents/313</guid>
+            <pubDate>Fri, 03 Nov 2023 11:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[2023. 11. 26. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/B9Pd2VEULjlFKnM16CoX8fHuIm7kLJ0o.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY1] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
+            <link>https://beyondlive.com/contents/316</link>
+            <guid>https://beyondlive.com/contents/316</guid>
+            <pubDate>Sat, 11 Nov 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023. 11. 25. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/LQQgjqp6pqWQa8vOFO3iJ3OHSeBNwxst.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[DAY2] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
+            <link>https://beyondlive.com/contents/318</link>
+            <guid>https://beyondlive.com/contents/318</guid>
+            <pubDate>Sat, 11 Nov 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[2023. 11. 26. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/tgdP6TsHKb0mSxU2REgmK5OHQHp5u4Q7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION - ENCORE]]></title>
+            <link>https://beyondlive.com/contents/315</link>
+            <guid>https://beyondlive.com/contents/315</guid>
+            <pubDate>Thu, 09 Nov 2023 03:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[2023. 12. 03. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/JJsIrcI69pA7hd6KKj00Woi2ae6oq5e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/298</link>
+            <guid>https://beyondlive.com/contents/298</guid>
+            <pubDate>Sun, 22 Oct 2023 07:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[2023. 11. 18. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9514e77872b44fe0a8c8964aa53ee1ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/304</link>
+            <guid>https://beyondlive.com/contents/304</guid>
+            <pubDate>Sat, 04 Nov 2023 13:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[2023. 11. 18. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/rg8S1iZhbLoMTqu57Tn6ndVf2kjQHggU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ado Japan Tour 2023 "MARS"]]></title>
+            <link>https://beyondlive.com/contents/vod/312</link>
+            <guid>https://beyondlive.com/contents/vod/312</guid>
+            <pubDate>Fri, 17 Nov 2023 06:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(&quot;https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg&quot;);"></div><div class="top-banner__info"><div class="top-banner__artist shrink"><span class="top-banner__logo"><img src="https://static.beyondlive.com/vod/wYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg" alt=""></span><em class="top-banner__name">Ado</em></div><a href="/contents/vod/312" class="top-banner__title" tabindex="0">Ado Japan Tour 2023 "MARS"</a><a href="/contents/vod/312" class="top-banner__more" tabindex="0"><span class="text">VOD 정보 확인</span></a></div>]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
