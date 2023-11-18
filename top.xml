@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 09:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 10:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Fri, 17 Nov 2023 14:11:21 GMT</pubDate>
             <content:encoded><![CDATA[2023. 12. 02. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/74c4e3e63c2c4add99ffe0006ef13d07.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Ado Japan Tour 2023 "MARS"]]></title>
-            <link>https://beyondlive.com/contents/vod/312</link>
-            <guid>https://beyondlive.com/contents/vod/312</guid>
-            <pubDate>Sat, 18 Nov 2023 07:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="top-banner__poster shrink" style="background-image: url(&quot;https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg&quot;);"></div><div class="top-banner__info"><div class="top-banner__artist shrink"><span class="top-banner__logo"><img src="https://static.beyondlive.com/vod/wYubhz1TNb1K7tOVgtTphkVt7sHIXTO5.jpg" alt=""></span><em class="top-banner__name">Ado</em></div><a href="/contents/vod/312" class="top-banner__title" tabindex="0">Ado Japan Tour 2023 "MARS"</a><a href="/contents/vod/312" class="top-banner__more" tabindex="0"><span class="text">VOD 정보 확인</span></a></div>]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/vod/CYOtmKVdAgiWnvafErgrrCu8p3EksNwf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,30 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 09:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 10:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Ado Japan Tour 2023 "MARS"]]></title>
-            <link>https://beyondlive.com/contents/vod/312</link>
-            <guid>https://beyondlive.com/contents/vod/312</guid>
-            <pubDate>Sat, 18 Nov 2023 07:10:28 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/vod/GoznXltrzt4CedOyQqIDDn9WK5kVd6bJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eve Arena Tour 2023 「kororon」 Archive]]></title>
-            <link>https://beyondlive.com/contents/vod/302</link>
-            <guid>https://beyondlive.com/contents/vod/302</guid>
-            <pubDate>Sat, 18 Nov 2023 07:10:28 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/contents/d7dc122d8bff4e7c830290dbae2c8d7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR Archive]]></title>
-            <link>https://beyondlive.com/contents/vod/306</link>
-            <guid>https://beyondlive.com/contents/vod/306</guid>
-            <pubDate>Sat, 18 Nov 2023 07:10:28 GMT</pubDate>
-            <enclosure url="https://static.beyondlive.com/vod/sVjbsGBHsjg074WRC5BPYNrGjpmrvl4N.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/298</link>
