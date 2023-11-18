@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 13:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 14:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,22 +27,6 @@
             <guid>https://beyondlive.com/contents/vod/306</guid>
             <pubDate>Sat, 18 Nov 2023 11:09:29 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/vod/sVjbsGBHsjg074WRC5BPYNrGjpmrvl4N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 TWICE FANMEETING 〈ONCE AGAIN〉 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/298</link>
-            <guid>https://beyondlive.com/contents/298</guid>
-            <pubDate>Sat, 21 Oct 2023 12:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[2023. 11. 18. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/68d47a5db8454e6ab3f2012db476bf9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR 18TH ANNIVERSARY SPECIAL EVENT <1t’s 8lue> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/304</link>
-            <guid>https://beyondlive.com/contents/304</guid>
-            <pubDate>Sat, 04 Nov 2023 13:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[2023. 11. 18. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/pjkTs0dQoUBX7etyd3ndY3ICe0cxx6cp.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[DAY1] 사쿠라자카46 “3rd YEAR ANNIVERSARY LIVE”]]></title>
