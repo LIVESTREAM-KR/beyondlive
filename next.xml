@@ -4,9 +4,16 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 18:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 19:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eve Arena Tour 2023 「kororon」 Archive]]></title>
+            <link>https://beyondlive.com/contents/vod/302</link>
+            <guid>https://beyondlive.com/contents/vod/302</guid>
+            <pubDate>Sat, 02 Dec 2023 19:17:00 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/contents/d7dc122d8bff4e7c830290dbae2c8d7a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THE BOYZ 2ND WORLD TOUR : ZENERATION - ENCORE]]></title>
             <link>https://beyondlive.com/contents/315</link>
