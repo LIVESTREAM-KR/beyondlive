@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 04:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 05:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 27 Nov 2023 03:12:59 GMT</pubDate>
             <content:encoded><![CDATA[2023. 12. 17. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/IDtL4HruzChzNgViuNY0CSoXNa0zQPBF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 TVXQ! CONCERT [20＆2]]]></title>
+            <link>https://beyondlive.com/contents/325</link>
+            <guid>https://beyondlive.com/contents/325</guid>
+            <pubDate>Mon, 04 Dec 2023 05:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[2023. 12. 31. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/aXkgGzH9VaRWhm7E8nYponc1EnZWY4wX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
