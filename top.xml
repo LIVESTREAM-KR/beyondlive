@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 05:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 06:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 LEE JUNHO CONCERT 〈다시 만나는 날〉]]></title>
+            <link>https://beyondlive.com/contents/338</link>
+            <guid>https://beyondlive.com/contents/338</guid>
+            <pubDate>Fri, 22 Dec 2023 06:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 14. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/yzaGBZ1vfqsZ9HM05I2TD6zymH3ALf7s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DAY6 Christmas Special Concert ‘The Present : You are My Day’]]></title>
             <link>https://beyondlive.com/contents/329</link>
