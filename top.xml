@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 05:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 06:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 LEE JUNHO CONCERT 〈다시 만나는 날〉]]></title>
+            <link>https://beyondlive.com/contents/338</link>
+            <guid>https://beyondlive.com/contents/338</guid>
+            <pubDate>Fri, 22 Dec 2023 06:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 14. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/yzaGBZ1vfqsZ9HM05I2TD6zymH3ALf7s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOONA FAN MEETING TOUR : YOONITE]]></title>
             <link>https://beyondlive.com/contents/327</link>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 21 Dec 2023 05:11:51 GMT</pubDate>
             <content:encoded><![CDATA[2024. 01. 07. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/Bjr4zbgOpsEZZqRYY8fZHiRV3Wx8F3Be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 LEE JUNHO CONCERT 〈다시 만나는 날〉]]></title>
-            <link>https://beyondlive.com/contents/338</link>
-            <guid>https://beyondlive.com/contents/338</guid>
-            <pubDate>Fri, 22 Dec 2023 06:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 01. 14. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/yzaGBZ1vfqsZ9HM05I2TD6zymH3ALf7s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR in SAGA]]></title>
