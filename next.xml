@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 08:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 09:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,22 @@
             <pubDate>Fri, 22 Dec 2023 06:16:07 GMT</pubDate>
             <content:encoded><![CDATA[2024. 01. 14. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/e6inFdKSxHbM6HZc8GbJrGLPllBYgm2h.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 BEST CHOI’s MINHO FAN-CON <Multi-Chase> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/333</link>
+            <guid>https://beyondlive.com/contents/333</guid>
+            <pubDate>Sun, 07 Jan 2024 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 20. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9PXAiKc0F25rF1a875nWBaddmvgS2Fec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOONA FAN MEETING TOUR : YOONITE Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/328</link>
+            <guid>https://beyondlive.com/contents/328</guid>
+            <pubDate>Sun, 07 Jan 2024 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 21. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/PMQu6KXeNEFoBgQF7VmPzubUw1qT7WXQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON]]></title>
