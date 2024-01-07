@@ -4,25 +4,9 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 09:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 10:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[YOONA FAN MEETING TOUR : YOONITE]]></title>
-            <link>https://beyondlive.com/contents/327</link>
-            <guid>https://beyondlive.com/contents/327</guid>
-            <pubDate>Tue, 26 Dec 2023 03:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 01. 07. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/rsRGVZWS8FqPGiLAbMtaX9SYBHs8LdQT.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 BEST CHOI’s MINHO FAN-CON <Multi-Chase>]]></title>
-            <link>https://beyondlive.com/contents/332</link>
-            <guid>https://beyondlive.com/contents/332</guid>
-            <pubDate>Thu, 21 Dec 2023 05:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 01. 07. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/Bjr4zbgOpsEZZqRYY8fZHiRV3Wx8F3Be.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2024 이준호 CONCERT 〈다시 만나는 날〉]]></title>
             <link>https://beyondlive.com/contents/338</link>
@@ -54,6 +38,22 @@
             <pubDate>Mon, 01 Jan 2024 12:22:50 GMT</pubDate>
             <content:encoded><![CDATA[2024. 01. 14. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/fOAv4bSLYLEqWo76j77Kf7KkdPnVxSEG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 BEST CHOI’s MINHO FAN-CON <Multi-Chase> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/333</link>
+            <guid>https://beyondlive.com/contents/333</guid>
+            <pubDate>Sun, 07 Jan 2024 10:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 20. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/nH9VKZiiZUY8nBiIolNMiufBEZRumEBG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOONA FAN MEETING TOUR : YOONITE Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/328</link>
+            <guid>https://beyondlive.com/contents/328</guid>
+            <pubDate>Sun, 07 Jan 2024 10:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 21. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/DRfma5ksVBjI6QbUtD57XHHCutOGE0va.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
