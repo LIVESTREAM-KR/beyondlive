@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 04:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 05:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-L.S.S. THE SHOW: Th3ee Guys]]></title>
-            <link>https://beyondlive.com/contents/340</link>
-            <guid>https://beyondlive.com/contents/340</guid>
-            <pubDate>Thu, 11 Jan 2024 04:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 04. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/sqJYIhCmDDXtujJuFtZ8fBC8KVosdaPM.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2024 이준호 CONCERT 〈다시 만나는 날〉]]></title>
             <link>https://beyondlive.com/contents/338</link>
@@ -38,6 +30,14 @@
             <pubDate>Tue, 02 Jan 2024 03:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2024. 01. 28. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/sCTeHlPRvsiKSe9Bycw8KWMV3OGcAXtg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-L.S.S. THE SHOW: Th3ee Guys]]></title>
+            <link>https://beyondlive.com/contents/340</link>
+            <guid>https://beyondlive.com/contents/340</guid>
+            <pubDate>Thu, 11 Jan 2024 04:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 04. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/sqJYIhCmDDXtujJuFtZ8fBC8KVosdaPM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 TVXQ! CONCERT [20＆2] Re-Streaming]]></title>
