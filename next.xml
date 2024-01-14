@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 10:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 11:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 11 Jan 2024 04:15:19 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 04. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/xlLf5037IVPxHM7yYrjWTNl9AJ0oFsL5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 이준호 CONCERT 〈다시 만나는 날〉 Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/339</link>
+            <guid>https://beyondlive.com/contents/339</guid>
+            <pubDate>Sun, 14 Jan 2024 11:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 24. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/yG3i9JVhSSEGFhIw6xEbbELWylnKmrEI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
