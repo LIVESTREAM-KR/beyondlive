@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 02:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 03:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Airi Kanna 1st solo Concert - [KANNA]]]></title>
+            <link>https://beyondlive.com/contents/342</link>
+            <guid>https://beyondlive.com/contents/342</guid>
+            <pubDate>Mon, 15 Jan 2024 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 27. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/RUPbSRNpuvKlBvNMR4oTKr23s3J2eRNI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON]]></title>
             <link>https://beyondlive.com/contents/336</link>
