@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Jan 2024 12:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 13:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Airi Kanna 1st solo Concert - [KANNA]]]></title>
-            <link>https://beyondlive.com/contents/342</link>
-            <guid>https://beyondlive.com/contents/342</guid>
-            <pubDate>Mon, 15 Jan 2024 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 01. 27. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/RUPbSRNpuvKlBvNMR4oTKr23s3J2eRNI.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON]]></title>
             <link>https://beyondlive.com/contents/336</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 02 Jan 2024 03:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2024. 01. 28. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/sCTeHlPRvsiKSe9Bycw8KWMV3OGcAXtg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Airi Kanna 1st solo Concert - [KANNA]]]></title>
+            <link>https://beyondlive.com/contents/342</link>
+            <guid>https://beyondlive.com/contents/342</guid>
+            <pubDate>Mon, 15 Jan 2024 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 27. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/RUPbSRNpuvKlBvNMR4oTKr23s3J2eRNI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[도쿄 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
@@ -62,14 +62,6 @@
             <pubDate>Fri, 19 Jan 2024 03:13:23 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 18. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/Aus5EGZKo31tmE0T9SXrhG6QoJkOqn4B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 BEST CHOI’s MINHO FAN-CON <Multi-Chase> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/333</link>
-            <guid>https://beyondlive.com/contents/333</guid>
-            <pubDate>Sun, 07 Jan 2024 10:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 01. 20. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/nH9VKZiiZUY8nBiIolNMiufBEZRumEBG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOONA FAN MEETING TOUR : YOONITE Re-Streaming]]></title>
