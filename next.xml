@@ -1,8 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://beyondlive.com/?lang=ko</id>
-    <title>Beyond LIVE ─ Beyond NEXT</title>
-    <updated>2024-01-23T07:13:04.271Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://beyondlive.com/favicon-16x16.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Beyond LIVE ─ Beyond NEXT</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 23 Jan 2024 08:16:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Airi Kanna 1st solo Concert - [KANNA]]]></title>
+            <link>https://beyondlive.com/contents/342</link>
+            <guid>https://beyondlive.com/contents/342</guid>
+            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 27. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/jPsQaJ4LneNt6wFKuFgUkexPnT68hR8l.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[도쿄 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
+            <link>https://beyondlive.com/contents/348</link>
+            <guid>https://beyondlive.com/contents/348</guid>
+            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 28. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/wIjhW83XS8Q7Y8QPQzKjgE9qOdbXrpJi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KEYLAND ON : AND ON]]></title>
+            <link>https://beyondlive.com/contents/336</link>
+            <guid>https://beyondlive.com/contents/336</guid>
+            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 28. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/PCQSRamyKc4VX5kKGzacPhV8E9aQ7Zpz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[도쿄 밤 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
+            <link>https://beyondlive.com/contents/349</link>
+            <guid>https://beyondlive.com/contents/349</guid>
+            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 01. 28. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/iD7n25QG1Uzazs2UKwkmf4YP1isMOISp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUPER JUNIOR-L.S.S. THE SHOW : Th3ee Guys]]></title>
+            <link>https://beyondlive.com/contents/340</link>
+            <guid>https://beyondlive.com/contents/340</guid>
+            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 04. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/xlLf5037IVPxHM7yYrjWTNl9AJ0oFsL5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오사카 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
+            <link>https://beyondlive.com/contents/350</link>
+            <guid>https://beyondlive.com/contents/350</guid>
+            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 18. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Doe5811ZBPeyPxjZ9gIHvLSuUMIEscDV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오사카 밤 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
+            <link>https://beyondlive.com/contents/351</link>
+            <guid>https://beyondlive.com/contents/351</guid>
+            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 18. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5EYCijx7bKt1qCEooXQxYzxRpCWx1jLN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 이준호 CONCERT 〈다시 만나는 날〉 Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/339</link>
+            <guid>https://beyondlive.com/contents/339</guid>
+            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 24. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/yG3i9JVhSSEGFhIw6xEbbELWylnKmrEI.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
