@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 01:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 02:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Sun, 28 Jan 2024 09:12:18 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 11. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/b3fatnGpbh4uDPLj8OII7tS5FbavUobb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/16] 2024 TEN FIRST FAN-CON [1001]]]></title>
+            <link>https://beyondlive.com/contents/344</link>
+            <guid>https://beyondlive.com/contents/344</guid>
+            <pubDate>Mon, 29 Jan 2024 02:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 16. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Xaz3tyhhOoHBW5iXXoqpIzma7C7uo6Ek.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/17] 2024 TEN FIRST FAN-CON [1001]]]></title>
+            <link>https://beyondlive.com/contents/346</link>
+            <guid>https://beyondlive.com/contents/346</guid>
+            <pubDate>Mon, 29 Jan 2024 02:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 17. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Kcld13IKsKJVilq0hbsTIWoPmGwLWJOU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오사카 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>

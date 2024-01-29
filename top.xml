@@ -4,9 +4,25 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 01:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 02:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2/16] 2024 TEN FIRST FAN-CON [1001]]]></title>
+            <link>https://beyondlive.com/contents/344</link>
+            <guid>https://beyondlive.com/contents/344</guid>
+            <pubDate>Mon, 29 Jan 2024 02:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 16. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/c2XpbCIyOBpvGzfEvBx4GMsSNm35LQJI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/17] 2024 TEN FIRST FAN-CON [1001]]]></title>
+            <link>https://beyondlive.com/contents/346</link>
+            <guid>https://beyondlive.com/contents/346</guid>
+            <pubDate>Mon, 29 Jan 2024 02:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 17. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/k4aOUMMMTo8A3UJoDWh1LgF70rCQdteE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-L.S.S. THE SHOW : Th3ee Guys]]></title>
             <link>https://beyondlive.com/contents/340</link>
