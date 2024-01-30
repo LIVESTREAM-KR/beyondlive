@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 02:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 03:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,6 +69,14 @@
             <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 18. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5EYCijx7bKt1qCEooXQxYzxRpCWx1jLN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO]]></title>
+            <link>https://beyondlive.com/contents/356</link>
+            <guid>https://beyondlive.com/contents/356</guid>
+            <pubDate>Tue, 30 Jan 2024 03:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 22. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/PNz2laU4PqVKcSNZu65vnbdBmXIhwyCn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 이준호 CONCERT 〈다시 만나는 날〉 Re-Streaming]]></title>

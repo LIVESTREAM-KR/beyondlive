@@ -4,9 +4,17 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 02:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 03:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO]]></title>
+            <link>https://beyondlive.com/contents/356</link>
+            <guid>https://beyondlive.com/contents/356</guid>
+            <pubDate>Tue, 30 Jan 2024 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 22. 17:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/WdM73DNlWc4e2XdFV0ct58dZnZlkPieB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-L.S.S. THE SHOW : Th3ee Guys]]></title>
             <link>https://beyondlive.com/contents/340</link>
