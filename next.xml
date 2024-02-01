@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 02:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 03:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,20 @@
             <guid>https://beyondlive.com/contents/vod/335</guid>
             <pubDate>Mon, 29 Jan 2024 06:15:21 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/vod/SYHxMB7SvmKmjxpmqsHW9xq0PyDNKsvZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[도쿄 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve - Archive]]></title>
+            <link>https://beyondlive.com/contents/vod/352</link>
+            <guid>https://beyondlive.com/contents/vod/352</guid>
+            <pubDate>Thu, 01 Feb 2024 03:13:25 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/vod/S5zHHiufqoIjhOkMlXt8iAGM4yX3fPCh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[도쿄 밤 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve - Archive]]></title>
+            <link>https://beyondlive.com/contents/vod/353</link>
+            <guid>https://beyondlive.com/contents/vod/353</guid>
+            <pubDate>Thu, 01 Feb 2024 03:13:25 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/vod/hcJI5TVqQgw69TTjs0X93Lt13pad5Zs2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Airi Kanna 1st solo Concert - [KANNA] Re-Streaming]]></title>
@@ -69,6 +83,14 @@
             <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 18. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5EYCijx7bKt1qCEooXQxYzxRpCWx1jLN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR in YOKOHAMA]]></title>
+            <link>https://beyondlive.com/contents/358</link>
+            <guid>https://beyondlive.com/contents/358</guid>
+            <pubDate>Thu, 01 Feb 2024 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 19. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/WnaUvRD8aRi7CpKB16BGoAPN4XWIfPuC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO]]></title>
