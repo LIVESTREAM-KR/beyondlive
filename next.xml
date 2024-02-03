@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Feb 2024 11:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 12:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,14 +27,6 @@
             <guid>https://beyondlive.com/contents/vod/353</guid>
             <pubDate>Thu, 01 Feb 2024 03:13:25 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/vod/hcJI5TVqQgw69TTjs0X93Lt13pad5Zs2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Airi Kanna 1st solo Concert - [KANNA] Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/343</link>
-            <guid>https://beyondlive.com/contents/343</guid>
-            <pubDate>Sat, 27 Jan 2024 12:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 03. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/WSkIeJtwbccxW81WIo3qE7otKI7BkiMg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-L.S.S. THE SHOW : Th3ee Guys]]></title>
