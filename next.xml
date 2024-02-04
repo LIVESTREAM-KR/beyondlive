@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 11:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 12:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,14 +27,6 @@
             <guid>https://beyondlive.com/contents/vod/353</guid>
             <pubDate>Thu, 01 Feb 2024 03:13:25 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/vod/hcJI5TVqQgw69TTjs0X93Lt13pad5Zs2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUPER JUNIOR-L.S.S. THE SHOW : Th3ee Guys]]></title>
-            <link>https://beyondlive.com/contents/340</link>
-            <guid>https://beyondlive.com/contents/340</guid>
-            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 04. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/xlLf5037IVPxHM7yYrjWTNl9AJ0oFsL5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON Re-Streaming]]></title>
