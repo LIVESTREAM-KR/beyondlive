@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 03:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 04:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 04 Feb 2024 03:12:21 GMT</pubDate>
+            <pubDate>Sun, 04 Feb 2024 04:13:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SUPER JUNIOR-L.S.S. THE SHOW : Th3ee Guys]]></title>
@@ -45,6 +45,14 @@
             <enclosure url="https://static.beyondlive.com/contents/nmsy1GOQH431ifLdEtRyT76dP3WYf1QB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR in YOKOHAMA]]></title>
+            <link>https://beyondlive.com/contents/358</link>
+            <guid>https://beyondlive.com/contents/358</guid>
+            <pubDate>Thu, 01 Feb 2024 03:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 19. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/WQup50XFBSfxZhi5A7MkBjGFHRdFRzzu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/337</link>
             <guid>https://beyondlive.com/contents/337</guid>
@@ -53,12 +61,12 @@
             <enclosure url="https://static.beyondlive.com/contents/bgOSqESn909QcXAF3RSrFZTfmXEx32VM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR in YOKOHAMA]]></title>
-            <link>https://beyondlive.com/contents/358</link>
-            <guid>https://beyondlive.com/contents/358</guid>
-            <pubDate>Thu, 01 Feb 2024 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 19. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/WQup50XFBSfxZhi5A7MkBjGFHRdFRzzu.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2024 이준호 CONCERT 〈다시 만나는 날〉 Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/339</link>
+            <guid>https://beyondlive.com/contents/339</guid>
+            <pubDate>Sun, 04 Feb 2024 04:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 24. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/wDJecFuP7W9WAsVmTM9Vz4mOrKAg8Szz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오사카 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
