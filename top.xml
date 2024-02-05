@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 01:51:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 02:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 05 Feb 2024 01:51:06 GMT</pubDate>
+            <pubDate>Mon, 05 Feb 2024 02:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/360</link>
+            <guid>https://beyondlive.com/contents/360</guid>
+            <pubDate>Mon, 05 Feb 2024 02:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 25. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/fVvstgxqFxL9POr2JugTpBUUO2f4ZAbh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/16] 2024 TEN FIRST FAN-CON [1001]]]></title>
