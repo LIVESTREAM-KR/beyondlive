@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 05:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Thu, 08 Feb 2024 05:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/360</link>
-            <guid>https://beyondlive.com/contents/360</guid>
-            <pubDate>Mon, 05 Feb 2024 02:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 25. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/fVvstgxqFxL9POr2JugTpBUUO2f4ZAbh.jpg" length="0" type="image/jpg"/>
+            <pubDate>Thu, 08 Feb 2024 06:15:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[2/16] 2024 TEN FIRST FAN-CON [1001]]]></title>
@@ -51,6 +43,14 @@
             <pubDate>Tue, 30 Jan 2024 03:12:13 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 22. 17:30 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/nmsy1GOQH431ifLdEtRyT76dP3WYf1QB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/360</link>
+            <guid>https://beyondlive.com/contents/360</guid>
+            <pubDate>Mon, 05 Feb 2024 02:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 25. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/fVvstgxqFxL9POr2JugTpBUUO2f4ZAbh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON Re-Streaming]]></title>
