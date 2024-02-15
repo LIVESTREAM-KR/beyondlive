@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 04:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 05:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
             <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 24. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/yG3i9JVhSSEGFhIw6xEbbELWylnKmrEI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK>]]></title>
+            <link>https://beyondlive.com/contents/362</link>
+            <guid>https://beyondlive.com/contents/362</guid>
+            <pubDate>Thu, 15 Feb 2024 05:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 24. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Lq6mNwvJpQywyjLLycU4nw2YxtwmKkTc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/25] 2024 TAEYONG CONCERT <TY TRACK>]]></title>
+            <link>https://beyondlive.com/contents/364</link>
+            <guid>https://beyondlive.com/contents/364</guid>
+            <pubDate>Thu, 15 Feb 2024 05:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 25. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/tjFDX5eRmhYT1TE42O5GGW2iVsCP8XeY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL]]></title>
