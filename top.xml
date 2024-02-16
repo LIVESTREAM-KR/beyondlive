@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 13:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 14:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Fri, 16 Feb 2024 13:12:41 GMT</pubDate>
+            <pubDate>Fri, 16 Feb 2024 14:11:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 IVE 2nd FANMEETING <MAGAZINE IVE>]]></title>
@@ -21,20 +21,20 @@
             <enclosure url="https://static.beyondlive.com/contents/uVTXi8xxmeeVVHg7E3JjDzcw8QTLQrcG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2/16] 2024 TEN FIRST FAN-CON [1001]]]></title>
-            <link>https://beyondlive.com/contents/344</link>
-            <guid>https://beyondlive.com/contents/344</guid>
-            <pubDate>Mon, 29 Jan 2024 02:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 16. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/y2BMzMDI5nZ3APC59t9F8nUFoCAuBoKc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2/17] 2024 TEN FIRST FAN-CON [1001]]]></title>
             <link>https://beyondlive.com/contents/346</link>
             <guid>https://beyondlive.com/contents/346</guid>
             <pubDate>Mon, 29 Jan 2024 02:18:08 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 17. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/QEpfLQlteU5myvqziE6YtPk6pvGzzORy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오사카 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
+            <link>https://beyondlive.com/contents/350</link>
+            <guid>https://beyondlive.com/contents/350</guid>
+            <pubDate>Fri, 16 Feb 2024 14:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 02. 18. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/etCznZcie3IQz3rPuExxJbSpJFFafBAY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR in YOKOHAMA]]></title>
