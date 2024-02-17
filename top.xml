@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 11:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 12:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 17 Feb 2024 11:09:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[2/17] 2024 TEN FIRST FAN-CON [1001]]]></title>
-            <link>https://beyondlive.com/contents/346</link>
-            <guid>https://beyondlive.com/contents/346</guid>
-            <pubDate>Mon, 29 Jan 2024 02:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 17. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/QEpfLQlteU5myvqziE6YtPk6pvGzzORy.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sat, 17 Feb 2024 12:19:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[오사카 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
@@ -91,6 +83,14 @@
             <pubDate>Sun, 04 Feb 2024 04:13:17 GMT</pubDate>
             <content:encoded><![CDATA[2024. 02. 24. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/wDJecFuP7W9WAsVmTM9Vz4mOrKAg8Szz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/16] 2024 TEN FIRST FAN-CON [1001] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/345</link>
+            <guid>https://beyondlive.com/contents/345</guid>
+            <pubDate>Sat, 17 Feb 2024 12:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 10. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/h27gsmcjcu6eOvF0fRNDbBqgLJMbAdM1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
