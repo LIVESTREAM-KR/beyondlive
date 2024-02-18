@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 05:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 06:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[오사카 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
-            <link>https://beyondlive.com/contents/350</link>
-            <guid>https://beyondlive.com/contents/350</guid>
-            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 18. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/Doe5811ZBPeyPxjZ9gIHvLSuUMIEscDV.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[오사카 밤 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve -]]></title>
             <link>https://beyondlive.com/contents/351</link>
