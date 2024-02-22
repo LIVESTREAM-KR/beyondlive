@@ -4,9 +4,23 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 02:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 03:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오사카 낮 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve - Archive]]></title>
+            <link>https://beyondlive.com/contents/vod/354</link>
+            <guid>https://beyondlive.com/contents/vod/354</guid>
+            <pubDate>Thu, 22 Feb 2024 03:12:46 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/vod/e4PXFIaqVSKeMiOZdNWmHW0og7BIGfNm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오사카 밤 공연] 프로젝트 세카이 COLORFUL LIVE 3rd - Evolve - Archive]]></title>
+            <link>https://beyondlive.com/contents/vod/355</link>
+            <guid>https://beyondlive.com/contents/vod/355</guid>
+            <pubDate>Thu, 22 Feb 2024 03:12:46 GMT</pubDate>
+            <enclosure url="https://static.beyondlive.com/vod/b8zXgAL07GYbvgNOzxYABwih0JfzAvHW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO]]></title>
             <link>https://beyondlive.com/contents/356</link>
