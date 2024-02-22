@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 09:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 10:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,6 +84,14 @@
             <pubDate>Sat, 17 Feb 2024 11:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 10. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/eWhOoeArKYIkFWqhkhCrmSYavT2Pv7tg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/357</link>
+            <guid>https://beyondlive.com/contents/357</guid>
+            <pubDate>Thu, 22 Feb 2024 10:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 24. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/SGsJTaAzTRuZcNQEECyD53QZ268ZCyfl.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
