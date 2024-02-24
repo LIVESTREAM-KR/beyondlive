@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 07:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 08:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 24 Feb 2024 07:11:51 GMT</pubDate>
+            <pubDate>Sat, 24 Feb 2024 08:13:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK>]]></title>
@@ -67,6 +67,14 @@
             <pubDate>Sun, 18 Feb 2024 12:19:20 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 10. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/yqLGFBcHvBXiLbQ6ED7Q8ROpOP1S85cP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/357</link>
+            <guid>https://beyondlive.com/contents/357</guid>
+            <pubDate>Sat, 24 Feb 2024 08:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 24. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/bD9Xcd8FKS5AAyn52ZB681RqUZcvdQVa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
