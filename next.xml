@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 10:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 11:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,14 +20,6 @@
             <guid>https://beyondlive.com/contents/vod/355</guid>
             <pubDate>Thu, 22 Feb 2024 03:12:46 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/vod/b8zXgAL07GYbvgNOzxYABwih0JfzAvHW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 이준호 CONCERT 〈다시 만나는 날〉 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/339</link>
-            <guid>https://beyondlive.com/contents/339</guid>
-            <pubDate>Tue, 23 Jan 2024 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 24. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/yG3i9JVhSSEGFhIw6xEbbELWylnKmrEI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK>]]></title>
@@ -76,6 +68,14 @@
             <pubDate>Sat, 17 Feb 2024 11:09:11 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 10. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/eWhOoeArKYIkFWqhkhCrmSYavT2Pv7tg.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/363</link>
+            <guid>https://beyondlive.com/contents/363</guid>
+            <pubDate>Sat, 24 Feb 2024 11:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 16. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/B4HALGyTPYcaOyguN7aHgLhLL9nn3JBd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO Re-Streaming]]></title>
