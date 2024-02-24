@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 11:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 12:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,14 +20,6 @@
             <guid>https://beyondlive.com/contents/vod/355</guid>
             <pubDate>Thu, 22 Feb 2024 03:12:46 GMT</pubDate>
             <enclosure url="https://static.beyondlive.com/vod/b8zXgAL07GYbvgNOzxYABwih0JfzAvHW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK>]]></title>
-            <link>https://beyondlive.com/contents/362</link>
-            <guid>https://beyondlive.com/contents/362</guid>
-            <pubDate>Thu, 15 Feb 2024 05:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 24. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/jeil2XXLyWLtESivt9OYr7xakbYO6rYF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/25] 2024 TAEYONG CONCERT <TY TRACK>]]></title>

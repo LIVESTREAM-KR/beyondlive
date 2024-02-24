@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 11:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 12:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 24 Feb 2024 11:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK>]]></title>
-            <link>https://beyondlive.com/contents/362</link>
-            <guid>https://beyondlive.com/contents/362</guid>
-            <pubDate>Thu, 15 Feb 2024 05:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 24. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/PJTIPyOT7F4jgMCHj06s1nfs6SEtAU56.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sat, 24 Feb 2024 12:18:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[2/25] 2024 TAEYONG CONCERT <TY TRACK>]]></title>
@@ -59,6 +51,14 @@
             <pubDate>Sun, 18 Feb 2024 12:19:20 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 10. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/yqLGFBcHvBXiLbQ6ED7Q8ROpOP1S85cP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/363</link>
+            <guid>https://beyondlive.com/contents/363</guid>
+            <pubDate>Sat, 24 Feb 2024 12:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 16. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/EESRSVaNfCLdc784RbIemhV4juKdFlze.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO Re-Streaming]]></title>
