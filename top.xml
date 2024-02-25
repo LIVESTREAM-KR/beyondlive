@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Feb 2024 10:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 11:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 25 Feb 2024 10:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/360</link>
-            <guid>https://beyondlive.com/contents/360</guid>
-            <pubDate>Mon, 05 Feb 2024 02:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 02. 25. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/fVvstgxqFxL9POr2JugTpBUUO2f4ZAbh.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sun, 25 Feb 2024 11:09:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 IVE 2nd FANMEETING <MAGAZINE IVE>]]></title>
@@ -53,12 +45,28 @@
             <enclosure url="https://static.beyondlive.com/contents/EESRSVaNfCLdc784RbIemhV4juKdFlze.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2/25] 2024 TAEYONG CONCERT <TY TRACK> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/365</link>
+            <guid>https://beyondlive.com/contents/365</guid>
+            <pubDate>Sun, 25 Feb 2024 11:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 17. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/frKTQMC6xNMnBixWjgd93QHrcviEKgv8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/357</link>
             <guid>https://beyondlive.com/contents/357</guid>
             <pubDate>Sat, 24 Feb 2024 08:13:10 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 24. 14:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/bD9Xcd8FKS5AAyn52ZB681RqUZcvdQVa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/361</link>
+            <guid>https://beyondlive.com/contents/361</guid>
+            <pubDate>Sun, 25 Feb 2024 11:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 31. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ZHvFlsJmWoNXSmTONRtP2osLVCFbGwKO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
