@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 02:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 03:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,22 @@
             <enclosure url="https://static.beyondlive.com/contents/eWhOoeArKYIkFWqhkhCrmSYavT2Pv7tg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[3/15] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/370</link>
+            <guid>https://beyondlive.com/contents/370</guid>
+            <pubDate>Wed, 06 Mar 2024 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 15. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/EyKymVTouBbPOSaGNpSbcFJqm7u1pKlH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/16] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/371</link>
+            <guid>https://beyondlive.com/contents/371</guid>
+            <pubDate>Wed, 06 Mar 2024 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 16. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/LwOAx80rLKPt7JlYEk1MOZPj7KW5UrnB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK> Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/363</link>
             <guid>https://beyondlive.com/contents/363</guid>
@@ -53,6 +69,14 @@
             <pubDate>Sun, 25 Feb 2024 11:09:48 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 17. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/h736uVnSXmIR3TQGqggwti5Q6wBlGm9p.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/17] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/372</link>
+            <guid>https://beyondlive.com/contents/372</guid>
+            <pubDate>Wed, 06 Mar 2024 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 17. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/J264H9NmPzVZxKAtErHEEdQq0aF7iWRz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO Re-Streaming]]></title>

@@ -4,13 +4,37 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 02:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 03:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Wed, 06 Mar 2024 02:17:19 GMT</pubDate>
+            <pubDate>Wed, 06 Mar 2024 03:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[3/15] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/370</link>
+            <guid>https://beyondlive.com/contents/370</guid>
+            <pubDate>Wed, 06 Mar 2024 03:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 15. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CaqTvglctZp2OB0OTUgKkDCzF0j1m7iE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/16] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/371</link>
+            <guid>https://beyondlive.com/contents/371</guid>
+            <pubDate>Wed, 06 Mar 2024 03:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 16. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1gTllE9RLVOPDWmP3PWsUrfFeNpliqu1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/17] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/372</link>
+            <guid>https://beyondlive.com/contents/372</guid>
+            <pubDate>Wed, 06 Mar 2024 03:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 17. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/KyiYWJQcNbYbos4WXuKH2cM6boTsAESZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 IVE 2nd FANMEETING <MAGAZINE IVE>]]></title>
@@ -51,14 +75,6 @@
             <pubDate>Sun, 25 Feb 2024 11:09:42 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 17. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/frKTQMC6xNMnBixWjgd93QHrcviEKgv8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/357</link>
-            <guid>https://beyondlive.com/contents/357</guid>
-            <pubDate>Sat, 24 Feb 2024 08:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 03. 24. 14:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/bD9Xcd8FKS5AAyn52ZB681RqUZcvdQVa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL Re-Streaming]]></title>
