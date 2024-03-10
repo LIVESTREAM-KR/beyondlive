@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 04:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 05:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 10 Mar 2024 04:13:41 GMT</pubDate>
+            <pubDate>Sun, 10 Mar 2024 05:11:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 IVE 2nd FANMEETING <MAGAZINE IVE>]]></title>
@@ -51,14 +51,6 @@
             <pubDate>Wed, 06 Mar 2024 03:12:40 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 17. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/KyiYWJQcNbYbos4WXuKH2cM6boTsAESZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2/16] 2024 TEN FIRST FAN-CON [1001] Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/345</link>
-            <guid>https://beyondlive.com/contents/345</guid>
-            <pubDate>Sat, 17 Feb 2024 12:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 03. 10. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/h27gsmcjcu6eOvF0fRNDbBqgLJMbAdM1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/17] 2024 TEN FIRST FAN-CON [1001] Re-Streaming]]></title>
