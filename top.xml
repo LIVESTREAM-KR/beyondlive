@@ -1,14 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://beyondlive.com/?lang=ko</id>
-    <title>Beyond LIVE ─ TOP</title>
-    <updated>2024-03-12T02:16:58.155Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://beyondlive.com/favicon-16x16.png</icon>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://beyondlive.com/?lang=ko</id>
-        <link href="https://beyondlive.com/?lang=ko"/>
-        <updated>2024-03-12T02:16:52.483Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Beyond LIVE ─ TOP</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 12 Mar 2024 03:15:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <link>https://beyondlive.com/?lang=ko</link>
+            <guid>https://beyondlive.com/?lang=ko</guid>
+            <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’]]></title>
+            <link>https://beyondlive.com/contents/373</link>
+            <guid>https://beyondlive.com/contents/373</guid>
+            <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 31. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/xCAaUQTf7tUDJh8LZ4axnCJZecH9y3cS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/15] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/370</link>
+            <guid>https://beyondlive.com/contents/370</guid>
+            <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 15. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CaqTvglctZp2OB0OTUgKkDCzF0j1m7iE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/16] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/371</link>
+            <guid>https://beyondlive.com/contents/371</guid>
+            <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 16. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1gTllE9RLVOPDWmP3PWsUrfFeNpliqu1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/17] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/372</link>
+            <guid>https://beyondlive.com/contents/372</guid>
+            <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 17. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/KyiYWJQcNbYbos4WXuKH2cM6boTsAESZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/24] 2024 TAEYONG CONCERT <TY TRACK> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/363</link>
+            <guid>https://beyondlive.com/contents/363</guid>
+            <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 16. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/EESRSVaNfCLdc784RbIemhV4juKdFlze.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/25] 2024 TAEYONG CONCERT <TY TRACK> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/365</link>
+            <guid>https://beyondlive.com/contents/365</guid>
+            <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 17. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/frKTQMC6xNMnBixWjgd93QHrcviEKgv8.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
