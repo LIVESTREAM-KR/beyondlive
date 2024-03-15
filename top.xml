@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 08:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 09:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
+            <pubDate>Fri, 15 Mar 2024 09:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024 CRAVITY FAN-CON <LUVITY GAMES>]]></title>
+            <link>https://beyondlive.com/contents/367</link>
+            <guid>https://beyondlive.com/contents/367</guid>
             <pubDate>Fri, 15 Mar 2024 08:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 04. 07. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/AOULQpdZVHru4c2y56OEgHLZYxADR0jQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 EXO FAN MEETING : ONE]]></title>
@@ -27,6 +35,14 @@
             <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 31. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/xCAaUQTf7tUDJh8LZ4axnCJZecH9y3cS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/15] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
+            <link>https://beyondlive.com/contents/370</link>
+            <guid>https://beyondlive.com/contents/370</guid>
+            <pubDate>Fri, 15 Mar 2024 09:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 15. 18:30 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CaqTvglctZp2OB0OTUgKkDCzF0j1m7iE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3/16] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
@@ -59,14 +75,6 @@
             <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 17. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/frKTQMC6xNMnBixWjgd93QHrcviEKgv8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 CRAVITY FAN-CON <LUVITY GAMES>]]></title>
-            <link>https://beyondlive.com/contents/367</link>
-            <guid>https://beyondlive.com/contents/367</guid>
-            <pubDate>Fri, 15 Mar 2024 08:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 04. 07. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/AOULQpdZVHru4c2y56OEgHLZYxADR0jQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
