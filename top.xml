@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 07:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 08:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 17 Mar 2024 07:10:40 GMT</pubDate>
+            <pubDate>Sun, 17 Mar 2024 08:13:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 CRAVITY FAN-CON <LUVITY GAMES>]]></title>
@@ -35,14 +35,6 @@
             <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 31. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/xCAaUQTf7tUDJh8LZ4axnCJZecH9y3cS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/17] STARLIGHT+ 2024 Powered by NTT DOCOMO Studio & Live]]></title>
-            <link>https://beyondlive.com/contents/372</link>
-            <guid>https://beyondlive.com/contents/372</guid>
-            <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 03. 17. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/KyiYWJQcNbYbos4WXuKH2cM6boTsAESZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
