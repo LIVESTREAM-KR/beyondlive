@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 01:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 02:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 15 Mar 2024 08:15:13 GMT</pubDate>
             <content:encoded><![CDATA[2024. 04. 07. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/KeGzVKqV2CiSib295QffmBxdw4DE6Xfj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR in MIYAGI]]></title>
+            <link>https://beyondlive.com/contents/375</link>
+            <guid>https://beyondlive.com/contents/375</guid>
+            <pubDate>Mon, 18 Mar 2024 02:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 04. 09. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8yzMyZXOStAotR64aND1GOTIwLFEnSSL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 EXO FAN MEETING : ONE]]></title>
