@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 00:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 01:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 18 Mar 2024 00:52:39 GMT</pubDate>
+            <pubDate>Mon, 18 Mar 2024 01:45:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 CRAVITY FAN-CON <LUVITY GAMES>]]></title>
@@ -35,6 +35,22 @@
             <pubDate>Tue, 12 Mar 2024 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2024. 03. 31. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/xCAaUQTf7tUDJh8LZ4axnCJZecH9y3cS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2024 SMCU PALACE @TOKYO Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/357</link>
+            <guid>https://beyondlive.com/contents/357</guid>
+            <pubDate>Mon, 18 Mar 2024 01:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 24. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/bD9Xcd8FKS5AAyn52ZB681RqUZcvdQVa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/361</link>
+            <guid>https://beyondlive.com/contents/361</guid>
+            <pubDate>Mon, 18 Mar 2024 01:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 03. 31. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ZHvFlsJmWoNXSmTONRtP2osLVCFbGwKO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
