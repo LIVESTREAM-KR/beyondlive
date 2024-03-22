@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 07:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 08:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Fri, 22 Mar 2024 07:12:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR in MIYAGI]]></title>
-            <link>https://beyondlive.com/contents/375</link>
-            <guid>https://beyondlive.com/contents/375</guid>
-            <pubDate>Mon, 18 Mar 2024 02:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 04. 09. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/1PizYGMV8up8UOzPa6tazklZMTipGApd.jpg" length="0" type="image/jpg"/>
+            <pubDate>Fri, 22 Mar 2024 08:15:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’]]></title>
@@ -35,6 +27,14 @@
             <pubDate>Fri, 15 Mar 2024 08:15:07 GMT</pubDate>
             <content:encoded><![CDATA[2024. 04. 07. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/AOULQpdZVHru4c2y56OEgHLZYxADR0jQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 2nd "RE_PRAY" TOUR in MIYAGI]]></title>
+            <link>https://beyondlive.com/contents/375</link>
+            <guid>https://beyondlive.com/contents/375</guid>
+            <pubDate>Mon, 18 Mar 2024 02:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 04. 09. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/1PizYGMV8up8UOzPa6tazklZMTipGApd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 EXO FAN MEETING : ONE]]></title>
