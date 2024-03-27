@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 05:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 06:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 18 Mar 2024 02:18:28 GMT</pubDate>
             <content:encoded><![CDATA[2024. 04. 09. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/8yzMyZXOStAotR64aND1GOTIwLFEnSSL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DAY6 CONCERT <Welcome to the Show>]]></title>
+            <link>https://beyondlive.com/contents/377</link>
+            <guid>https://beyondlive.com/contents/377</guid>
+            <pubDate>Wed, 27 Mar 2024 06:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 04. 14. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/j0D56dwgHwWp8BtcqaQToUrJ1GH3R7Lb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 EXO FAN MEETING : ONE]]></title>
