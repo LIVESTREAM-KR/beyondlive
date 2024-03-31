@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Mar 2024 04:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Mar 2024 05:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 31 Mar 2024 04:15:44 GMT</pubDate>
+            <pubDate>Sun, 31 Mar 2024 05:11:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’]]></title>
@@ -51,14 +51,6 @@
             <pubDate>Thu, 14 Mar 2024 05:11:29 GMT</pubDate>
             <content:encoded><![CDATA[2024. 04. 14. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/vBCyxgCR27tjqiZ6rbZ05sWCnT7vLzwq.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/361</link>
-            <guid>https://beyondlive.com/contents/361</guid>
-            <pubDate>Mon, 18 Mar 2024 01:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 03. 31. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ZHvFlsJmWoNXSmTONRtP2osLVCFbGwKO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
