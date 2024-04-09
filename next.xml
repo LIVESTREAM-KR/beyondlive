@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 02:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 03:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Thu, 14 Mar 2024 05:11:35 GMT</pubDate>
             <content:encoded><![CDATA[2024. 04. 14. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/HoYifRdxKtEtIVIC1ICZKTFOLlAUCOki.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/3] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE>]]></title>
+            <link>https://beyondlive.com/contents/378</link>
+            <guid>https://beyondlive.com/contents/378</guid>
+            <pubDate>Tue, 09 Apr 2024 03:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 03. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/mzpPH7VLte2JSCcpzUauODZXjZAgvB0d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/4] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE>]]></title>
+            <link>https://beyondlive.com/contents/380</link>
+            <guid>https://beyondlive.com/contents/380</guid>
+            <pubDate>Tue, 09 Apr 2024 03:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 04. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0tvqf6P7qj7057LRqicYuUkg8jZaeogw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids 4TH FANMEETING ‘SKZ’S MAGIC SCHOOL’ Re-Streaming]]></title>
