@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 04:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 05:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,14 @@
             <enclosure url="https://static.beyondlive.com/contents/mzpPH7VLte2JSCcpzUauODZXjZAgvB0d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[5/4] 2024 RIIZE FAN–CON ‘RIIZING DAY’ in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/382</link>
+            <guid>https://beyondlive.com/contents/382</guid>
+            <pubDate>Thu, 11 Apr 2024 05:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 04. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/OGlWMHcWXPZVHx6txbpHSu995XxQE8BO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[5/4] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE>]]></title>
             <link>https://beyondlive.com/contents/380</link>
             <guid>https://beyondlive.com/contents/380</guid>
@@ -53,6 +61,14 @@
             <pubDate>Thu, 11 Apr 2024 00:53:04 GMT</pubDate>
             <content:encoded><![CDATA[2024. 05. 05. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/AfSfAjLPNik5UnxUSvqfS2ZNokrTAoCG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/5] 2024 RIIZE FAN–CON ‘RIIZING DAY’ in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/384</link>
+            <guid>https://beyondlive.com/contents/384</guid>
+            <pubDate>Thu, 11 Apr 2024 05:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 05. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/5AKESKezc8fYh3k3JTFX49VcA3RvPa67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
