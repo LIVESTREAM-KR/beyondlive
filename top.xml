@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 04:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 05:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Thu, 02 May 2024 04:15:21 GMT</pubDate>
+            <pubDate>Thu, 02 May 2024 05:13:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024 SUHO CONCERT <SU:HOME>]]></title>
+            <link>https://beyondlive.com/contents/386</link>
+            <guid>https://beyondlive.com/contents/386</guid>
+            <pubDate>Thu, 02 May 2024 05:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/fWyIHXdcNBuCCiO8IzRgrfewkgXlIAZS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5/3] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE>]]></title>
