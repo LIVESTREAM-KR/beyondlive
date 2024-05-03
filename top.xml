@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 04:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 05:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Fri, 03 May 2024 04:16:08 GMT</pubDate>
+            <pubDate>Fri, 03 May 2024 05:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in JAPAN]]></title>
+            <link>https://beyondlive.com/contents/394</link>
+            <guid>https://beyondlive.com/contents/394</guid>
+            <pubDate>Fri, 03 May 2024 05:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 22. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/aSTu3m2Zu3ITNftb0q9LkM0RNmZntHC4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 SUHO CONCERT <SU:HOME>]]></title>
