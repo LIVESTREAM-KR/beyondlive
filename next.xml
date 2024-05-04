@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 11:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 12:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[5/4] 2024 RIIZE FAN–CON ‘RIIZING DAY’ in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/382</link>
-            <guid>https://beyondlive.com/contents/382</guid>
-            <pubDate>Thu, 11 Apr 2024 05:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 04. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/OGlWMHcWXPZVHx6txbpHSu995XxQE8BO.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[5/4] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE>]]></title>
             <link>https://beyondlive.com/contents/380</link>
@@ -86,6 +78,14 @@
             <pubDate>Fri, 03 May 2024 12:21:08 GMT</pubDate>
             <content:encoded><![CDATA[2024. 05. 31. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/sS5sa79eua4f811IyZZ8rvahBfDA1fDj.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/4] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/381</link>
+            <guid>https://beyondlive.com/contents/381</guid>
+            <pubDate>Sat, 04 May 2024 12:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 01. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/p6ML52MbOlS09uXWsuiFc9IE8s6OT4sw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
