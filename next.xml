@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 10:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 11:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 11 Apr 2024 05:12:20 GMT</pubDate>
             <content:encoded><![CDATA[2024. 05. 05. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5AKESKezc8fYh3k3JTFX49VcA3RvPa67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/4] 2024 RIIZE FAN–CON ‘RIIZING DAY’ in SEOUL Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/383</link>
+            <guid>https://beyondlive.com/contents/383</guid>
+            <pubDate>Sat, 04 May 2024 11:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 18. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/kX1XBkd0RAZybSiQWWMSRnXx69jB9XNg.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in JAPAN]]></title>
