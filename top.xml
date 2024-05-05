@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 09:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 10:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 05 May 2024 09:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[5/5] 2024 RIIZE FAN–CON ‘RIIZING DAY’ in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/384</link>
-            <guid>https://beyondlive.com/contents/384</guid>
-            <pubDate>Thu, 11 Apr 2024 06:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 05. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/OoTye9y8FRSjRZy6rcZsv4NtviJ34Se1.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sun, 05 May 2024 10:12:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in JAPAN]]></title>
@@ -59,6 +51,14 @@
             <pubDate>Sat, 04 May 2024 14:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2024. 05. 18. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/U07pkX7YfBVuB7qvKc2Ude8osbQJN8LR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/5] 2024 RIIZE FAN–CON ‘RIIZING DAY’ in SEOUL Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/385</link>
+            <guid>https://beyondlive.com/contents/385</guid>
+            <pubDate>Sun, 05 May 2024 10:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 19. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/QgMLTkYnIiAX4wuN521kqKpSMKwdgwZs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5/3] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE> Re-Streaming]]></title>
