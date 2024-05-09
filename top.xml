@@ -4,13 +4,29 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 01:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 02:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Thu, 09 May 2024 01:56:04 GMT</pubDate>
+            <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[5/25] NCT WISH : SCHOOL of  WISH]]></title>
+            <link>https://beyondlive.com/contents/395</link>
+            <guid>https://beyondlive.com/contents/395</guid>
+            <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 25. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/j3KQXMKzEku5xHCgPEmx5su1leiLEZee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/26] NCT WISH : SCHOOL of  WISH]]></title>
+            <link>https://beyondlive.com/contents/396</link>
+            <guid>https://beyondlive.com/contents/396</guid>
+            <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 26. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/yLfTGI6jincfbmpdzHeGh2NgEaX3Js8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in JAPAN]]></title>
