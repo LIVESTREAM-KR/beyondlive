@@ -4,29 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 05:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 06:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Fri, 10 May 2024 05:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[5/25] NCT WISH : SCHOOL of  WISH]]></title>
-            <link>https://beyondlive.com/contents/395</link>
-            <guid>https://beyondlive.com/contents/395</guid>
-            <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 25. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/j3KQXMKzEku5xHCgPEmx5su1leiLEZee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[5/26] NCT WISH : SCHOOL of  WISH]]></title>
-            <link>https://beyondlive.com/contents/396</link>
-            <guid>https://beyondlive.com/contents/396</guid>
-            <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 26. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/yLfTGI6jincfbmpdzHeGh2NgEaX3Js8b.jpg" length="0" type="image/jpg"/>
+            <pubDate>Fri, 10 May 2024 06:16:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in JAPAN]]></title>
@@ -45,6 +29,14 @@
             <enclosure url="https://static.beyondlive.com/contents/T4MQMWXWzFOnCELoCBGBUEZwTLLVJMys.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[5/25] NCT WISH : SCHOOL of  WISH]]></title>
+            <link>https://beyondlive.com/contents/395</link>
+            <guid>https://beyondlive.com/contents/395</guid>
+            <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 25. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/j3KQXMKzEku5xHCgPEmx5su1leiLEZee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 SUHO CONCERT <SU:HOME>]]></title>
             <link>https://beyondlive.com/contents/386</link>
             <guid>https://beyondlive.com/contents/386</guid>
@@ -59,6 +51,14 @@
             <pubDate>Fri, 03 May 2024 06:16:53 GMT</pubDate>
             <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/3kF22xtG2JWcOaM4sAwMljvec9aZf09i.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/26] NCT WISH : SCHOOL of  WISH]]></title>
+            <link>https://beyondlive.com/contents/396</link>
+            <guid>https://beyondlive.com/contents/396</guid>
+            <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 26. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/yLfTGI6jincfbmpdzHeGh2NgEaX3Js8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5/4] 2024 RIIZE FAN–CON ‘RIIZING DAY’ in SEOUL Re-Streaming]]></title>
