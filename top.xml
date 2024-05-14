@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 04:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 05:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Tue, 14 May 2024 04:14:25 GMT</pubDate>
+            <pubDate>Tue, 14 May 2024 05:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024 DOYOUNG CONCERT [ Dear Youth, ]]]></title>
+            <link>https://beyondlive.com/contents/388</link>
+            <guid>https://beyondlive.com/contents/388</guid>
+            <pubDate>Tue, 14 May 2024 05:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/j8okFhXcaW2Cp9lB2xWngzsRmj7T4BFj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in JAPAN]]></title>
