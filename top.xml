@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 02:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 20 May 2024 02:30:20 GMT</pubDate>
+            <pubDate>Mon, 20 May 2024 03:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024]]></title>
+            <link>https://beyondlive.com/contents/397</link>
+            <guid>https://beyondlive.com/contents/397</guid>
+            <pubDate>Mon, 20 May 2024 03:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 16. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/TBAt2s9IwotSMUdA0vNE6FiQ7Pkfxll6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in JAPAN]]></title>
