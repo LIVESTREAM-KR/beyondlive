@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 03:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 04:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 20 May 2024 03:14:41 GMT</pubDate>
+            <pubDate>Mon, 20 May 2024 04:15:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024]]></title>
@@ -75,6 +75,14 @@
             <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
             <content:encoded><![CDATA[2024. 05. 26. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/yLfTGI6jincfbmpdzHeGh2NgEaX3Js8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/3] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/379</link>
+            <guid>https://beyondlive.com/contents/379</guid>
+            <pubDate>Mon, 20 May 2024 04:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 05. 31. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/t3U36mwGHCXDxVJ41bMMfZzkgEKmmuEE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5/4] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE> Re-Streaming]]></title>
