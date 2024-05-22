@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 03:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 04:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Wed, 22 May 2024 03:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024]]></title>
-            <link>https://beyondlive.com/contents/397</link>
-            <guid>https://beyondlive.com/contents/397</guid>
-            <pubDate>Mon, 20 May 2024 03:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 06. 16. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/TBAt2s9IwotSMUdA0vNE6FiQ7Pkfxll6.jpg" length="0" type="image/jpg"/>
+            <pubDate>Wed, 22 May 2024 04:15:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ITZY 2ND WORLD TOUR <BORN TO BE> in JAPAN]]></title>
@@ -75,6 +67,14 @@
             <pubDate>Thu, 09 May 2024 02:27:23 GMT</pubDate>
             <content:encoded><![CDATA[2024. 05. 26. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/yLfTGI6jincfbmpdzHeGh2NgEaX3Js8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024]]></title>
+            <link>https://beyondlive.com/contents/397</link>
+            <guid>https://beyondlive.com/contents/397</guid>
+            <pubDate>Mon, 20 May 2024 03:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 16. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/TBAt2s9IwotSMUdA0vNE6FiQ7Pkfxll6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5/3] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE> Re-Streaming]]></title>
