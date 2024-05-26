@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 09:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 10:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 SUHO CONCERT <SU:HOME>]]></title>
-            <link>https://beyondlive.com/contents/386</link>
-            <guid>https://beyondlive.com/contents/386</guid>
-            <pubDate>Thu, 02 May 2024 05:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/SDMAlQjgC0MS1y3I0wTsDikVgobqt2mf.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[5/26] SHINee WORLD Ⅵ [PERFECT ILLUMINATION : SHINee’S BACK]]]></title>
             <link>https://beyondlive.com/contents/392</link>
@@ -22,14 +14,6 @@
             <pubDate>Fri, 03 May 2024 06:16:58 GMT</pubDate>
             <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/07T5pZTnsPBsHdfDdc5Zk5xiIXgE4z7l.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 DOYOUNG CONCERT [ Dear Youth, ]]]></title>
-            <link>https://beyondlive.com/contents/388</link>
-            <guid>https://beyondlive.com/contents/388</guid>
-            <pubDate>Tue, 14 May 2024 05:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/FMS9Syi7zgnKoIDKrUEUiRtWkPo7TaJv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5/26] NCT WISH : SCHOOL of  WISH]]></title>

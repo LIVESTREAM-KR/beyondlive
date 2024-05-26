@@ -4,29 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 09:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 10:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 26 May 2024 09:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 DOYOUNG CONCERT [ Dear Youth, ]]]></title>
-            <link>https://beyondlive.com/contents/388</link>
-            <guid>https://beyondlive.com/contents/388</guid>
-            <pubDate>Tue, 14 May 2024 05:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/j8okFhXcaW2Cp9lB2xWngzsRmj7T4BFj.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 SUHO CONCERT <SU:HOME>]]></title>
-            <link>https://beyondlive.com/contents/386</link>
-            <guid>https://beyondlive.com/contents/386</guid>
-            <pubDate>Thu, 02 May 2024 05:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/fWyIHXdcNBuCCiO8IzRgrfewkgXlIAZS.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sun, 26 May 2024 10:13:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[5/26] SHINee WORLD Ⅵ [PERFECT ILLUMINATION : SHINee’S BACK]]]></title>
@@ -67,6 +51,22 @@
             <pubDate>Sat, 04 May 2024 14:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2024. 06. 01. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a5FFpEBjDSkkvZ3YkmcMy7WGQSOITXDe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 DOYOUNG CONCERT [ Dear Youth, ] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/389</link>
+            <guid>https://beyondlive.com/contents/389</guid>
+            <pubDate>Sun, 26 May 2024 10:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 09. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/yKBxzGceryPgWrpUKMGCjSr0AU9ijmji.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SUHO CONCERT <SU:HOME> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/387</link>
+            <guid>https://beyondlive.com/contents/387</guid>
+            <pubDate>Sun, 26 May 2024 10:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 09. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2u26tgtgB1wjDV9XwjIuCaHYCa5oP3Fo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
