@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 08:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 09:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,30 @@
             <pubDate>Sat, 25 May 2024 10:14:03 GMT</pubDate>
             <content:encoded><![CDATA[2024. 06. 08. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7CWEcHqTc6lKBcZpNZFZ7VAJfZa04qSB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/26] SHINee WORLD Ⅵ [PERFECT ILLUMINATION : SHINee’S BACK] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/393</link>
+            <guid>https://beyondlive.com/contents/393</guid>
+            <pubDate>Sun, 26 May 2024 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 09. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Lm7qSl1OI9JyiC44RVFP1KdFAMFT64JT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 DOYOUNG CONCERT [ Dear Youth, ] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/389</link>
+            <guid>https://beyondlive.com/contents/389</guid>
+            <pubDate>Sun, 26 May 2024 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 09. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/om6yjZBeDJJmYRJm512BY1kzruZNSoZn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SUHO CONCERT <SU:HOME> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/387</link>
+            <guid>https://beyondlive.com/contents/387</guid>
+            <pubDate>Sun, 26 May 2024 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 09. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/iSNbYKPHoyxxNtt9PcpgnoD0hZXgyrw9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024]]></title>
