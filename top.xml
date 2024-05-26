@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 10:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 11:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 26 May 2024 10:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[5/26] SHINee WORLD Ⅵ [PERFECT ILLUMINATION : SHINee’S BACK]]]></title>
-            <link>https://beyondlive.com/contents/392</link>
-            <guid>https://beyondlive.com/contents/392</guid>
-            <pubDate>Fri, 03 May 2024 06:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 05. 26. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3kF22xtG2JWcOaM4sAwMljvec9aZf09i.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sun, 26 May 2024 11:11:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[5/26] NCT WISH : SCHOOL of  WISH]]></title>
@@ -51,6 +43,22 @@
             <pubDate>Sat, 04 May 2024 14:12:45 GMT</pubDate>
             <content:encoded><![CDATA[2024. 06. 01. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/a5FFpEBjDSkkvZ3YkmcMy7WGQSOITXDe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/25] SHINee WORLD Ⅵ [PERFECT ILLUMINATION : SHINee’S BACK] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/391</link>
+            <guid>https://beyondlive.com/contents/391</guid>
+            <pubDate>Sun, 26 May 2024 11:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 08. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/4uRic1tYoKZkMg6CPT4zson6HF5exdn4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5/26] SHINee WORLD Ⅵ [PERFECT ILLUMINATION : SHINee’S BACK] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/393</link>
+            <guid>https://beyondlive.com/contents/393</guid>
+            <pubDate>Sun, 26 May 2024 11:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 09. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/kzDgW1Chji09kVBrmGesieaLERx7nU4y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 DOYOUNG CONCERT [ Dear Youth, ] Re-Streaming]]></title>
