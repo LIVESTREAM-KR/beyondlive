@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 04:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 05:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 20 May 2024 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[2024. 06. 16. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/Y5J9WCE7gEQgKegwkwV33IQADkgcQsjG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SUPER JUNIOR <SUPER SHOW SPIN-OFF : Halftime> in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/400</link>
+            <guid>https://beyondlive.com/contents/400</guid>
+            <pubDate>Mon, 27 May 2024 05:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 23. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/NuuETE8xtWinODamYghK85JvgOhsisC3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
