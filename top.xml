@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 04:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 05:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Tue, 28 May 2024 04:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 SUPER JUNIOR <SUPER SHOW SPIN-OFF : Halftime> in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/400</link>
-            <guid>https://beyondlive.com/contents/400</guid>
-            <pubDate>Mon, 27 May 2024 05:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 06. 23. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/GexkdpV8yyiBbq1i2U2hro77OKHTNovs.jpg" length="0" type="image/jpg"/>
+            <pubDate>Tue, 28 May 2024 05:12:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024]]></title>
@@ -27,6 +19,14 @@
             <pubDate>Mon, 20 May 2024 03:14:41 GMT</pubDate>
             <content:encoded><![CDATA[2024. 06. 16. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/TBAt2s9IwotSMUdA0vNE6FiQ7Pkfxll6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 SUPER JUNIOR <SUPER SHOW SPIN-OFF : Halftime> in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/400</link>
+            <guid>https://beyondlive.com/contents/400</guid>
+            <pubDate>Mon, 27 May 2024 05:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 23. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/GexkdpV8yyiBbq1i2U2hro77OKHTNovs.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5/3] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAM( )SCAPE> Re-Streaming]]></title>
