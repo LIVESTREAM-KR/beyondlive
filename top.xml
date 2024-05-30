@@ -4,13 +4,37 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 00:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 01:57:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Thu, 30 May 2024 00:56:19 GMT</pubDate>
+            <pubDate>Thu, 30 May 2024 01:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[6/21] DAY6 3RD FANMEETING 'I Need My Day']]></title>
+            <link>https://beyondlive.com/contents/401</link>
+            <guid>https://beyondlive.com/contents/401</guid>
+            <pubDate>Thu, 30 May 2024 01:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 21. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/nPyGnBVQPLfhHvQCUYrJ7lKIWw56lEuB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[6/22] DAY6 3RD FANMEETING 'I Need My Day']]></title>
+            <link>https://beyondlive.com/contents/402</link>
+            <guid>https://beyondlive.com/contents/402</guid>
+            <pubDate>Thu, 30 May 2024 01:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 22. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/hDLRzbV9QmqYZbztd7mBexjC0eCUOtKu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[6/23] DAY6 3RD FANMEETING 'I Need My Day']]></title>
+            <link>https://beyondlive.com/contents/403</link>
+            <guid>https://beyondlive.com/contents/403</guid>
+            <pubDate>Thu, 30 May 2024 01:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 23. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/WZoQeFI2H0kb9xgs21PBHTrDZ7FVWo8L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024]]></title>
