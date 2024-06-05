@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 04:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 05:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Thu, 30 May 2024 01:57:51 GMT</pubDate>
             <content:encoded><![CDATA[2024. 06. 23. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/PA4CnKOvFk9yb5057ITyqNFLrKFIqay5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 aespa LIVE TOUR – SYNK : PARALLEL LINE]]></title>
+            <link>https://beyondlive.com/contents/399</link>
+            <guid>https://beyondlive.com/contents/399</guid>
+            <pubDate>Wed, 05 Jun 2024 05:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 06. 30. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/QZvySJ4BGHoplvh5vvH99rPGtKbVaSrk.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
