@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 13:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 14:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 09 Jun 2024 13:13:15 GMT</pubDate>
+            <pubDate>Sun, 09 Jun 2024 14:12:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024]]></title>
@@ -59,14 +59,6 @@
             <pubDate>Wed, 05 Jun 2024 05:13:08 GMT</pubDate>
             <content:encoded><![CDATA[2024. 06. 30. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/gLpAOKXhv7xIWC8CJvy9uTB31lPP1yRx.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 SUHO CONCERT <SU:HOME> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/387</link>
-            <guid>https://beyondlive.com/contents/387</guid>
-            <pubDate>Sun, 26 May 2024 10:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 06. 09. 20:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2u26tgtgB1wjDV9XwjIuCaHYCa5oP3Fo.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
