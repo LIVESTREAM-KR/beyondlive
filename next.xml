@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 07:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 08:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 16 Jun 2024 09:14:35 GMT</pubDate>
             <content:encoded><![CDATA[2024. 07. 06. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/qHYvlhl6lpKYRF58bFjIibvCXFoluJWJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' - ENCORE]]></title>
+            <link>https://beyondlive.com/contents/404</link>
+            <guid>https://beyondlive.com/contents/404</guid>
+            <pubDate>Tue, 25 Jun 2024 08:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 08. 11. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/YY17BTwzyseQoGbQYoBa8Dplmr4ZrNWT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
