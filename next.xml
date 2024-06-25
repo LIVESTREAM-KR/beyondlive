@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Beyond LIVE ─ Beyond NEXT</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 19:11:27 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 aespa LIVE TOUR – SYNK : PARALLEL LINE]]></title>
-            <link>https://beyondlive.com/contents/399</link>
-            <guid>https://beyondlive.com/contents/399</guid>
-            <pubDate>Wed, 05 Jun 2024 05:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 06. 30. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/QZvySJ4BGHoplvh5vvH99rPGtKbVaSrk.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/398</link>
-            <guid>https://beyondlive.com/contents/398</guid>
-            <pubDate>Sun, 16 Jun 2024 09:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 06. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/qHYvlhl6lpKYRF58bFjIibvCXFoluJWJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' - ENCORE]]></title>
-            <link>https://beyondlive.com/contents/404</link>
-            <guid>https://beyondlive.com/contents/404</guid>
-            <pubDate>Tue, 25 Jun 2024 08:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 08. 11. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/YY17BTwzyseQoGbQYoBa8Dplmr4ZrNWT.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://beyondlive.com/?lang=ko</id>
+    <title>Beyond LIVE ─ Beyond NEXT</title>
+    <updated>2024-06-25T20:13:41.106Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://beyondlive.com/resources/favicon_32x32.png</icon>
+</feed>
