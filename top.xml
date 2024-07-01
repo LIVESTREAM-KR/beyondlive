@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 01:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 02:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 01 Jul 2024 01:04:49 GMT</pubDate>
+            <pubDate>Mon, 01 Jul 2024 02:36:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE BOYZ WORLD TOUR : ZENERATION Ⅱ]]></title>
@@ -53,20 +53,20 @@
             <enclosure url="https://static.beyondlive.com/contents/vEmDwVF4XetdUARUfrZ4WhPst34f4Lrh.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/398</link>
-            <guid>https://beyondlive.com/contents/398</guid>
-            <pubDate>Tue, 25 Jun 2024 21:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 06. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/2KjAgSzLtfn9wkoawrAXUQaSWLWKPoFA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' - ENCORE]]></title>
             <link>https://beyondlive.com/contents/404</link>
             <guid>https://beyondlive.com/contents/404</guid>
             <pubDate>Tue, 25 Jun 2024 21:12:57 GMT</pubDate>
             <content:encoded><![CDATA[2024. 08. 11. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/6CT7u8x8uf4RBZ4KeXBhuHHbkcnida5H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024 Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/398</link>
+            <guid>https://beyondlive.com/contents/398</guid>
+            <pubDate>Tue, 25 Jun 2024 21:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 07. 06. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/2KjAgSzLtfn9wkoawrAXUQaSWLWKPoFA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
