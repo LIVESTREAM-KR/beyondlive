@@ -4,16 +4,16 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 04:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 05:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/398</link>
-            <guid>https://beyondlive.com/contents/398</guid>
+            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' - ENCORE]]></title>
+            <link>https://beyondlive.com/contents/404</link>
+            <guid>https://beyondlive.com/contents/404</guid>
             <pubDate>Tue, 25 Jun 2024 21:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 06. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/qHYvlhl6lpKYRF58bFjIibvCXFoluJWJ.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2024. 08. 11. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/YY17BTwzyseQoGbQYoBa8Dplmr4ZrNWT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE BOYZ WORLD TOUR : ZENERATION Ⅱ]]></title>
@@ -64,14 +64,6 @@
             <enclosure url="https://static.beyondlive.com/contents/YY17BTwzyseQoGbQYoBa8Dplmr4ZrNWT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/398</link>
-            <guid>https://beyondlive.com/contents/398</guid>
-            <pubDate>Tue, 25 Jun 2024 21:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 06. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/qHYvlhl6lpKYRF58bFjIibvCXFoluJWJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[THE BOYZ WORLD TOUR : ZENERATION Ⅱ]]></title>
             <link>https://beyondlive.com/contents/405</link>
             <guid>https://beyondlive.com/contents/405</guid>
@@ -120,14 +112,6 @@
             <enclosure url="https://static.beyondlive.com/contents/YY17BTwzyseQoGbQYoBa8Dplmr4ZrNWT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Creepy Nuts ONE MAN TOUR 2024 Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/398</link>
-            <guid>https://beyondlive.com/contents/398</guid>
-            <pubDate>Tue, 25 Jun 2024 21:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 06. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/qHYvlhl6lpKYRF58bFjIibvCXFoluJWJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[THE BOYZ WORLD TOUR : ZENERATION Ⅱ]]></title>
             <link>https://beyondlive.com/contents/405</link>
             <guid>https://beyondlive.com/contents/405</guid>
@@ -166,14 +150,6 @@
             <pubDate>Thu, 27 Jun 2024 11:11:37 GMT</pubDate>
             <content:encoded><![CDATA[2024. 08. 03. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/SsSnjbzm4ekkoLKUE8tBIQeMafKLgtp2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' - ENCORE]]></title>
-            <link>https://beyondlive.com/contents/404</link>
-            <guid>https://beyondlive.com/contents/404</guid>
-            <pubDate>Tue, 25 Jun 2024 21:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 08. 11. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/YY17BTwzyseQoGbQYoBa8Dplmr4ZrNWT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
