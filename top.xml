@@ -4,29 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 05:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 06:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Wed, 10 Jul 2024 05:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 BAEKHYUN ASIA TOUR 'Lonsdaleite [dot]']]></title>
-            <link>https://beyondlive.com/contents/407</link>
-            <guid>https://beyondlive.com/contents/407</guid>
-            <pubDate>Mon, 08 Jul 2024 05:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 28. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/wSLfbBQpvVQDCXnjs2d1Lc0SpgnaPPhK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 Red Velvet FANCON TOUR <HAPPINESS : My Dear, ReVe1uv> in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/406</link>
-            <guid>https://beyondlive.com/contents/406</guid>
-            <pubDate>Mon, 08 Jul 2024 05:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 08. 04. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/JpJu4S4X8VxHONsuWAr5bC2xRnQfa1Hz.jpg" length="0" type="image/jpg"/>
+            <pubDate>Wed, 10 Jul 2024 06:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE BOYZ WORLD TOUR : ZENERATION Ⅱ]]></title>
@@ -35,6 +19,14 @@
             <pubDate>Fri, 28 Jun 2024 06:18:19 GMT</pubDate>
             <content:encoded><![CDATA[2024. 07. 14. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/PspOJJdZwlTqgk64mBj3cF7nnMmP823E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 BAEKHYUN ASIA TOUR 'Lonsdaleite [dot]']]></title>
+            <link>https://beyondlive.com/contents/407</link>
+            <guid>https://beyondlive.com/contents/407</guid>
+            <pubDate>Mon, 08 Jul 2024 05:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 07. 28. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/wSLfbBQpvVQDCXnjs2d1Lc0SpgnaPPhK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Day1 메인 View] HIMEHINA LIVE 2024『Remember the tears』]]></title>
@@ -67,6 +59,14 @@
             <pubDate>Thu, 27 Jun 2024 11:11:32 GMT</pubDate>
             <content:encoded><![CDATA[2024. 08. 03. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/vEmDwVF4XetdUARUfrZ4WhPst34f4Lrh.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Red Velvet FANCON TOUR <HAPPINESS : My Dear, ReVe1uv> in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/406</link>
+            <guid>https://beyondlive.com/contents/406</guid>
+            <pubDate>Mon, 08 Jul 2024 05:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 08. 04. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/JpJu4S4X8VxHONsuWAr5bC2xRnQfa1Hz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' - ENCORE]]></title>
