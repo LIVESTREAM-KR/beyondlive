@@ -4,10 +4,18 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 09:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 10:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[8/3] 2024 NCT 127 8th ANNIVERSARY FANMEETING〈8ECRET INVITATION〉]]></title>
+            <link>https://beyondlive.com/contents/418</link>
+            <guid>https://beyondlive.com/contents/418</guid>
+            <pubDate>Fri, 19 Jul 2024 05:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 08. 03. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dACAgQP5DYalzvUpXLhroR831O1rnmMk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 Red Velvet FANCON TOUR <HAPPINESS : My Dear, ReVe1uv> in SEOUL]]></title>
             <link>https://beyondlive.com/contents/406</link>
             <guid>https://beyondlive.com/contents/406</guid>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 25 Jun 2024 21:13:02 GMT</pubDate>
             <content:encoded><![CDATA[2024. 08. 11. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/PkD5cynS0RvjwAcZKLTQQvcT8w5jIWxw.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 BAEKHYUN ASIA TOUR 'Lonsdaleite [dot]']]></title>
-            <link>https://beyondlive.com/contents/407</link>
-            <guid>https://beyondlive.com/contents/407</guid>
-            <pubDate>Mon, 08 Jul 2024 05:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 28. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/RoYVW99s5C4EQbhwGuGYrUWczVdg577b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[8/3] 2024 NCT 127 8th ANNIVERSARY FANMEETING〈8ECRET INVITATION〉]]></title>
@@ -72,14 +72,6 @@
             <enclosure url="https://static.beyondlive.com/contents/PkD5cynS0RvjwAcZKLTQQvcT8w5jIWxw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 BAEKHYUN ASIA TOUR 'Lonsdaleite [dot]']]></title>
-            <link>https://beyondlive.com/contents/407</link>
-            <guid>https://beyondlive.com/contents/407</guid>
-            <pubDate>Mon, 08 Jul 2024 05:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 28. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/RoYVW99s5C4EQbhwGuGYrUWczVdg577b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[8/3] 2024 NCT 127 8th ANNIVERSARY FANMEETING〈8ECRET INVITATION〉]]></title>
             <link>https://beyondlive.com/contents/418</link>
             <guid>https://beyondlive.com/contents/418</guid>
@@ -112,20 +104,36 @@
             <enclosure url="https://static.beyondlive.com/contents/PkD5cynS0RvjwAcZKLTQQvcT8w5jIWxw.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 BAEKHYUN ASIA TOUR 'Lonsdaleite [dot]']]></title>
-            <link>https://beyondlive.com/contents/407</link>
-            <guid>https://beyondlive.com/contents/407</guid>
-            <pubDate>Mon, 08 Jul 2024 05:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 07. 28. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/RoYVW99s5C4EQbhwGuGYrUWczVdg577b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[8/3] 2024 NCT 127 8th ANNIVERSARY FANMEETING〈8ECRET INVITATION〉]]></title>
             <link>https://beyondlive.com/contents/418</link>
             <guid>https://beyondlive.com/contents/418</guid>
             <pubDate>Fri, 19 Jul 2024 05:14:17 GMT</pubDate>
             <content:encoded><![CDATA[2024. 08. 03. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/dACAgQP5DYalzvUpXLhroR831O1rnmMk.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 Red Velvet FANCON TOUR <HAPPINESS : My Dear, ReVe1uv> in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/406</link>
+            <guid>https://beyondlive.com/contents/406</guid>
+            <pubDate>Mon, 08 Jul 2024 05:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 08. 04. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/FQR04o1s5t8ggV1DgMvjubuFKDUKBCRy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[8/4] 2024 NCT 127 8th ANNIVERSARY FANMEETING〈8ECRET INVITATION〉]]></title>
+            <link>https://beyondlive.com/contents/419</link>
+            <guid>https://beyondlive.com/contents/419</guid>
+            <pubDate>Fri, 19 Jul 2024 05:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 08. 04. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/nqaRAYUyusShP5g6ZNyVigrXdIZ9nGUL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' - ENCORE]]></title>
+            <link>https://beyondlive.com/contents/404</link>
+            <guid>https://beyondlive.com/contents/404</guid>
+            <pubDate>Tue, 25 Jun 2024 21:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 08. 11. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/PkD5cynS0RvjwAcZKLTQQvcT8w5jIWxw.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
