@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 23:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2024 01:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 10 Aug 2024 23:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/430</link>
-            <guid>https://beyondlive.com/contents/430</guid>
-            <pubDate>Thu, 08 Aug 2024 05:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 15. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/qBva5XRU9J5bTEKFu7g7OtJVHzEpbHO4.png" length="0" type="image/png"/>
+            <pubDate>Sun, 11 Aug 2024 01:06:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[IVE THE 1ST WORLD TOUR 'SHOW WHAT I HAVE' - ENCORE]]></title>
@@ -51,6 +43,14 @@
             <pubDate>Fri, 02 Aug 2024 05:14:23 GMT</pubDate>
             <content:encoded><![CDATA[2024. 09. 01. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/IVD3KJJddNZmcdHArIvdXHXh994nrmsi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/430</link>
+            <guid>https://beyondlive.com/contents/430</guid>
+            <pubDate>Thu, 08 Aug 2024 05:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 15. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/qBva5XRU9J5bTEKFu7g7OtJVHzEpbHO4.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON <#>]]></title>
