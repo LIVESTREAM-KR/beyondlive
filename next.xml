@@ -4,18 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 09:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 10:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2024 박재범 팬미팅 [Jay Park Season 3: Dedicated 2 U] Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/423</link>
-            <guid>https://beyondlive.com/contents/423</guid>
-            <pubDate>Sun, 11 Aug 2024 10:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 08. 25. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/OIoo7oItIgkOpavCg7Hg85BR3w0GCJMT.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2024 Red Velvet FANCON TOUR <HAPPINESS : My Dear, ReVe1uv> in SEOUL Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/417</link>
             <guid>https://beyondlive.com/contents/417</guid>
@@ -38,6 +30,14 @@
             <pubDate>Wed, 07 Aug 2024 06:19:15 GMT</pubDate>
             <content:encoded><![CDATA[2024. 09. 01. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/RvszbMQblaH0huy3V2Qd5M4irbV51DV0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TOGENASHI TOGEARI　2nd ONE-MAN LIVE “RINNE NO KOTOWARI”]]></title>
+            <link>https://beyondlive.com/contents/434</link>
+            <guid>https://beyondlive.com/contents/434</guid>
+            <pubDate>Sat, 17 Aug 2024 10:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 13. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/LLGIrg8fQutG7vd3S9eZTKV4u3pAhGvO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON <#>]]></title>
@@ -112,6 +112,14 @@
             <enclosure url="https://static.beyondlive.com/contents/RvszbMQblaH0huy3V2Qd5M4irbV51DV0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TOGENASHI TOGEARI　2nd ONE-MAN LIVE “RINNE NO KOTOWARI”]]></title>
+            <link>https://beyondlive.com/contents/434</link>
+            <guid>https://beyondlive.com/contents/434</guid>
+            <pubDate>Sat, 17 Aug 2024 10:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 13. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/LLGIrg8fQutG7vd3S9eZTKV4u3pAhGvO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON <#>]]></title>
             <link>https://beyondlive.com/contents/428</link>
             <guid>https://beyondlive.com/contents/428</guid>
@@ -150,6 +158,14 @@
             <pubDate>Sun, 04 Aug 2024 09:14:01 GMT</pubDate>
             <content:encoded><![CDATA[2024. 08. 18. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/H0YBmaHpow1qqqaqQObM36E0LOMFNAro.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 박재범 팬미팅 [Jay Park Season 3: Dedicated 2 U] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/423</link>
+            <guid>https://beyondlive.com/contents/423</guid>
+            <pubDate>Sun, 11 Aug 2024 10:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 08. 25. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/OIoo7oItIgkOpavCg7Hg85BR3w0GCJMT.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
