@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 13:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 14:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 17 Aug 2024 13:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 CRAVITY FAN-CON <BEYOND YOUR MEMORIES>]]></title>
-            <link>https://beyondlive.com/contents/435</link>
-            <guid>https://beyondlive.com/contents/435</guid>
-            <pubDate>Mon, 12 Aug 2024 08:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 29. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/tsX6LObwV5w3vG1EHHYV1kvuVWGLV3eu.png" length="0" type="image/png"/>
+            <pubDate>Sat, 17 Aug 2024 14:13:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 STAYC FANMEETING [STAYC MOVIE CLUB]]]></title>
@@ -37,6 +29,14 @@
             <enclosure url="https://static.beyondlive.com/contents/IVD3KJJddNZmcdHArIvdXHXh994nrmsi.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TOGENASHI TOGEARI　2nd ONE-MAN LIVE “RINNE NO KOTOWARI”]]></title>
+            <link>https://beyondlive.com/contents/434</link>
+            <guid>https://beyondlive.com/contents/434</guid>
+            <pubDate>Sat, 17 Aug 2024 10:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 13. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/aj4KhV4WE2pyiCYNQPivBsOqPzU2ZCLd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL]]></title>
             <link>https://beyondlive.com/contents/430</link>
             <guid>https://beyondlive.com/contents/430</guid>
@@ -51,6 +51,14 @@
             <pubDate>Wed, 07 Aug 2024 05:13:26 GMT</pubDate>
             <content:encoded><![CDATA[2024. 09. 15. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/GyleIwmcOG7zAjvMfh79qeN34Ci79tFJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 CRAVITY FAN-CON <BEYOND YOUR MEMORIES>]]></title>
+            <link>https://beyondlive.com/contents/435</link>
+            <guid>https://beyondlive.com/contents/435</guid>
+            <pubDate>Mon, 12 Aug 2024 08:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 29. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/tsX6LObwV5w3vG1EHHYV1kvuVWGLV3eu.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[8/4] 2024 NCT 127 8th ANNIVERSARY FANMEETING <8ECRET INVITATION> Re-Streaming]]></title>
@@ -75,14 +83,6 @@
             <pubDate>Sun, 11 Aug 2024 11:11:01 GMT</pubDate>
             <content:encoded><![CDATA[2024. 08. 25. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/G6LMT4H1mzorTo3bt2uP6O2SkMHYcWCo.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TOGENASHI TOGEARI　2nd ONE-MAN LIVE “RINNE NO KOTOWARI”]]></title>
-            <link>https://beyondlive.com/contents/434</link>
-            <guid>https://beyondlive.com/contents/434</guid>
-            <pubDate>Sat, 17 Aug 2024 10:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 13. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/aj4KhV4WE2pyiCYNQPivBsOqPzU2ZCLd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
