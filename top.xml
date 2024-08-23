@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 04:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 05:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Fri, 23 Aug 2024 04:17:00 GMT</pubDate>
+            <pubDate>Fri, 23 Aug 2024 05:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024 CHANYEOL LIVE TOUR : 都市風景 (City-scape) in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/433</link>
+            <guid>https://beyondlive.com/contents/433</guid>
+            <pubDate>Fri, 23 Aug 2024 05:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 07. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/jbPmuNyn9DWwyJGWT7yxOlPxqThXZhBG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 STAYC FANMEETING [STAYC MOVIE CLUB]]]></title>
