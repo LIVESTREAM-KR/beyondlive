@@ -4,29 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 10:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 11:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 01 Sep 2024 10:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 STAYC FANMEETING [STAYC MOVIE CLUB]]]></title>
-            <link>https://beyondlive.com/contents/424</link>
-            <guid>https://beyondlive.com/contents/424</guid>
-            <pubDate>Sun, 01 Sep 2024 10:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 01. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/qbhLbjtbFqHlz4JpZcKBxX3CCSTK0saD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids World Tour <dominATE SEOUL>]]></title>
-            <link>https://beyondlive.com/contents/426</link>
-            <guid>https://beyondlive.com/contents/426</guid>
-            <pubDate>Fri, 02 Aug 2024 05:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 01. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/IVD3KJJddNZmcdHArIvdXHXh994nrmsi.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sun, 01 Sep 2024 11:12:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 CHANYEOL LIVE TOUR : 都市風景 (City-scape) in SEOUL]]></title>
@@ -67,6 +51,22 @@
             <pubDate>Mon, 12 Aug 2024 08:18:54 GMT</pubDate>
             <content:encoded><![CDATA[2024. 09. 29. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/tsX6LObwV5w3vG1EHHYV1kvuVWGLV3eu.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 STAYC FANMEETING [STAYC MOVIE CLUB] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/425</link>
+            <guid>https://beyondlive.com/contents/425</guid>
+            <pubDate>Sun, 01 Sep 2024 11:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 14. 13:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7zgmUuNbtPHh32t8LckCJYhd20XGvaOR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids World Tour <dominATE SEOUL> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/427</link>
+            <guid>https://beyondlive.com/contents/427</guid>
+            <pubDate>Sun, 01 Sep 2024 11:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 10. 20. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/7wru62L0U0Ujt4aYjzJtJjapaFdJueAB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
