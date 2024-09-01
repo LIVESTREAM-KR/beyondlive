@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Sep 2024 09:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Sep 2024 10:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 01 Sep 2024 09:14:43 GMT</pubDate>
+            <pubDate>Sun, 01 Sep 2024 10:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024 STAYC FANMEETING [STAYC MOVIE CLUB]]]></title>
+            <link>https://beyondlive.com/contents/424</link>
+            <guid>https://beyondlive.com/contents/424</guid>
+            <pubDate>Sun, 01 Sep 2024 10:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 01. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/qbhLbjtbFqHlz4JpZcKBxX3CCSTK0saD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids World Tour <dominATE SEOUL>]]></title>
