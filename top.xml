@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 05:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 06:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Tue, 03 Sep 2024 05:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 ZEROBASEONE THE FIRST TOUR [TIMELESS WORLD] IN SEOUL]]></title>
-            <link>https://beyondlive.com/contents/432</link>
-            <guid>https://beyondlive.com/contents/432</guid>
-            <pubDate>Mon, 02 Sep 2024 06:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 21. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/FpLWCL4j5vJeJrot4SaTvZvloXYdykEY.jpg" length="0" type="image/jpg"/>
+            <pubDate>Tue, 03 Sep 2024 06:20:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 CHANYEOL LIVE TOUR : 都市風景 (City-scape) in SEOUL]]></title>
@@ -51,6 +43,14 @@
             <pubDate>Wed, 07 Aug 2024 05:13:26 GMT</pubDate>
             <content:encoded><![CDATA[2024. 09. 15. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/GyleIwmcOG7zAjvMfh79qeN34Ci79tFJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 ZEROBASEONE THE FIRST TOUR [TIMELESS WORLD] IN SEOUL]]></title>
+            <link>https://beyondlive.com/contents/432</link>
+            <guid>https://beyondlive.com/contents/432</guid>
+            <pubDate>Mon, 02 Sep 2024 06:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 21. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/FpLWCL4j5vJeJrot4SaTvZvloXYdykEY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 CRAVITY FAN-CON <BEYOND YOUR MEMORIES>]]></title>
