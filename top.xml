@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Sep 2024 05:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 06:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 14 Sep 2024 05:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TAEYANG 2024 TOUR [THE LIGHT YEAR] IN TOKYO]]></title>
-            <link>https://beyondlive.com/contents/440</link>
-            <guid>https://beyondlive.com/contents/440</guid>
-            <pubDate>Fri, 13 Sep 2024 05:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 30. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/69JFiZfJYd3skLTjCk0u0d3qb7ohz5X5.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sat, 14 Sep 2024 06:19:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON <#>]]></title>
@@ -59,6 +51,14 @@
             <pubDate>Mon, 12 Aug 2024 08:18:54 GMT</pubDate>
             <content:encoded><![CDATA[2024. 09. 29. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/tsX6LObwV5w3vG1EHHYV1kvuVWGLV3eu.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYANG 2024 TOUR [THE LIGHT YEAR] IN TOKYO]]></title>
+            <link>https://beyondlive.com/contents/440</link>
+            <guid>https://beyondlive.com/contents/440</guid>
+            <pubDate>Fri, 13 Sep 2024 05:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 30. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/69JFiZfJYd3skLTjCk0u0d3qb7ohz5X5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 STAYC FANMEETING [STAYC MOVIE CLUB] Re-Streaming]]></title>
