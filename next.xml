@@ -4,34 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Sep 2024 09:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 10:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[DAY6 3RD WORLD TOUR <FOREVER YOUNG> in INCHEON]]></title>
-            <link>https://beyondlive.com/contents/438</link>
-            <guid>https://beyondlive.com/contents/438</guid>
-            <pubDate>Wed, 04 Sep 2024 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 22. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/h8eKYcZ8lylNOt30zLkx3MD92QwfzgVR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/431</link>
-            <guid>https://beyondlive.com/contents/431</guid>
-            <pubDate>Sun, 15 Sep 2024 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 29. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/A6Ivf7mYQhLm8yo9AkyUz4pHHx4Sw9n1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 KEYLAND ON : AND ON <#> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/429</link>
-            <guid>https://beyondlive.com/contents/429</guid>
-            <pubDate>Sun, 15 Sep 2024 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 29. 14:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/dBxPoOApINFohmakkkkADkdfLaoy5jhe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2024 CRAVITY FAN-CON <BEYOND YOUR MEMORIES>]]></title>
             <link>https://beyondlive.com/contents/435</link>
             <guid>https://beyondlive.com/contents/435</guid>
@@ -62,22 +38,6 @@
             <pubDate>Sun, 01 Sep 2024 10:13:37 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 20. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/OfZH2CGp2ETUtinhGpCIjGyRQVYrJd6K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 KEYLAND ON : AND ON <#>]]></title>
-            <link>https://beyondlive.com/contents/428</link>
-            <guid>https://beyondlive.com/contents/428</guid>
-            <pubDate>Wed, 07 Aug 2024 05:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 15. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3sCeSn3LV8w2mDBnGe7CvXYFWlUOZ68e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/430</link>
-            <guid>https://beyondlive.com/contents/430</guid>
-            <pubDate>Thu, 08 Aug 2024 05:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 15. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/Rb4QYNdaqBJ9zZXFO4EVaNfx5Cuc2YO8.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2024 ZEROBASEONE THE FIRST TOUR [TIMELESS WORLD] IN SEOUL]]></title>
@@ -144,28 +104,36 @@
             <enclosure url="https://static.beyondlive.com/contents/OfZH2CGp2ETUtinhGpCIjGyRQVYrJd6K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 KEYLAND ON : AND ON <#>]]></title>
-            <link>https://beyondlive.com/contents/428</link>
-            <guid>https://beyondlive.com/contents/428</guid>
-            <pubDate>Wed, 07 Aug 2024 05:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 15. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3sCeSn3LV8w2mDBnGe7CvXYFWlUOZ68e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/430</link>
-            <guid>https://beyondlive.com/contents/430</guid>
-            <pubDate>Thu, 08 Aug 2024 05:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 15. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/Rb4QYNdaqBJ9zZXFO4EVaNfx5Cuc2YO8.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2024 ZEROBASEONE THE FIRST TOUR [TIMELESS WORLD] IN SEOUL]]></title>
             <link>https://beyondlive.com/contents/432</link>
             <guid>https://beyondlive.com/contents/432</guid>
             <pubDate>Mon, 02 Sep 2024 06:21:07 GMT</pubDate>
             <content:encoded><![CDATA[2024. 09. 21. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/54cLVB7aVURcN0Fg4CIKQliaCkn7ckuN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DAY6 3RD WORLD TOUR <FOREVER YOUNG> in INCHEON]]></title>
+            <link>https://beyondlive.com/contents/438</link>
+            <guid>https://beyondlive.com/contents/438</guid>
+            <pubDate>Wed, 04 Sep 2024 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 22. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/h8eKYcZ8lylNOt30zLkx3MD92QwfzgVR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/431</link>
+            <guid>https://beyondlive.com/contents/431</guid>
+            <pubDate>Sun, 15 Sep 2024 09:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 29. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/A6Ivf7mYQhLm8yo9AkyUz4pHHx4Sw9n1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 KEYLAND ON : AND ON <#> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/429</link>
+            <guid>https://beyondlive.com/contents/429</guid>
+            <pubDate>Sun, 15 Sep 2024 09:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 09. 29. 14:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/dBxPoOApINFohmakkkkADkdfLaoy5jhe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
