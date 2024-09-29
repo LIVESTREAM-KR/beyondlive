@@ -4,16 +4,16 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 04:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 05:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/431</link>
-            <guid>https://beyondlive.com/contents/431</guid>
-            <pubDate>Sun, 15 Sep 2024 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 29. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/A6Ivf7mYQhLm8yo9AkyUz4pHHx4Sw9n1.png" length="0" type="image/png"/>
+            <title><![CDATA[Stray Kids World Tour <dominATE SEOUL> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/427</link>
+            <guid>https://beyondlive.com/contents/427</guid>
+            <pubDate>Sun, 01 Sep 2024 10:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 10. 20. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/OfZH2CGp2ETUtinhGpCIjGyRQVYrJd6K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON <#> Re-Streaming]]></title>
@@ -64,14 +64,6 @@
             <enclosure url="https://static.beyondlive.com/contents/OfZH2CGp2ETUtinhGpCIjGyRQVYrJd6K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/431</link>
-            <guid>https://beyondlive.com/contents/431</guid>
-            <pubDate>Sun, 15 Sep 2024 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 29. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/A6Ivf7mYQhLm8yo9AkyUz4pHHx4Sw9n1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON <#> Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/429</link>
             <guid>https://beyondlive.com/contents/429</guid>
@@ -120,14 +112,6 @@
             <enclosure url="https://static.beyondlive.com/contents/OfZH2CGp2ETUtinhGpCIjGyRQVYrJd6K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 RIIZE FAN–CON ‘RIIZING DAY’ FINALE in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/431</link>
-            <guid>https://beyondlive.com/contents/431</guid>
-            <pubDate>Sun, 15 Sep 2024 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 29. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/A6Ivf7mYQhLm8yo9AkyUz4pHHx4Sw9n1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2024 KEYLAND ON : AND ON <#> Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/429</link>
             <guid>https://beyondlive.com/contents/429</guid>
@@ -166,14 +150,6 @@
             <pubDate>Mon, 23 Sep 2024 03:20:21 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 06. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/etmWBH4PGgauajAslbKJR7Bega90qZXG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids World Tour <dominATE SEOUL> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/427</link>
-            <guid>https://beyondlive.com/contents/427</guid>
-            <pubDate>Sun, 01 Sep 2024 10:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 10. 20. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/OfZH2CGp2ETUtinhGpCIjGyRQVYrJd6K.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
