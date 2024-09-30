@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 12:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 13:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 30 Sep 2024 12:31:02 GMT</pubDate>
+            <pubDate>Mon, 30 Sep 2024 13:24:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own]]></title>
@@ -19,14 +19,6 @@
             <pubDate>Mon, 30 Sep 2024 05:15:24 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 13. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/cITcGhYtQl9BKoLB2kE8os9AlQogZcgX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYANG 2024 TOUR [THE LIGHT YEAR] IN TOKYO]]></title>
-            <link>https://beyondlive.com/contents/440</link>
-            <guid>https://beyondlive.com/contents/440</guid>
-            <pubDate>Fri, 13 Sep 2024 05:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 09. 30. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/69JFiZfJYd3skLTjCk0u0d3qb7ohz5X5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP MIXX LAB]]></title>
@@ -43,6 +35,14 @@
             <pubDate>Sun, 01 Sep 2024 11:12:23 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 20. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/7wru62L0U0Ujt4aYjzJtJjapaFdJueAB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAEYANG 2024 TOUR [THE LIGHT YEAR] IN TOKYO Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/441</link>
+            <guid>https://beyondlive.com/contents/441</guid>
+            <pubDate>Mon, 30 Sep 2024 13:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 10. 27. 20:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Fu1V5fXVCyiRmGXf7Cozw8A73C8jYeRd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
