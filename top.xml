@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 07:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 08:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Wed, 02 Oct 2024 07:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own]]></title>
-            <link>https://beyondlive.com/contents/439</link>
-            <guid>https://beyondlive.com/contents/439</guid>
-            <pubDate>Mon, 30 Sep 2024 05:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 10. 13. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cITcGhYtQl9BKoLB2kE8os9AlQogZcgX.jpg" length="0" type="image/jpg"/>
+            <pubDate>Wed, 02 Oct 2024 08:20:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB]]></title>
@@ -27,6 +19,14 @@
             <pubDate>Mon, 23 Sep 2024 03:20:15 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 06. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ByC10fQzqXh2R4SwQMKQ89AkSchYy4Rx.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own]]></title>
+            <link>https://beyondlive.com/contents/439</link>
+            <guid>https://beyondlive.com/contents/439</guid>
+            <pubDate>Mon, 30 Sep 2024 05:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 10. 13. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cITcGhYtQl9BKoLB2kE8os9AlQogZcgX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids World Tour <dominATE SEOUL> Re-Streaming]]></title>
