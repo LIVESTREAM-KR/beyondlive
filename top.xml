@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 01:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 02:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 07 Oct 2024 01:10:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 TWICE FANMEETING [HOME 9ROUND]]]></title>
-            <link>https://beyondlive.com/contents/447</link>
-            <guid>https://beyondlive.com/contents/447</guid>
-            <pubDate>Fri, 04 Oct 2024 06:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 10. 20. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/xsEajbW0FWuIBD9AwtPZkZaG4XQtzu0A.jpg" length="0" type="image/jpg"/>
+            <pubDate>Mon, 07 Oct 2024 02:51:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own]]></title>
@@ -37,12 +29,28 @@
             <enclosure url="https://static.beyondlive.com/contents/7wru62L0U0Ujt4aYjzJtJjapaFdJueAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 TWICE FANMEETING [HOME 9ROUND]]]></title>
+            <link>https://beyondlive.com/contents/447</link>
+            <guid>https://beyondlive.com/contents/447</guid>
+            <pubDate>Fri, 04 Oct 2024 06:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 10. 20. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/xsEajbW0FWuIBD9AwtPZkZaG4XQtzu0A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TAEYANG 2024 TOUR [THE LIGHT YEAR] IN TOKYO Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/441</link>
             <guid>https://beyondlive.com/contents/441</guid>
             <pubDate>Mon, 30 Sep 2024 13:24:09 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 27. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/Fu1V5fXVCyiRmGXf7Cozw8A73C8jYeRd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/443</link>
+            <guid>https://beyondlive.com/contents/443</guid>
+            <pubDate>Mon, 07 Oct 2024 02:51:36 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 10. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CSnI2PvGIDFuvGx8E6lXQq28WpE5F4wP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
