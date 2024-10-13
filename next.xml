@@ -4,18 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 08:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 09:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/443</link>
-            <guid>https://beyondlive.com/contents/443</guid>
-            <pubDate>Sun, 06 Oct 2024 10:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 10. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/TwI7tnxQiQz0i5F8B5LMIivdbwKCC4RG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own]]></title>
             <link>https://beyondlive.com/contents/439</link>
             <guid>https://beyondlive.com/contents/439</guid>
@@ -46,6 +38,14 @@
             <pubDate>Mon, 30 Sep 2024 12:31:08 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 27. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/BMIvywW8wgCo2ah4TIDWHyZAq9342522.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/444</link>
+            <guid>https://beyondlive.com/contents/444</guid>
+            <pubDate>Sun, 13 Oct 2024 09:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 03. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CTCG7lWQm4QmK1CACvJ4gegejhBQiVsP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ]]]></title>
@@ -96,6 +96,14 @@
             <enclosure url="https://static.beyondlive.com/contents/BMIvywW8wgCo2ah4TIDWHyZAq9342522.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/444</link>
+            <guid>https://beyondlive.com/contents/444</guid>
+            <pubDate>Sun, 13 Oct 2024 09:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 03. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CTCG7lWQm4QmK1CACvJ4gegejhBQiVsP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ]]]></title>
             <link>https://beyondlive.com/contents/445</link>
             <guid>https://beyondlive.com/contents/445</guid>
@@ -144,12 +152,28 @@
             <enclosure url="https://static.beyondlive.com/contents/BMIvywW8wgCo2ah4TIDWHyZAq9342522.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/444</link>
+            <guid>https://beyondlive.com/contents/444</guid>
+            <pubDate>Sun, 13 Oct 2024 09:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 03. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/CTCG7lWQm4QmK1CACvJ4gegejhBQiVsP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ]]]></title>
             <link>https://beyondlive.com/contents/445</link>
             <guid>https://beyondlive.com/contents/445</guid>
             <pubDate>Fri, 11 Oct 2024 05:14:43 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 03. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/RLAhbk2bQwPA3R3Hoi6fWnMa8wif1uiJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/443</link>
+            <guid>https://beyondlive.com/contents/443</guid>
+            <pubDate>Sun, 06 Oct 2024 10:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 10. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/TwI7tnxQiQz0i5F8B5LMIivdbwKCC4RG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
