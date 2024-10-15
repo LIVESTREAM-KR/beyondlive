@@ -4,21 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 01:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 02:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Tue, 15 Oct 2024 01:09:02 GMT</pubDate>
+            <pubDate>Tue, 15 Oct 2024 02:49:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ]]]></title>
-            <link>https://beyondlive.com/contents/445</link>
-            <guid>https://beyondlive.com/contents/445</guid>
-            <pubDate>Mon, 14 Oct 2024 02:51:23 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 03. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/uKbSj3zO0qjcohdtouvNmDTOlRsqpZyf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/444</link>
+            <guid>https://beyondlive.com/contents/444</guid>
+            <pubDate>Tue, 15 Oct 2024 02:49:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 03. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/hOYDJf19A8oSdj78GPNuUSkCaX9tLapr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 TWICE FANMEETING [HOME 9ROUND]]]></title>
@@ -27,6 +27,14 @@
             <pubDate>Mon, 14 Oct 2024 02:51:23 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 20. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/xsEajbW0FWuIBD9AwtPZkZaG4XQtzu0A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ]]]></title>
+            <link>https://beyondlive.com/contents/445</link>
+            <guid>https://beyondlive.com/contents/445</guid>
+            <pubDate>Mon, 14 Oct 2024 02:51:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 03. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/uKbSj3zO0qjcohdtouvNmDTOlRsqpZyf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids World Tour <dominATE SEOUL> Re-Streaming]]></title>
