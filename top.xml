@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 02:49:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 03:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Tue, 15 Oct 2024 02:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/444</link>
-            <guid>https://beyondlive.com/contents/444</guid>
-            <pubDate>Tue, 15 Oct 2024 02:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 03. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/hOYDJf19A8oSdj78GPNuUSkCaX9tLapr.jpg" length="0" type="image/jpg"/>
+            <pubDate>Tue, 15 Oct 2024 03:21:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 TWICE FANMEETING [HOME 9ROUND]]]></title>
@@ -51,6 +43,14 @@
             <pubDate>Mon, 14 Oct 2024 02:51:23 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 27. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/Fu1V5fXVCyiRmGXf7Cozw8A73C8jYeRd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BoA LIVE TOUR - BoA : One’s Own Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/444</link>
+            <guid>https://beyondlive.com/contents/444</guid>
+            <pubDate>Tue, 15 Oct 2024 02:49:38 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 03. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/hOYDJf19A8oSdj78GPNuUSkCaX9tLapr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
