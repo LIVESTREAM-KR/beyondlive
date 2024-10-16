@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 06:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 07:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Wed, 16 Oct 2024 06:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 JAEHYUN FAN-CON <Mute>]]></title>
-            <link>https://beyondlive.com/contents/449</link>
-            <guid>https://beyondlive.com/contents/449</guid>
-            <pubDate>Tue, 15 Oct 2024 05:15:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 10. 27. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/QWaRu8saTU0Q8AoLtQV0qA10AUuiDSpy.jpg" length="0" type="image/jpg"/>
+            <pubDate>Wed, 16 Oct 2024 07:15:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024 TWICE FANMEETING [HOME 9ROUND]]]></title>
@@ -27,6 +19,14 @@
             <pubDate>Mon, 14 Oct 2024 02:51:23 GMT</pubDate>
             <content:encoded><![CDATA[2024. 10. 20. 19:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/xsEajbW0FWuIBD9AwtPZkZaG4XQtzu0A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 JAEHYUN FAN-CON <Mute>]]></title>
+            <link>https://beyondlive.com/contents/449</link>
+            <guid>https://beyondlive.com/contents/449</guid>
+            <pubDate>Tue, 15 Oct 2024 05:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 10. 27. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/QWaRu8saTU0Q8AoLtQV0qA10AUuiDSpy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ]]]></title>
