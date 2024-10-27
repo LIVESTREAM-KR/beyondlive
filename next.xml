@@ -4,18 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 08:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 09:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2024 JAEHYUN FAN-CON <Mute>]]></title>
-            <link>https://beyondlive.com/contents/449</link>
-            <guid>https://beyondlive.com/contents/449</guid>
-            <pubDate>Tue, 15 Oct 2024 05:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 10. 27. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/Mr7P8ftl5itGKYn08eH60xMspaJPvirt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TAEYANG 2024 TOUR [THE LIGHT YEAR] IN TOKYO Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/441</link>
             <guid>https://beyondlive.com/contents/441</guid>
@@ -46,6 +38,14 @@
             <pubDate>Fri, 11 Oct 2024 05:14:43 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 03. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/RLAhbk2bQwPA3R3Hoi6fWnMa8wif1uiJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 JAEHYUN FAN-CON <Mute> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/450</link>
+            <guid>https://beyondlive.com/contents/450</guid>
+            <pubDate>Sun, 27 Oct 2024 09:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 10. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/27Q67vcvi4wrGrrKnVgA75BMt3XJXV9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
@@ -64,14 +64,6 @@
             <enclosure url="https://static.beyondlive.com/contents/IYrjqCZAqLb4RtP1XDla05g9nuWZyMht.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 JAEHYUN FAN-CON <Mute>]]></title>
-            <link>https://beyondlive.com/contents/449</link>
-            <guid>https://beyondlive.com/contents/449</guid>
-            <pubDate>Tue, 15 Oct 2024 05:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 10. 27. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/Mr7P8ftl5itGKYn08eH60xMspaJPvirt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TAEYANG 2024 TOUR [THE LIGHT YEAR] IN TOKYO Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/441</link>
             <guid>https://beyondlive.com/contents/441</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 11 Oct 2024 05:14:43 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 03. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/RLAhbk2bQwPA3R3Hoi6fWnMa8wif1uiJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 JAEHYUN FAN-CON <Mute> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/450</link>
+            <guid>https://beyondlive.com/contents/450</guid>
+            <pubDate>Sun, 27 Oct 2024 09:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 10. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/27Q67vcvi4wrGrrKnVgA75BMt3XJXV9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
@@ -120,14 +120,6 @@
             <enclosure url="https://static.beyondlive.com/contents/IYrjqCZAqLb4RtP1XDla05g9nuWZyMht.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 JAEHYUN FAN-CON <Mute>]]></title>
-            <link>https://beyondlive.com/contents/449</link>
-            <guid>https://beyondlive.com/contents/449</guid>
-            <pubDate>Tue, 15 Oct 2024 05:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 10. 27. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/Mr7P8ftl5itGKYn08eH60xMspaJPvirt.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TAEYANG 2024 TOUR [THE LIGHT YEAR] IN TOKYO Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/441</link>
             <guid>https://beyondlive.com/contents/441</guid>
@@ -158,6 +150,14 @@
             <pubDate>Fri, 11 Oct 2024 05:14:43 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 03. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/RLAhbk2bQwPA3R3Hoi6fWnMa8wif1uiJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 JAEHYUN FAN-CON <Mute> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/450</link>
+            <guid>https://beyondlive.com/contents/450</guid>
+            <pubDate>Sun, 27 Oct 2024 09:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 10. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/27Q67vcvi4wrGrrKnVgA75BMt3XJXV9u.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
