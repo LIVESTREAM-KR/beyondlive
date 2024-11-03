@@ -4,24 +4,24 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Nov 2024 08:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Nov 2024 09:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/443</link>
-            <guid>https://beyondlive.com/contents/443</guid>
-            <pubDate>Sun, 06 Oct 2024 10:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 10. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/TwI7tnxQiQz0i5F8B5LMIivdbwKCC4RG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SUNGJIN SOLO CONCERT <30>]]></title>
             <link>https://beyondlive.com/contents/460</link>
             <guid>https://beyondlive.com/contents/460</guid>
             <pubDate>Tue, 29 Oct 2024 06:21:54 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 10. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/0J9EwJVmJJho0bx40w8UHil7hfOeNNy6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/446</link>
+            <guid>https://beyondlive.com/contents/446</guid>
+            <pubDate>Sun, 03 Nov 2024 09:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 17. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6S2xAgqpVH16fbL9CE8Ll0jb7fTyIWWV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TOGENASHI TOGEARI 3rd ONE-MAN LIVE “HOUKOU NO KANADE”]]></title>
@@ -96,6 +96,14 @@
             <enclosure url="https://static.beyondlive.com/contents/0J9EwJVmJJho0bx40w8UHil7hfOeNNy6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/446</link>
+            <guid>https://beyondlive.com/contents/446</guid>
+            <pubDate>Sun, 03 Nov 2024 09:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 17. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6S2xAgqpVH16fbL9CE8Ll0jb7fTyIWWV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TOGENASHI TOGEARI 3rd ONE-MAN LIVE “HOUKOU NO KANADE”]]></title>
             <link>https://beyondlive.com/contents/457</link>
             <guid>https://beyondlive.com/contents/457</guid>
@@ -150,6 +158,14 @@
             <pubDate>Sun, 27 Oct 2024 09:16:02 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 10. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/27Q67vcvi4wrGrrKnVgA75BMt3XJXV9u.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NMIXX 2ND FAN CONCERT NMIXX CHANGE UP : MIXX LAB Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/443</link>
+            <guid>https://beyondlive.com/contents/443</guid>
+            <pubDate>Sun, 06 Oct 2024 10:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 10. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/TwI7tnxQiQz0i5F8B5LMIivdbwKCC4RG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
