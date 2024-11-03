@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Nov 2024 09:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Nov 2024 10:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Sat, 02 Nov 2024 10:14:58 GMT</pubDate>
             <content:encoded><![CDATA[2024. 12. 14. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c73zj8MYNVKuIrRYm1wGpdlHmKxjxLza.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ]]]></title>
-            <link>https://beyondlive.com/contents/445</link>
-            <guid>https://beyondlive.com/contents/445</guid>
-            <pubDate>Fri, 11 Oct 2024 05:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 03. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/RLAhbk2bQwPA3R3Hoi6fWnMa8wif1uiJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 JAEHYUN FAN-CON <Mute> Re-Streaming]]></title>
@@ -142,14 +134,6 @@
             <pubDate>Sat, 02 Nov 2024 10:14:58 GMT</pubDate>
             <content:encoded><![CDATA[2024. 12. 14. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c73zj8MYNVKuIrRYm1wGpdlHmKxjxLza.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ]]]></title>
-            <link>https://beyondlive.com/contents/445</link>
-            <guid>https://beyondlive.com/contents/445</guid>
-            <pubDate>Fri, 11 Oct 2024 05:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 03. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/RLAhbk2bQwPA3R3Hoi6fWnMa8wif1uiJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 JAEHYUN FAN-CON <Mute> Re-Streaming]]></title>
