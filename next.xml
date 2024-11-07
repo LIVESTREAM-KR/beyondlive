@@ -4,16 +4,16 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 07:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 08:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[SUNGJIN SOLO CONCERT <30>]]></title>
-            <link>https://beyondlive.com/contents/460</link>
-            <guid>https://beyondlive.com/contents/460</guid>
-            <pubDate>Tue, 29 Oct 2024 06:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 10. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0J9EwJVmJJho0bx40w8UHil7hfOeNNy6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Xdinary Heroes Concert 〈LIVE and FALL〉]]></title>
+            <link>https://beyondlive.com/contents/464</link>
+            <guid>https://beyondlive.com/contents/464</guid>
+            <pubDate>Thu, 07 Nov 2024 08:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 17. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/AUD3ULnfX4I9kyQeCOaBWJN6SHiv7rMb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ] Re-Streaming]]></title>
@@ -88,6 +88,14 @@
             <enclosure url="https://static.beyondlive.com/contents/0J9EwJVmJJho0bx40w8UHil7hfOeNNy6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Xdinary Heroes Concert 〈LIVE and FALL〉]]></title>
+            <link>https://beyondlive.com/contents/464</link>
+            <guid>https://beyondlive.com/contents/464</guid>
+            <pubDate>Thu, 07 Nov 2024 08:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 17. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/AUD3ULnfX4I9kyQeCOaBWJN6SHiv7rMb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ] Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/446</link>
             <guid>https://beyondlive.com/contents/446</guid>
@@ -150,6 +158,14 @@
             <pubDate>Sun, 06 Oct 2024 10:15:07 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 10. 12:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/TwI7tnxQiQz0i5F8B5LMIivdbwKCC4RG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUNGJIN SOLO CONCERT <30>]]></title>
+            <link>https://beyondlive.com/contents/460</link>
+            <guid>https://beyondlive.com/contents/460</guid>
+            <pubDate>Tue, 29 Oct 2024 06:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 10. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/0J9EwJVmJJho0bx40w8UHil7hfOeNNy6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
