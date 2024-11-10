@@ -4,34 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 10:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 11:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ] Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/446</link>
-            <guid>https://beyondlive.com/contents/446</guid>
-            <pubDate>Sun, 03 Nov 2024 09:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 17. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6S2xAgqpVH16fbL9CE8Ll0jb7fTyIWWV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOGENASHI TOGEARI 3rd ONE-MAN LIVE “HOUKOU NO KANADE”]]></title>
-            <link>https://beyondlive.com/contents/457</link>
-            <guid>https://beyondlive.com/contents/457</guid>
-            <pubDate>Fri, 01 Nov 2024 09:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 23. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/SxmvO8KWfuPSBgwXXBo67eVqn4dPhVnp.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 TWICE FANMEETING [HOME 9ROUND] Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/448</link>
-            <guid>https://beyondlive.com/contents/448</guid>
-            <pubDate>Sun, 20 Oct 2024 12:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 23. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/IYrjqCZAqLb4RtP1XDla05g9nuWZyMht.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[11/30] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL]]></title>
             <link>https://beyondlive.com/contents/453</link>
             <guid>https://beyondlive.com/contents/453</guid>
@@ -62,14 +38,6 @@
             <pubDate>Sat, 02 Nov 2024 10:14:58 GMT</pubDate>
             <content:encoded><![CDATA[2024. 12. 14. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/c73zj8MYNVKuIrRYm1wGpdlHmKxjxLza.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNGJIN SOLO CONCERT <30>]]></title>
-            <link>https://beyondlive.com/contents/460</link>
-            <guid>https://beyondlive.com/contents/460</guid>
-            <pubDate>Tue, 29 Oct 2024 06:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 10. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0J9EwJVmJJho0bx40w8UHil7hfOeNNy6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes Concert 〈LIVE and FALL〉]]></title>
@@ -136,20 +104,36 @@
             <enclosure url="https://static.beyondlive.com/contents/c73zj8MYNVKuIrRYm1wGpdlHmKxjxLza.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SUNGJIN SOLO CONCERT <30>]]></title>
-            <link>https://beyondlive.com/contents/460</link>
-            <guid>https://beyondlive.com/contents/460</guid>
-            <pubDate>Tue, 29 Oct 2024 06:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 11. 10. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/0J9EwJVmJJho0bx40w8UHil7hfOeNNy6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Xdinary Heroes Concert 〈LIVE and FALL〉]]></title>
             <link>https://beyondlive.com/contents/464</link>
             <guid>https://beyondlive.com/contents/464</guid>
             <pubDate>Thu, 07 Nov 2024 08:19:09 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 17. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/AUD3ULnfX4I9kyQeCOaBWJN6SHiv7rMb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 DOYOUNG CONCERT [ Dearest Youth, ] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/446</link>
+            <guid>https://beyondlive.com/contents/446</guid>
+            <pubDate>Sun, 03 Nov 2024 09:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 17. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6S2xAgqpVH16fbL9CE8Ll0jb7fTyIWWV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TOGENASHI TOGEARI 3rd ONE-MAN LIVE “HOUKOU NO KANADE”]]></title>
+            <link>https://beyondlive.com/contents/457</link>
+            <guid>https://beyondlive.com/contents/457</guid>
+            <pubDate>Fri, 01 Nov 2024 09:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 23. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/SxmvO8KWfuPSBgwXXBo67eVqn4dPhVnp.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 TWICE FANMEETING [HOME 9ROUND] Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/448</link>
+            <guid>https://beyondlive.com/contents/448</guid>
+            <pubDate>Sun, 20 Oct 2024 12:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 11. 23. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/IYrjqCZAqLb4RtP1XDla05g9nuWZyMht.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
