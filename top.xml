@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 04:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 05:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 11 Nov 2024 04:18:09 GMT</pubDate>
+            <pubDate>Mon, 11 Nov 2024 05:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2024 MINHO CONCERT <MEAN : of my first>]]></title>
+            <link>https://beyondlive.com/contents/461</link>
+            <guid>https://beyondlive.com/contents/461</guid>
+            <pubDate>Mon, 11 Nov 2024 05:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 12. 01. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/fOl1Qu3JbTpRtlobBS3xlt03RW2Ijf2Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Xdinary Heroes Concert 〈LIVE and FALL〉]]></title>
