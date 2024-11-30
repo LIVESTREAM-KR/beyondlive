@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 08:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 09:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 30 Nov 2024 08:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 DAY6 Special Concert ‘The Present’]]></title>
-            <link>https://beyondlive.com/contents/469</link>
-            <guid>https://beyondlive.com/contents/469</guid>
-            <pubDate>Fri, 29 Nov 2024 03:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 12. 21. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/Emuqb8gXT0UQQcsvZZjAOqZDyxoNZVDn.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sat, 30 Nov 2024 09:14:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[11/30] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL]]></title>
@@ -27,6 +19,14 @@
             <pubDate>Thu, 21 Nov 2024 21:14:40 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 30. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ucFeuzIVKCWZS48uepPLaGIohodhdxXM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 DAY6 Special Concert ‘The Present’]]></title>
+            <link>https://beyondlive.com/contents/469</link>
+            <guid>https://beyondlive.com/contents/469</guid>
+            <pubDate>Fri, 29 Nov 2024 03:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 12. 21. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Emuqb8gXT0UQQcsvZZjAOqZDyxoNZVDn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 MINHO CONCERT <MEAN : of my first>]]></title>
