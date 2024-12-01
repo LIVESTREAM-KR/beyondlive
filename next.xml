@@ -4,17 +4,9 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Dec 2024 09:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 10:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2024 MINHO CONCERT <MEAN : of my first>]]></title>
-            <link>https://beyondlive.com/contents/461</link>
-            <guid>https://beyondlive.com/contents/461</guid>
-            <pubDate>Fri, 22 Nov 2024 22:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 12. 01. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/sM53hc7dDngsLdqADMLUILZHyYH24owY.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[12/1] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL]]></title>
             <link>https://beyondlive.com/contents/455</link>
@@ -72,22 +64,22 @@
             <enclosure url="https://static.beyondlive.com/contents/YUSN4nrLtRS5SwAXdLRNWWjxogwXSYGn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[12/1] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/456</link>
+            <guid>https://beyondlive.com/contents/456</guid>
+            <pubDate>Sun, 01 Dec 2024 10:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 12. 22. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ipTEONaEFdiS7AyRwg2QsXw0YQudL0XT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TOGENASHI TOGEARI 3rd ONE-MAN LIVE “HOUKOU NO KANADE” Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 01 Dec 2024 09:15:11 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 10:16:43 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 23. 14:00 ~ 2024. 12. 01. 23:59 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/TxzDuUZmlR4iCCJp4xbqzSBg8IcLk8xd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2024 MINHO CONCERT <MEAN : of my first>]]></title>
-            <link>https://beyondlive.com/contents/461</link>
-            <guid>https://beyondlive.com/contents/461</guid>
-            <pubDate>Fri, 22 Nov 2024 22:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 12. 01. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/sM53hc7dDngsLdqADMLUILZHyYH24owY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[12/1] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL]]></title>
             <link>https://beyondlive.com/contents/455</link>
             <guid>https://beyondlive.com/contents/455</guid>
@@ -144,10 +136,18 @@
             <enclosure url="https://static.beyondlive.com/contents/YUSN4nrLtRS5SwAXdLRNWWjxogwXSYGn.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[12/1] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/456</link>
+            <guid>https://beyondlive.com/contents/456</guid>
+            <pubDate>Sun, 01 Dec 2024 10:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 12. 22. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/ipTEONaEFdiS7AyRwg2QsXw0YQudL0XT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TOGENASHI TOGEARI 3rd ONE-MAN LIVE “HOUKOU NO KANADE” Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 01 Dec 2024 09:15:11 GMT</pubDate>
+            <pubDate>Sun, 01 Dec 2024 10:16:43 GMT</pubDate>
             <content:encoded><![CDATA[2024. 11. 23. 14:00 ~ 2024. 12. 01. 23:59 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/TxzDuUZmlR4iCCJp4xbqzSBg8IcLk8xd.jpg" length="0" type="image/jpg"/>
         </item>
