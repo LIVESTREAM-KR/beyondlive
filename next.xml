@@ -4,24 +4,24 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Dec 2024 10:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 11:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[11/30] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/454</link>
+            <guid>https://beyondlive.com/contents/454</guid>
+            <pubDate>Sat, 30 Nov 2024 11:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[2024. 12. 21. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/YUSN4nrLtRS5SwAXdLRNWWjxogwXSYGn.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[12/1] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/456</link>
             <guid>https://beyondlive.com/contents/456</guid>
             <pubDate>Sun, 01 Dec 2024 10:16:43 GMT</pubDate>
             <content:encoded><![CDATA[2024. 12. 22. 11:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ipTEONaEFdiS7AyRwg2QsXw0YQudL0XT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR]]></title>
-            <link>https://beyondlive.com/contents/465</link>
-            <guid>https://beyondlive.com/contents/465</guid>
-            <pubDate>Fri, 22 Nov 2024 22:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 12. 07. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/gBpEkvfv1WGjHrNngFlBeOr2c7uc1OeJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids World Tour <dominATE JAPAN>]]></title>
@@ -72,14 +72,6 @@
             <enclosure url="https://static.beyondlive.com/contents/ipTEONaEFdiS7AyRwg2QsXw0YQudL0XT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR]]></title>
-            <link>https://beyondlive.com/contents/465</link>
-            <guid>https://beyondlive.com/contents/465</guid>
-            <pubDate>Fri, 22 Nov 2024 22:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 12. 07. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/gBpEkvfv1WGjHrNngFlBeOr2c7uc1OeJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids World Tour <dominATE JAPAN>]]></title>
             <link>https://beyondlive.com/contents/463</link>
             <guid>https://beyondlive.com/contents/463</guid>
@@ -128,14 +120,6 @@
             <enclosure url="https://static.beyondlive.com/contents/ipTEONaEFdiS7AyRwg2QsXw0YQudL0XT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR]]></title>
-            <link>https://beyondlive.com/contents/465</link>
-            <guid>https://beyondlive.com/contents/465</guid>
-            <pubDate>Fri, 22 Nov 2024 22:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 12. 07. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/gBpEkvfv1WGjHrNngFlBeOr2c7uc1OeJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids World Tour <dominATE JAPAN>]]></title>
             <link>https://beyondlive.com/contents/463</link>
             <guid>https://beyondlive.com/contents/463</guid>
@@ -166,14 +150,6 @@
             <pubDate>Fri, 29 Nov 2024 03:34:07 GMT</pubDate>
             <content:encoded><![CDATA[2024. 12. 21. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/xSlYuRNzeZenO90viSpuijkVUHOx4Qu7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[11/30] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/454</link>
-            <guid>https://beyondlive.com/contents/454</guid>
-            <pubDate>Sat, 30 Nov 2024 11:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 12. 21. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/YUSN4nrLtRS5SwAXdLRNWWjxogwXSYGn.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
