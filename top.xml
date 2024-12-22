@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 05:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 06:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 22 Dec 2024 05:13:39 GMT</pubDate>
+            <pubDate>Sun, 22 Dec 2024 06:19:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[1/11] SMTOWN LIVE 2025 in SEOUL]]></title>
@@ -51,14 +51,6 @@
             <pubDate>Thu, 19 Dec 2024 09:16:49 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 02. 12:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/ULzvXe52ebQW1k6OrfeeoCXSSMXkUtWn.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12/1] 2024 NCT DREAM WORLD TOUR <THE DREAM SHOW 3 : DREAMSCAPE> FINALE in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/456</link>
-            <guid>https://beyondlive.com/contents/456</guid>
-            <pubDate>Sun, 01 Dec 2024 12:29:48 GMT</pubDate>
-            <content:encoded><![CDATA[2024. 12. 22. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/c4gdAoXlOA04oh0mR0nCbktMO9UVZWr2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
