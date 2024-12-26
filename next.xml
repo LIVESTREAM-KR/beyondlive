@@ -4,26 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 02:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 03:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[1/12] SMTOWN LIVE 2025 in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/468</link>
-            <guid>https://beyondlive.com/contents/468</guid>
-            <pubDate>Tue, 10 Dec 2024 05:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 01. 12. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/H9cyT68OyOkn4VvsL60a36OV8rlcDgQU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1/18] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’]]></title>
-            <link>https://beyondlive.com/contents/470</link>
-            <guid>https://beyondlive.com/contents/470</guid>
-            <pubDate>Thu, 19 Dec 2024 05:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 01. 18. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/tKMN0yO07WEseSZtGxplDcYhQ8ukAZtu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’]]></title>
             <link>https://beyondlive.com/contents/471</link>
             <guid>https://beyondlive.com/contents/471</guid>
@@ -38,6 +22,14 @@
             <pubDate>Thu, 19 Dec 2024 09:16:55 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 02. 12:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/JI6vqposaiiMeafTlwXcKTYhAfQvCVJ8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Hiroshima]]></title>
+            <link>https://beyondlive.com/contents/481</link>
+            <guid>https://beyondlive.com/contents/481</guid>
+            <pubDate>Thu, 26 Dec 2024 03:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 01. 05. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/GDGaaKCNhqDoFILdGrXRGriNi1EFSF05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[1/11] SMTOWN LIVE 2025 in SEOUL]]></title>
@@ -80,6 +72,14 @@
             <enclosure url="https://static.beyondlive.com/contents/JI6vqposaiiMeafTlwXcKTYhAfQvCVJ8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Hiroshima]]></title>
+            <link>https://beyondlive.com/contents/481</link>
+            <guid>https://beyondlive.com/contents/481</guid>
+            <pubDate>Thu, 26 Dec 2024 03:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 01. 05. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/GDGaaKCNhqDoFILdGrXRGriNi1EFSF05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[1/11] SMTOWN LIVE 2025 in SEOUL]]></title>
             <link>https://beyondlive.com/contents/467</link>
             <guid>https://beyondlive.com/contents/467</guid>
@@ -120,12 +120,36 @@
             <enclosure url="https://static.beyondlive.com/contents/JI6vqposaiiMeafTlwXcKTYhAfQvCVJ8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Hiroshima]]></title>
+            <link>https://beyondlive.com/contents/481</link>
+            <guid>https://beyondlive.com/contents/481</guid>
+            <pubDate>Thu, 26 Dec 2024 03:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 01. 05. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/GDGaaKCNhqDoFILdGrXRGriNi1EFSF05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[1/11] SMTOWN LIVE 2025 in SEOUL]]></title>
             <link>https://beyondlive.com/contents/467</link>
             <guid>https://beyondlive.com/contents/467</guid>
             <pubDate>Tue, 10 Dec 2024 05:16:24 GMT</pubDate>
             <content:encoded><![CDATA[2025. 01. 11. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/qZMuQnHIDmttNld50Eg1pe5zgfUYrzaJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1/12] SMTOWN LIVE 2025 in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/468</link>
+            <guid>https://beyondlive.com/contents/468</guid>
+            <pubDate>Tue, 10 Dec 2024 05:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 01. 12. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/H9cyT68OyOkn4VvsL60a36OV8rlcDgQU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1/18] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’]]></title>
+            <link>https://beyondlive.com/contents/470</link>
+            <guid>https://beyondlive.com/contents/470</guid>
+            <pubDate>Thu, 19 Dec 2024 05:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 01. 18. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/tKMN0yO07WEseSZtGxplDcYhQ8ukAZtu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
