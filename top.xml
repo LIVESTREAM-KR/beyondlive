@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 04:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 05:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 06 Jan 2025 04:18:43 GMT</pubDate>
+            <pubDate>Mon, 06 Jan 2025 05:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 SUHO CONCERT <SU:HOMME> ENCORE]]></title>
+            <link>https://beyondlive.com/contents/480</link>
+            <guid>https://beyondlive.com/contents/480</guid>
+            <pubDate>Mon, 06 Jan 2025 05:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 01. 26. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/JZA2d3y4pE5IEXNeWo1nATgni887PEzu.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[1/11] SMTOWN LIVE 2025 in SEOUL]]></title>
