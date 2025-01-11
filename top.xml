@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jan 2025 13:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 14:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 11 Jan 2025 13:18:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[1/11] SMTOWN LIVE 2025 in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/467</link>
-            <guid>https://beyondlive.com/contents/467</guid>
-            <pubDate>Tue, 10 Dec 2024 05:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 01. 11. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6lXLqsv2eKNd1Rp4QPtDLS2fPLbpolcL.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sat, 11 Jan 2025 14:12:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[1/12] SMTOWN LIVE 2025 in SEOUL]]></title>
