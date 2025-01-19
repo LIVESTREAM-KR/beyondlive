@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 09:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 10:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://static.beyondlive.com/contents/jdiE0Hn6vmIRiHLMAhzFHYBp4DtJEfRM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2025 YESUNG CONCERT [It’s Complicated] in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/474</link>
-            <guid>https://beyondlive.com/contents/474</guid>
-            <pubDate>Fri, 27 Dec 2024 05:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 01. 19. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/R7NIAWFhf9G7HASBOYlScJv17J8gJFJC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’]]></title>
             <link>https://beyondlive.com/contents/471</link>
             <guid>https://beyondlive.com/contents/471</guid>
@@ -54,6 +46,14 @@
             <pubDate>Sat, 18 Jan 2025 11:11:05 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 08. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/tagVY49h1Zc03QYfYKo52Vbd0tMwnHhV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/473</link>
+            <guid>https://beyondlive.com/contents/473</guid>
+            <pubDate>Sun, 19 Jan 2025 10:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 09. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6ZwoL7ilvndpAUV5Q00Hkq6gDni6gCL3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/22] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
@@ -72,14 +72,6 @@
             <enclosure url="https://static.beyondlive.com/contents/jdiE0Hn6vmIRiHLMAhzFHYBp4DtJEfRM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2025 YESUNG CONCERT [It’s Complicated] in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/474</link>
-            <guid>https://beyondlive.com/contents/474</guid>
-            <pubDate>Fri, 27 Dec 2024 05:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 01. 19. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/R7NIAWFhf9G7HASBOYlScJv17J8gJFJC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’]]></title>
             <link>https://beyondlive.com/contents/471</link>
             <guid>https://beyondlive.com/contents/471</guid>
@@ -110,6 +102,14 @@
             <pubDate>Sat, 18 Jan 2025 11:11:05 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 08. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/tagVY49h1Zc03QYfYKo52Vbd0tMwnHhV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/473</link>
+            <guid>https://beyondlive.com/contents/473</guid>
+            <pubDate>Sun, 19 Jan 2025 10:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 09. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6ZwoL7ilvndpAUV5Q00Hkq6gDni6gCL3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/22] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
@@ -128,14 +128,6 @@
             <enclosure url="https://static.beyondlive.com/contents/jdiE0Hn6vmIRiHLMAhzFHYBp4DtJEfRM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2025 YESUNG CONCERT [It’s Complicated] in SEOUL]]></title>
-            <link>https://beyondlive.com/contents/474</link>
-            <guid>https://beyondlive.com/contents/474</guid>
-            <pubDate>Fri, 27 Dec 2024 05:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 01. 19. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/R7NIAWFhf9G7HASBOYlScJv17J8gJFJC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’]]></title>
             <link>https://beyondlive.com/contents/471</link>
             <guid>https://beyondlive.com/contents/471</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 18 Jan 2025 11:11:05 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 08. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/tagVY49h1Zc03QYfYKo52Vbd0tMwnHhV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/473</link>
+            <guid>https://beyondlive.com/contents/473</guid>
+            <pubDate>Sun, 19 Jan 2025 10:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 09. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6ZwoL7ilvndpAUV5Q00Hkq6gDni6gCL3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/22] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
