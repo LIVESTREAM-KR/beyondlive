@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 11:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 12:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 19 Jan 2025 11:11:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’]]></title>
-            <link>https://beyondlive.com/contents/471</link>
-            <guid>https://beyondlive.com/contents/471</guid>
-            <pubDate>Thu, 19 Dec 2024 05:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 01. 19. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/ixdgC7Yq88je42kItHQorA7Q3GJqU470.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sun, 19 Jan 2025 12:25:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2025 SUHO CONCERT <SU:HOMME> ENCORE]]></title>
@@ -59,6 +51,14 @@
             <pubDate>Sun, 19 Jan 2025 01:11:42 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 08. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/JLK4bZIaXOYwoqwUn1BwzCF4gZZgoDHN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/473</link>
+            <guid>https://beyondlive.com/contents/473</guid>
+            <pubDate>Sun, 19 Jan 2025 12:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 09. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/RLegeQ0D0DYYaDaQs2AHF8fHSqxEHGaE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
