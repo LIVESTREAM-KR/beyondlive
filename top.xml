@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 03:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 04:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Fri, 24 Jan 2025 03:17:15 GMT</pubDate>
+            <pubDate>Fri, 24 Jan 2025 04:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids 5TH FANMEETING 'SKZ 5'CLOCK']]></title>
+            <link>https://beyondlive.com/contents/493</link>
+            <guid>https://beyondlive.com/contents/493</guid>
+            <pubDate>Fri, 24 Jan 2025 04:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 16. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/JoWe7r6VCUZnDIlYrvEAAAwMeUqlOrvf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TAEYANG 2025 TOUR [THE LIGHT YEAR] ENCORE]]></title>
