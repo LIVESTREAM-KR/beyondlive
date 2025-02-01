@@ -4,29 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Feb 2025 08:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 09:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 01 Feb 2025 08:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[[2/1] 2025 GOT7 CONCERT <NESTFEST>]]></title>
-            <link>https://beyondlive.com/contents/495</link>
-            <guid>https://beyondlive.com/contents/495</guid>
-            <pubDate>Fri, 24 Jan 2025 08:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 02. 01. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8Bpz2xQ4EDehFCjQEujiRfhX4w39MGeA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAEYANG 2025 TOUR [THE LIGHT YEAR] ENCORE]]></title>
-            <link>https://beyondlive.com/contents/491</link>
-            <guid>https://beyondlive.com/contents/491</guid>
-            <pubDate>Tue, 21 Jan 2025 05:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 02. 01. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/BvWHX5ABn2w1kxsnX4Te466yC1bXwadT.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sat, 01 Feb 2025 09:14:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[2/2] 2025 GOT7 CONCERT <NESTFEST>]]></title>
