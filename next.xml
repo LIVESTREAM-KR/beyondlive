@@ -4,18 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 08:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 09:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’ Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/473</link>
-            <guid>https://beyondlive.com/contents/473</guid>
-            <pubDate>Sun, 19 Jan 2025 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 02. 09. 11:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/6ZwoL7ilvndpAUV5Q00Hkq6gDni6gCL3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Chiba]]></title>
             <link>https://beyondlive.com/contents/489</link>
             <guid>https://beyondlive.com/contents/489</guid>
@@ -56,6 +48,14 @@
             <enclosure url="https://static.beyondlive.com/contents/cB4k9lB0U1WM9aibJZEO2cgkYrn5VfpL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2/2] 2025 GOT7 CONCERT <NESTFEST> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/488</link>
+            <guid>https://beyondlive.com/contents/488</guid>
+            <pubDate>Sun, 02 Feb 2025 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 23. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/VfjZoICpiQzmHuFKl2geTHrRBWHKRcly.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2/23] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
             <link>https://beyondlive.com/contents/487</link>
             <guid>https://beyondlive.com/contents/487</guid>
@@ -75,7 +75,7 @@
             <title><![CDATA[TOGENASHI TOGEARI 4th ONE-MAN LIVE “KYOUSOU NO HIBIKI” Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 02 Feb 2025 08:16:35 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 09:13:33 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 02. 13:55 ~ 2025. 02. 11. 23:59 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/r8drS6sso4Vq1SdMSlZjwKgKMDXsyvmu.jpg" length="0" type="image/jpg"/>
         </item>
@@ -144,6 +144,14 @@
             <enclosure url="https://static.beyondlive.com/contents/cB4k9lB0U1WM9aibJZEO2cgkYrn5VfpL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[2/2] 2025 GOT7 CONCERT <NESTFEST> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/488</link>
+            <guid>https://beyondlive.com/contents/488</guid>
+            <pubDate>Sun, 02 Feb 2025 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 23. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/VfjZoICpiQzmHuFKl2geTHrRBWHKRcly.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2/23] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
             <link>https://beyondlive.com/contents/487</link>
             <guid>https://beyondlive.com/contents/487</guid>
@@ -163,7 +171,7 @@
             <title><![CDATA[TOGENASHI TOGEARI 4th ONE-MAN LIVE “KYOUSOU NO HIBIKI” Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 02 Feb 2025 08:16:35 GMT</pubDate>
+            <pubDate>Sun, 02 Feb 2025 09:13:33 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 02. 13:55 ~ 2025. 02. 11. 23:59 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/r8drS6sso4Vq1SdMSlZjwKgKMDXsyvmu.jpg" length="0" type="image/jpg"/>
         </item>
@@ -182,6 +190,14 @@
             <pubDate>Sat, 18 Jan 2025 11:11:05 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 08. 18:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/tagVY49h1Zc03QYfYKo52Vbd0tMwnHhV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1/19] NCT 127 4TH TOUR ‘NEO CITY : SEOUL – THE MOMENTUM’ Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/473</link>
+            <guid>https://beyondlive.com/contents/473</guid>
+            <pubDate>Sun, 19 Jan 2025 10:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 09. 11:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/6ZwoL7ilvndpAUV5Q00Hkq6gDni6gCL3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
