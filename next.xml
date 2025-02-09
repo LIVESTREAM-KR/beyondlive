@@ -4,7 +4,7 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 09:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 10:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -75,17 +75,9 @@
             <title><![CDATA[TOGENASHI TOGEARI 4th ONE-MAN LIVE “KYOUSOU NO HIBIKI” Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 09 Feb 2025 09:13:55 GMT</pubDate>
+            <pubDate>Sun, 09 Feb 2025 10:15:14 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 02. 13:55 ~ 2025. 02. 11. 23:59 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/r8drS6sso4Vq1SdMSlZjwKgKMDXsyvmu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Chiba]]></title>
-            <link>https://beyondlive.com/contents/489</link>
-            <guid>https://beyondlive.com/contents/489</guid>
-            <pubDate>Thu, 23 Jan 2025 03:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 02. 09. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3BYUBpRDQ2DipnjAJCF6SJfT8V1vjOFE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 CHANYEOL LIVE TOUR : 都市風景 (City-scape)│Epilogue]]></title>
@@ -155,17 +147,9 @@
             <title><![CDATA[TOGENASHI TOGEARI 4th ONE-MAN LIVE “KYOUSOU NO HIBIKI” Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 09 Feb 2025 09:13:55 GMT</pubDate>
+            <pubDate>Sun, 09 Feb 2025 10:15:14 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 02. 13:55 ~ 2025. 02. 11. 23:59 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/r8drS6sso4Vq1SdMSlZjwKgKMDXsyvmu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Chiba]]></title>
-            <link>https://beyondlive.com/contents/489</link>
-            <guid>https://beyondlive.com/contents/489</guid>
-            <pubDate>Thu, 23 Jan 2025 03:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 02. 09. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3BYUBpRDQ2DipnjAJCF6SJfT8V1vjOFE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
