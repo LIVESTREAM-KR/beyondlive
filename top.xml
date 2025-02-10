@@ -4,13 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 05:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 06:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Mon, 10 Feb 2025 05:16:00 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 06:21:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stray Kids 5TH FANMEETING 'SKZ 5'CLOCK']]></title>
@@ -75,6 +75,14 @@
             <pubDate>Sat, 01 Feb 2025 12:25:11 GMT</pubDate>
             <content:encoded><![CDATA[2025. 03. 09. 20:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/C397HY2Fpyk8z85LYWvnkDYwXKqLa4Ne.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Chiba Archive]]></title>
+            <link>https://beyondlive.com/contents/490</link>
+            <guid>https://beyondlive.com/contents/490</guid>
+            <pubDate>Mon, 10 Feb 2025 06:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 16. 15:00 ~ 2025. 02. 23. 15:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/pAC7jolmFW2qqYumR3JLC36LuCo54GeT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
