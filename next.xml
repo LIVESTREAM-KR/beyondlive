@@ -4,18 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Feb 2025 09:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 10:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[2/1] 2025 GOT7 CONCERT <NESTFEST> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/496</link>
-            <guid>https://beyondlive.com/contents/496</guid>
-            <pubDate>Sat, 01 Feb 2025 09:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 02. 22. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/iBgErKTWvE0s0pc0BZVyarrmewDMXnUu.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2/22] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
             <link>https://beyondlive.com/contents/486</link>
             <guid>https://beyondlive.com/contents/486</guid>
@@ -38,6 +30,14 @@
             <pubDate>Fri, 17 Jan 2025 05:14:18 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 23. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/jdiE0Hn6vmIRiHLMAhzFHYBp4DtJEfRM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 CHANYEOL LIVE TOUR : 都市風景 (City-scape)│Epilogue Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/484</link>
+            <guid>https://beyondlive.com/contents/484</guid>
+            <pubDate>Sun, 16 Feb 2025 10:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 03. 02. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Pb58VHSOXbtYz1Psw1ARqbiBJQEP5rpz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TOGENASHI TOGEARI 5th ONE-MAN LIVE“Meidou no Toki”]]></title>
@@ -75,7 +75,7 @@
             <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Chiba Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 16 Feb 2025 09:14:10 GMT</pubDate>
+            <pubDate>Sun, 16 Feb 2025 10:14:50 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 16. 15:00 ~ 2025. 02. 23. 15:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/DpD1RNBXHEZpwLddaVi51X1EzaWgYGMw.jpg" length="0" type="image/jpg"/>
         </item>
@@ -128,6 +128,14 @@
             <enclosure url="https://static.beyondlive.com/contents/jdiE0Hn6vmIRiHLMAhzFHYBp4DtJEfRM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2025 CHANYEOL LIVE TOUR : 都市風景 (City-scape)│Epilogue Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/484</link>
+            <guid>https://beyondlive.com/contents/484</guid>
+            <pubDate>Sun, 16 Feb 2025 10:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 03. 02. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/Pb58VHSOXbtYz1Psw1ARqbiBJQEP5rpz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TOGENASHI TOGEARI 5th ONE-MAN LIVE“Meidou no Toki”]]></title>
             <link>https://beyondlive.com/contents/497</link>
             <guid>https://beyondlive.com/contents/497</guid>
@@ -163,7 +171,7 @@
             <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Chiba Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 16 Feb 2025 09:14:10 GMT</pubDate>
+            <pubDate>Sun, 16 Feb 2025 10:14:50 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 16. 15:00 ~ 2025. 02. 23. 15:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/DpD1RNBXHEZpwLddaVi51X1EzaWgYGMw.jpg" length="0" type="image/jpg"/>
         </item>
@@ -182,6 +190,14 @@
             <pubDate>Fri, 24 Jan 2025 02:42:38 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 16. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/34mDH18I1YAJcaxcoeXU2dmTmbQzLUuy.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/1] 2025 GOT7 CONCERT <NESTFEST> Re-Streaming]]></title>
+            <link>https://beyondlive.com/contents/496</link>
+            <guid>https://beyondlive.com/contents/496</guid>
+            <pubDate>Sat, 01 Feb 2025 09:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 22. 12:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/iBgErKTWvE0s0pc0BZVyarrmewDMXnUu.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
