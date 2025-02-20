@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 07:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 08:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Thu, 20 Feb 2025 07:14:33 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 08:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
+            <link>https://beyondlive.com/contents/500</link>
+            <guid>https://beyondlive.com/contents/500</guid>
+            <pubDate>Thu, 20 Feb 2025 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/NwdEhKa5u1pwyPX8NwjuELsbGrWrfhkv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/22] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>

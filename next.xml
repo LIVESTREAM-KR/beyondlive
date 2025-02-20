@@ -4,18 +4,10 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 07:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 08:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[2/22] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
-            <link>https://beyondlive.com/contents/486</link>
-            <guid>https://beyondlive.com/contents/486</guid>
-            <pubDate>Fri, 17 Jan 2025 05:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 02. 22. 18:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/cB4k9lB0U1WM9aibJZEO2cgkYrn5VfpL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2/2] 2025 GOT7 CONCERT <NESTFEST> Re-Streaming]]></title>
             <link>https://beyondlive.com/contents/488</link>
             <guid>https://beyondlive.com/contents/488</guid>
@@ -72,10 +64,18 @@
             <enclosure url="https://static.beyondlive.com/contents/ZhaDEMSfvZTRnIWVLIQYp8C6LuHjNZgt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
+            <link>https://beyondlive.com/contents/500</link>
+            <guid>https://beyondlive.com/contents/500</guid>
+            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/coKlGwGK041ASW7pCZ2Xxe2Bo55iwQQW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Chiba Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Thu, 20 Feb 2025 07:14:39 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 16. 15:00 ~ 2025. 02. 23. 15:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/DpD1RNBXHEZpwLddaVi51X1EzaWgYGMw.jpg" length="0" type="image/jpg"/>
         </item>
@@ -152,10 +152,18 @@
             <enclosure url="https://static.beyondlive.com/contents/ZhaDEMSfvZTRnIWVLIQYp8C6LuHjNZgt.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
+            <link>https://beyondlive.com/contents/500</link>
+            <guid>https://beyondlive.com/contents/500</guid>
+            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/coKlGwGK041ASW7pCZ2Xxe2Bo55iwQQW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yuzuru Hanyu ICE STORY 3rd “Echoes of Life” TOUR Chiba Archive]]></title>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Thu, 20 Feb 2025 07:14:39 GMT</pubDate>
+            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 16. 15:00 ~ 2025. 02. 23. 15:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/DpD1RNBXHEZpwLddaVi51X1EzaWgYGMw.jpg" length="0" type="image/jpg"/>
         </item>
@@ -166,6 +174,14 @@
             <pubDate>Sat, 01 Feb 2025 09:14:37 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 22. 12:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/iBgErKTWvE0s0pc0BZVyarrmewDMXnUu.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/22] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
+            <link>https://beyondlive.com/contents/486</link>
+            <guid>https://beyondlive.com/contents/486</guid>
+            <pubDate>Fri, 17 Jan 2025 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 02. 22. 18:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/cB4k9lB0U1WM9aibJZEO2cgkYrn5VfpL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
