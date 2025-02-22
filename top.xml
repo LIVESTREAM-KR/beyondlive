@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 06:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 07:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sat, 22 Feb 2025 06:21:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
-            <link>https://beyondlive.com/contents/500</link>
-            <guid>https://beyondlive.com/contents/500</guid>
-            <pubDate>Thu, 20 Feb 2025 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/NwdEhKa5u1pwyPX8NwjuELsbGrWrfhkv.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sat, 22 Feb 2025 07:13:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[[2/22] 2025 WayV CONCERT ［ON THE Way］ FINAL IN SEOUL]]></title>
@@ -35,6 +27,14 @@
             <pubDate>Fri, 17 Jan 2025 05:14:12 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 23. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/jQ0UQDojCbM7udgvuUdf38vJkrFUN3pD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
+            <link>https://beyondlive.com/contents/500</link>
+            <guid>https://beyondlive.com/contents/500</guid>
+            <pubDate>Thu, 20 Feb 2025 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/NwdEhKa5u1pwyPX8NwjuELsbGrWrfhkv.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TOGENASHI TOGEARI 5th ONE-MAN LIVE“Meidou no Toki”]]></title>
@@ -59,14 +59,6 @@
             <pubDate>Sun, 02 Feb 2025 12:24:43 GMT</pubDate>
             <content:encoded><![CDATA[2025. 02. 23. 12:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/OpnXXke6mZlt2xXG31KfAuP2dNeeonZi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2/1] 2025 GOT7 CONCERT <NESTFEST> Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/496</link>
-            <guid>https://beyondlive.com/contents/496</guid>
-            <pubDate>Sun, 02 Feb 2025 12:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 02. 22. 12:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/bpWLGB89B1SbXvKVxNLkiK90H0ED8hpj.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TAEYANG 2025 TOUR [THE LIGHT YEAR] ENCORE Re-Streaming]]></title>
