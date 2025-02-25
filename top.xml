@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 03:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 04:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Tue, 25 Feb 2025 03:22:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024-25 aespa LIVE TOUR - SYNK : PARALLEL LINE - ENCORE]]></title>
-            <link>https://beyondlive.com/contents/506</link>
-            <guid>https://beyondlive.com/contents/506</guid>
-            <pubDate>Mon, 24 Feb 2025 02:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 03. 16. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/PbrEfLJ2yGSgFcGh6qbdlZAxCI0BoIQr.jpg" length="0" type="image/jpg"/>
+            <pubDate>Tue, 25 Feb 2025 04:18:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TOGENASHI TOGEARI 5th ONE-MAN LIVE“Meidou no Toki”]]></title>
@@ -35,6 +27,14 @@
             <pubDate>Thu, 13 Feb 2025 05:15:02 GMT</pubDate>
             <content:encoded><![CDATA[2025. 03. 09. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/nx9UG0xiu71V82QPzepqTUKMXNOJ8Ck1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024-25 aespa LIVE TOUR - SYNK : PARALLEL LINE - ENCORE]]></title>
+            <link>https://beyondlive.com/contents/506</link>
+            <guid>https://beyondlive.com/contents/506</guid>
+            <pubDate>Mon, 24 Feb 2025 02:51:36 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 03. 16. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/PbrEfLJ2yGSgFcGh6qbdlZAxCI0BoIQr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
