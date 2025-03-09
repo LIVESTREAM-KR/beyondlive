@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 10:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 11:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Sun, 09 Mar 2025 10:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TAEYEON CONCERT - The TENSE]]></title>
-            <link>https://beyondlive.com/contents/501</link>
-            <guid>https://beyondlive.com/contents/501</guid>
-            <pubDate>Thu, 13 Feb 2025 05:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 03. 09. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/nx9UG0xiu71V82QPzepqTUKMXNOJ8Ck1.jpg" length="0" type="image/jpg"/>
+            <pubDate>Sun, 09 Mar 2025 11:11:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024-25 aespa LIVE TOUR - SYNK : PARALLEL LINE - ENCORE]]></title>
