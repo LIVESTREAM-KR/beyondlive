@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 04:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 05:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Fri, 21 Mar 2025 04:19:15 GMT</pubDate>
+            <pubDate>Fri, 21 Mar 2025 05:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 TEN CONCERT 1001 MOVEMENT ‘STUNNER’ IN SEOUL]]></title>
+            <link>https://beyondlive.com/contents/509</link>
+            <guid>https://beyondlive.com/contents/509</guid>
+            <pubDate>Fri, 21 Mar 2025 05:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 13. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/gHA4BddIykAPrC1h5o4gIFtVBdbO6ZeN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3/22] 2025 NCT WISH ASIA TOUR LOG in SEOUL]]></title>
