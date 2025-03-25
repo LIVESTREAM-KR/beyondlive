@@ -4,13 +4,21 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 04:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 05:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Tue, 25 Mar 2025 04:19:11 GMT</pubDate>
+            <pubDate>Tue, 25 Mar 2025 05:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2025 YESUNG CONCERT [We're the Complicated Kind]]]></title>
+            <link>https://beyondlive.com/contents/510</link>
+            <guid>https://beyondlive.com/contents/510</guid>
+            <pubDate>Tue, 25 Mar 2025 05:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 20. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/fmRLWqAm6YbRxxqkXc1ai7gy2P4Evb9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ayatsuno Yuni 1st solo Concert “Christmas On The Merry Go Round”]]></title>
