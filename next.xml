@@ -4,88 +4,16 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 01:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 02:56:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Ayatsuno Yuni 1st solo Concert “Christmas On The Merry Go Round”]]></title>
-            <link>https://beyondlive.com/contents/508</link>
-            <guid>https://beyondlive.com/contents/508</guid>
-            <pubDate>Wed, 19 Mar 2025 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 03. 29. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9wLbRrFuJqn6WR2FrFhW1FW2yV4tH5b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
-            <link>https://beyondlive.com/contents/500</link>
-            <guid>https://beyondlive.com/contents/500</guid>
-            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/coKlGwGK041ASW7pCZ2Xxe2Bo55iwQQW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 TEN CONCERT 1001 MOVEMENT ‘STUNNER’ IN SEOUL]]></title>
-            <link>https://beyondlive.com/contents/509</link>
-            <guid>https://beyondlive.com/contents/509</guid>
-            <pubDate>Fri, 21 Mar 2025 05:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 04. 13. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/WQr4RCNt8xtb7bNn47HViO945s92LhF4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2025 YESUNG CONCERT [We're the Complicated Kind]]]></title>
             <link>https://beyondlive.com/contents/510</link>
             <guid>https://beyondlive.com/contents/510</guid>
             <pubDate>Tue, 25 Mar 2025 05:16:55 GMT</pubDate>
             <content:encoded><![CDATA[2025. 04. 20. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/C1CJwx1OzblmOyHMPufidnBFPdSXTUxQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/23] 2025 NCT WISH ASIA TOUR LOG in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/505</link>
-            <guid>https://beyondlive.com/contents/505</guid>
-            <pubDate>Sun, 23 Mar 2025 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 03. 26. 08:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3buSoSN33blCNAxYEPFetbDvfRra9MTH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ayatsuno Yuni 1st solo Concert “Christmas On The Merry Go Round”]]></title>
-            <link>https://beyondlive.com/contents/508</link>
-            <guid>https://beyondlive.com/contents/508</guid>
-            <pubDate>Wed, 19 Mar 2025 06:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 03. 29. 19:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/9wLbRrFuJqn6WR2FrFhW1FW2yV4tH5b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
-            <link>https://beyondlive.com/contents/500</link>
-            <guid>https://beyondlive.com/contents/500</guid>
-            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/coKlGwGK041ASW7pCZ2Xxe2Bo55iwQQW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 TEN CONCERT 1001 MOVEMENT ‘STUNNER’ IN SEOUL]]></title>
-            <link>https://beyondlive.com/contents/509</link>
-            <guid>https://beyondlive.com/contents/509</guid>
-            <pubDate>Fri, 21 Mar 2025 05:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 04. 13. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/WQr4RCNt8xtb7bNn47HViO945s92LhF4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025 YESUNG CONCERT [We're the Complicated Kind]]]></title>
-            <link>https://beyondlive.com/contents/510</link>
-            <guid>https://beyondlive.com/contents/510</guid>
-            <pubDate>Tue, 25 Mar 2025 05:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 04. 20. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/C1CJwx1OzblmOyHMPufidnBFPdSXTUxQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/23] 2025 NCT WISH ASIA TOUR LOG in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/505</link>
-            <guid>https://beyondlive.com/contents/505</guid>
-            <pubDate>Sun, 23 Mar 2025 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 03. 26. 08:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3buSoSN33blCNAxYEPFetbDvfRra9MTH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ayatsuno Yuni 1st solo Concert “Christmas On The Merry Go Round”]]></title>
@@ -120,12 +48,92 @@
             <enclosure url="https://static.beyondlive.com/contents/C1CJwx1OzblmOyHMPufidnBFPdSXTUxQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[3/23] 2025 NCT WISH ASIA TOUR LOG in SEOUL Re-Streaming]]></title>
-            <link>https://beyondlive.com/contents/505</link>
-            <guid>https://beyondlive.com/contents/505</guid>
-            <pubDate>Sun, 23 Mar 2025 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 03. 26. 08:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/3buSoSN33blCNAxYEPFetbDvfRra9MTH.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Ayatsuno Yuni 1st solo Concert “Christmas On The Merry Go Round”]]></title>
+            <link>https://beyondlive.com/contents/508</link>
+            <guid>https://beyondlive.com/contents/508</guid>
+            <pubDate>Wed, 19 Mar 2025 06:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 03. 29. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9wLbRrFuJqn6WR2FrFhW1FW2yV4tH5b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
+            <link>https://beyondlive.com/contents/500</link>
+            <guid>https://beyondlive.com/contents/500</guid>
+            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/coKlGwGK041ASW7pCZ2Xxe2Bo55iwQQW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 TEN CONCERT 1001 MOVEMENT ‘STUNNER’ IN SEOUL]]></title>
+            <link>https://beyondlive.com/contents/509</link>
+            <guid>https://beyondlive.com/contents/509</guid>
+            <pubDate>Fri, 21 Mar 2025 05:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 13. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/WQr4RCNt8xtb7bNn47HViO945s92LhF4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 YESUNG CONCERT [We're the Complicated Kind]]]></title>
+            <link>https://beyondlive.com/contents/510</link>
+            <guid>https://beyondlive.com/contents/510</guid>
+            <pubDate>Tue, 25 Mar 2025 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 20. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/C1CJwx1OzblmOyHMPufidnBFPdSXTUxQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ayatsuno Yuni 1st solo Concert “Christmas On The Merry Go Round”]]></title>
+            <link>https://beyondlive.com/contents/508</link>
+            <guid>https://beyondlive.com/contents/508</guid>
+            <pubDate>Wed, 19 Mar 2025 06:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 03. 29. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9wLbRrFuJqn6WR2FrFhW1FW2yV4tH5b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
+            <link>https://beyondlive.com/contents/500</link>
+            <guid>https://beyondlive.com/contents/500</guid>
+            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/coKlGwGK041ASW7pCZ2Xxe2Bo55iwQQW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 TEN CONCERT 1001 MOVEMENT ‘STUNNER’ IN SEOUL]]></title>
+            <link>https://beyondlive.com/contents/509</link>
+            <guid>https://beyondlive.com/contents/509</guid>
+            <pubDate>Fri, 21 Mar 2025 05:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 13. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/WQr4RCNt8xtb7bNn47HViO945s92LhF4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 YESUNG CONCERT [We're the Complicated Kind]]]></title>
+            <link>https://beyondlive.com/contents/510</link>
+            <guid>https://beyondlive.com/contents/510</guid>
+            <pubDate>Tue, 25 Mar 2025 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 20. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/C1CJwx1OzblmOyHMPufidnBFPdSXTUxQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ayatsuno Yuni 1st solo Concert “Christmas On The Merry Go Round”]]></title>
+            <link>https://beyondlive.com/contents/508</link>
+            <guid>https://beyondlive.com/contents/508</guid>
+            <pubDate>Wed, 19 Mar 2025 06:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 03. 29. 19:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/9wLbRrFuJqn6WR2FrFhW1FW2yV4tH5b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 IVE THE 3RD FAN CONCERT <IVE SCOUT>]]></title>
+            <link>https://beyondlive.com/contents/500</link>
+            <guid>https://beyondlive.com/contents/500</guid>
+            <pubDate>Thu, 20 Feb 2025 08:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 06. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/coKlGwGK041ASW7pCZ2Xxe2Bo55iwQQW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 TEN CONCERT 1001 MOVEMENT ‘STUNNER’ IN SEOUL]]></title>
+            <link>https://beyondlive.com/contents/509</link>
+            <guid>https://beyondlive.com/contents/509</guid>
+            <pubDate>Fri, 21 Mar 2025 05:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 13. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/WQr4RCNt8xtb7bNn47HViO945s92LhF4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
