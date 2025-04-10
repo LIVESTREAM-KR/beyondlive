@@ -4,16 +4,16 @@
         <title>Beyond LIVE ─ Beyond NEXT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 02:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 03:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2025 YESUNG CONCERT [We're the Complicated Kind]]]></title>
-            <link>https://beyondlive.com/contents/510</link>
-            <guid>https://beyondlive.com/contents/510</guid>
-            <pubDate>Tue, 25 Mar 2025 05:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 04. 20. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/C1CJwx1OzblmOyHMPufidnBFPdSXTUxQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Xdinary Heroes <Beautiful Mind> World Tour in SEOUL]]></title>
+            <link>https://beyondlive.com/contents/516</link>
+            <guid>https://beyondlive.com/contents/516</guid>
+            <pubDate>Thu, 10 Apr 2025 03:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 05. 05. 17:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/pkssstxMzvZRZjkKeLKAyMKvBl66YDhz.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 TEN CONCERT 1001 MOVEMENT ‘STUNNER’ IN SEOUL]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 21 Mar 2025 05:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2025. 04. 13. 16:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/WQr4RCNt8xtb7bNn47HViO945s92LhF4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 YESUNG CONCERT [We're the Complicated Kind]]]></title>
+            <link>https://beyondlive.com/contents/510</link>
+            <guid>https://beyondlive.com/contents/510</guid>
+            <pubDate>Tue, 25 Mar 2025 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 04. 20. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/C1CJwx1OzblmOyHMPufidnBFPdSXTUxQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
