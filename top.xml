@@ -4,21 +4,13 @@
         <title>Beyond LIVE ─ TOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 07:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 08:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <link>https://beyondlive.com/?lang=ko</link>
             <guid>https://beyondlive.com/?lang=ko</guid>
-            <pubDate>Tue, 15 Apr 2025 07:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025 KAI SOLO CONCERT TOUR <KAION> IN SEOUL]]></title>
-            <link>https://beyondlive.com/contents/513</link>
-            <guid>https://beyondlive.com/contents/513</guid>
-            <pubDate>Mon, 14 Apr 2025 05:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[2025. 05. 18. 16:00 (KST)]]></content:encoded>
-            <enclosure url="https://static.beyondlive.com/contents/8ZuVK0rSNsExoVZhW2clm3vtUbLlBHKy.jpg" length="0" type="image/jpg"/>
+            <pubDate>Tue, 15 Apr 2025 08:23:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2025 YESUNG CONCERT [We're the Complicated Kind]]]></title>
@@ -35,6 +27,14 @@
             <pubDate>Thu, 10 Apr 2025 03:36:23 GMT</pubDate>
             <content:encoded><![CDATA[2025. 05. 05. 17:00 (KST)]]></content:encoded>
             <enclosure url="https://static.beyondlive.com/contents/5RG47YVAN859hf0jrnrhiWqEY4DaG4cJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2025 KAI SOLO CONCERT TOUR <KAION> IN SEOUL]]></title>
+            <link>https://beyondlive.com/contents/513</link>
+            <guid>https://beyondlive.com/contents/513</guid>
+            <pubDate>Mon, 14 Apr 2025 05:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[2025. 05. 18. 16:00 (KST)]]></content:encoded>
+            <enclosure url="https://static.beyondlive.com/contents/8ZuVK0rSNsExoVZhW2clm3vtUbLlBHKy.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2025 TEN CONCERT 1001 MOVEMENT ‘STUNNER’ IN SEOUL Re-Streaming]]></title>
